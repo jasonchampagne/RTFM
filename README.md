@@ -15,6 +15,7 @@ Marre de chercher la documentation pour un langage de programmation ou un logici
 + [Python](https://docs.python.org/3)
 + [Ruby](https://ruby-doc.org)
 + [Rust](https://doc.rust-lang.org)
++ [XML](https://www.w3.org/TR/xml) / [XSLT](https://www.w3.org/TR/xslt-30)
 
 ## Infographie / 3D
 
