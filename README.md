@@ -21,6 +21,7 @@ Marre de chercher la documentation pour un langage de programmation ou un logici
 
 + [Blender](https://docs.blender.org)
 + [GIMP](https://docs.gimp.org/2.10/fr)
++ [Krita](https://docs.krita.org/fr/index.html)
 + [Photoshop](https://helpx.adobe.com/content/dam/help/en/pdf/photoshop_reference.pdf)
 
 ## Multimédia
