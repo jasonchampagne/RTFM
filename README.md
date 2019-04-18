@@ -10,7 +10,7 @@ Marre de chercher la documentation pour un langage de programmation ou un logici
 + [HTML](https://www.w3.org/TR/html)
 + [JavaScript (EcmaScript)](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
 + [Lua](https://www.lua.org/docs.html)
-+ [MySQL](https://dev.mysql.com/doc/refman/8.0/en) / [Oracle](https://docs.oracle.com/cd/B19306_01/index.htm) / [PostgreSQL](https://docs.postgresql.fr) / [SQLite](https://sqlite.org/docs.html)
++ [MySQL](https://dev.mysql.com/doc/refman/8.0/en) / [Oracle](https://docs.oracle.com/cd/B19306_01/index.htm) / [PostgreSQL](https://docs.postgresql.fr) / [SQLite](https://sqlite.org/docs.html) / [SQL Server](https://docs.microsoft.com/fr-fr/sql)
 + [PHP](https://www.php.net/manual/fr/index.php)
 + [Python](https://docs.python.org/3)
 + [Ruby](https://ruby-doc.org)
