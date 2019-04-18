@@ -32,6 +32,7 @@ Marre de chercher la documentation pour un langage de programmation ou un logici
 + [FFmpeg](https://ffmpeg.org/documentation.html)
 + [LMMS](https://lmms.io/documentation)
 + [Reaper](https://www.reaper.fm/userguide.php)
++ [VLC Media Player](https://www.videolan.org/doc)
 
 ## Jeu vidéo
 
