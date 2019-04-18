@@ -26,6 +26,7 @@ Marre de chercher la documentation pour un langage de programmation ou un logici
 
 ## Multimédia
 
++ [Audacity](https://manual.audacityteam.org/index.html)
 + [FFmpeg](https://ffmpeg.org/documentation.html)
 + [Reaper](https://www.reaper.fm/userguide.php)
 
