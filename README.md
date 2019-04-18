@@ -35,4 +35,10 @@ Marre de chercher la documentation pour un langage de programmation ou un logici
 + [CryENGINE](https://docs.cryengine.com/display/CEMANUAL/CRYENGINE+V+Manual)
 + [Godot](http://docs.godotengine.org/en/3.1)
 + [Unity](https://docs.unity3d.com/Manual/index.html)
-+ [Unreal Engine](https://docs.unrealengine.com/en-us/)
++ [Unreal Engine](https://docs.unrealengine.com/en-us)
+
+## Bureautique / utilitaires
+
++ [Git](https://git-scm.com/doc)
++ [LaTeX](https://www.latex-project.org/help/documentation)
++ [LibreOffice](https://wiki.documentfoundation.org/Documentation/fr)
