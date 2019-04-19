@@ -5,10 +5,10 @@ Marre de chercher la documentation pour un langage de programmation ou un logici
 ## Programmation / Web
 
 + [C](https://fr.cppreference.com/w/c)
-+ [C++](https://fr.cppreference.com)
++ [C++](https://fr.cppreference.com) / [Qt](https://doc.qt.io) / [GTK+](https://www.gtk.org/documentation.php) / [wxWidgets](https://www.wxwidgets.org/docs)
 + [CSS](https://www.w3.org/TR/css-color-4)
 + [HTML](https://www.w3.org/TR/html)
-+ [JavaScript (EcmaScript)](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
++ [JavaScript (EcmaScript)](http://www.ecma-international.org/publications/standards/Ecma-262.htm) / [Angular](https://angular.io/docs) / [NodeJS](https://nodejs.org/en/docs)
 + [Lua](https://www.lua.org/docs.html) / [LÖVE](https://love2d.org/wiki/love_(Fran%C3%A7ais))
 + [MySQL](https://dev.mysql.com/doc/refman/8.0/en) / [Oracle](https://docs.oracle.com/cd/B19306_01/index.htm) / [PostgreSQL](https://docs.postgresql.fr) / [SQLite](https://sqlite.org/docs.html) / [SQL Server](https://docs.microsoft.com/fr-fr/sql)
 + [NASM](https://www.nasm.us/doc)
