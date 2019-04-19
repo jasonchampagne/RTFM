@@ -37,6 +37,8 @@ Marre de chercher la documentation pour un langage de programmation ou un logici
 ## Systèmes d'exploitation
 
 + [ArchLinux](https://wiki.archlinux.fr)
++ [Debian](https://www.debian.org/doc/index.fr.html)
++ [Fedora](https://doc.fedora-fr.org/wiki/Accueil)
 + [Ubuntu](https://doc.ubuntu-fr.org)
 
 ## Infographie / 3D
