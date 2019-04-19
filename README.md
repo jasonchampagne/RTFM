@@ -4,7 +4,7 @@ Marre de chercher la documentation pour un langage de programmation ou un logici
 
 ## Programmation / Web
 
-+ [C](https://fr.cppreference.com/w/c)
++ [C](https://fr.cppreference.com/w/c) / [SDL](https://wiki.libsdl.org)
 + [C++](https://fr.cppreference.com) / [Qt](https://doc.qt.io) / [GTK+](https://www.gtk.org/documentation.php) / [wxWidgets](https://www.wxwidgets.org/docs)
 + [CSS](https://www.w3.org/TR/css-color-4)
 + [HTML](https://www.w3.org/TR/html)
