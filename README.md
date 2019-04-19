@@ -4,6 +4,7 @@ Marre de chercher la documentation pour un langage de programmation ou un logici
 
 ## Programmation / Web
 
++ [Android](https://developer.android.com/docs)
 + [Angular](https://angular.io/docs)
 + [Apache](https://httpd.apache.org/docs/2.2/fr)
 + [C](https://fr.cppreference.com/w/c)
@@ -32,6 +33,11 @@ Marre de chercher la documentation pour un langage de programmation ou un logici
 + [XML](https://www.w3.org/TR/xml)
 + [XSLT](https://www.w3.org/TR/xslt-30)
 
+## Systèmes d'exploitation
+
++ [ArchLinux](https://wiki.archlinux.fr)
++ [Ubuntu](https://doc.ubuntu-fr.org)
+
 ## Infographie / 3D
 
 + [Blender](https://docs.blender.org)
@@ -55,7 +61,7 @@ Marre de chercher la documentation pour un langage de programmation ou un logici
 + [Unity](https://docs.unity3d.com/Manual/index.html)
 + [Unreal Engine](https://docs.unrealengine.com/en-us)
 
-## Bureautique / utilitaires
+## Bureautique / Utilitaires
 
 + [Git](https://git-scm.com/doc)
 + [LaTeX](https://www.latex-project.org/help/documentation)
