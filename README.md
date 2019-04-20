@@ -54,6 +54,7 @@ Pour ne pas déroule toute la liste, un petit `Ctrl + F` pour faire votre recher
 + [Pygame](https://www.pygame.org/docs)
 + [Python](https://docs.python.org/3)
 + [Qt](https://doc.qt.io)
++ [React](https://reactjs.org/docs)
 + [Reaper](https://www.reaper.fm/userguide.php)
 + [Ruby](https://ruby-doc.org)
 + [Rust](https://doc.rust-lang.org)
