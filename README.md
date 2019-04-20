@@ -1,18 +1,8 @@
 # Présentation
 
-Retrouvez ici une liste de documentations et manuels d'utilisation/de référence officiels pour vos :
+Retrouvez ici une liste de documentations et manuels d'utilisation/de référence officiels pour vos langages de programmation / Web, bibliothèques, frameworks et CMS, logiciels d'infographie, 3D, de MAO, d'édition vidéo, de bureautique, systèmes d'exploitation ou encore utilitaires.
 
-+ Langages de programmation
-+ Langages de développement web
-+ Bibliothèques, frameworks et CMS
-+ Logiciels d'infographie, de dessin, de modélisation 3D
-+ Logiciels multimédia
-+ Logiciels de MAO et d'édition vidéo
-+ Logiciels de bureautique
-+ Systèmes d'exploitation
-+ Utilitaires
-
-Pour ne pas scroll sur toutes les listes, un petit `Ctrl + F` pour faire votre recherche marche évidemment 😉
+Pour ne pas déroule toute la liste, un petit `Ctrl + F` pour faire votre recherche marche évidemment 😉
 
 + [Android](https://developer.android.com/docs)
 + [Angular](https://angular.io/docs)
