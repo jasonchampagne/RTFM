@@ -76,3 +76,11 @@ Marre de chercher la documentation pour un langage de programmation ou un logici
 + [VeraCrypt](https://www.veracrypt.fr/en/Documentation.html)
 + [VirtualBox](https://www.virtualbox.org/wiki/Documentation)
 + [Visual Studio Code](https://code.visualstudio.com/Docs)
+
+## Gestionnaires de contenus (CMS)
+
++ [Cake-PHP](https://book.cakephp.org/3.0/fr/index.html)
++ [CodeIgniter](https://codeigniter.com/docs)
++ [Laravel](https://laravel.com/docs/5.8)
++ [Symfony](https://symfony.com/doc)
++ [WordPress](https://codex.wordpress.org/fr:Accueil)
