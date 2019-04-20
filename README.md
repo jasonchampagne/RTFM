@@ -84,5 +84,6 @@ Pour ne pas scroll sur toutes les listes, un petit `Ctrl + F` pour faire votre r
 + [Cake-PHP](https://book.cakephp.org/3.0/fr/index.html)
 + [CodeIgniter](https://codeigniter.com/docs)
 + [Laravel](https://laravel.com/docs/5.8)
++ [PHPBoost](https://www.phpboost.com/wiki/wiki.php)
 + [Symfony](https://symfony.com/doc)
 + [WordPress](https://codex.wordpress.org/fr:Accueil)
