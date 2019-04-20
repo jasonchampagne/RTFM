@@ -13,7 +13,7 @@ Marre de chercher la documentation pour un langage de programmation ou un logici
 + [GTK+](https://www.gtk.org/documentation.php)
 + [HTML](https://www.w3.org/TR/html)
 + [Java](https://docs.oracle.com/javase/8/docs/api)
-+ [JavaScript (EcmaScript)](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
++ [JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference) / [ECMAScript](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
 + [LÖVE](https://love2d.org/wiki/love_(Fran%C3%A7ais))
 + [Lua](https://www.lua.org/docs.html)
 + [MySQL](https://dev.mysql.com/doc/refman/8.0/en)
