@@ -16,7 +16,7 @@ Pour ne pas déroule toute la liste, un petit `Ctrl + F` pour faire votre recher
 + [C](https://fr.cppreference.com/w/c)
 + [C++](https://fr.cppreference.com)
 + [C#](https://docs.microsoft.com/fr-fr/dotnet/csharp/index)
-+ [Cake-PHP](https://book.cakephp.org/3.0/fr/index.html)
++ [CakePHP](https://book.cakephp.org/3.0/fr/index.html)
 + [CodeIgniter](https://codeigniter.com/docs)
 + [CryENGINE](https://docs.cryengine.com/display/CEMANUAL/CRYENGINE+V+Manual)
 + [CSS](https://www.w3.org/TR/css-color-4)
