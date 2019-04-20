@@ -2,6 +2,8 @@
 
 Marre de chercher la documentation pour un langage de programmation ou un logiciel en particulier ? Retrouvez ici une petite liste pour vous dépanner.
 
+Pour ne pas scroll sur toutes les listes, un petit `Ctrl + F` pour faire votre recherche marche évidemment 😉
+
 ## Programmation / Web
 
 + [Android](https://developer.android.com/docs)
