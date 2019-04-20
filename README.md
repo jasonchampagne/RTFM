@@ -15,6 +15,7 @@ Pour ne pas scroll sur toutes les listes, un petit `Ctrl + F` pour faire votre r
 + [C](https://fr.cppreference.com/w/c)
 + [C++](https://fr.cppreference.com)
 + [CSS](https://www.w3.org/TR/css-color-4)
++ [Go](https://golang.org/doc)
 + [GTK+](https://www.gtk.org/documentation.php)
 + [HTML](https://www.w3.org/TR/html)
 + [Java](https://docs.oracle.com/javase/8/docs/api)
