@@ -30,7 +30,7 @@ Pour ne pas déroule toute la liste, un petit `Ctrl + F` pour faire votre recher
 + [Godot](http://docs.godotengine.org/en/3.1)
 + [GTK+](https://www.gtk.org/documentation.php)
 + [HTML](https://www.w3.org/TR/html)
-+ [Java](https://docs.oracle.com/en/java/javase)
++ [Java](https://docs.oracle.com/en/java/javase/index.html)
 + [JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference) / [ECMAScript](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
 + [JQuery](https://api.jquery.com)
 + [Krita](https://docs.krita.org/fr/index.html)
