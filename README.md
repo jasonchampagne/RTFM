@@ -6,25 +6,21 @@ Pour ne pas défiler sur toute la liste, un petit `Ctrl + F` pour faire votre re
 
 |CATÉGORIE|LIENS|
 |:--|:--|
-|CMS|[PHPBoost](https://www.phpboost.com/wiki/wiki.php)|
+|CMS|[PHPBoost](https://www.phpboost.com/wiki/wiki.php) / [WordPress](https://codex.wordpress.org/fr:Accueil)|
 |Langages|[Bash](https://www.gnu.org/software/bash/manual/bashref.html) / [Batch](https://docs.microsoft.com/en-us/azure/batch) / [C](https://fr.cppreference.com/w/c) / [C++](https://fr.cppreference.com) / [C#](https://docs.microsoft.com/fr-fr/dotnet/csharp/index) / [CSS](https://www.w3.org/TR/css-color-4) / [ECMAScript](http://www.ecma-international.org/publications/standards/Ecma-262.htm) / [Go](https://golang.org/doc) / [HTML](https://www.w3.org/TR/html) / [Java](https://docs.oracle.com/en/java/javase/index.html) / [JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference) / [XML](https://www.w3.org/TR/xml) / [XSLT](https://www.w3.org/TR/xslt-30)|
 |Moteurs de jeux|[CryENGINE](https://docs.cryengine.com/display/CEMANUAL/CRYENGINE+V+Manual) / [Godot](http://docs.godotengine.org/en/3.1) / [Unity](https://docs.unity3d.com/Manual/index.html) / [Unreal Engine](https://docs.unrealengine.com/en-us)|
+|Systèmes d'exploitation|[Android](https://developer.android.com/docs) / [ArchLinux](https://wiki.archlinux.fr) / [Debian](https://www.debian.org/doc/index.fr.html) / [Fedora](https://doc.fedora-fr.org/wiki/Accueil) / [FreeBSD](https://www.freebsd.org/doc/fr/books/handbook) / [Ubuntu](https://doc.ubuntu-fr.org)|
 
 ---
 
-+ [Android](https://developer.android.com/docs)
 + [Angular](https://angular.io/docs)
 + [Audacity](https://manual.audacityteam.org/index.html)
 + [Apache](https://httpd.apache.org/docs/2.2/fr)
-+ [ArchLinux](https://wiki.archlinux.fr)
 + [Blender](https://docs.blender.org)
 + [Bootstrap](https://getbootstrap.com/docs/4.3)
 + [CakePHP](https://book.cakephp.org/3.0/fr/index.html)
 + [CodeIgniter](https://codeigniter.com/docs)
-+ [Debian](https://www.debian.org/doc/index.fr.html)
-+ [Fedora](https://doc.fedora-fr.org/wiki/Accueil)
 + [FFmpeg](https://ffmpeg.org/documentation.html)
-+ [FreeBSD](https://www.freebsd.org/doc/fr/books/handbook)
 + [GIMP](https://docs.gimp.org/2.10/fr)
 + [Git](https://git-scm.com/doc)
 + [GTK+](https://www.gtk.org/documentation.php)
@@ -60,10 +56,8 @@ Pour ne pas défiler sur toute la liste, un petit `Ctrl + F` pour faire votre re
 + [Symfony](https://symfony.com/doc)
 + [Swift](https://swift.org/documentation)
 + [TypeScript](https://www.typescriptlang.org/docs)
-+ [Ubuntu](https://doc.ubuntu-fr.org)
 + [VeraCrypt](https://www.veracrypt.fr/en/Documentation.html)
 + [VirtualBox](https://www.virtualbox.org/wiki/Documentation)
 + [Visual Studio Code](https://code.visualstudio.com/Docs)
 + [VLC Media Player](https://www.videolan.org/doc)
-+ [WordPress](https://codex.wordpress.org/fr:Accueil)
 + [wxWidgets](https://www.wxwidgets.org/docs)
