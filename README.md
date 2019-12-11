@@ -6,7 +6,9 @@ Pour ne pas défiler sur toute la liste, un petit `Ctrl + F` pour faire votre re
 
 |CATÉGORIE|LIENS|
 |:--|:--:|
+|CMS||
 |Langages|[Bash](https://www.gnu.org/software/bash/manual/bashref.html) / [Batch](https://docs.microsoft.com/en-us/azure/batch) / [C](https://fr.cppreference.com/w/c) / [C++](https://fr.cppreference.com) / [C#](https://docs.microsoft.com/fr-fr/dotnet/csharp/index) / [CSS](https://www.w3.org/TR/css-color-4) / [ECMAScript](http://www.ecma-international.org/publications/standards/Ecma-262.htm) / [Go](https://golang.org/doc) / [HTML](https://www.w3.org/TR/html) / [Java](https://docs.oracle.com/en/java/javase/index.html) / [JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference)|
+|Moteurs de jeux|[CryENGINE](https://docs.cryengine.com/display/CEMANUAL/CRYENGINE+V+Manual) / [Godot](http://docs.godotengine.org/en/3.1) / [Unity](https://docs.unity3d.com/Manual/index.html) / [Unreal Engine](https://docs.unrealengine.com/en-us)|
 
 ---
 
@@ -19,14 +21,12 @@ Pour ne pas défiler sur toute la liste, un petit `Ctrl + F` pour faire votre re
 + [Bootstrap](https://getbootstrap.com/docs/4.3)
 + [CakePHP](https://book.cakephp.org/3.0/fr/index.html)
 + [CodeIgniter](https://codeigniter.com/docs)
-+ [CryENGINE](https://docs.cryengine.com/display/CEMANUAL/CRYENGINE+V+Manual)
 + [Debian](https://www.debian.org/doc/index.fr.html)
 + [Fedora](https://doc.fedora-fr.org/wiki/Accueil)
 + [FFmpeg](https://ffmpeg.org/documentation.html)
 + [FreeBSD](https://www.freebsd.org/doc/fr/books/handbook)
 + [GIMP](https://docs.gimp.org/2.10/fr)
 + [Git](https://git-scm.com/doc)
-+ [Godot](http://docs.godotengine.org/en/3.1)
 + [GTK+](https://www.gtk.org/documentation.php)
 + [JQuery](https://api.jquery.com)
 + [Krita](https://docs.krita.org/fr/index.html)
@@ -62,8 +62,6 @@ Pour ne pas défiler sur toute la liste, un petit `Ctrl + F` pour faire votre re
 + [Swift](https://swift.org/documentation)
 + [TypeScript](https://www.typescriptlang.org/docs)
 + [Ubuntu](https://doc.ubuntu-fr.org)
-+ [Unity](https://docs.unity3d.com/Manual/index.html)
-+ [Unreal Engine](https://docs.unrealengine.com/en-us)
 + [VeraCrypt](https://www.veracrypt.fr/en/Documentation.html)
 + [VirtualBox](https://www.virtualbox.org/wiki/Documentation)
 + [Visual Studio Code](https://code.visualstudio.com/Docs)
