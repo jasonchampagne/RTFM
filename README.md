@@ -6,7 +6,7 @@ Pour ne pas défiler sur toute la liste, un petit `Ctrl + F` pour faire votre re
 
 |CATÉGORIE|LIENS|
 |:--|:--:|
-|Langages|[Bash](https://www.gnu.org/software/bash/manual/bashref.html)<br>[Batch](https://docs.microsoft.com/en-us/azure/batch)<br>[C](https://fr.cppreference.com/w/c)<br>[C++](https://fr.cppreference.com)<br>[C#](https://docs.microsoft.com/fr-fr/dotnet/csharp/index)<br>[CSS](https://www.w3.org/TR/css-color-4)<br>[Go](https://golang.org/doc)<br>[HTML](https://www.w3.org/TR/html)<br>[Java](https://docs.oracle.com/en/java/javase/index.html)<br>[JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference) / [ECMAScript](http://www.ecma-international.org/publications/standards/Ecma-262.htm)|
+|Langages|[Bash](https://www.gnu.org/software/bash/manual/bashref.html) / [Batch](https://docs.microsoft.com/en-us/azure/batch) / [C](https://fr.cppreference.com/w/c) / [C++](https://fr.cppreference.com) / [C#](https://docs.microsoft.com/fr-fr/dotnet/csharp/index) / [CSS](https://www.w3.org/TR/css-color-4) / [ECMAScript](http://www.ecma-international.org/publications/standards/Ecma-262.htm) / [Go](https://golang.org/doc) / [HTML](https://www.w3.org/TR/html) / [Java](https://docs.oracle.com/en/java/javase/index.html) / [JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference)|
 
 ---
 
