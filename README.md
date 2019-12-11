@@ -6,8 +6,8 @@ Pour ne pas défiler sur toute la liste, un petit `Ctrl + F` pour faire votre re
 
 |CATÉGORIE|LIENS|
 |:--|:--|
-|CMS||
-|Langages|[Bash](https://www.gnu.org/software/bash/manual/bashref.html) / [Batch](https://docs.microsoft.com/en-us/azure/batch) / [C](https://fr.cppreference.com/w/c) / [C++](https://fr.cppreference.com) / [C#](https://docs.microsoft.com/fr-fr/dotnet/csharp/index) / [CSS](https://www.w3.org/TR/css-color-4) / [ECMAScript](http://www.ecma-international.org/publications/standards/Ecma-262.htm) / [Go](https://golang.org/doc) / [HTML](https://www.w3.org/TR/html) / [Java](https://docs.oracle.com/en/java/javase/index.html) / [JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference)|
+|CMS|[PHPBoost](https://www.phpboost.com/wiki/wiki.php)|
+|Langages|[Bash](https://www.gnu.org/software/bash/manual/bashref.html) / [Batch](https://docs.microsoft.com/en-us/azure/batch) / [C](https://fr.cppreference.com/w/c) / [C++](https://fr.cppreference.com) / [C#](https://docs.microsoft.com/fr-fr/dotnet/csharp/index) / [CSS](https://www.w3.org/TR/css-color-4) / [ECMAScript](http://www.ecma-international.org/publications/standards/Ecma-262.htm) / [Go](https://golang.org/doc) / [HTML](https://www.w3.org/TR/html) / [Java](https://docs.oracle.com/en/java/javase/index.html) / [JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference) / [XML](https://www.w3.org/TR/xml) / [XSLT](https://www.w3.org/TR/xslt-30)|
 |Moteurs de jeux|[CryENGINE](https://docs.cryengine.com/display/CEMANUAL/CRYENGINE+V+Manual) / [Godot](http://docs.godotengine.org/en/3.1) / [Unity](https://docs.unity3d.com/Manual/index.html) / [Unreal Engine](https://docs.unrealengine.com/en-us)|
 
 ---
@@ -45,7 +45,6 @@ Pour ne pas défiler sur toute la liste, un petit `Ctrl + F` pour faire votre re
 + [Oracle](https://docs.oracle.com/cd/B19306_01/index.htm)
 + [Photoshop](https://helpx.adobe.com/content/dam/help/en/pdf/photoshop_reference.pdf)
 + [PHP](https://www.php.net/manual/fr/index.php)
-+ [PHPBoost](https://www.phpboost.com/wiki/wiki.php)
 + [PostgreSQL](https://docs.postgresql.fr)
 + [PowerShell](https://docs.microsoft.com/fr-fr/powershell)
 + [Pygame](https://www.pygame.org/docs)
@@ -68,5 +67,3 @@ Pour ne pas défiler sur toute la liste, un petit `Ctrl + F` pour faire votre re
 + [VLC Media Player](https://www.videolan.org/doc)
 + [WordPress](https://codex.wordpress.org/fr:Accueil)
 + [wxWidgets](https://www.wxwidgets.org/docs)
-+ [XML](https://www.w3.org/TR/xml)
-+ [XSLT](https://www.w3.org/TR/xslt-30)
