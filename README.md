@@ -6,6 +6,7 @@ Pour ne pas défiler sur toute la liste, un petit `Ctrl + F` pour faire votre re
 
 |CATÉGORIE|LIENS|
 |:--|:--|
+|Applications|[Audacity](https://manual.audacityteam.org/index.html) / [Blender](https://docs.blender.org) / [GIMP](https://docs.gimp.org/2.10/fr) / [Krita](https://docs.krita.org/fr/index.html) / [LibreOffice](https://wiki.documentfoundation.org/Documentation/fr) / [LMMS](https://lmms.io/documentation) / [Mypaint](https://github.com/mypaint/mypaint/wiki/Documentation) / [Photoshop](https://helpx.adobe.com/content/dam/help/en/pdf/photoshop_reference.pdf) / [Reaper](https://www.reaper.fm/userguide.php) / [Visual Studio Code](https://code.visualstudio.com/Docs) / [VLC Media Player](https://www.videolan.org/doc)|
 |Bibliothèques|[JQuery](https://api.jquery.com) / [GTK+](https://www.gtk.org/documentation.php) / [OpenGL](https://www.opengl.org/documentation) / [Pygame](https://www.pygame.org/docs) / [Qt](https://doc.qt.io) / [React](https://reactjs.org/docs) / [SDL](https://wiki.libsdl.org) / [SFML](https://www.sfml-dev.org/documentation/2.5.1-fr/index.php) / [wxWidgets](https://www.wxwidgets.org/docs)|
 |CMS|[PHPBoost](https://www.phpboost.com/wiki/wiki.php) / [WordPress](https://codex.wordpress.org/fr:Accueil)|
 |Frameworks|[Angular](https://angular.io/docs) / [Bootstrap](https://getbootstrap.com/docs/4.3) / [CakePHP](https://book.cakephp.org/3.0/fr/index.html) / [CodeIgniter](https://codeigniter.com/docs) / [Laravel](https://laravel.com/docs/5.8) / [Symfony](https://symfony.com/doc)|
@@ -13,21 +14,4 @@ Pour ne pas défiler sur toute la liste, un petit `Ctrl + F` pour faire votre re
 |Moteurs|[CryENGINE](https://docs.cryengine.com/display/CEMANUAL/CRYENGINE+V+Manual) / [Godot](http://docs.godotengine.org/en/3.1) / [LÖVE](https://love2d.org/wiki/love_(Fran%C3%A7ais)) / [Unity](https://docs.unity3d.com/Manual/index.html) / [Unreal Engine](https://docs.unrealengine.com/en-us)|
 |Plate-formes|[Apache](https://httpd.apache.org/docs/2.2/fr) / [Nginx](https://nginx.org/en/docs) / [NodeJS](https://nodejs.org/en/docs)|
 |Systèmes|[Android](https://developer.android.com/docs) / [ArchLinux](https://wiki.archlinux.fr) / [Debian](https://www.debian.org/doc/index.fr.html) / [Fedora](https://doc.fedora-fr.org/wiki/Accueil) / [FreeBSD](https://www.freebsd.org/doc/fr/books/handbook) / [Ubuntu](https://doc.ubuntu-fr.org)|
-
----
-
-+ [Audacity](https://manual.audacityteam.org/index.html)
-+ [Blender](https://docs.blender.org)
-+ [FFmpeg](https://ffmpeg.org/documentation.html)
-+ [GIMP](https://docs.gimp.org/2.10/fr)
-+ [Git](https://git-scm.com/doc)
-+ [Krita](https://docs.krita.org/fr/index.html)
-+ [LibreOffice](https://wiki.documentfoundation.org/Documentation/fr)
-+ [LMMS](https://lmms.io/documentation)
-+ [Mypaint](https://github.com/mypaint/mypaint/wiki/Documentation)
-+ [Photoshop](https://helpx.adobe.com/content/dam/help/en/pdf/photoshop_reference.pdf)
-+ [Reaper](https://www.reaper.fm/userguide.php)
-+ [VeraCrypt](https://www.veracrypt.fr/en/Documentation.html)
-+ [VirtualBox](https://www.virtualbox.org/wiki/Documentation)
-+ [Visual Studio Code](https://code.visualstudio.com/Docs)
-+ [VLC Media Player](https://www.videolan.org/doc)
+|Utilitaires|[FFmpeg](https://ffmpeg.org/documentation.html) / [Git](https://git-scm.com/doc) / [VeraCrypt](https://www.veracrypt.fr/en/Documentation.html) / [VirtualBox](https://www.virtualbox.org/wiki/Documentation)|
