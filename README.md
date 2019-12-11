@@ -1,37 +1,33 @@
 # Présentation
 
-Retrouvez ici une liste de documentations et manuels d'utilisation/de référence officiels pour vos langages de programmation / Web, bibliothèques, frameworks, CMS, logiciels d'infographie, 3D, MAO, d'édition vidéo, de bureautique, des systèmes d'exploitation ou encore d'utilitaires.
+Retrouvez ici une liste de documentations et manuels d'utilisation/de référence pour vos langages de programmation/Web, bibliothèques, frameworks, CMS, logiciels d'infographie, 3D, MAO, d'édition vidéo, de bureautique, des systèmes d'exploitation ou encore d'utilitaires.
 
 Pour ne pas défiler sur toute la liste, un petit `Ctrl + F` pour faire votre recherche marche évidemment 😉
+
+|CATÉGORIE|LIENS|
+|:--|:--:|
+|Langages|[Bash](https://www.gnu.org/software/bash/manual/bashref.html)<br>[Batch](https://docs.microsoft.com/en-us/azure/batch)<br>[C](https://fr.cppreference.com/w/c)<br>[C++](https://fr.cppreference.com)<br>[C#](https://docs.microsoft.com/fr-fr/dotnet/csharp/index)<br>[CSS](https://www.w3.org/TR/css-color-4)<br>[Go](https://golang.org/doc)<br>[HTML](https://www.w3.org/TR/html)<br>[Java](https://docs.oracle.com/en/java/javase/index.html)<br>[JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference) / [ECMAScript](http://www.ecma-international.org/publications/standards/Ecma-262.htm)|
+
+---
 
 + [Android](https://developer.android.com/docs)
 + [Angular](https://angular.io/docs)
 + [Audacity](https://manual.audacityteam.org/index.html)
 + [Apache](https://httpd.apache.org/docs/2.2/fr)
 + [ArchLinux](https://wiki.archlinux.fr)
-+ [Bash](https://www.gnu.org/software/bash/manual/bashref.html)
-+ [Batch](https://docs.microsoft.com/en-us/azure/batch)
 + [Blender](https://docs.blender.org)
 + [Bootstrap](https://getbootstrap.com/docs/4.3)
-+ [C](https://fr.cppreference.com/w/c)
-+ [C++](https://fr.cppreference.com)
-+ [C#](https://docs.microsoft.com/fr-fr/dotnet/csharp/index)
 + [CakePHP](https://book.cakephp.org/3.0/fr/index.html)
 + [CodeIgniter](https://codeigniter.com/docs)
 + [CryENGINE](https://docs.cryengine.com/display/CEMANUAL/CRYENGINE+V+Manual)
-+ [CSS](https://www.w3.org/TR/css-color-4)
 + [Debian](https://www.debian.org/doc/index.fr.html)
 + [Fedora](https://doc.fedora-fr.org/wiki/Accueil)
 + [FFmpeg](https://ffmpeg.org/documentation.html)
 + [FreeBSD](https://www.freebsd.org/doc/fr/books/handbook)
 + [GIMP](https://docs.gimp.org/2.10/fr)
 + [Git](https://git-scm.com/doc)
-+ [Go](https://golang.org/doc)
 + [Godot](http://docs.godotengine.org/en/3.1)
 + [GTK+](https://www.gtk.org/documentation.php)
-+ [HTML](https://www.w3.org/TR/html)
-+ [Java](https://docs.oracle.com/en/java/javase/index.html)
-+ [JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference) / [ECMAScript](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
 + [JQuery](https://api.jquery.com)
 + [Krita](https://docs.krita.org/fr/index.html)
 + [Laravel](https://laravel.com/docs/5.8)
