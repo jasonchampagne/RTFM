@@ -6,27 +6,24 @@ Pour ne pas défiler sur toute la liste, un petit `Ctrl + F` pour faire votre re
 
 |CATÉGORIE|LIENS|
 |:--|:--|
+|Bibliothèques||
 |CMS|[PHPBoost](https://www.phpboost.com/wiki/wiki.php) / [WordPress](https://codex.wordpress.org/fr:Accueil)|
+|Frameworks|[Angular](https://angular.io/docs) / [Bootstrap](https://getbootstrap.com/docs/4.3) / [CakePHP](https://book.cakephp.org/3.0/fr/index.html) / [CodeIgniter](https://codeigniter.com/docs) / [Laravel](https://laravel.com/docs/5.8) / [Symfony](https://symfony.com/doc)|
 |Langages|[Bash](https://www.gnu.org/software/bash/manual/bashref.html) / [Batch](https://docs.microsoft.com/en-us/azure/batch) / [C](https://fr.cppreference.com/w/c) / [C++](https://fr.cppreference.com) / [C#](https://docs.microsoft.com/fr-fr/dotnet/csharp/index) / [CSS](https://www.w3.org/TR/css-color-4) / [ECMAScript](http://www.ecma-international.org/publications/standards/Ecma-262.htm) / [Go](https://golang.org/doc) / [HTML](https://www.w3.org/TR/html) / [Java](https://docs.oracle.com/en/java/javase/index.html) / [JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference) / [LaTeX](https://www.latex-project.org/help/documentation) / [Lua](https://www.lua.org/docs.html) / [MySQL](https://dev.mysql.com/doc/refman/8.0/en) / [NASM](https://www.nasm.us/doc) / [PHP](https://www.php.net/manual/fr/index.php) / [Python](https://docs.python.org/3) / [Ruby](https://ruby-doc.org) / [Rust](https://doc.rust-lang.org) / [Swift](https://swift.org/documentation) / [TypeScript](https://www.typescriptlang.org/docs) / [XML](https://www.w3.org/TR/xml) / [XSLT](https://www.w3.org/TR/xslt-30)|
 |Moteurs de jeux|[CryENGINE](https://docs.cryengine.com/display/CEMANUAL/CRYENGINE+V+Manual) / [Godot](http://docs.godotengine.org/en/3.1) / [Unity](https://docs.unity3d.com/Manual/index.html) / [Unreal Engine](https://docs.unrealengine.com/en-us)|
 |Systèmes d'exploitation|[Android](https://developer.android.com/docs) / [ArchLinux](https://wiki.archlinux.fr) / [Debian](https://www.debian.org/doc/index.fr.html) / [Fedora](https://doc.fedora-fr.org/wiki/Accueil) / [FreeBSD](https://www.freebsd.org/doc/fr/books/handbook) / [Ubuntu](https://doc.ubuntu-fr.org)|
 
 ---
 
-+ [Angular](https://angular.io/docs)
 + [Audacity](https://manual.audacityteam.org/index.html)
 + [Apache](https://httpd.apache.org/docs/2.2/fr)
 + [Blender](https://docs.blender.org)
-+ [Bootstrap](https://getbootstrap.com/docs/4.3)
-+ [CakePHP](https://book.cakephp.org/3.0/fr/index.html)
-+ [CodeIgniter](https://codeigniter.com/docs)
 + [FFmpeg](https://ffmpeg.org/documentation.html)
 + [GIMP](https://docs.gimp.org/2.10/fr)
 + [Git](https://git-scm.com/doc)
 + [GTK+](https://www.gtk.org/documentation.php)
 + [JQuery](https://api.jquery.com)
 + [Krita](https://docs.krita.org/fr/index.html)
-+ [Laravel](https://laravel.com/docs/5.8)
 + [LibreOffice](https://wiki.documentfoundation.org/Documentation/fr)
 + [LMMS](https://lmms.io/documentation)
 + [LÖVE](https://love2d.org/wiki/love_(Fran%C3%A7ais))
@@ -45,7 +42,6 @@ Pour ne pas défiler sur toute la liste, un petit `Ctrl + F` pour faire votre re
 + [SDL](https://wiki.libsdl.org)
 + [SQLite](https://sqlite.org/docs.html)
 + [SQL Server](https://docs.microsoft.com/fr-fr/sql)
-+ [Symfony](https://symfony.com/doc)
 + [VeraCrypt](https://www.veracrypt.fr/en/Documentation.html)
 + [VirtualBox](https://www.virtualbox.org/wiki/Documentation)
 + [Visual Studio Code](https://code.visualstudio.com/Docs)
