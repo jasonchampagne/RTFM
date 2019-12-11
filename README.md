@@ -2,7 +2,7 @@
 
 Retrouvez ici une liste de documentations et manuels d'utilisation/de référence pour vos langages de programmation/Web, bibliothèques, frameworks, CMS, logiciels d'infographie, 3D, MAO, d'édition vidéo, de bureautique, des systèmes d'exploitation ou encore d'utilitaires.
 
-Pour ne pas défiler sur toute la liste, un petit `Ctrl + F` pour faire votre recherche marche évidemment 😉
+N'hésitez pas à user du `Ctrl + F` pour faire votre recherche 😉
 
 |CATÉGORIE|LIENS|
 |:--|:--|
