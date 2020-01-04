@@ -18,5 +18,5 @@ N'hésitez pas à user du `Ctrl + F` pour faire votre recherche 😉
 
 ---
 
-> <sup>1</sup> _Raku est le nouveau nommage pour le langage Perl (depuis la version 6)_<br>
+> <sup>1</sup> _Raku est le nouveau nom pour le langage Perl à partir de sa version 6_<br>
 > <sup>2</sup> _Programmes principalement utilisables en ligne de commande_
