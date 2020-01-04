@@ -16,5 +16,7 @@ N'hésitez pas à user du `Ctrl + F` pour faire votre recherche 😉
 |**Systèmes**|[Android](https://developer.android.com/docs) / [ArchLinux](https://wiki.archlinux.fr) / [CentOS](https://wiki.centos.org/fr) / [Debian](https://www.debian.org/doc/index.fr.html) / [elementaryOS](https://www.elementaryos-fr.org/documentation) / [Fedora](https://doc.fedora-fr.org/wiki/Accueil) / [FreeBSD](https://www.freebsd.org/doc/fr/books/handbook) / [Gentoo](https://www.gentoo.org/support/documentation) / [Kali](https://www.kali.org/docs) / [Linux Mint](https://linuxmint-installation-guide.readthedocs.io/fr/latest) / [Mageia](https://www.mageia.org/fr/doc) / [Manjaro](https://wiki.manjaro.org/index.php?title=Accueil) / [openSUSE](https://fr.opensuse.org/Portal:Documentation) / [Parrot](https://docs.parrotlinux.org) / [Raspbian](http://raspbian.org/RaspbianDocumentation) / [Slackware](https://docs.slackware.com/fr:start) / [Tails](https://tails.boum.org/doc/index.fr.html) / [Trisquel](https://trisquel.info/fr/wiki) / [Ubuntu](https://doc.ubuntu-fr.org)|
 |**Utilitaires**<sup>2</sup>|[FFmpeg](https://ffmpeg.org/documentation.html) / [Git](https://git-scm.com/doc)|
 
-> _<sup>1</sup> Raku est le nouveau nommage pour le langage Perl (depuis la version 6)_
-> _<sup>2</sup> Programmes principalement utilisables en ligne de commande_
+---
+
+> <sup>1</sup> _Raku est le nouveau nommage pour le langage Perl (depuis la version 6)_
+> <sup>2</sup> _Programmes principalement utilisables en ligne de commande_
