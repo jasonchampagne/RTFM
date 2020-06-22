@@ -19,4 +19,4 @@ Utilisez le raccourci `Ctrl + F` pour faire votre recherche 😉
 |**Utilitaires**|[clang](https://clang.llvm.org/docs/UsersManual.html) / [ffmpeg](https://ffmpeg.org/documentation.html) / [gcc](https://gcc.gnu.org/onlinedocs) / [gdb](https://www.gnu.org/software/gdb/documentation) / [git](https://git-scm.com/doc) / [mingw](http://mingw.org/wiki) / [nano](https://www.nano-editor.org/docs.php) / [opus](https://www.opus-codec.org/docs) / [pip](https://pip.pypa.io/en/stable) / [valgrind](http://www.valgrind.org/docs/manual/manual.html) / [vim](https://www.vim.org/docs.php) / [webm](http://wiki.webmproject.org) / [webp](https://developers.google.com/speed/webp/docs/using) / [youtube-dl](https://github.com/ytdl-org/youtube-dl/blob/master/README.md)|
 
 > _**NOTE 1** : Raku est le nouveau nom pour le langage Perl à partir de sa version 6_<br>
-> _**NOTE 2** : Programmes principalement utilisables en ligne de commande_
+> _**NOTE 2** : Les utilitaires sont des programmes principalement utilisables en ligne de commande_
