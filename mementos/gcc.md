@@ -1,3 +1,3 @@
-# GCC
+# GNU Compiler Collection
 
 À venir...
