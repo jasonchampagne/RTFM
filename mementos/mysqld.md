@@ -1,3 +1,3 @@
-# MySQLD
+# MySQL Server
 
 À venir...
