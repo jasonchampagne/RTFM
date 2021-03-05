@@ -1,3 +1,3 @@
-# Bash
+# Bourne-Again Shell
 
 À venir...
