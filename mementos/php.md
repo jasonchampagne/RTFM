@@ -1,3 +1,3 @@
-# PHP
+# PHP Hypertext Preprocessor
 
 À venir...
