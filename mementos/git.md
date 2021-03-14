@@ -39,6 +39,7 @@ git log
 
 ```powershell
 git add <file>
+git add --all *
 ```
 
 ## Configurer des informations globales
