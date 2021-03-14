@@ -1,5 +1,7 @@
 # Git
 
+> Les paramètres globaux sont enregistés dans le fichier de configuration **.gitconfig**
+
 **SOMMAIRE**
 > + [Ajouter un fichier à l'index du dépôt](#ajouter-un-fichier-à-lindex-du-dépôt)
 > + [Configurer des informations globales](#configurer-des-informations-globales)
@@ -17,7 +19,6 @@ git add <file>
 
 ## Configurer des informations globales
 
-> Paramètres personnalisés situés dans le fichier **.gitconfig**<br>
 > Retirer l'argument **--global** appliquera la configuration au dépôt courant uniquement
 
 ```powershell
@@ -29,8 +30,8 @@ git config --global user.email "<email>"
 
 ## Créer un nouveau dépôt vide
 
-> Si le dépôt existe déjà, va le réinitialiser
-> Par défaut, crée une branche du même nom que celui configuré dans les paramètres (**.gitconfig**)
+> Si le dépôt existe déjà, va le réinitialiser<br>
+> Par défaut, la branche est du même nom que celui configuré dans les paramètres
  
 ```powershell
 git init
