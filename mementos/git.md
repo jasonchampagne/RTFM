@@ -8,6 +8,8 @@
 
 ## Configurer des informations globales
 
+> Paramètres personnalisés situés dans le fichier **.gitconfig**
+
 ```powershell
 git config --global init.defaultbranch "<default_branch_name>"
 git config --global core.editor "<path_to_file_editor">
