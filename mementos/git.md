@@ -15,6 +15,7 @@
 + [Configurer des informations globales](#configurer-des-informations-globales)
 + [Déplacer ou renommer un fichier](#déplacer-ou-renommer-un-fichier)
 + [Créer un nouveau dépôt vide](#créer-un-nouveau-dépôt-vide)
++ [Lister les branches](#lister-les-branches)
 + [Lister les informations de configuration](#lister-les-informations-de-configuration)
 + [Mettre à jour le dépôt distant avec les changements en local](#mettre-à-jour-le-dépôt-distant-avec-les-changements-en-local)
 + [Supprimer un fichier](#supprimer-un-fichier)
@@ -93,6 +94,12 @@ git init -b <branch_name>
 ```powershell
 git mv <old_file> <new_file>
 git mv <old_path_to_file> <new_path_to_file>
+```
+
+## Lister les branches
+
+```powershell
+git branch
 ```
 
 ## Lister les informations de configuration
