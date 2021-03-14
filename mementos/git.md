@@ -10,6 +10,7 @@
 + [Afficher l'historique des commits](#afficher-lhistorique-des-commits)
 + [Ajouter un fichier à l'index du dépôt](#ajouter-un-fichier-à-lindex-du-dépôt)
 + [Configurer des informations globales](#configurer-des-informations-globales)
++ [Déplacer ou renommer un fichier](#déplacer-ou-renommer-un-fichier)
 + [Créer un nouveau dépôt vide](#créer-un-nouveau-dépôt-vide)
 + [Lister les informations de configuration](#lister-les-informations-de-configuration)
 + [Valider les changements dans le dépôt](#valider-les-changements-dans-le-dépôt)
@@ -35,11 +36,10 @@ git status
 git log
 ```
 
-## Ajouter un fichier à l'index du dépôt
+## Ajouter un fichier et valider les changements
 
 ```powershell
-git add <file>
-git add --all *
+git commit
 ```
 
 ## Configurer des informations globales
@@ -61,6 +61,13 @@ git config --global user.email "<email>"
 ```powershell
 git init
 git init -b <branch_name>
+```
+
+## Déplacer ou renommer un fichier
+
+```powershell
+git mv <old_file> <new_file>
+git mv <old_path/file> <new_path/file>
 ```
 
 ## Lister les informations de configuration
