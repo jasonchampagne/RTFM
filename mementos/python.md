@@ -9,6 +9,8 @@
 
 ## Exécuter un script
 
+> Sur GNU/Linux ou MacOS, il faut généralement remplacer la commande _python_ par _python3_
+
 ```powershell
 python <console_script>.py
 pythonw <graphical_script>.py
