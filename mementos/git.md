@@ -15,6 +15,7 @@
 + [Déplacer ou renommer un fichier](#déplacer-ou-renommer-un-fichier)
 + [Créer un nouveau dépôt vide](#créer-un-nouveau-dépôt-vide)
 + [Lister les informations de configuration](#lister-les-informations-de-configuration)
++ [Mettre à jour le dépôt distant avec les changements en local]()
 + [Supprimer un fichier](#supprimer-un-fichier)
 + [Synchroniser les fichiers d'un dépôt distant avec le dépôt local](#synchroniser-les-fichiers-dun-dépôt-distant-avec-le-dépôt-local)
 + [Valider les changements dans le dépôt](#valider-les-changements-dans-le-dépôt)
@@ -91,6 +92,12 @@ git mv <old_path_to_file> <new_path_to_file>
 
 ```powershell
 git config --list
+```
+
+## Mettre à jour le dépôt distant avec les changements en local
+
+```powershell
+git push origin master
 ```
 
 ## Supprimer un fichier
