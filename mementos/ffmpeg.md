@@ -5,6 +5,7 @@
 + [Convertir un fichier](#convertir-un-fichier)
 + [Couper l'audio d'une vidéo](#couper-laudio-dune-vidéo)
 + [Extraire la partie audio d'une vidéo](#extraire-la-partie-audio-dune-vidéo)
++ [Lister tous les codecs](#lister-tous-les-codecs)
 
 ---
 
@@ -31,4 +32,10 @@ ffmpeg -i video.mp4 -vcodec copy -an out.mp4
 
 ```powershell
 ffmpeg -i video.mp4 audio.mp3
+```
+
+## Lister tous les codecs
+
+```powershell
+ffmpeg -codecs
 ```
