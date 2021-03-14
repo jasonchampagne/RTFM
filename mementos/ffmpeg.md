@@ -1,7 +1,7 @@
 # FFmpeg
 
 **SOMMAIRE**
-+ [Changer de format (sans ré-encodage)]()
++ [Changer de format (sans ré-encodage)](#changer-de-format-sans-ré-encodage)
 + [Extraire la partie audio d'une vidéo](#extraire-la-partie-audio-dune-vidéo)
 
 ---
