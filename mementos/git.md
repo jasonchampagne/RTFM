@@ -45,7 +45,7 @@ git status
 git log
 ```
 
-## Ajouter un fichier et valider les changements
+## Ajouter un fichier à l'index du dépôt
 
 ```powershell
 git commit
