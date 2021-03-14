@@ -4,7 +4,7 @@
 
 **SOMMAIRE**
 
-💠 Les paramètres globaux sont enregistés dans le fichier de configuration **.gitconfig**
+💠 _Les paramètres globaux sont enregistés dans le fichier de configuration **.gitconfig**_
 
 + [Afficher l'état de l'arborescence](#afficher-létat-de-larborescence)
 + [Afficher l'historique des commits](#afficher-lhistorique-des-commits)
