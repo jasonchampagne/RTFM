@@ -9,7 +9,7 @@
 
 ## Exécuter un script
 
-> Sur GNU/Linux ou MacOS, il faut généralement remplacer la commande _python_ par _python3_
+> Sur GNU/Linux ou MacOS, il faut généralement remplacer la commande `python` par `python3`
 
 ```powershell
 python <console_script>.py
