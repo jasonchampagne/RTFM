@@ -5,7 +5,7 @@
 + [Convertir un fichier](#convertir-un-fichier)
 + [Couper l'audio d'une vidéo](#couper-laudio-dune-vidéo)
 + [Extraire la partie audio d'une vidéo](#extraire-la-partie-audio-dune-vidéo)
-+ [Extraire une partie de fichier, sans ré-encodage](#extraire-une-partie-de-fichier)
++ [Extraire une partie de fichier, sans ré-encodage](#extraire-une-partie-de-fichier-sans-ré-encodage)
 + [Lister tous les codecs](#lister-tous-les-codecs)
 + [Lister tous les encodeurs](#lister-tous-les-encodeurs)
 + [Lister tous les décodeurs](#lister-tous-les-décodeurs)
