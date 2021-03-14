@@ -17,7 +17,7 @@ git add <file>
 
 ## Configurer des informations globales
 
-> Paramètres personnalisés situés dans le fichier **.gitconfig**
+> Paramètres personnalisés situés dans le fichier **.gitconfig**<br>
 > Retirer l'argument **--global** appliquera la configuration au dépôt courant uniquement
 
 ```powershell
