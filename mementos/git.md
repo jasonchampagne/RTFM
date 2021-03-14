@@ -22,6 +22,7 @@
 + [Lister les informations de configuration](#lister-les-informations-de-configuration)
 + [Mettre à jour le dépôt distant avec les changements en local](#mettre-à-jour-le-dépôt-distant-avec-les-changements-en-local)
 + [Supprimer un fichier](#supprimer-un-fichier)
++ [Supprimer une branche](#supprimer-une-branche)
 + [Synchroniser les fichiers d'un dépôt distant avec le dépôt local](#synchroniser-les-fichiers-dun-dépôt-distant-avec-le-dépôt-local)
 + [Valider les changements dans le dépôt](#valider-les-changements-dans-le-dépôt)
 
@@ -139,6 +140,12 @@ git push # git push origin master
 
 ```powershell
 git rm <file>
+```
+
+## Supprimer une branche
+
+```powershell
+git branch -d <name>
 ```
 
 ## Synchroniser les fichiers d'un dépôt distant avec le dépôt local
