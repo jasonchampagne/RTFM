@@ -102,7 +102,7 @@ git branch <name>
  
 ```powershell
 git init
-git init -b <branch_name>
+git init -b <branch>
 ```
 
 ## Déplacer ou renommer un fichier
