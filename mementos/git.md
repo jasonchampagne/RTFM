@@ -18,6 +18,7 @@ git add <file>
 ## Configurer des informations globales
 
 > Paramètres personnalisés situés dans le fichier **.gitconfig**
+> Retirer l'argument **--global** appliquera la configuration au dépôt courant uniquement
 
 ```powershell
 git config --global init.defaultbranch "<default_branch_name>"
