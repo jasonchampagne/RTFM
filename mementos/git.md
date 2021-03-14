@@ -15,6 +15,7 @@
 + [Déplacer ou renommer un fichier](#déplacer-ou-renommer-un-fichier)
 + [Créer un nouveau dépôt vide](#créer-un-nouveau-dépôt-vide)
 + [Lister les informations de configuration](#lister-les-informations-de-configuration)
++ [Récupérer les fichiers dans la branche](#récupérer-les-fichiers-dans-la-branche)
 + [Supprimer un fichier](#supprimer-un-fichier)
 + [Valider les changements dans le dépôt](#valider-les-changements-dans-le-dépôt)
 
@@ -90,6 +91,13 @@ git mv <old_path_to_file> <new_path_to_file>
 
 ```powershell
 git config --list
+```
+
+## Récupérer les fichiers dans la branche
+
+```powershell
+git pull
+git pull origin master
 ```
 
 ## Supprimer un fichier
