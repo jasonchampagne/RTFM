@@ -6,6 +6,7 @@
 
 💠 _Les paramètres globaux sont enregistés dans le fichier de configuration **.gitconfig**_
 
++ [Afficher la version](#afficher-la-version)
 + [Afficher l'état de l'arborescence](#afficher-létat-de-larborescence)
 + [Afficher l'historique des commits](#afficher-lhistorique-des-commits)
 + [Ajouter un fichier à l'index du dépôt](#ajouter-un-fichier-à-lindex-du-dépôt)
@@ -15,6 +16,13 @@
 + [Valider les changements dans le dépôt](#valider-les-changements-dans-le-dépôt)
 
 ---
+
+## Afficher la version
+
+```powershell
+git version
+git --version
+```
 
 ## Afficher l'état de l'arborescence
 
