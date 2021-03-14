@@ -17,6 +17,7 @@
 + [Créer une nouvelle branche](#créer-une-nouvelle-branche)
 + [Créer un nouveau dépôt vide](#créer-un-nouveau-dépôt-vide)
 + [Déplacer ou renommer un fichier](#déplacer-ou-renommer-un-fichier)
++ [Fusionner une branche à la branche principale](#fusionner-une-branche-à-la-branche-principale)
 + [Lister les branches](#lister-les-branches)
 + [Lister les informations de configuration](#lister-les-informations-de-configuration)
 + [Mettre à jour le dépôt distant avec les changements en local](#mettre-à-jour-le-dépôt-distant-avec-les-changements-en-local)
@@ -108,6 +109,12 @@ git init -b <branch_name>
 ```powershell
 git mv <old_file> <new_file>
 git mv <old_path_to_file> <new_path_to_file>
+```
+
+## Fusionner une branche à la branche principale
+
+```powershell
+git merge <branch>
 ```
 
 ## Lister les branches
