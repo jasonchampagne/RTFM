@@ -13,8 +13,9 @@
 + [Annuler des commits](#annuler-des-commits)
 + [Cloner un dépôt](#cloner-un-dépôt)
 + [Configurer des informations globales](#configurer-des-informations-globales)
-+ [Déplacer ou renommer un fichier](#déplacer-ou-renommer-un-fichier)
++ [Créer une nouvelle branche](#créer-une-nouvelle-branche)
 + [Créer un nouveau dépôt vide](#créer-un-nouveau-dépôt-vide)
++ [Déplacer ou renommer un fichier](#déplacer-ou-renommer-un-fichier)
 + [Lister les branches](#lister-les-branches)
 + [Lister les informations de configuration](#lister-les-informations-de-configuration)
 + [Mettre à jour le dépôt distant avec les changements en local](#mettre-à-jour-le-dépôt-distant-avec-les-changements-en-local)
@@ -77,6 +78,12 @@ git config --global init.defaultbranch "<default_branch_name>"
 git config --global core.editor "<path_to_file_editor>"
 git config --global user.name "<username>"
 git config --global user.email "<email>"
+```
+
+## Créer une nouvelle branche
+
+```powershell
+git branch <name>
 ```
 
 ## Créer un nouveau dépôt vide
