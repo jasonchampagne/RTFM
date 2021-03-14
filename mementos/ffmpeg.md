@@ -3,7 +3,7 @@
 **SOMMAIRE**
 + [Changer de format (sans ré-encodage)](#changer-de-format-sans-ré-encodage)
 + [Convertir un fichier](#convertir-un-fichier)
-+ [Couper le son d'une vidéo](#couper-le-son-dune-vidéo)
++ [Couper le son d'une vidéo](#couper-laudio-dune-vidéo)
 + [Extraire la partie audio d'une vidéo](#extraire-la-partie-audio-dune-vidéo)
 
 ---
@@ -21,7 +21,7 @@ ffmpeg -i musique.wav musique.mp3
 ffmpeg -i video.avi video.mp4
 ```
 
-## Couper le son d'une vidéo
+## Couper l'audio d'une vidéo
 
 ```powershell
 ffmpeg -i video.mp4 -vcodec copy -an out.mp4
