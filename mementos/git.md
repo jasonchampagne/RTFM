@@ -11,6 +11,7 @@
 + [Afficher l'historique des commits](#afficher-lhistorique-des-commits)
 + [Ajouter un fichier à l'index du dépôt](#ajouter-un-fichier-à-lindex-du-dépôt)
 + [Annuler des commits](#annuler-des-commits)
++ [Changer de branche courante](#changer-de-branche-courante)
 + [Cloner un dépôt](#cloner-un-dépôt)
 + [Configurer des informations globales](#configurer-des-informations-globales)
 + [Créer une nouvelle branche](#créer-une-nouvelle-branche)
@@ -61,6 +62,12 @@ git add *.html
 
 ```powershell
 git revert <commit_id> # remet le dépôt dans l'état où il se trouvait au moment de ce commit
+```
+
+## Changer de branche courante
+
+```powershell
+git checkout <branch>
 ```
 
 ## Cloner un dépôt
