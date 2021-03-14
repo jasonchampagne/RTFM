@@ -10,6 +10,7 @@
 + [Afficher l'état de l'arborescence](#afficher-létat-de-larborescence)
 + [Afficher l'historique des commits](#afficher-lhistorique-des-commits)
 + [Ajouter un fichier à l'index du dépôt](#ajouter-un-fichier-à-lindex-du-dépôt)
++ [Cloner un dépôt](#cloner-un-dépôt)
 + [Configurer des informations globales](#configurer-des-informations-globales)
 + [Déplacer ou renommer un fichier](#déplacer-ou-renommer-un-fichier)
 + [Créer un nouveau dépôt vide](#créer-un-nouveau-dépôt-vide)
@@ -48,6 +49,12 @@ git log
 
 ```powershell
 git commit
+```
+
+## Cloner un dépôt
+
+```powershell
+git clone <repository>
 ```
 
 ## Configurer des informations globales
