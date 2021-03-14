@@ -3,6 +3,7 @@
 ▶ Les paramètres globaux sont enregistés dans le fichier de configuration **.gitconfig**
 
 **SOMMAIRE**
+> + [Afficher l'historique des commits](#afficher-lhistorique-des-commits)
 > + [Ajouter un fichier à l'index du dépôt](#ajouter-un-fichier-à-lindex-du-dépôt)
 > + [Configurer des informations globales](#configurer-des-informations-globales)
 > + [Créer un nouveau dépôt vide](#créer-un-nouveau-dépôt-vide)
@@ -10,6 +11,12 @@
 > + [Valider les changements dans le dépôt](#valider-les-changements-dans-le-dépôt)
 
 ---
+
+## Afficher l'historique des commits
+
+```powershell
+git log
+```
 
 ## Ajouter un fichier à l'index du dépôt
 
