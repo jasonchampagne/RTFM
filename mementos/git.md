@@ -6,6 +6,7 @@
 
 **SOMMAIRE**
 + [Afficher la version](#afficher-la-version)
++ [Afficher les changements entre commits/arbre de travail](#afficher-les-changements-entre-commis-arbre-de-travail)
 + [Afficher l'état de l'arborescence](#afficher-létat-de-larborescence)
 + [Afficher l'historique des commits](#afficher-lhistorique-des-commits)
 + [Ajouter un fichier à l'index du dépôt](#ajouter-un-fichier-à-lindex-du-dépôt)
@@ -23,6 +24,12 @@
 ```powershell
 git version
 git --version
+```
+
+## Afficher les changements entre commits/arbre de travail
+
+```powershell
+git diff <some_commit_id> <other_commit_id>
 ```
 
 ## Afficher l'état de l'arborescence
