@@ -21,9 +21,11 @@ git config --global user.email "<email>"
 ## Créer un nouveau dépôt vide
 
 > Si le dépôt existe déjà, va le réinitialiser
+> Par défaut, crée une branche du même nom que celui configuré dans les paramètres (**.gitconfig**)
  
 ```powershell
 git init
+git init -b <branch_name>
 ```
 
 ## Lister les informations globales de configuration
