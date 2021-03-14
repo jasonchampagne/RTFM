@@ -3,6 +3,9 @@
 ![Logo de FFmpeg](https://nsa40.casimages.com/img/2021/03/14/210314041423969272.png)
 
 **SOMMAIRE**
+
+💠 _Les commandes de FFmpeg affichent généralement la version de ce dernier_
+
 + [Afficher les informations d'un fichier](#afficher-les-informations-dun-fichier)
 + [Changer de format (conteneur), sans ré-encodage](#changer-de-format-conteneur-sans-ré-encodage)
 + [Convertir un fichier](#convertir-un-fichier)
