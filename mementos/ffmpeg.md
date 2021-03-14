@@ -1,6 +1,6 @@
 # FFmpeg
 
 Extraire la partie audio d'une vidéo :
-```shell
+```powershell
 ffmpeg -i video.mp4 audio.mp3
 ```
