@@ -97,7 +97,7 @@ git config --list
 ## Mettre à jour le dépôt distant avec les changements en local
 
 ```powershell
-git push origin master
+git push # git push origin master
 ```
 
 ## Supprimer un fichier
