@@ -12,6 +12,13 @@
 ffmpeg -i video.mp4 -c copy video.avi
 ```
 
+## Convertir un fichier
+
+```powershell
+ffmpeg -i musique.wav musique.mp3
+ffmpeg -i video.avi video.mp4
+```
+
 ## Extraire la partie audio d'une vidéo
 
 ```powershell
