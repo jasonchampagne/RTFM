@@ -10,6 +10,7 @@
 + [Afficher l'état de l'arborescence](#afficher-létat-de-larborescence)
 + [Afficher l'historique des commits](#afficher-lhistorique-des-commits)
 + [Ajouter un fichier à l'index du dépôt](#ajouter-un-fichier-à-lindex-du-dépôt)
++ [Annuler des commits](#annuler-des-commits)
 + [Cloner un dépôt](#cloner-un-dépôt)
 + [Configurer des informations globales](#configurer-des-informations-globales)
 + [Déplacer ou renommer un fichier](#déplacer-ou-renommer-un-fichier)
@@ -52,6 +53,12 @@ git log
 ```powershell
 git add <file>
 git add *.html
+```
+
+## Annuler des commits
+
+```powershell
+git revert <commit_id> # remet le dépôt dans l'état où il se trouvait au moment de ce commit
 ```
 
 ## Cloner un dépôt
