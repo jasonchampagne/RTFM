@@ -48,7 +48,7 @@ git log
 ## Ajouter un fichier à l'index du dépôt
 
 ```powershell
-git commit
+git add <file>
 ```
 
 ## Cloner un dépôt
