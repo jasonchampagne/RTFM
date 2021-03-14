@@ -55,6 +55,7 @@ git commit
 
 ```powershell
 git clone <repository>
+git clone https://github.com/jasonchampagne/FindMyDoc.git
 ```
 
 ## Configurer des informations globales
