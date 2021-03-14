@@ -1,6 +1,6 @@
 # Git
 
-> Les paramètres globaux sont enregistés dans le fichier de configuration **.gitconfig**
+💠 Les paramètres globaux sont enregistés dans le fichier de configuration **.gitconfig**
 
 **SOMMAIRE**
 + [Afficher l'historique des commits](#afficher-lhistorique-des-commits)
