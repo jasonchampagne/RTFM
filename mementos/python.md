@@ -6,12 +6,12 @@
 
 💠 _Sur GNU/Linux ou MacOS, il faut généralement remplacer la commande `python` par `python3`_
 
-+ [Afficher la version de l'interpréteur](#afficher-la-version-de-linterpréteur)
++ [Afficher la version](#afficher-la-version)
 + [Exécuter un script](#exécuter-un-script)
 
 ---
 
-## Afficher la version de l'interpréteur
+## Afficher la version
 
 ```powershell
 python --version
