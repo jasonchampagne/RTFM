@@ -5,6 +5,7 @@
 > + [Configurer des informations globales](#configurer-des-informations-globales)
 > + [Créer un nouveau dépôt vide](#créer-un-nouveau-dépôt-vide)
 > + [Lister les informations globales de configuration](#lister-les-informations-globales-de-configuration)
+> + [Valider les changements dans le dépôt](#valider-les-changements-dans-le-dépôt)
 
 ---
 
@@ -39,4 +40,11 @@ git init -b <branch_name>
 
 ```powershell
 git config --list
+```
+
+## Valider les changements dans le dépôt
+
+```powershell
+git commit
+git commit -m "<message>"
 ```
