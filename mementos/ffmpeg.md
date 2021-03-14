@@ -3,7 +3,7 @@
 **SOMMAIRE**
 + [Changer de format (sans ré-encodage)](#changer-de-format-sans-ré-encodage)
 + [Convertir un fichier](#convertir-un-fichier)
-+ [Couper le son d'une vidéo](#couper-laudio-dune-vidéo)
++ [Couper l'audio d'une vidéo](#couper-laudio-dune-vidéo)
 + [Extraire la partie audio d'une vidéo](#extraire-la-partie-audio-dune-vidéo)
 
 ---
