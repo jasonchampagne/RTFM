@@ -1,6 +1,6 @@
 # Git
 
-> Les paramètres globaux sont enregistés dans le fichier de configuration **.gitconfig**
+▶ Les paramètres globaux sont enregistés dans le fichier de configuration **.gitconfig**
 
 **SOMMAIRE**
 > + [Ajouter un fichier à l'index du dépôt](#ajouter-un-fichier-à-lindex-du-dépôt)
