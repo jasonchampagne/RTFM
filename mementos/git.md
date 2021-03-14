@@ -16,7 +16,7 @@
 + [Créer un nouveau dépôt vide](#créer-un-nouveau-dépôt-vide)
 + [Lister les informations de configuration](#lister-les-informations-de-configuration)
 + [Supprimer un fichier](#supprimer-un-fichier)
-+ [Synchroniser les fichiers d'un dépôt distant avec le dépôt local](#récupérer-les-fichiers-dans-la-branche)
++ [Synchroniser les fichiers d'un dépôt distant avec le dépôt local](#synchroniser-les-fichiers-dun-dépôt-distant-avec-le-dépôt-local)
 + [Valider les changements dans le dépôt](#valider-les-changements-dans-le-dépôt)
 
 ---
