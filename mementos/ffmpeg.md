@@ -2,6 +2,6 @@
 
 Extraire la partie audio d'une vidéo :
 
-```cmd
+```batch
 ffmpeg -i video.mp4 audio.mp3
 ```
