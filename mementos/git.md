@@ -67,7 +67,7 @@ git init -b <branch_name>
 
 ```powershell
 git mv <old_file> <new_file>
-git mv <old_path/file> <new_path/file>
+git mv <old_path_to_file> <new_path_to_file>
 ```
 
 ## Lister les informations de configuration
