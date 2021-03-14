@@ -12,7 +12,7 @@
 
 ```powershell
 git config --global init.defaultbranch "<default_branch_name>"
-git config --global core.editor "<path_to_file_editor">
+git config --global core.editor "<path_to_file_editor>"
 git config --global user.name "<username>"
 git config --global user.email "<email>"
 ```
