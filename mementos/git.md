@@ -54,8 +54,7 @@ git commit
 ## Cloner un dépôt
 
 ```powershell
-git clone <repository>
-git clone https://github.com/microsoft/vscode.git
+git clone <repository> # git clone https://github.com/microsoft/vscode.git
 ```
 
 ## Configurer des informations globales
