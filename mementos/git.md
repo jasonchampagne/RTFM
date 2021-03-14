@@ -6,7 +6,7 @@
 
 ---
 
-## Configurer des information globales
+## Configurer des informations globales
 
 ```powershell
 git config --global user.name "<username>"
