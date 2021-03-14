@@ -1,5 +1,7 @@
 # FFmpeg
 
+![Logo de FFmpeg](https://nsa40.casimages.com/img/2021/03/14/210314041423969272.png)
+
 **SOMMAIRE**
 + [Changer de format (conteneur), sans ré-encodage](#changer-de-format-conteneur-sans-ré-encodage)
 + [Convertir un fichier](#convertir-un-fichier)
