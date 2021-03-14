@@ -49,6 +49,7 @@ git log
 
 ```powershell
 git add <file>
+git add *.html
 ```
 
 ## Cloner un dépôt
