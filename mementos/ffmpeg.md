@@ -1,7 +1,7 @@
 # FFmpeg
 
 **SOMMAIRE**
-+ [Changer de format (sans ré-encodage)](#changer-de-format-sans-ré-encodage)
++ [Changer de format (conteneur) sans ré-encodage](#changer-de-format-sans-ré-encodage)
 + [Convertir un fichier](#convertir-un-fichier)
 + [Couper l'audio d'une vidéo](#couper-laudio-dune-vidéo)
 + [Extraire la partie audio d'une vidéo](#extraire-la-partie-audio-dune-vidéo)
@@ -9,7 +9,7 @@
 
 ---
 
-## Changer de format (sans ré-encodage)
+## Changer de format (conteneur) sans ré-encodage
 
 ```powershell
 ffmpeg -i video.mp4 -c copy video.avi
