@@ -4,7 +4,7 @@
 
 **SOMMAIRE**
 
-💠 Sur GNU/Linux ou MacOS, il faut généralement remplacer la commande `python` par `python3`
+💠 _Sur GNU/Linux ou MacOS, il faut généralement remplacer la commande `python` par `python3`_
 
 + [Afficher la version de l'interpréteur](#afficher-la-version-de-linterpréteur)
 + [Exécuter un script](#exécuter-un-script)
