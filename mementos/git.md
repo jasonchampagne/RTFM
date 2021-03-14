@@ -1,5 +1,7 @@
 # Git
 
+![logo de Git](https://nsa40.casimages.com/img/2021/03/14/210314041119892755.png)
+
 💠 Les paramètres globaux sont enregistés dans le fichier de configuration **.gitconfig**
 
 **SOMMAIRE**
