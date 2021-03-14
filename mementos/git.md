@@ -2,6 +2,7 @@
 
 **SOMMAIRE**
 > + [Configurer des informations globales](#configurer-des-informations-globales)
+> + [Créer un nouveau dépôt vide](#créer-un-nouveau-dépôt-vide)
 > + [Lister les informations globales de configuration](#lister-les-informations-globales-de-configuration)
 
 ---
@@ -15,6 +16,14 @@ git config --global init.defaultbranch "<default_branch_name>"
 git config --global core.editor "<path_to_file_editor>"
 git config --global user.name "<username>"
 git config --global user.email "<email>"
+```
+
+## Créer un nouveau dépôt vide
+
+> Si le dépôt existe déjà, va le réinitialiser
+ 
+```powershell
+git init
 ```
 
 ## Lister les informations globales de configuration
