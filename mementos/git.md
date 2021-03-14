@@ -6,7 +6,7 @@
 > + [Ajouter un fichier à l'index du dépôt](#ajouter-un-fichier-à-lindex-du-dépôt)
 > + [Configurer des informations globales](#configurer-des-informations-globales)
 > + [Créer un nouveau dépôt vide](#créer-un-nouveau-dépôt-vide)
-> + [Lister les informations globales de configuration](#lister-les-informations-globales-de-configuration)
+> + [Lister les informations de configuration](#lister-les-informations-de-configuration)
 > + [Valider les changements dans le dépôt](#valider-les-changements-dans-le-dépôt)
 
 ---
@@ -38,7 +38,7 @@ git init
 git init -b <branch_name>
 ```
 
-## Lister les informations globales de configuration
+## Lister les informations de configuration
 
 ```powershell
 git config --list
