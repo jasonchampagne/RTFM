@@ -1,11 +1,10 @@
 # Git
 
+💠 _Les paramètres globaux sont enregistés dans le fichier de configuration **.gitconfig**_
+
 ![logo de Git](https://nsa40.casimages.com/img/2021/03/14/210314041119892755.png)
 
 **SOMMAIRE**
-
-💠 _Les paramètres globaux sont enregistés dans le fichier de configuration **.gitconfig**_
-
 + [Afficher la version](#afficher-la-version)
 + [Afficher l'état de l'arborescence](#afficher-létat-de-larborescence)
 + [Afficher l'historique des commits](#afficher-lhistorique-des-commits)
