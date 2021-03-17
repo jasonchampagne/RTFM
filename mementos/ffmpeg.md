@@ -15,6 +15,7 @@
 + [Extraire des images d'une vidéo](#extraire-des-images-dune-vidéo)
 + [Extraire la partie audio d'une vidéo](#extraire-la-partie-audio-dune-vidéo)
 + [Extraire une partie de fichier, sans ré-encodage](#extraire-une-partie-de-fichier-sans-ré-encodage)
++ [Fusionner plusieurs fichiers en un seul](#fusionner-plusieurs-fichiers-en-un-seul)
 + [Lister tous les codecs](#lister-tous-les-codecs)
 + [Lister tous les encodeurs](#lister-tous-les-encodeurs)
 + [Lister tous les décodeurs](#lister-tous-les-décodeurs)
@@ -92,6 +93,16 @@ ffmpeg -i video.flac -ss <part_begin> -c copy -to <part_end> out.flac
 ```
 + `<part_begin>` : début de l'extrait (_heure:minute:seconde_)
 + `<part_end>` : fin de l'extrait (_heure:minute:seconde_)
+
+## Fusionner plusieurs fichiers en un seul
+
+```powershell
+ffmpeg -f concat -i <text_file> -c copy output.mp4
+```
++ `<text_file>` : fichier texte contenant chaque fichier à fusionner (un par ligne) :
+  + file first.mp4
+  + file second.mp4
+  + file last.mp4
 
 ## Lister tous les codecs
 
