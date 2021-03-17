@@ -38,7 +38,7 @@ ffmpeg -i video.mp4 -c copy video.avi
 ffmpeg -i video.mp4 -s <width>x<height> -c:a copy output.mp4
 ```
 
-> `<width>` = largeur (pixels)
+> `<width>` = largeur (pixels)<br>
 > `<height>` = hauteur (pixels)
 
 ## Compresser un fichier audio
