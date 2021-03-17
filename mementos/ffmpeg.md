@@ -11,7 +11,7 @@
 + [Compresser un fichier audio](#compresser-un-fichier-audio)
 + [Convertir un fichier](#convertir-un-fichier)
 + [Couper l'audio d'une vidéo](#couper-laudio-dune-vidéo)
-+ [Extraite des images d'une vidéo](#extraire-des-images-dune-vidéo)
++ [Extraire des images d'une vidéo](#extraire-des-images-dune-vidéo)
 + [Extraire la partie audio d'une vidéo](#extraire-la-partie-audio-dune-vidéo)
 + [Extraire une partie de fichier, sans ré-encodage](#extraire-une-partie-de-fichier-sans-ré-encodage)
 + [Lister tous les codecs](#lister-tous-les-codecs)
@@ -61,7 +61,7 @@ ffmpeg -i video.avi video.mp4
 ffmpeg -i video.mp4 -vcodec copy -an out.mp4
 ```
 
-## Extraite des images d'une vidéo
+## Extraire des images d'une vidéo
 
 ```powershell
 ffmpeg -i video.avi -r <fps> -f image2 <format_name>.png
