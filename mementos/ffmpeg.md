@@ -8,6 +8,7 @@
 + [Afficher les informations d'un fichier](#afficher-les-informations-dun-fichier)
 + [Changer de format (conteneur), sans ré-encodage](#changer-de-format-conteneur-sans-ré-encodage)
 + [Changer la résolution d'une vidéo](#changer-la-résolution-dune-vidéo)
++ [Compresser un fichier audio](#compresser-un-fichier-audio)
 + [Convertir un fichier](#convertir-un-fichier)
 + [Couper l'audio d'une vidéo](#couper-laudio-dune-vidéo)
 + [Extraire la partie audio d'une vidéo](#extraire-la-partie-audio-dune-vidéo)
@@ -36,6 +37,14 @@ ffmpeg -i video.mp4 -c copy video.avi
 ```powershell
 ffmpeg -i video.mp4 -s 1920x1080 -c:a copy output.mp4
 ```
+
+## Compresser un fichier audio
+
+```powershell
+ffmpeg -i audio.ogg -ab <bitrate> output.ogg
+```
+
+> **<bitrate>** = valeur numérique (ex : 256 pour 256kbps)
 
 ## Convertir un fichier
 
