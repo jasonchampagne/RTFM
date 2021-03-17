@@ -11,6 +11,7 @@
 + [Compresser un fichier audio](#compresser-un-fichier-audio)
 + [Convertir un fichier](#convertir-un-fichier)
 + [Couper l'audio d'une vidéo](#couper-laudio-dune-vidéo)
++ [Diviser un fichier en deux parties](#diviser-un-fichier-en-deux-parties)
 + [Extraire des images d'une vidéo](#extraire-des-images-dune-vidéo)
 + [Extraire la partie audio d'une vidéo](#extraire-la-partie-audio-dune-vidéo)
 + [Extraire une partie de fichier, sans ré-encodage](#extraire-une-partie-de-fichier-sans-ré-encodage)
@@ -61,6 +62,14 @@ ffmpeg -i video.avi video.mp4
 ```powershell
 ffmpeg -i video.mp4 -vcodec copy -an out.mp4
 ```
+
+## Diviser un fichier en deux parties
+
+```powershell
+ffmpeg -i video.mp4 -t <p1_h_end>:<p1_m_end>:<p1_s_end> -c copy partie1.mp4 -ss <p2_h_begin>:<p2_m_begin>:<p2_s_begin> -codec copy partie2.mp4
+```
++ `<p1_h_end>`, `<p1_m_end>` et `<p1_s_end>` : fin de la première partie, depuis le début du fichier
++ `<p2_h_begin>`, `<p2_m_begin>` et `<p2_s_begin>` : début de la première partie, jusqu'à la fin du fichier
 
 ## Extraire des images d'une vidéo
 
