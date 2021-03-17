@@ -7,6 +7,7 @@
 **SOMMAIRE**
 + [Afficher les informations d'un fichier](#afficher-les-informations-dun-fichier)
 + [Changer de format (conteneur), sans ré-encodage](#changer-de-format-conteneur-sans-ré-encodage)
++ [Changer la résolution d'une vidéo](#changer-la-résolution-dune-vidéo)
 + [Convertir un fichier](#convertir-un-fichier)
 + [Couper l'audio d'une vidéo](#couper-laudio-dune-vidéo)
 + [Extraire la partie audio d'une vidéo](#extraire-la-partie-audio-dune-vidéo)
@@ -28,6 +29,14 @@ ffmpeg -i <file> -hide_banner
 
 ```powershell
 ffmpeg -i video.mp4 -c copy video.avi
+```
+
+## Changer la résolution d'une vidéo
+
+> Par exemple : _scale=1920:1080_
+
+```powershell
+ffmpeg -i video.mp4 -filter:v scale=<width>:<height> -c:a copy output.mp4
 ```
 
 ## Convertir un fichier
