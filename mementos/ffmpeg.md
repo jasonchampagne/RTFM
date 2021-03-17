@@ -35,8 +35,11 @@ ffmpeg -i video.mp4 -c copy video.avi
 ## Changer la résolution d'une vidéo
 
 ```powershell
-ffmpeg -i video.mp4 -s 1920x1080 -c:a copy output.mp4
+ffmpeg -i video.mp4 -s <width>x<height> -c:a copy output.mp4
 ```
+
+> `<width>` = largeur (pixels)
+> `<height>` = hauteur (pixels)
 
 ## Compresser un fichier audio
 
@@ -44,7 +47,7 @@ ffmpeg -i video.mp4 -s 1920x1080 -c:a copy output.mp4
 ffmpeg -i audio.ogg -ab <bitrate> output.ogg
 ```
 
-> `<bitrate>` = valeur numérique (ex : 256 pour 256kbps)
+> `<bitrate>` = débit (kbps)
 
 ## Convertir un fichier
 
