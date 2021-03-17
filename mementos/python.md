@@ -13,7 +13,7 @@
 ## Afficher la version
 
 ```powershell
-python --version
+python --version # alias : python -V
 ```
 
 ## Exécuter un script
