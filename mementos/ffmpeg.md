@@ -66,7 +66,7 @@ ffmpeg -i video.mp4 -vcodec copy -an out.mp4
 ## Diviser un fichier en deux parties
 
 ```powershell
-ffmpeg -i video.mp4 -t <p1_end> -c copy partie1.mp4 -ss <p2_begin> -codec copy partie2.mp4
+ffmpeg -i video.mp4 -t <p1_end> -c copy p1.mp4 -ss <p2_begin> -codec copy p2.mp4
 ```
 + `<p1_end>` : fin de la première partie, depuis le début du fichier (_heure:minute:seconde_)
 + `<p2_begin>` : début de la seconde partie, jusqu'à la fin du fichier (_heure:minute:seconde_)
