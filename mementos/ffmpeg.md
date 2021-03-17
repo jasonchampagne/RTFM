@@ -37,15 +37,15 @@ ffmpeg -i video.mp4 -c copy video.avi
 ```powershell
 ffmpeg -i video.mp4 -s <width>x<height> -c:a copy output.mp4
 ```
-+ `<width>` = largeur (pixels)
-+ `<height>` = hauteur (pixels)
++ `<width>` : largeur (pixels)
++ `<height>` : hauteur (pixels)
 
 ## Compresser un fichier audio
 
 ```powershell
 ffmpeg -i audio.ogg -ab <bitrate> output.ogg
 ```
-+ `<bitrate>` = débit (kbps)
++ `<bitrate>` : débit (kbps)
 
 ## Convertir un fichier
 
@@ -69,9 +69,11 @@ ffmpeg -i video.mp4 audio.mp3
 ## Extraire une partie de fichier, sans ré-encodage
 
 ```powershell
-ffmpeg -i video.mp4 -ss 00:00:10 -c copy -to 00:00:15 out.mp4
-ffmpeg -i audio.flac -ss 00:00:00 -c copy -to 00:01:00 out.flac
+ffmpeg -i video.flac -ss <hour_begin>:<minute_begin>:<second_begin> -c copy -to <hour_end>:<minute_end>:<second_end> out.flac
 ```
++ `<hour_begin>` et `<hour_end>` : heure de début et heure de fin
++ `<minute_begin>` et `<minute_end>` : minute de début et minute de fin
++ `<second_begin>` et `<second_end>` : seconde de début et seconde de fin
 
 ## Lister tous les codecs
 
