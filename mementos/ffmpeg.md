@@ -44,7 +44,7 @@ ffmpeg -i video.mp4 -s 1920x1080 -c:a copy output.mp4
 ffmpeg -i audio.ogg -ab <bitrate> output.ogg
 ```
 
-> **<bitrate>** = valeur numérique (ex : 256 pour 256kbps)
+> `<bitrate>` = valeur numérique (ex : 256 pour 256kbps)
 
 ## Convertir un fichier
 
