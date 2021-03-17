@@ -66,10 +66,10 @@ ffmpeg -i video.mp4 -vcodec copy -an out.mp4
 ## Diviser un fichier en deux parties
 
 ```powershell
-ffmpeg -i video.mp4 -t <p1_h_end>:<p1_m_end>:<p1_s_end> -c copy partie1.mp4 -ss <p2_h_begin>:<p2_m_begin>:<p2_s_begin> -codec copy partie2.mp4
+ffmpeg -i video.mp4 -t <p1_h>:<p1_m>:<p1_s> -c copy partie1.mp4 -ss <p2_h>:<p2_m>:<p2_s> -codec copy partie2.mp4
 ```
-+ `<p1_h_end>`, `<p1_m_end>` et `<p1_s_end>` : fin de la première partie, depuis le début du fichier
-+ `<p2_h_begin>`, `<p2_m_begin>` et `<p2_s_begin>` : début de la première partie, jusqu'à la fin du fichier
++ `<p1_h>`, `<p1_m>` et `<p1_s>` : fin de la première partie, depuis le début du fichier
++ `<p2_h>`, `<p2_m>` et `<p2_s>` : début de la première partie, jusqu'à la fin du fichier
 
 ## Extraire des images d'une vidéo
 
