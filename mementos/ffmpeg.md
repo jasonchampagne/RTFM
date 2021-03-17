@@ -37,17 +37,15 @@ ffmpeg -i video.mp4 -c copy video.avi
 ```powershell
 ffmpeg -i video.mp4 -s <width>x<height> -c:a copy output.mp4
 ```
-
-> `<width>` = largeur (pixels)<br>
-> `<height>` = hauteur (pixels)
++ `<width>` = largeur (pixels)
++ `<height>` = hauteur (pixels)
 
 ## Compresser un fichier audio
 
 ```powershell
 ffmpeg -i audio.ogg -ab <bitrate> output.ogg
 ```
-
-> `<bitrate>` = débit (kbps)
++ `<bitrate>` = débit (kbps)
 
 ## Convertir un fichier
 
