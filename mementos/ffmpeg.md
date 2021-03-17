@@ -33,10 +33,8 @@ ffmpeg -i video.mp4 -c copy video.avi
 
 ## Changer la résolution d'une vidéo
 
-> Par exemple : _scale=1920:1080_
-
 ```powershell
-ffmpeg -i video.mp4 -filter:v scale=<width>:<height> -c:a copy output.mp4
+ffmpeg -i video.mp4 -s 1920x1080 -c:a copy output.mp4
 ```
 
 ## Convertir un fichier
