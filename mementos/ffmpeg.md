@@ -18,6 +18,7 @@
 + [Lister tous les encodeurs](#lister-tous-les-encodeurs)
 + [Lister tous les décodeurs](#lister-tous-les-décodeurs)
 + [Lister tous les formats (conteneurs)](#lister-tous-les-formats-conteneurs)
++ [Rogner une vidéo](#rogner-une-vidéo)
 
 ---
 
@@ -107,3 +108,12 @@ ffmpeg -decoders
 ```powershell
 ffmpeg -formats
 ```
+
+## Rogner une vidéo
+
+```powershell
+ffmpeg -i video.mp4 -filter:v "crop=<width>:<height>:<origin_x>:<origin_y>" output.mp4
+```
++ `<width>` : largeur de la vidéo recadrée
++ `<height>` : hauteur de la vidéo recadrée
++ `<origin_x>` et `<origin_y>` : coordonnées d'origine du recadrage
