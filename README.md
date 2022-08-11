@@ -193,7 +193,6 @@ Retrouvez ici une liste de documentations et manuels d'utilisation/de référenc
 + [Merriam-Webster Dictionary](https://www.dictionaryapi.com/products/index)
 + [Metasploit](https://metasploit.help.rapid7.com/docs)
 + [MinGW](http://mingw-w64.org/doku.php/documentation)
-+ [MongoDB](https://api.mongodb.com)
 + [MongoDB](https://docs.mongodb.com/manual)
 + [MonoGame](https://docs.monogame.net)
 + [MS Office](https://support.office.com)
