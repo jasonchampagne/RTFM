@@ -28,6 +28,7 @@ Retrouvez ici une liste de documentations et manuels d'utilisation/de référenc
 + [Docker](https://training.play-with-docker.com)
 + [Doxygen](http://www.doxygen.nl/manual/index.html)
 + [Dreamweaver](https://helpx.adobe.com/fr/dreamweaver/user-guide.html)
++ [Dr. Memory](https://drmemory.org/index.html#autotoc_md2)
 + [EasyPHP](https://www.easyphp.org/documentation/devserver)
 + [Emacs](https://www.gnu.org/software/emacs/documentation.html)
 + [FileZilla](https://wiki.filezilla-project.org/Documentation)
