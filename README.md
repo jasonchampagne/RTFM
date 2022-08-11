@@ -6,7 +6,8 @@ Retrouvez ici une liste de documentations et manuels d'utilisation/de référenc
 
 + [3ds Max](https://knowledge.autodesk.com/fr/support/3ds-max)
 + [After Effects](https://helpx.adobe.com/fr/after-effects/user-guide.html)
-+ [Ardour](https://manual.ardour.org/toc) / [Atom](https://atom.io/docs)
++ [Ardour](https://manual.ardour.org/toc)
++ [Atom](https://atom.io/docs)
 + [Audacity](https://manual.audacityteam.org/index.html)
 + [Audition](https://helpx.adobe.com/fr/audition/user-guide.html)
 + [AutoCAD](https://knowledge.autodesk.com/fr/support/autocad)
