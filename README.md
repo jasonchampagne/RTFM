@@ -1,6 +1,6 @@
 # FindMyDoc
 
-Retrouvez ici une liste de documentations et manuels d'utilisation/de référence pour vos langages de programmation/Web, bibliothèques, frameworks, CMS, logiciels d'infographie, 3D, MAO, d'édition vidéo, de bureautique, des systèmes d'exploitation ou encore d'utilitaires. Je publie également des petits [mémentos](https://github.com/jasonchampagne/FindMyDoc/tree/master/mementos) de commandes usuelles.
+Retrouvez ici une liste de documentations et manuels d'utilisation/de référence pour vos langages de programmation/développement web, bibliothèques, frameworks, CMS, logiciels d'infographie, 3D, MAO, d'édition vidéo, de bureautique, des systèmes d'exploitation ou encore des utilitaires. Je publie également des petits [mémentos](https://github.com/jasonchampagne/FindMyDoc/tree/master/mementos) de commandes usuelles.
 
 > 📛 N'hésitez pas à me signaler tout lien qui ne serait plus valide.
 
