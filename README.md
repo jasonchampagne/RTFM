@@ -356,6 +356,7 @@ Retrouvez ici une liste de documentations et manuels d'utilisation/de référenc
 + [Yii Framework](https://www.yiiframework.com/doc)
 + [YouTube](https://developers.google.com/youtube)
 + [Zend](https://framework.zend.com/learn)
++ [Zig](https://ziglang.org/learn)
 + [Zorin OS](https://help.zorin.com)
 
 > _**NOTE 1** : Raku est le nouveau nom pour Perl 6 (qui se distingue désormais des versions de Perl à venir)_<br>
