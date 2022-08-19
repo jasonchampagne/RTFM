@@ -1,8 +1,10 @@
 # Read The Fucking Manual
 
-Retrouvez ici une liste de documentations et manuels d'utilisation/de référence pour vos langages de programmation/développement web, bibliothèques, frameworks, CMS, logiciels d'infographie, 3D, MAO, d'édition vidéo, de bureautique, des systèmes d'exploitation ou encore des utilitaires. Je publie également des petits [mémentos](https://github.com/jasonchampagne/FindMyDoc/tree/master/mementos) de commandes usuelles.
+Ci dessous, une iste de documentations et manuels d'utilisation/de référence pour vos langages de programmation/développement web, bibliothèques, frameworks, CMS, logiciels d'infographie, 3D, MAO, d'édition vidéo, de bureautique, des systèmes d'exploitation ou encore des utilitaires.
 
-> 📛 N'hésitez pas à me signaler tout lien qui ne serait plus valide.
+Par ailleurs, je publie également des petits [mémentos](https://github.com/jasonchampagne/FindMyDoc/tree/master/mementos) de commandes usuelles pour des programmes en mode console.
+
+> 📛 **N'hésitez pas à signaler tout lien qui ne serait plus fonctionnel**.
 
 + [3ds Max](https://knowledge.autodesk.com/fr/support/3ds-max)
 + [Ada](https://www.adacore.com/documentation)
