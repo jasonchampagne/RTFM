@@ -281,7 +281,7 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 + [S3](https://docs.aws.amazon.com/AmazonS3/latest/API/Welcome.html)
 + [Sass](https://sass-lang.com/documentation)
 + [Scala](https://docs.scala-lang.org)
-+ [Scene Builder](https://docs.gluonhq.com/scenebuilder)
++ [Scene Builder](https://docs.gluonhq.com)
 + [Scheme](https://small.r7rs.org/attachment/r7rs.pdf)
 + [Scribble Maps](https://www.scribblemaps.com/api)
 + [Scribus](https://wiki.scribus.net/canvas/Page_principale)
