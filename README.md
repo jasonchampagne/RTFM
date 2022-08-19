@@ -360,6 +360,3 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 + [Zend](https://framework.zend.com/learn)
 + [Zig](https://ziglang.org/learn)
 + [Zorin OS](https://help.zorin.com)
-
-> _**NOTE 1** : Raku est le nouveau nom pour Perl 6 (qui se distingue désormais des versions de Perl à venir)_<br>
-> _**NOTE 2** : Les utilitaires sont des programmes principalement utilisables en ligne de commande_
