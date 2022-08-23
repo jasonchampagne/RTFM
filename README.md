@@ -120,6 +120,7 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 + [FreeType](https://www.freetype.org/freetype2/docs/documentation.html)
 + [Gambas](http://gambas.sourceforge.net/en/main.html)
 + [Game Development Kit](https://docs.microsoft.com/fr-fr/gaming/gdk)
++ [GB Studio](https://www.gbstudio.dev/docs)
 + [GCC](https://gcc.gnu.org/onlinedocs)
 + [GDB](https://www.gnu.org/software/gdb/documentation)
 + [GDevelop](http://wiki.compilgames.net/doku.php/fr/gdevelop5/start)
