@@ -337,6 +337,7 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 + [Visual Basic](https://docs.microsoft.com/fr-fr/dotnet/visual-basic/language-reference)
 + [Visual Novel Maker](https://asset.visualnovelmaker.com/help/index.htm)
 + [Visual Studio Code](https://code.visualstudio.com/Docs)
++ [Vite](https://vitejs.dev)
 + [VLC Media Player](https://www.videolan.org/doc)
 + [VMware](https://docs.vmware.com/fr)
 + [Void](https://docs.voidlinux.org)
