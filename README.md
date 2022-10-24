@@ -305,6 +305,7 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 + [Sublime Text](https://www.sublimetext.com/docs/3)
 + [Subversion](https://subversion.apache.org/docs/api/1.8/index.html)
 + [Superpowers](http://docs.superpowers-html5.com/fr)
++ [Svelte](https://svelte.dev/docs)
 + [Sweet Home 3D](http://www.sweethome3d.com/fr/userGuide.jsp)
 + [Swift](https://swift.org/documentation)
 + [Symfony](https://symfony.com/doc)
