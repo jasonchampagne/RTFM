@@ -211,6 +211,7 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 + [NASA](https://api.nasa.gov/index.html)
 + [NASM](https://www.nasm.us/doc)
 + [Neutralinojs](https://neutralino.js.org/docs)
++ [Next.js](https://nextjs.org/docs/getting-started)
 + [Nginx](https://nginx.org/en/docs)
 + [Nim](https://nim-lang.org/documentation.html)
 + [NixOS](https://nixos.org/learn.html)
