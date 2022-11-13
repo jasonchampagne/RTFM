@@ -283,6 +283,7 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 + [Rosegarden](https://www.rosegardenmusic.com/resources)
 + [Ruby](https://ruby-doc.org)
 + [Rust](https://doc.rust-lang.org)
++ [RustDesk](https://rustdesk.com/docs/en)
 + [S3](https://docs.aws.amazon.com/AmazonS3/latest/API/Welcome.html)
 + [Sass](https://sass-lang.com/documentation)
 + [Scala](https://docs.scala-lang.org)
