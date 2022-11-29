@@ -62,6 +62,7 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 + [Crystal](https://crystal-lang.org/docs)
 + [CSS](https://www.w3.org/TR/css-color-4)
 + [CUDA](https://docs.nvidia.com/cuda/index.html)
++ [Cutter](https://cutter.re/docs)
 + [D](https://dlang.org/spec/spec.html)
 + [dahliaOS](https://docs.dahliaos.io)
 + [Darktable](https://darktable.fr/les-manuels)
