@@ -1,6 +1,6 @@
 # RTFM
 
-Ci dessous, une liste de documentations et manuels d'utilisation/de référence pour vos langages de programmation/développement web, bibliothèques, frameworks, CMS, logiciels d'infographie, 3D, MAO, d'édition vidéo, de bureautique, des systèmes d'exploitation ou encore des utilitaires.
+Ci dessous, une liste de documentations et manuels d'utilisation/de référence pour vos langages de programmation/développement web, bibliothèques, cadriciels, CMS, logiciels d'infographie, 3D, MAO, d'édition vidéo, de bureautique, des systèmes d'exploitation ou encore des utilitaires.
 
 Par ailleurs, je publie également des petits [mémentos](https://github.com/jasonchampagne/FindMyDoc/tree/master/mementos) de commandes usuelles pour des programmes en mode console.
 
