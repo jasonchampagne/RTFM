@@ -142,6 +142,7 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 + [Haskell](https://www.haskell.org/documentation)
 + [Haxe](https://haxe.org/manual)
 + [HTML](https://www.w3.org/TR/html)
++ [Htmx](https://htmx.org/docs)
 + [Illustrator](https://helpx.adobe.com/fr/illustrator/user-guide.html)
 + [ImageMagick](https://imagemagick.org/script/command-line-tools.php)
 + [imgur](https://api.imgur.com)
