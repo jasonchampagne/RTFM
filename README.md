@@ -56,6 +56,7 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 + [CMake](https://cmake.org/documentation)
 + [COBOL](https://open-cobol.sourceforge.io/doc/gnucobol.pdf)
 + [CodeIgniter](https://codeigniter.com/docs)
++ [Codon](https://docs.exaloop.io/codon)
 + [CoffeeScript](https://coffeescript.org/#language)
 + [Coinbase](https://developers.coinbase.com)
 + [Common Lisp](https://common-lisp.net/documentation)
