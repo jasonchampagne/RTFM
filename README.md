@@ -177,6 +177,7 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 + [Less](http://lesscss.org/usage)
 + [LibreCAD](https://wiki.librecad.org/index.php?title=Main_Page)
 + [LibreOffice](https://wiki.documentfoundation.org/Documentation/fr)
++ [Libretro](https://docs.libretro.com)
 + [LibVLC](https://www.videolan.org/developers/vlc/doc/doxygen/html/group__libvlc.html)
 + [Lighttpd](https://redmine.lighttpd.net/projects/lighttpd/wiki)
 + [Lightworks](https://www.lwks.com/index.php?option=com_content&view=article&id=162&Itemid=246&start=QuickStart)
