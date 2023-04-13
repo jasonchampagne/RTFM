@@ -19,6 +19,6 @@ python --version
 ## Exécuter un script
 
 ```powershell
-python <console_script>.py
-pythonw <graphical_script>.py
+python <console_app>.py
+pythonw <graphical_app>.py
 ```
