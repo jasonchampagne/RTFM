@@ -2,7 +2,7 @@
 
 > **SOMMAIRE**
 > + [Démarrer le serveur](#démarrer-le-serveur)
-> + [Initialiser le répertoire data](#)
+> + [Initialiser le répertoire data](#initialiser-le-répertoire-data)
 
 ---
 
