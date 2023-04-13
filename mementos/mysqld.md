@@ -4,10 +4,10 @@
 
 |Windows|GNU/Linux et MacOS|
 |:--|:--|
-|`mysqld --console`|`sudo systemctl start mysql`|
+|`mysqld.exe --console`|`sudo systemctl start mysql`|
 
 ## Initialiser le répertoire data
 
 |Windows|GNU/Linux et MacOS|
 |:--|:--|
-|`mysqld --defaults-file=<path>/my.ini --initialize`|`usr/local/mysql/bin/mysqld --defaults-file=<path>/my.ini --initialize`|
+|`mysqld.exe --defaults-file=<path>/my.ini --initialize`|`usr/local/mysql/bin/mysqld --defaults-file=<path>/my.ini --initialize`|
