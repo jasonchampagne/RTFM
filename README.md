@@ -299,6 +299,7 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 + [Scribus](https://wiki.scribus.net/canvas/Page_principale)
 + [SDelete](https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete)
 + [SDL](https://wiki.libsdl.org)
++ [Servo](https://servo.org/documentation)
 + [SFML](https://www.sfml-dev.org/documentation/2.5.1-fr/index.php)
 + [Signal](https://www.signal.org/docs)
 + [Simple Machines Forum](https://wiki.simplemachines.org/smf/Main_Page)
