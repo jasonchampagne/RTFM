@@ -29,6 +29,7 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 + [AutoHotkey](https://www.autohotkey.com/docs)
 + [AutoIT](https://www.autoitscript.com/wiki)
 + [Azure](https://docs.microsoft.com/fr-fr/azure)
++ [Babylon.js](https://doc.babylonjs.com)
 + [Backbone.js](https://backbonejs.org)
 + [Bash](https://www.gnu.org/software/bash/manual)
 + [Batch](https://docs.microsoft.com/en-us/azure/batch)
