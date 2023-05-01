@@ -269,6 +269,7 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 + [Poetry](https://python-poetry.org/docs)
 + [PokéAPI](https://pokeapi.co/docs/v2)
 + [PostgreSQL](https://www.postgresql.org/docs)
++ [PostgREST](https://postgrest.org/en/stable)
 + [PowerShell](https://docs.microsoft.com/fr-fr/powershell)
 + [Premiere Pro](https://helpx.adobe.com/fr/premiere-pro/user-guide.html)
 + [PrestaShop](https://www.prestashop.com/fr/ressources/documentation)
