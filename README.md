@@ -166,6 +166,7 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 + [Kairos](https://www.kairos.com/docs/api)
 + [Kali](https://www.kali.org/docs)
 + [Kdenlive](https://userbase.kde.org/Kdenlive/Manual/fr)
++ [Kiss](http://htmlpreview.github.io/?https://github.com/blakemcbride/Kiss/blob/master/manual/man/index.html)
 + [Kivy](https://kivy.org/doc/stable/gettingstarted/intro.html)
 + [Knot DNS](https://www.knot-dns.cz/documentation)
 + [Kotlin](https://kotlinlang.org/docs)
