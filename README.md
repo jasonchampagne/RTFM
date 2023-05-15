@@ -26,6 +26,7 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 + [Audacity](https://manual.audacityteam.org/index.html)
 + [Audition](https://helpx.adobe.com/fr/audition/user-guide.html)
 + [AutoCAD](https://knowledge.autodesk.com/fr/support/autocad)
++ [Autoconf](https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.71/index.html)
 + [AutoHotkey](https://www.autohotkey.com/docs)
 + [AutoIT](https://www.autoitscript.com/wiki)
 + [Azure](https://docs.microsoft.com/fr-fr/azure)
