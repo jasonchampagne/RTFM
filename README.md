@@ -297,6 +297,7 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 + [reCAPTCHA](https://developers.google.com/recaptcha/intro?hl=en)
 + [Reddit](https://www.reddit.com/dev/api)
 + [Ren'Py](https://www.renpy.org/doc/html)
++ [Restreamer](https://docs.datarhei.com/restreamer)
 + [Rocky Linux](https://docs.rockylinux.org)
 + [Rosegarden](https://www.rosegardenmusic.com/resources)
 + [Ruby](https://ruby-doc.org)
