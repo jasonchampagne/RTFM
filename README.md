@@ -262,6 +262,7 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 + [Pastebin](https://pastebin.com/doc_api)
 + [Perl](https://perldoc.perl.org)
 + [Phalcon](https://docs.phalcon.io/4.0/fr-fr/introduction)
++ [Pharo](https://pharo.org/documentation)
 + [Phoronix Test Suite](http://www.phoronix-test-suite.com/documentation)
 + [Photoshop](https://helpx.adobe.com/fr/photoshop/user-guide.html)
 + [PHP](https://www.php.net/manual/fr/index.php)
