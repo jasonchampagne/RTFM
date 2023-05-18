@@ -154,6 +154,7 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 + [ImageMagick](https://imagemagick.org/script/command-line-tools.php)
 + [imgur](https://api.imgur.com)
 + [InDesign](https://helpx.adobe.com/fr/indesign/user-guide.html)
++ [Infisical](https://infisical.com/docs)
 + [Inkscape](https://inkscape.org/learn)
 + [Inno Setup](https://www.jrsoftware.org/ishelp)
 + [Instagram](https://www.instagram.com/developer)
