@@ -335,6 +335,7 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 + [Symfony](https://symfony.com/doc)
 + [Tails](https://tails.boum.org/doc/index.fr.html)
 + [Tailwind](https://tailwindcss.com/docs)
++ [Tamagui](https://tamagui.dev/docs)
 + [Tiled](https://doc.mapeditor.org/fr/stable)
 + [Tilesetter](https://www.tilesetter.org/docs)
 + [Tokio](https://tokio.rs/tokio/tutorial)
