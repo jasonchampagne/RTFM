@@ -275,6 +275,7 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 + [PIP](https://pip.pypa.io/en/stable)
 + [PipeWire](https://docs.pipewire.org/)
 + [Pixel](https://github.com/faiface/pixel/wiki)
++ [Plausible](https://plausible.io/docs)
 + [PL/SQL](https://docs.oracle.com/cd/B10501_01/index.htm)
 + [PluXml](https://wiki.pluxml.org)
 + [Poetry](https://python-poetry.org/docs)
