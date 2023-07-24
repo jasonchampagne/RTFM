@@ -298,6 +298,7 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 + [React](https://fr.reactjs.org/docs/getting-started.html)
 + [Reaper](https://www.reaper.fm/userguide.php)
 + [reCAPTCHA](https://developers.google.com/recaptcha/intro?hl=en)
++ [Red](https://www.red-lang.org/p/documentation.html)
 + [Reddit](https://www.reddit.com/dev/api)
 + [Ren'Py](https://www.renpy.org/doc/html)
 + [Restreamer](https://docs.datarhei.com/restreamer)
