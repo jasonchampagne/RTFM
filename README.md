@@ -56,6 +56,7 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 + [Clang](https://clang.llvm.org/docs/UsersManual.html)
 + [Clip Studio Paint](https://tips.clip-studio.com/en-us/official)
 + [Clojure](https://clojure.org/api/api)
++ [Cloudflare](https://developers.cloudflare.com)
 + [CMake](https://cmake.org/documentation)
 + [COBOL](https://open-cobol.sourceforge.io/doc/gnucobol.pdf)
 + [CodeIgniter](https://codeigniter.com/docs)
