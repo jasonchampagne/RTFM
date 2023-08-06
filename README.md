@@ -271,6 +271,7 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 + [PHP](https://www.php.net/manual/fr/index.php)
 + [phpBB](phpbb.com/support/docs)
 + [PHPBoost](https://www.phpboost.com/wiki/wiki.php)
++ [phpMyAdmin](https://docs.phpmyadmin.net/fr/latest)
 + [PhysX](https://docs.nvidia.com/gameworks/index.html#gameworkslibrary/physx/physx.htm)
 + [Pidgin](https://developer.pidgin.im/wiki/Using%20Pidgin)
 + [Pinterest](https://developers.pinterest.com)
