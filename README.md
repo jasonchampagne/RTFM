@@ -34,6 +34,7 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 + [Backbone.js](https://backbonejs.org)
 + [Bash](https://www.gnu.org/software/bash/manual)
 + [Batch](https://docs.microsoft.com/en-us/azure/batch)
++ [Bevy](https://bevyengine.org/learn/book/introduction)
 + [Bitbucket](https://developer.atlassian.com/bitbucket/api/2/reference)
 + [Bitcoin](https://developer.bitcoin.org)
 + [Bitly](https://dev.bitly.com)
