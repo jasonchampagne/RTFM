@@ -195,6 +195,7 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 + [Linotte](http://langagelinotte.free.fr/wordpress/?page_id=120)
 + [Linux Kernel](https://www.kernel.org/doc)
 + [Linux Mint](https://linuxmint-installation-guide.readthedocs.io/fr/latest)
++ [Lit](https://lit.dev/docs)
 + [LMMS](https://lmms.io/documentation)
 + [LÖVE](https://love2d.org/wiki/love_(Fran%C3%A7ais))
 + [Lua](https://www.lua.org/docs.html)
