@@ -2,9 +2,10 @@
 
 Ci dessous, une liste de documentations et manuels d'utilisation/de référence pour vos langages de programmation/développement web, bibliothèques, cadriciels, CMS, logiciels d'infographie, 3D, MAO, d'édition vidéo, de bureautique, des systèmes d'exploitation ou encore des utilitaires.
 
-Par ailleurs, je publie également des petits [mémentos](https://github.com/jasonchampagne/FindMyDoc/tree/master/mementos) de commandes usuelles pour des programmes en mode console.
-
+> [!NOTE]
 > 📛 **N'hésitez pas à signaler tout lien qui ne serait plus fonctionnel**.
+
+Par ailleurs, je publie également des petits [mémentos](https://github.com/jasonchampagne/FindMyDoc/tree/master/mementos) de commandes usuelles pour des programmes en mode console.
 
 + [3ds Max](https://knowledge.autodesk.com/fr/support/3ds-max)
 + [Ada](https://www.adacore.com/documentation)
