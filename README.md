@@ -355,6 +355,7 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 + [Tamagui](https://tamagui.dev/docs)
 + [Tiled](https://doc.mapeditor.org/fr/stable)
 + [Tilesetter](https://www.tilesetter.org/docs)
++ [Tkinter](https://docs.python.org/3/library/tkinter.html)
 + [Tokio](https://tokio.rs/tokio/tutorial)
 + [Tomcat](https://tomcat.apache.org/tomcat-9.0-doc/index.html)
 + [Trisquel](https://trisquel.info/fr/wiki)
