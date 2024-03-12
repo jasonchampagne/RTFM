@@ -101,6 +101,7 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 + [Drupal](https://www.drupal.org/documentation)
 + [EasyPHP](https://www.easyphp.org/documentation/devserver)
 + [Ebiten](https://ebiten.org/documents)
++ [Eclipse](https://www.eclipse.org/documentation)
 + [ECMAScript](https://tc39.es/ecma262)
 + [Eiffel](https://www.eiffel.org/documentation)
 + [Electron](https://electronjs.org/docs)
