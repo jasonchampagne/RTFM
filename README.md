@@ -304,6 +304,7 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 + [Qt](https://doc.qt.io)
 + [Qubes](https://www.qubes-os.org/doc)
 + [R](https://cran.r-project.org/manuals.html)
++ [Radicle](https://radicle.xyz/guides)
 + [Rails](https://guides.rubyonrails.org)
 + [RakNet](http://www.jenkinssoftware.com/raknet/manual/index.html)
 + [Raku](https://docs.raku.org)
