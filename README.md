@@ -229,6 +229,7 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 + [Mercurial](https://www.mercurial-scm.org/wiki/MercurialApi)
 + [Merriam-Webster Dictionary](https://www.dictionaryapi.com/products/index)
 + [Metasploit](https://metasploit.help.rapid7.com/docs)
++ [MicroStudio](https://microstudio.dev/documentation/Quickstart)
 + [MinGW](http://mingw-w64.org/doku.php/documentation)
 + [Mojo](https://docs.modular.com)
 + [MongoDB](https://docs.mongodb.com/manual)
