@@ -123,6 +123,7 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 + [Firebase](https://firebase.google.com/docs)
 + [FL Studio](https://www.image-line.com/support/flstudio_online_manual)
 + [Flask](https://flask.palletsprojects.com)
++ [Flax Engine](https://docs.flaxengine.com)
 + [Flickr](https://www.flickr.com/services/api)
 + [Flutter](https://flutter.dev/docs)
 + [FluxBB](https://fluxbb.org/docs)
