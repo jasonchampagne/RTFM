@@ -112,6 +112,7 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 + [Ember.js](https://guides.emberjs.com)
 + [EndeavourOS](https://discovery.endeavouros.com)
 + [Erlang](https://www.erlang.org/docs)
++ [Evernote](https://dev.evernote.com)
 + [ExpressJS](https://expressjs.com/en/4x/api.html)
 + [F#](https://docs.microsoft.com/en-us/dotnet/fsharp)
 + [Facebook](https://developers.facebook.com)
