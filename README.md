@@ -322,6 +322,7 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 + [Restreamer](https://docs.datarhei.com/restreamer)
 + [Rocky Linux](https://docs.rockylinux.org)
 + [Rosegarden](https://www.rosegardenmusic.com/resources)
++ [RPG Paper Maker](https://rpg-paper-maker.gitbook.io/rpg-paper-maker)
 + [Ruby](https://ruby-doc.org)
 + [Rust](https://doc.rust-lang.org)
 + [RustDesk](https://rustdesk.com/docs/en)
