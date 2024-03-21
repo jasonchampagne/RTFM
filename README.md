@@ -409,6 +409,7 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 + [WLangage](https://doc.pcsoft.fr)
 + [WordPress](https://codex.wordpress.org/fr:Accueil)
 + [WordPress](https://codex.wordpress.org/WordPress_APIs)
++ [World of Warcraft](https://warcraft.wiki.gg/wiki/World_of_Warcraft_API)
 + [Wowchemy](https://wowchemy.com/docs)
 + [Wren](https://wren.io/modules)
 + [wxWidgets](https://www.wxwidgets.org/docs)
