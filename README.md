@@ -290,6 +290,7 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 + [phpMyAdmin](https://docs.phpmyadmin.net/fr/latest)
 + [PhysX](https://docs.nvidia.com/gameworks/index.html#gameworkslibrary/physx/physx.htm)
 + [Pidgin](https://developer.pidgin.im/wiki/Using%20Pidgin)
++ [Pinokio](https://docs.pinokio.computer)
 + [Pinterest](https://developers.pinterest.com)
 + [PIP](https://pip.pypa.io/en/stable)
 + [PipeWire](https://docs.pipewire.org/)
