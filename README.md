@@ -157,6 +157,7 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 + [Hack](https://docs.hhvm.com/hack)
 + [Haskell](https://www.haskell.org/documentation)
 + [Haxe](https://haxe.org/manual)
++ [Hiddify](https://hiddify.com/app)
 + [HTML](https://www.w3.org/TR/html)
 + [Htmx](https://htmx.org/docs)
 + [Hugging Face](https://huggingface.co/docs)
