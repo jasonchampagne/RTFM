@@ -119,7 +119,239 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 |F#|-|[documentation](https://documentations.microsoft.com/fr-fr/dotnet/fsharp)|
 |FASM|-|[documentation](https://flatassembler.net/documentations.php)|
 |Fedora|-|[documentation](https://documentations.fedoraproject.org)|
+|Figma|-|[documentation](https://www.figma.com/learn)|
+|FileZilla|-|[documentation](https://wiki.filezilla-project.org/documentationumentation)|
+|Firebase|-|[documentation](https://firebase.google.com/documentations)|
+|Flask|-|[documentation](https://flask.palletsprojects.com/en/2.0.x)|
+|Flutter|-|[documentation](https://flutter.dev/documentations)|
+|Foundation|-|[documentation](https://foundation.zurb.com/sites/documentations)|
+|FreeBSD|-|[documentation](https://documentations.freebsd.org/documentation)|
+|Freemarker|-|[documentation](https://freemarker.apache.org/documentations)|
+|Frida|-|[documentation](https://frida.re/documentations/home)|
+|FUSE|-|[documentation](https://github.com/libfuse/libfuse/blob/master/README.md)|
+|Gatsby|-|[documentation](https://www.gatsbyjs.com/documentations)|
+|GCC|-|[documentation](https://gcc.gnu.org/onlinedocumentations)|
+|GDB|-|[documentation](https://sourceware.org/gdb/current/onlinedocumentations)|
+|Gentoo|-|[documentation](https://wiki.gentoo.org/wiki/Handbook:Main_Page)|
+|GitHub Actions|-|[documentation](https://documentations.github.com/en/actions)|
+|GitLab CI|-|[documentation](https://documentations.gitlab.com/ee/ci)|
+|GitLab|-|[documentation](https://documentations.gitlab.com/ee)|
+|Git|-|[documentation](https://git-scm.com/documentation)|
+|GNU Bash|-|[documentation](https://www.gnu.org/software/bash/manual)|
+|Go|-|[documentation](https://golang.org/documentation)|
+|Godot Engine|-|[documentation](https://documentations.godotengine.org/en/stable)|
+|Google Ads API|-|[documentation](https://developers.google.com/google-ads/api/documentations/start)|
+|Google Analytics|-|[documentation](https://developers.google.com/analytics/devguides)|
+|Google API|-|[documentation](https://developers.google.com/products)|
+|Google Calendar API|-|[documentation](https://developers.google.com/calendar/api)|
+|Google Charts|-|[documentation](https://developers.google.com/chart)|
+|Google Classroom API|-|[documentation](https://developers.google.com/classroom)|
+|Google Cloud|-|[documentation](https://cloud.google.com/documentations)|
+|Google Cloud Functions|-|[documentation](https://cloud.google.com/functions/documentations)|
+|Google Cloud Run|-|[documentation](https://cloud.google.com/run/documentations)|
+|Google Cloud SQL|-|[documentation](https://cloud.google.com/sql/documentations)|
+|Google Cloud Storage|-|[documentation](https://cloud.google.com/storage/documentations)|
+|Google Container Registry|-|[documentation](https://cloud.google.com/container-registry/documentations)|
+|Google Datastore|-|[documentation](https://cloud.google.com/datastore/documentations)|
+|Google Dialogflow|-|[documentation](https://cloud.google.com/dialogflow/documentations)|
+|Google Drive API|-|[documentation](https://developers.google.com/drive)|
+|Google Firebase|-|[documentation](https://firebase.google.com/documentations)|
+|Google Fonts|-|[documentation](https://developers.google.com/fonts/documentations/getting_started)|
+|Google Geocoding API|-|[documentation](https://developers.google.com/maps/documentationumentation/geocoding/start)|
+|Google Maps API|-|[documentation](https://developers.google.com/maps/documentationumentation/javascript/overview)|
+|Google Photos API|-|[documentation](https://developers.google.com/photos)|
+|Google Places API|-|[documentation](https://developers.google.com/places/web-service/overview)|
+|Google Sheets API|-|[documentation](https://developers.google.com/sheets/api)|
+|Google Tag Manager API|-|[documentation](https://developers.google.com/tag-manager/api/v2)|
+|Google Translate API|-|[documentation](https://cloud.google.com/translate/documentations)|
+|Google Vision API|-|[documentation](https://cloud.google.com/vision/documentations)|
+|Gradle|-|[documentation](https://documentations.gradle.org/current/userguide/userguide.html)|
+|GraphQL|-|[documentation](https://graphql.org/learn)|
+|Grav|-|[documentation](https://learn.getgrav.org)|
+|Gulp|-|[documentation](https://gulpjs.com/documentations/en/getting-started/quick-start)|
+|Haiku|-|[documentation](https://www.haiku-os.org/documentations)|
+|Haskell|-|[documentation](https://www.haskell.org/documentationumentation)|
+|Heroku|-|[documentation](https://devcenter.heroku.com/categories/reference)|
+|Hibernate|-|[documentation](https://hibernate.org/orm/documentationumentation)|
+|Homebrew|-|[documentation](https://documentations.brew.sh)|
+|Hugo|-|[documentation](https://gohugo.io/documentationumentation)|
+|HxD|-|[documentation](https://mh-nexus.de/en/hxd)|
+|HTML|-|[documentation](https://developer.mozilla.org/en-US/documentations/Web/HTML)|
+|HTTP|-|[documentation](https://developer.mozilla.org/en-US/documentations/Web/HTTP)|
+|Hugo|-|[documentation](https://gohugo.io/documentationumentation)|
+|HxD|-|[documentation](https://mh-nexus.de/en/hxd)|
+|Idris|-|[documentation](https://documentations.idris-lang.org/en/latest)|
+|IntelliJ IDEA|-|[documentation](https://www.jetbrains.com/idea/documentationumentation)|
+|Ionic Framework|-|[documentation](https://ionicframework.com/documentations)|
+|iOS|-|[documentation](https://developer.apple.com/documentationumentation)|
+|IPFS|-|[documentation](https://documentations.ipfs.io/concepts)|
+|Java|-|[documentation](https://documentations.oracle.com/en/java)|
+|JavaScript|-|[documentation](https://developer.mozilla.org/en-US/documentations/Web/JavaScript)|
+|Jenkins|-|[documentation](https://www.jenkins.io/documentation)|
+|Jest|-|[documentation](https://jestjs.io/documentations/getting-started)|
+|JIRA|-|[documentation](https://confluence.atlassian.com/jirasoftwarecloud)|
+|Jekyll|-|[documentation](https://jekyllrb.com/documentations)|
+|jQuery|-|[documentation](https://learn.jquery.com)|
+|JSON|-|[documentation](https://www.json.org/json-en.html)|
+|Julia|-|[documentation](https://documentations.julialang.org/en/v1)|
+|Jupyter|-|[documentation](https://jupyter.org/documentationumentation)|
+|Kafka|-|[documentation](https://kafka.apache.org/documentationumentation)|
+|Kali Linux|-|[documentation](https://www.kali.org/documentations)|
+|Kanban|-|[documentation](https://www.atlassian.com/agile/kanban)|
+|Kotlin|-|[documentation](https://kotlinlang.org/documentations/home.html)|
+|Kubernetes|-|[documentation](https://kubernetes.io/documentations)|
+|Laravel|-|[documentation](https://laravel.com/documentations)|
+|LaTeX|-|[documentation](https://www.latex-project.org/help/documentationumentation)|
+|Less|-|[documentation](http://lesscss.org)|
+|LibreOffice|-|[documentation](https://documentationumentation.libreoffice.org/en)|
+|Linode|-|[documentation](https://www.linode.com/documentations)|
+|Linux|-|[documentation](https://www.kernel.org/documentation/html/latest)|
+|Lisp|-|[documentation](https://lisp-lang.org/learn)|
+|LLVM|-|[documentation](https://llvm.org/documentations)|
+|Lua|-|[documentation](https://www.lua.org/documentations.html)|
+|LXC|-|[documentation](https://linuxcontainers.org/lxc/documentationumentation)|
+|LXD|-|[documentation](https://linuxcontainers.org/lxd/documentationumentation)|
+|Magento|-|[documentation](https://devdocumentations.magento.com)|
+|Markdown|-|[documentation](https://www.markdownguide.org)|
+|Material-UI|-|[documentation](https://mui.com/getting-started/installation)|
+|MATLAB|-|[documentation](https://www.mathworks.com/help/matlab)|
+|Maven|-|[documentation](https://maven.apache.org/guides)|
+|Mercurial|-|[documentation](https://www.mercurial-scm.org/documentation)|
+|Meson|-|[documentation](https://mesonbuild.com/Getting-started.html)|
+|Meteor|-|[documentation](https://documentations.meteor.com)|
+|Microsoft Azure|-|[documentation](https://documentations.microsoft.com/en-us/azure)|
+|Microsoft Edge|-|[documentation](https://documentations.microsoft.com/en-us/microsoft-edge)|
+|Microsoft Excel|-|[documentation](https://support.microsoft.com/fr-fr/excel)|
+|Microsoft Graph API|-|[documentation](https://documentations.microsoft.com/en-us/graph)|
+|Microsoft Office|-|[documentation](https://support.microsoft.com/fr-fr/office)|
+|Microsoft OneDrive|-|[documentation](https://support.microsoft.com/fr-fr/onedrive)|
+|Microsoft PowerPoint|-|[documentation](https://support.microsoft.com/fr-fr/powerpoint)|
+|Microsoft SQL Server|-|[documentation](https://documentations.microsoft.com/en-us/sql)|
+|Microsoft Teams|-|[documentation](https://support.microsoft.com/fr-fr/teams)|
+|Microsoft Windows|-|[documentation](https://documentations.microsoft.com/en-us/windows)|
+|Microsoft Word|-|[documentation](https://support.microsoft.com/fr-fr/word)|
+|MinGW-w64|-|[documentation](https://mingw-w64.org/documentationumentation)|
+|ML|-|[documentation](https://www.mlprog.com)|
+|MongoDB|-|[documentation](https://documentations.mongodb.com)|
+|Moodle|-|[documentation](https://documentations.moodle.org)|
+|MS-DOS|-|[documentation](https://www.pcjs.org/software/pcx86/sys/ibm/machines/pc/5160/rom/basic/ibmbasic)|
+|MuleSoft|-|[documentation](https://documentations.mulesoft.com)|
+|MySQL|-|[documentation](https://dev.mysql.com/documentation)|
+|NASM|-|[documentation](https://www.nasm.us/documentation)|
+|.NET|-|[documentation](https://documentations.microsoft.com/en-us/dotnet)|
+|NetBeans|-|[documentation](https://netbeans.apache.org/help/index.html)|
+|Next.js|-|[documentation](https://nextjs.org/documentations)|
+|NGINX|-|[documentation](https://nginx.org/en/documentations)|
+|Nix|-|[documentation](https://nixos.org)|
+|Node.js|-|[documentation](https://nodejs.org/en/documentations)|
+|npm|-|[documentation](https://documentations.npmjs.com)|
+|NSIS|-|[documentation](https://nsis.sourceforge.io/documentations)|
+|Objective-C|-|[documentation](https://developer.apple.com/library/archive/documentationumentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)|
 |Obsidian|prise de notes|[guide utilisateur](https://help.obsidian.md/Home) / [documentation](https://docs.obsidian.md/Home)|
+|OCaml|-|[documentation](https://ocaml.org/documentations)|
+|Octave|-|[documentation](https://www.gnu.org/software/octave/documentation/interpreter)|
+|OpenCV|-|[documentation](https://documentations.opencv.org/master)|
+|OpenGL|-|[documentation](https://www.khronos.org/opengl/wiki)|
+|OpenLDAP|-|[documentation](https://www.openldap.org/documentation)|
+|OpenSSL|-|[documentation](https://www.openssl.org/documentations)|
+|OpenVPN|-|[documentation](https://openvpn.net/community-resources)|
+|OpenWRT|-|[documentation](https://openwrt.org/documentations)|
+|Oracle|-|[documentation](https://documentations.oracle.com/en)|
+|Packer|-|[documentation](https://www.packer.io/documentations)|
+|Pascal|-|[documentation](https://www.freepascal.org/documentations.html)|
+|Passport.js|-|[documentation](http://www.passportjs.org/documentations)|
+|PEAR|-|[documentation](https://pear.php.net/manual/en)|
+|Perl|-|[documentation](https://perldocumentation.perl.org)|
+|Phaser|-|[documentation](https://phaser.io/learn)|
+|PHP|-|[documentation](https://www.php.net/manual/en)|
+|phpBB|-|[documentation](https://www.phpbb.com/support/documentations)|
+|PHPUnit|-|[documentation](https://phpunit.de/manual/current/en)|
+|pip|-|[documentation](https://pip.pypa.io/en/stable)|
+|PostgreSQL|-|[documentation](https://www.postgresql.org/documentations)|
+|PowerShell|-|[documentation](https://documentations.microsoft.com/en-us/powershell)|
+|Premake|-|[documentation](https://premake.github.io/documentations)|
+|PrestaShop|-|[documentation](https://devdocumentations.prestashop.com)|
+|Prolog|-|[documentation](https://www.swi-prolog.org/pldocumentation)|
+|Protobuf|-|[documentation](https://developers.google.com/protocol-buffers)|
+|Puppet|-|[documentation](https://puppet.com/documentations)|
+|Python|-|[documentation](https://documentations.python.org/3)|
+|Qt|-|[documentation](https://documentation.qt.io)|
+|R|-|[documentation](https://cran.r-project.org/manuals.html)|
+|RabbitMQ|-|[documentation](https://www.rabbitmq.com/documentationumentation.html)|
+|Rails|-|[documentation](https://guides.rubyonrails.org)|
+|Raspberry Pi|-|[documentation](https://www.raspberrypi.org/documentationumentation)|
+|React|-|[documentation](https://reactjs.org/documentations/getting-started.html)|
+|React Native|-|[documentation](https://reactnative.dev/documentations/getting-started)|
+|React Router|-|[documentation](https://reactrouter.com/documentations)|
+|Redis|-|[documentation](https://redis.io/documentationumentation)|
+|Redux|-|[documentation](https://redux.js.org/introduction/getting-started)|
+|REST|-|[documentation](https://restfulapi.net)|
+|RHEL|-|[documentation](https://access.redhat.com/documentationumentation/en-us/red_hat_enterprise_linux)|
+|Riot.js|-|[documentation](https://riot.js.org/documentationumentation)|
+|Ruby|-|[documentation](https://www.ruby-lang.org/en/documentationumentation)|
+|Rust|-|[documentation](https://www.rust-lang.org/learn)|
+|SaltStack|-|[documentation](https://documentations.saltproject.io/en/latest)|
+|Sass|-|[documentation](https://sass-lang.com/documentationumentation)|
+|Scala|-|[documentation](https://documentations.scala-lang.org)|
+|Scrapy|-|[documentation](https://documentations.scrapy.org/en/latest)|
+|Sequelize|-|[documentation](https://sequelize.org/master)|
+|Shopify|-|[documentation](https://shopify.dev/documentations)|
+|Sinatra|-|[documentation](http://sinatrarb.com/documentationumentation.html)|
+|Sketch|-|[documentation](https://www.sketch.com/documentations)|
+|Slack API|-|[documentation](https://api.slack.com)|
+|Slack|-|[documentation](https://slack.com/help)|
+|Svelte|-|[documentation](https://svelte.dev/documentations)|
+|Swift|-|[documentation](https://swift.org/documentationumentation)|
+|Symfony|-|[documentation](https://symfony.com/documentation/current)|
+|Tableau|-|[documentation](https://help.tableau.com/current/guides)|
+|Tesseract|-|[documentation](https://tesseract-ocr.github.io/tessdocumentation)|
+|TensorFlow|-|[documentation](https://www.tensorflow.org/guide)|
+|Terraform|-|[documentation](https://www.terraform.io/documentations)|
+|Thonny|-|[documentation](https://thonny.org)|
+|Tkinter|-|[documentation](https://documentations.python.org/3/library/tkinter.html)|
+|TOML|-|[documentation](https://toml.io/en)|
+|TypeScript|-|[documentation](https://www.typescriptlang.org/documentations)|
+|Ubuntu|-|[documentation](https://help.ubuntu.com)|
+|Unity|-|[documentation](https://documentations.unity3d.com/Manual/index.html)|
+|Unreal Engine|-|[documentation](https://documentations.unrealengine.com/4.27/en-US)|
+|Vagrant|-|[documentation](https://www.vagrantup.com/documentations)|
+|VBA|-|[documentation](https://documentations.microsoft.com/en-us/office/vba/api/overview)|
+|Vim|-|[documentation](https://www.vim.org/documentations.php)|
+|VirtualBox|-|[documentation](https://www.virtualbox.org/manual)|
+|Visual Basic|-|[documentation](https://documentations.microsoft.com/en-us/dotnet/visual-basic)|
+|Visual Studio Code|-|[documentation](https://code.visualstudio.com/documentations)|
+|Vue.js|-|[documentation](https://vuejs.org/v2/guide)|
+|Vulkan|-|[documentation](https://www.khronos.org/vulkan)|
+|VVVV|-|[documentation](https://vvvv.org/documentationumentation)|
+|W3.CSS|-|[documentation](https://www.w3schools.com/w3css/default.asp)|
+|WAMP|-|[documentation](https://sourceforge.net/projects/wampserver)|
+|WebAssembly|-|[documentation](https://webassembly.org/documentations)|
+|WebExtensions|-|[documentation](https://developer.mozilla.org/en-US/documentations/Mozilla/Add-ons/WebExtensions)|
+|WebGL|-|[documentation](https://developer.mozilla.org/en-US/documentations/Web/API/WebGL_API)|
+|Webpack|-|[documentation](https://webpack.js.org/concepts)|
+|WebSocket|-|[documentation](https://developer.mozilla.org/en-US/documentations/Web/API/WebSocket)|
+|Windows Forms|-|[documentation](https://documentations.microsoft.com/en-us/dotnet/desktop/winforms)|
+|Windows PowerShell|-|[documentation](https://documentations.microsoft.com/en-us/powershell)|
+|Windows Server|-|[documentation](https://documentations.microsoft.com/en-us/windows-server)|
+|Wireshark|-|[documentation](https://www.wireshark.org/documentations)|
+|WordPress|-|[documentation](https://wordpress.org/support)|
+|wxWidgets|-|[documentation](https://documentations.wxwidgets.org/trunk)|
+|Xamarin|-|[documentation](https://documentations.microsoft.com/en-us/xamarin)|
+|Xamarin.Forms|-|[documentation](https://documentations.microsoft.com/en-us/xamarin/xamarin-forms)|
+|Xcode|-|[documentation](https://developer.apple.com/documentationumentation/xcode)|
+|Xen|-|[documentation](https://xenproject.org)|
+|XHTML|-|[documentation](https://www.w3.org/MarkUp/Guide)|
+|XML|-|[documentation](https://www.w3schools.com/xml/xml_whatis.asp)|
+|YAML|-|[documentation](https://yaml.org/spec)|
+|Yarn|-|[documentation](https://classic.yarnpkg.com/en/documentations)|
+|Yii|-|[documentation](https://www.yiiframework.com/documentation/guide/2.0/en)|
+|YouTube API|-|[documentation](https://developers.google.com/youtube/v3/getting-started)|
+|Zend Framework|-|[documentation](https://documentations.zendframework.com)|
+|Zephyr|-|[documentation](https://documentations.zephyrproject.org/latest)|
+|Zig|-|[documentation](https://ziglang.org/documentationumentation)|
+|Zoho CRM|-|[documentation](https://www.zoho.com/crm/developer/documentations)|
+|Zoho|-|[documentation](https://www.zoho.com/documentations)|
+|Zsh|-|[documentation](https://www.zsh.org/documentation)|
 
 <!--
 + [After Effects](https://helpx.adobe.com/fr/after-effects/user-guide.html)
