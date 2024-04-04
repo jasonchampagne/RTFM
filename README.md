@@ -24,10 +24,10 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 |Apache|serveur web|développement web|[documentation](https://httpd.apache.org/docs)|
 |ArchLinux|système d'exploitation|-|[wiki](https://wiki.archlinux.org/title/Main_page_(Fran%C3%A7ais))|
 |Ardour|station audionumérique|enregistrement, édition et mixage audio|[guide utilisateur](https://manual.ardour.org/toc)|
+|Arduino|langage informatique|programmation|[documentation](https://www.arduino.cc/reference)|
+|Aria2|utilitaire|gestion des téléchargements|[documentation](https://aria2.github.io/manual/en/html/index.html)|
 
 <!--
-|Arduino|-|[documentation](https://www.arduino.cc/reference)|
-|Aria2|-|[documentation](https://aria2.github.io/manual/en/html/index.html)|
 |Asciidocumentation|-|[documentation](http://www.methods.co.nz/asciidocumentation/userguide.html)|
 |ASP.NET|-|[documentation](https://documentations.microsoft.com/fr-fr/aspnet)|
 |Atom|-|[documentation](https://atom.io/documentations)|
