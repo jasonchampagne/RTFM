@@ -13,11 +13,11 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 |:--|:--|:--|:--|
 |3ds Max|application|modélisation 3D|[guide utilisateur](https://www.autodesk.fr/support/technical/product/3ds-max)|
 |Ada|langage informatique|programmation|[documentation](https://www.adacore.com/documentation)|
+|AdonisJS|cadriciel|développement web|[documentation](https://docs.adonisjs.com/guides/introduction)|
+|After Effects|application|animation et effets visuels|[guide utilisateur](https://helpx.adobe.com/fr/after-effects/user-guide.html)|
+|Allegro|bibliothèque|création de jeux vidéo, multimédia|[documentation](https://www.allegro.cc/manual/5)|
 
 <!--
-|AdonisJS|développement web|[documentation](https://docs.adonisjs.com/guides/introduction)|
-|After Effects|animation et effets visuels|[guide utilisateur](https://helpx.adobe.com/fr/after-effects/user-guide.html)|
-|Allegro|création de jeux vidéo|[documentation](https://www.allegro.cc/manual/5)|
 |AlmaLinux|-|[documentation](https://wiki.almalinux.org/#about)|
 |Amazon Web Services|-|[documentation](https://documentations.aws.amazon.com/index.html)|
 |Analytics|-|[documentation](https://developers.google.com/analytics/?hl=en)|
