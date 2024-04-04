@@ -17,7 +17,7 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 |After Effects|application|animation et effets visuels|[guide utilisateur](https://helpx.adobe.com/fr/after-effects/user-guide.html)|
 |Allegro|bibliothèque|création de jeux vidéo, multimédia|[documentation](https://www.allegro.cc/manual/5)|
 |AlmaLinux|système d'exploitation|-|[wiki](https://wiki.almalinux.org)|
-|Amazon Web Services|machine virtuelle|services en ligne|[documentation](https://docs.aws.amazon.com)|
+|Amazon Web Services|machine virtuelle|services en ligne (dans le nuage)|[documentation](https://docs.aws.amazon.com)|
 
 <!--
 |Analytics|-|[documentation](https://developers.google.com/analytics/?hl=en)|
