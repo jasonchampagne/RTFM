@@ -10,9 +10,9 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 > [!NOTE]
 > **GROSSE REFONTE EN COURS...**
 
-|NOM|RESSOURCES|
-|:--|:--|
-|Obsidian|[guide utilisateur](https://help.obsidian.md/Home) / [documentation](https://docs.obsidian.md/Home)|
+|NOM|USAGE|RESSOURCES|
+|:--|:--|:--|
+|Obsidian|prise de notes|[guide utilisateur](https://help.obsidian.md/Home) / [documentation](https://docs.obsidian.md/Home)|
 
 + [3ds Max](https://knowledge.autodesk.com/fr/support/3ds-max)
 + [Ada](https://www.adacore.com/documentation)
