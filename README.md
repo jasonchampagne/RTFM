@@ -22,9 +22,9 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 |Android|système d'exploitation|programmation|[documentation](https://developer.android.com/guide)|
 |Angular|cadriciel|développement web|[documentation](https://angular.io/docs)|
 |Apache|serveur web|développement web|[documentation](https://httpd.apache.org/docs)|
+|ArchLinux|système d'exploitation|-|[wiki](https://wiki.archlinux.org/title/Main_page_(Fran%C3%A7ais))|
 
 <!--
-|ArchLinux|-|[documentation](https://wiki.archlinux.fr)|
 |Ardour|-|[documentation](https://manual.ardour.org/toc)|
 |Arduino|-|[documentation](https://www.arduino.cc/reference)|
 |Aria2|-|[documentation](https://aria2.github.io/manual/en/html/index.html)|
