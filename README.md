@@ -16,9 +16,9 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 |AdonisJS|cadriciel|développement web|[documentation](https://docs.adonisjs.com/guides/introduction)|
 |After Effects|application|animation et effets visuels|[guide utilisateur](https://helpx.adobe.com/fr/after-effects/user-guide.html)|
 |Allegro|bibliothèque|création de jeux vidéo, multimédia|[documentation](https://www.allegro.cc/manual/5)|
+|AlmaLinux|système d'exploitation|-|[wiki](https://wiki.almalinux.org)|
 
 <!--
-|AlmaLinux|-|[documentation](https://wiki.almalinux.org/#about)|
 |Amazon Web Services|-|[documentation](https://documentations.aws.amazon.com/index.html)|
 |Analytics|-|[documentation](https://developers.google.com/analytics/?hl=en)|
 |Android|-|[documentation](https://developer.android.com/documentations)|
