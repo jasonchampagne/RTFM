@@ -15,8 +15,113 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 |3ds Max|modélisation 3D|[guide utilisateur](https://www.autodesk.fr/support/technical/product/3ds-max)|
 |Ada|programmation|[documentation](https://www.adacore.com/documentation)|
 |AdonisJS|cadriciel web|[documentation](https://docs.adonisjs.com/guides/introduction)|
+|After Effects|-|[documentation](https://helpx.adobe.com/fr/after-effects/user-guide.html)|
+|Allegro|-|[documentation](https://liballeg.org/a5documentations/trunk)|
+|AlmaLinux|-|[documentation](https://wiki.almalinux.org/#about)|
+|Amazon Web Services|-|[documentation](https://documentations.aws.amazon.com/index.html)|
+|Analytics|-|[documentation](https://developers.google.com/analytics/?hl=en)|
+|Android|-|[documentation](https://developer.android.com/documentations)|
+|Angular|-|[documentation](https://angular.io/documentations)|
+|Apache|-|[documentation](https://httpd.apache.org/documentations/current)|
+|ArchLinux|-|[documentation](https://wiki.archlinux.fr)|
+|Ardour|-|[documentation](https://manual.ardour.org/toc)|
+|Arduino|-|[documentation](https://www.arduino.cc/reference)|
+|Aria2|-|[documentation](https://aria2.github.io/manual/en/html/index.html)|
+|Asciidocumentation|-|[documentation](http://www.methods.co.nz/asciidocumentation/userguide.html)|
+|ASP.NET|-|[documentation](https://documentations.microsoft.com/fr-fr/aspnet)|
+|Atom|-|[documentation](https://atom.io/documentations)|
+|Audacity|-|[documentation](https://manual.audacityteam.org/index.html)|
+|Audition|-|[documentation](https://helpx.adobe.com/fr/audition/user-guide.html)|
+|AuthPass|-|[documentation](https://authpass.app/documentations)|
+|AutoCAD|-|[documentation](https://knowledge.autodesk.com/fr/support/autocad)|
+|Autoconf|-|[documentation](https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.71/index.html)|
+|AutoHotkey|-|[documentation](https://www.autohotkey.com/documentations)|
+|AutoIT|-|[documentation](https://www.autoitscript.com/wiki)|
+|Azure|-|[documentation](https://documentations.microsoft.com/fr-fr/azure)|
+|Babylon.js|-|[documentation](https://documentation.babylonjs.com)|
+|Backbone.js|-|[documentation](https://backbonejs.org)|
+|Bash|-|[documentation](https://www.gnu.org/software/bash/manual)|
+|Batch|-|[documentation](https://documentations.microsoft.com/en-us/azure/batch)|
+|Bevy|-|[documentation](https://bevyengine.org/learn/book/introduction)|
+|Bitbucket|-|[documentation](https://developer.atlassian.com/bitbucket/api/2/reference)|
+|Bitcoin|-|[documentation](https://developer.bitcoin.org)|
+|Bitly|-|[documentation](https://dev.bitly.com)|
+|Blender|-|[documentation](https://documentations.blender.org)|
+|Bootstrap|-|[documentation](https://getbootstrap.com/documentations)|
+|Brackets|-|[documentation](http://brackets.io/documentations/current/modules/brackets.html)|
+|Bun|-|[documentation](https://github.com/oven-sh/bun#Reference)|
+|Bundler|-|[documentation](https://bundler.io/documentations.html)|
+|C|-|[documentation](https://en.cppreference.com/w/c)|
+|C#|-|[documentation](https://documentations.microsoft.com/fr-fr/dotnet/csharp)|
+|C++|-|[documentation](https://en.cppreference.com/w/cpp)|
+|CakePHP|-|[documentation](https://book.cakephp.org/3.0/fr/index.html)|
+|CapRover|-|[documentation](https://caprover.com/documentations/get-started.html)|
+|CEGUI|-|[documentation](http://cegui.org.uk/content/documentationumentation)|
+|CentOS|-|[documentation](https://wiki.centos.org/fr)|
+|CherryPy|-|[documentation](https://documentations.cherrypy.org/en/latest)|
+|Chkdsk|-|[documentation](https://documentations.microsoft.com/en-us/windows-server/administration/windows-commands/chkdsk)|
+|Cinema 4D|-|[documentation](https://help.maxon.net)|
+|ClamAV|-|[documentation](https://www.clamav.net/documentationuments/clam-antivirus-user-manual)|
+|Clang|-|[documentation](https://clang.llvm.org/documentations/UsersManual.html)|
+|Clip Studio Paint|-|[documentation](https://tips.clip-studio.com/en-us/official)|
+|Clojure|-|[documentation](https://clojure.org/api/api)|
+|Cloudflare|-|[documentation](https://developers.cloudflare.com)|
+|CMake|-|[documentation](https://cmake.org/documentationumentation)|
+|COBOL|-|[documentation](https://open-cobol.sourceforge.io/documentation/gnucobol.pdf)|
+|CodeIgniter|-|[documentation](https://codeigniter.com/documentations)|
+|Codon|-|[documentation](https://documentations.exaloop.io/codon)|
+|CoffeeScript|-|[documentation](https://coffeescript.org/#language)|
+|Coinbase|-|[documentation](https://developers.coinbase.com)|
+|Common Lisp|-|[documentation](https://common-lisp.net/documentationumentation)|
+|Coq|-|[documentation](https://coq.inria.fr/documentationumentation)|
+|CryENGINE|-|[documentation](https://documentations.cryengine.com/display/CEMANUAL/CRYENGINE+V+Manual)|
+|Crystal|-|[documentation](https://crystal-lang.org/documentations)|
+|CSS|-|[documentation](https://www.w3.org/TR/css-color-4)|
+|CUDA|-|[documentation](https://documentations.nvidia.com/cuda/index.html)|
+|CustomTkinter|-|[documentation](https://customtkinter.tomschimansky.com/documentationumentation)|
+|Cutter|-|[documentation](https://cutter.re/documentations)|
+|D|-|[documentation](https://dlang.org/spec/spec.html)|
+|dahliaOS|-|[documentation](https://documentations.dahliaos.io)|
+|Darktable|-|[documentation](https://darktable.fr/les-manuels)|
+|Dart|-|[documentation](https://dart.dev/guides)|
+|DaVinci Resolve|-|[documentation](https://www.blackmagicdesign.com/fr/products/davinciresolve/training)|
+|Daz3D|-|[documentation](http://documentations.daz3d.com/doku.php)|
+|DB2|-|[documentation](https://www.ibm.com/documentations/fr/db2)|
+|Debian|-|[documentation](https://www.debian.org/documentation/index.fr.html)|
+|Deno|-|[documentation](https://deno.land/manual)|
+|Devdocumentations|-|[documentation](https://devdocumentations.io)|
+|Devuan|-|[documentation](https://documentations.devuan.org)|
+|DIA|-|[documentation](https://dia-installer.de/documentationumentation.html)|
+|DigitalOcean|-|[documentation](https://www.digitalocean.com/documentations)|
+|DirectAdmin|-|[documentation](https://www.directadmin.com/api-documentation)|
+|Django|-|[documentation](https://documentations.djangoproject.com/en/stable)|
+|documentationker|-|[documentation](https://documentations.documentationker.com)|
+|documentationtrine|-|[documentation](https://www.documentationtrine-project.org/projects/documentationtrine-orm/en/2.9/index.html)|
+|Doxygen|-|[documentation](https://www.doxygen.nl/manual/index.html)|
+|Drupal|-|[documentation](https://www.drupal.org/documentations)|
+|Dune|-|[documentation](https://dune.readthedocumentations.io/en/stable)|
+|E|-|[documentation](https://www.erights.org/elib/capability/ode/ode-capabilities.html)|
+|eBay API|-|[documentation](https://developer.ebay.com/api-documentations)|
+|ECMAScript|-|[documentation](https://tc39.es/ecma262)|
+|Ejabberd|-|[documentation](https://documentations.ejabberd.im)|
+|Elasticsearch|-|[documentation](https://www.elastic.co/guide/index.html)|
+|Electron|-|[documentation](https://www.electronjs.org/documentations)|
+|Emacs|-|[documentation](https://www.gnu.org/software/emacs/manual/html_node/emacs/index.html)|
+|Ember.js|-|[documentation](https://guides.emberjs.com/release)|
+|Emoji|-|[documentation](https://unicode.org/emoji/charts/full-emoji-list.html)|
+|Emscripten|-|[documentation](https://emscripten.org/documentations)|
+|Entity Framework|-|[documentation](https://documentations.microsoft.com/en-us/ef)|
+|Erlang|-|[documentation](https://www.erlang.org/documentation)|
+|ESLint|-|[documentation](https://eslint.org/documentations/user-guide/getting-started)|
+|Ethereum|-|[documentation](https://ethereum.org/en/developers/documentations)|
+|Excel|-|[documentation](https://support.microsoft.com/fr-fr/excel)|
+|Express.js|-|[documentation](https://expressjs.com/fr/starter/installing.html)|
+|F#|-|[documentation](https://documentations.microsoft.com/fr-fr/dotnet/fsharp)|
+|FASM|-|[documentation](https://flatassembler.net/documentations.php)|
+|Fedora|-|[documentation](https://documentations.fedoraproject.org)|
 |Obsidian|prise de notes|[guide utilisateur](https://help.obsidian.md/Home) / [documentation](https://docs.obsidian.md/Home)|
 
+<!--
 + [After Effects](https://helpx.adobe.com/fr/after-effects/user-guide.html)
 + [Allegro](https://liballeg.org/a5docs/trunk)
 + [AlmaLinux](https://wiki.almalinux.org/#about)
@@ -432,3 +537,4 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 + [Zend](https://framework.zend.com/learn)
 + [Zig](https://ziglang.org/learn)
 + [Zorin OS](https://help.zorin.com)
+-->
