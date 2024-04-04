@@ -21,9 +21,9 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 |Analytics|service web|analyse d'audience|[documentation](https://developers.google.com/analytics?hl=fr)|
 |Android|système d'exploitation|programmation|[documentation](https://developer.android.com/guide)|
 |Angular|cadriciel|développement web|[documentation](https://angular.io/docs)|
+|Apache|serveur web|développement web|[documentation](https://httpd.apache.org/docs)|
 
 <!--
-|Apache|-|[documentation](https://httpd.apache.org/documentations/current)|
 |ArchLinux|-|[documentation](https://wiki.archlinux.fr)|
 |Ardour|-|[documentation](https://manual.ardour.org/toc)|
 |Arduino|-|[documentation](https://www.arduino.cc/reference)|
