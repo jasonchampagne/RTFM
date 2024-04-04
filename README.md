@@ -12,9 +12,9 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 
 |NOM|USAGE|RESSOURCES|
 |:--|:--|:--|
+|3ds Max|modélisation 3D|[guide utilisateur](https://www.autodesk.fr/support/technical/product/3ds-max)|
 |Obsidian|prise de notes|[guide utilisateur](https://help.obsidian.md/Home) / [documentation](https://docs.obsidian.md/Home)|
 
-+ [3ds Max](https://knowledge.autodesk.com/fr/support/3ds-max)
 + [Ada](https://www.adacore.com/documentation)
 + [AdonisJS](https://docs.adonisjs.com/guides/introduction)
 + [After Effects](https://helpx.adobe.com/fr/after-effects/user-guide.html)
