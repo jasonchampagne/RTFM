@@ -23,7 +23,7 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 |Angular|cadriciel|développement web|[documentation](https://angular.io/docs)|
 |Apache|serveur web|développement web|[documentation](https://httpd.apache.org/docs)|
 |ArchLinux|système d'exploitation|-|[wiki](https://wiki.archlinux.org/title/Main_page_(Fran%C3%A7ais))|
-|Ardour|Station audionumérique|enregistrement, édition et mixage audio|[guide utilisateur](https://manual.ardour.org/toc)|
+|Ardour|station audionumérique|enregistrement, édition et mixage audio|[guide utilisateur](https://manual.ardour.org/toc)|
 
 <!--
 |Arduino|-|[documentation](https://www.arduino.cc/reference)|
