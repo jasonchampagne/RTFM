@@ -7,8 +7,8 @@ Ci dessous, une liste de documentations et manuels d'utilisation/de référence 
 
 Par ailleurs, je publie également des petits [mémentos](https://github.com/jasonchampagne/FindMyDoc/tree/master/mementos) de commandes usuelles pour des programmes en mode console.
 
-> [!NOTE]
-> **GROSSE REFONTE EN COURS...**
+
+> 📛 **GROSSE REFONTE EN COURS...**
 
 |NOM|USAGE|RESSOURCES|
 |:--|:--|:--|
