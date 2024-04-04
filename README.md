@@ -19,9 +19,9 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 |AlmaLinux|système d'exploitation|-|[wiki](https://wiki.almalinux.org)|
 |Amazon Web Services|plateforme en ligne|services web|[documentation](https://docs.aws.amazon.com)|
 |Analytics|service web|analyse d'audience|[documentation](https://developers.google.com/analytics?hl=fr)|
+|Android|système d'exploitation|programmation|[documentation](https://developer.android.com/guide)|
 
 <!--
-|Android|-|[documentation](https://developer.android.com/documentations)|
 |Angular|-|[documentation](https://angular.io/documentations)|
 |Apache|-|[documentation](https://httpd.apache.org/documentations/current)|
 |ArchLinux|-|[documentation](https://wiki.archlinux.fr)|
