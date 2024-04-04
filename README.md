@@ -20,9 +20,9 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 |Amazon Web Services|plateforme en ligne|services web|[documentation](https://docs.aws.amazon.com)|
 |Analytics|service web|analyse d'audience|[documentation](https://developers.google.com/analytics?hl=fr)|
 |Android|système d'exploitation|programmation|[documentation](https://developer.android.com/guide)|
+|Angular|cadriciel|développement web|[documentation](https://angular.io/docs)|
 
 <!--
-|Angular|-|[documentation](https://angular.io/documentations)|
 |Apache|-|[documentation](https://httpd.apache.org/documentations/current)|
 |ArchLinux|-|[documentation](https://wiki.archlinux.fr)|
 |Ardour|-|[documentation](https://manual.ardour.org/toc)|
