@@ -15,7 +15,7 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 |3ds Max|modélisation 3D|[guide utilisateur](https://www.autodesk.fr/support/technical/product/3ds-max)|
 |Ada|programmation|[documentation](https://www.adacore.com/documentation)|
 |AdonisJS|cadriciel web|[documentation](https://docs.adonisjs.com/guides/introduction)|
-|After Effects|-|[documentation](https://helpx.adobe.com/fr/after-effects/user-guide.html)|
+|After Effects|animation et effets visuels|[guide utilisateur](https://helpx.adobe.com/fr/after-effects/user-guide.html)|
 |Allegro|-|[documentation](https://liballeg.org/a5documentations/trunk)|
 |AlmaLinux|-|[documentation](https://wiki.almalinux.org/#about)|
 |Amazon Web Services|-|[documentation](https://documentations.aws.amazon.com/index.html)|
