@@ -37,12 +37,12 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |AuthPass|application|gestion des mots de passes|[manuel](https://authpass.app/docs)|
 |AutoCAD|application|dessin assisté par ordinateur|[manuel](https://help.autodesk.com/FRA)|
 |Autoconf|utilitaire|configuration automatique de code source|[manuel](https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.72/index.html)|
+|AutoHotkey|langage informatique|programmation|[documentation](https://www.autohotkey.com/docs)|
 |Bulma|cadriciel|développement web|[documentation](https://bulma.io/documentation)|
 |Dolphin|application|émulation GameCube et Wii|[manuel](https://fr.dolphin-emu.org/docs/guides)|
 |Gather|plateforme en ligne|espace virtuel persistant|[manuel](https://support.gather.town/hc/en-us)|
 
 <!--
-|AutoHotkey|-|[documentation](https://www.autohotkey.com/documentations)|
 |AutoIT|-|[documentation](https://www.autoitscript.com/wiki)|
 |Azure|-|[documentation](https://documentations.microsoft.com/fr-fr/azure)|
 |Babylon.js|-|[documentation](https://documentation.babylonjs.com)|
