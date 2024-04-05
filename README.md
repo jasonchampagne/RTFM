@@ -29,6 +29,9 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 |Asciidoc|langage informatique|rédaction de documentation technique|[documentation](https://docs.asciidoctor.org/asciidoc/latest)|
 |Bulma|cadriciel|développement web|[documentation](https://bulma.io/documentation)|
 |Gather|plateforme en ligne|espace virtuel persistant|[guide utilisateur](https://support.gather.town/hc/en-us)|
+|Affinity Designer|||[guide utilisateur (PC)](https://affinity.serif.com/fr/learn/designer/desktop), [guide utilisateur (iPad)](https://affinity.serif.com/fr/learn/designer/ipad)|
+|Affinity Photo|||[guide utilisateur (PC)](https://affinity.serif.com/fr/learn/photo/desktop), [guide utilisateur (iPad)](https://affinity.serif.com/fr/learn/photo/ipad)|
+|Affinity Publisher|||[guide utilisateur (PC)](https://affinity.serif.com/fr/learn/publisher/desktop), [guide utilisateur (iPad)](https://affinity.serif.com/fr/learn/publisher/ipad)|
 
 <!--
 |ASP.NET|-|[documentation](https://documentations.microsoft.com/fr-fr/aspnet)|
