@@ -35,6 +35,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Audacity|application|enregistrement et édition audio|[manuel](https://manual.audacityteam.org/index.html)|
 |Audition|application|enregistrement, édition et mixage audio|[manuel](https://helpx.adobe.com/fr/audition/user-guide.html)|
 |Bulma|cadriciel|développement web|[documentation](https://bulma.io/documentation)|
+|Dolphin|application|émulation GameCube et Wii|[manuel](https://fr.dolphin-emu.org/docs/guides)|
 |Gather|plateforme en ligne|espace virtuel persistant|[manuel](https://support.gather.town/hc/en-us)|
 
 <!--
