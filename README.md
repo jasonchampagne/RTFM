@@ -33,12 +33,11 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |ASP.NET|cadriciel|développement web|[documentation](https://learn.microsoft.com/fr-fr/aspnet/core)|
 |Atom|application|édition de code|[manuel](https://flight-manual.atom-editor.cc) ▪ [IPA](https://flight-manual.atom-editor.cc/api/v1.63.1/AtomEnvironment)|
 |Audacity|application|enregistrement et édition audio|[manuel](https://manual.audacityteam.org/index.html)|
+|Audition|application|enregistrement, édition et mixage audio|[manuel](https://helpx.adobe.com/fr/audition/user-guide.html)|
 |Bulma|cadriciel|développement web|[documentation](https://bulma.io/documentation)|
 |Gather|plateforme en ligne|espace virtuel persistant|[manuel](https://support.gather.town/hc/en-us)|
 
 <!--
-|Audacity|-|[documentation](https://manual.audacityteam.org/index.html)|
-|Audition|-|[documentation](https://helpx.adobe.com/fr/audition/user-guide.html)|
 |AuthPass|-|[documentation](https://authpass.app/documentations)|
 |AutoCAD|-|[documentation](https://knowledge.autodesk.com/fr/support/autocad)|
 |Autoconf|-|[documentation](https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.71/index.html)|
