@@ -21,7 +21,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Analytics|service web|analyse d'audience|[documentation](https://developers.google.com/analytics?hl=fr)|
 |Android|système d'exploitation|programmation|[documentation](https://developer.android.com/guide)|
 |Angular|cadriciel|développement web|[documentation](https://angular.io/docs)|
-|Apache|serveur web|développement web|[documentation](https://httpd.apache.org/docs)|
+|Apache|application|serveur web|[documentation](https://httpd.apache.org/docs)|
 |ArchLinux|système d'exploitation|administration système et réseaux|[wiki](https://wiki.archlinux.org/title/Main_page_(Fran%C3%A7ais))|
 |Ardour|application|enregistrement, édition et mixage audio|[manuel](https://manual.ardour.org/toc)|
 |Arduino|langage informatique|programmation|[documentation](https://www.arduino.cc/reference)|
