@@ -11,10 +11,10 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 
 |NOM|TYPE|USAGE|RESSOURCES|
 |:--|:--|:--|:--|
-|3ds Max|application|modélisation 3D|[guide utilisateur](https://www.autodesk.fr/support/technical/product/3ds-max)|
+|3ds Max|application|modélisation 3D|[manuel](https://www.autodesk.fr/support/technical/product/3ds-max)|
 |Ada|langage informatique|programmation|[documentation](https://www.adacore.com/documentation)|
 |AdonisJS|cadriciel|développement web|[documentation](https://docs.adonisjs.com/guides/introduction)|
-|After Effects|application|animation et effets visuels|[guide utilisateur](https://helpx.adobe.com/fr/after-effects/user-guide.html)|
+|After Effects|application|animation et effets visuels|[manuel](https://helpx.adobe.com/fr/after-effects/user-guide.html)|
 |Allegro|bibliothèque|création de jeux vidéo, multimédia|[documentation](https://www.allegro.cc/manual/5)|
 |AlmaLinux|système d'exploitation|-|[wiki](https://wiki.almalinux.org)|
 |Amazon Web Services|plateforme en ligne|services web|[documentation](https://docs.aws.amazon.com)|
@@ -23,15 +23,15 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 |Angular|cadriciel|développement web|[documentation](https://angular.io/docs)|
 |Apache|serveur web|développement web|[documentation](https://httpd.apache.org/docs)|
 |ArchLinux|système d'exploitation|-|[wiki](https://wiki.archlinux.org/title/Main_page_(Fran%C3%A7ais))|
-|Ardour|station audionumérique|enregistrement, édition et mixage audio|[guide utilisateur](https://manual.ardour.org/toc)|
+|Ardour|station audionumérique|enregistrement, édition et mixage audio|[manuel](https://manual.ardour.org/toc)|
 |Arduino|langage informatique|programmation|[documentation](https://www.arduino.cc/reference)|
 |Aria2|utilitaire|gestion des téléchargements|[documentation](https://aria2.github.io/manual/en/html/index.html)|
 |Asciidoc|langage informatique|rédaction de documentation technique|[documentation](https://docs.asciidoctor.org/asciidoc/latest)|
 |Bulma|cadriciel|développement web|[documentation](https://bulma.io/documentation)|
-|Gather|plateforme en ligne|espace virtuel persistant|[guide utilisateur](https://support.gather.town/hc/en-us)|
-|Affinity Designer|||[guide utilisateur (PC)](https://affinity.serif.com/fr/learn/designer/desktop), [guide utilisateur (iPad)](https://affinity.serif.com/fr/learn/designer/ipad)|
-|Affinity Photo|||[guide utilisateur (PC)](https://affinity.serif.com/fr/learn/photo/desktop), [guide utilisateur (iPad)](https://affinity.serif.com/fr/learn/photo/ipad)|
-|Affinity Publisher|||[guide utilisateur (PC)](https://affinity.serif.com/fr/learn/publisher/desktop), [guide utilisateur (iPad)](https://affinity.serif.com/fr/learn/publisher/ipad)|
+|Gather|plateforme en ligne|espace virtuel persistant|[manuel](https://support.gather.town/hc/en-us)|
+|Affinity Designer|||[manuel (PC)](https://affinity.serif.com/fr/learn/designer/desktop), [manuel (iPad)](https://affinity.serif.com/fr/learn/designer/ipad)|
+|Affinity Photo|||[manuel (PC)](https://affinity.serif.com/fr/learn/photo/desktop), [manuel (iPad)](https://affinity.serif.com/fr/learn/photo/ipad)|
+|Affinity Publisher|||[manuel (PC)](https://affinity.serif.com/fr/learn/publisher/desktop), [manuel (iPad)](https://affinity.serif.com/fr/learn/publisher/ipad)|
 
 <!--
 |ASP.NET|-|[documentation](https://documentations.microsoft.com/fr-fr/aspnet)|
