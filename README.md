@@ -17,7 +17,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |After Effects|application|animation et effets visuels|[manuel](https://helpx.adobe.com/fr/after-effects/user-guide.html)|
 |Allegro|bibliothèque|création de jeux vidéo, multimédia|[documentation](https://www.allegro.cc/manual/5)|
 |AlmaLinux|système d'exploitation|administration système et réseaux|[wiki](https://wiki.almalinux.org)|
-|Amazon Web Services|plateforme en ligne|services web|[documentation](https://docs.aws.amazon.com)|
+|Amazon Web Services|plateforme en ligne|édition de services web|[documentation](https://docs.aws.amazon.com)|
 |Analytics|service web|analyse d'audience|[documentation](https://developers.google.com/analytics?hl=fr)|
 |Android|système d'exploitation|programmation|[documentation](https://developer.android.com/guide)|
 |Angular|cadriciel|développement web|[documentation](https://angular.io/docs)|
