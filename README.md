@@ -5,7 +5,7 @@ Ci dessous une liste de documentations, guides d'utilisation et manuels de réf�
 Par ailleurs, je publie également des petits [mémentos](https://github.com/jasonchampagne/FindMyDoc/tree/master/mementos) de commandes usuelles pour des programmes en mode console.
 
 > [!NOTE]
-> **N'hésitez pas à signaler tout lien qui ne serait plus fonctionnel**.
+> **N'hésitez pas à signaler tout lien qui ne serait plus fonctionnel ou plus à jour**.
 
 > 📛 **GROSSE REFONTE EN COURS...**
 
