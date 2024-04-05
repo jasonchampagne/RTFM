@@ -40,12 +40,12 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |AutoHotkey|langage informatique|programmation|[documentation](https://www.autohotkey.com/docs)|
 |AutoIt|langage informatique|programmation|[wiki](https://www.autoitscript.com/wiki)|
 |Azure|plateforme en ligne|hébergement d'applications, données et services|[documentation](https://learn.microsoft.com/fr-fr/azure)|
+|Babylon.js|bibliothèque|rendu 3D sur navigateur|[documentation](https://doc.babylonjs.com)|
 |Bulma|cadriciel|développement web|[documentation](https://bulma.io/documentation)|
 |Dolphin|application|émulation GameCube et Wii|[manuel](https://fr.dolphin-emu.org/docs/guides)|
 |Gather|plateforme en ligne|espace virtuel persistant|[manuel](https://support.gather.town/hc/en-us)|
 
 <!--
-|Babylon.js|-|[documentation](https://documentation.babylonjs.com)|
 |Backbone.js|-|[documentation](https://backbonejs.org)|
 |Bash|-|[documentation](https://www.gnu.org/software/bash/manual)|
 |Batch|-|[documentation](https://documentations.microsoft.com/en-us/azure/batch)|
