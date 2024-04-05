@@ -27,14 +27,14 @@ Par ailleurs, je publie également des petits [mémentos](https://github.com/jas
 |Arduino|langage informatique|programmation|[documentation](https://www.arduino.cc/reference)|
 |Aria2|utilitaire|gestion des téléchargements|[documentation](https://aria2.github.io/manual/en/html/index.html)|
 |Asciidoc|langage informatique|rédaction de documentation technique|[documentation](https://docs.asciidoctor.org/asciidoc/latest)|
-|Bulma|cadriciel|développement web|[documentation](https://bulma.io/documentation)|
-|Gather|plateforme en ligne|espace virtuel persistant|[manuel](https://support.gather.town/hc/en-us)|
 |Affinity Designer|application|conception et illustration|[manuel (PC)](https://affinity.serif.com/fr/learn/designer/desktop) ▪ [manuel (iPad)](https://affinity.serif.com/fr/learn/designer/ipad)|
 |Affinity Photo|application|édition photo|[manuel (PC)](https://affinity.serif.com/fr/learn/photo/desktop) ▪ [manuel (iPad)](https://affinity.serif.com/fr/learn/photo/ipad)|
 |Affinity Publisher|application|conception et mise en page|[manuel (PC)](https://affinity.serif.com/fr/learn/publisher/desktop) ▪ [manuel (iPad)](https://affinity.serif.com/fr/learn/publisher/ipad)|
+|ASP.NET|cadriciel|développement web|[documentation](https://learn.microsoft.com/fr-fr/aspnet/core)|
+|Bulma|cadriciel|développement web|[documentation](https://bulma.io/documentation)|
+|Gather|plateforme en ligne|espace virtuel persistant|[manuel](https://support.gather.town/hc/en-us)|
 
 <!--
-|ASP.NET|-|[documentation](https://documentations.microsoft.com/fr-fr/aspnet)|
 |Atom|-|[documentation](https://atom.io/documentations)|
 |Audacity|-|[documentation](https://manual.audacityteam.org/index.html)|
 |Audition|-|[documentation](https://helpx.adobe.com/fr/audition/user-guide.html)|
