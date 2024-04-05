@@ -1,6 +1,6 @@
 # RTFM
 
-Ci dessous une liste de documentations, guides d'utilisation et manuels de référence pour vos applications, langages de programmation/développement web, bibliothèques, cadriciels, gestionnaires de contenu, systèmes d'exploitation, utilitaires, etc.
+Ci dessous une liste de documentations, guides d'utilisation et manuels de référence pour des applications, langages de programmation/développement web, bibliothèques, cadriciels, plateformes en ligne, gestionnaires de contenu, systèmes d'exploitation, utilitaires, etc.
 
 Par ailleurs, je publie également des petits [mémentos](https://github.com/jasonchampagne/FindMyDoc/tree/master/mementos) de commandes usuelles pour des programmes en mode console.
 
