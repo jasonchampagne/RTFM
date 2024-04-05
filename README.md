@@ -17,7 +17,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |After Effects|application|animation et effets visuels|[manuel](https://helpx.adobe.com/fr/after-effects/user-guide.html)|
 |Allegro|bibliothèque|création de jeux vidéo, multimédia|[documentation](https://www.allegro.cc/manual/5)|
 |AlmaLinux|système d'exploitation|administration système et réseaux|[wiki](https://wiki.almalinux.org)|
-|Amazon Web Services|plateforme en ligne|édition de services web|[documentation](https://docs.aws.amazon.com)|
+|Amazon Web Services|plateforme en ligne|hébergement d'applications, données et services|[documentation](https://docs.aws.amazon.com)|
 |Analytics|service web|analyse d'audience|[documentation](https://developers.google.com/analytics?hl=fr)|
 |Android|système d'exploitation|programmation|[documentation](https://developer.android.com/guide)|
 |Angular|cadriciel|développement web|[documentation](https://angular.io/docs)|
@@ -38,13 +38,13 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |AutoCAD|application|dessin assisté par ordinateur|[manuel](https://help.autodesk.com/FRA)|
 |Autoconf|utilitaire|configuration automatique de code source|[manuel](https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.72/index.html)|
 |AutoHotkey|langage informatique|programmation|[documentation](https://www.autohotkey.com/docs)|
+|AutoIt|langage informatique|programmation|[wiki](https://www.autoitscript.com/wiki)|
+|Azure|plateforme en ligne|hébergement d'applications, données et services|[documentation](https://learn.microsoft.com/fr-fr/azure)|
 |Bulma|cadriciel|développement web|[documentation](https://bulma.io/documentation)|
 |Dolphin|application|émulation GameCube et Wii|[manuel](https://fr.dolphin-emu.org/docs/guides)|
 |Gather|plateforme en ligne|espace virtuel persistant|[manuel](https://support.gather.town/hc/en-us)|
 
 <!--
-|AutoIT|-|[documentation](https://www.autoitscript.com/wiki)|
-|Azure|-|[documentation](https://documentations.microsoft.com/fr-fr/azure)|
 |Babylon.js|-|[documentation](https://documentation.babylonjs.com)|
 |Backbone.js|-|[documentation](https://backbonejs.org)|
 |Bash|-|[documentation](https://www.gnu.org/software/bash/manual)|
