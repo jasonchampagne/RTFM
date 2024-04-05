@@ -23,7 +23,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Angular|cadriciel|développement web|[documentation](https://angular.io/docs)|
 |Apache|serveur web|développement web|[documentation](https://httpd.apache.org/docs)|
 |ArchLinux|système d'exploitation|administration système et réseaux|[wiki](https://wiki.archlinux.org/title/Main_page_(Fran%C3%A7ais))|
-|Ardour|station audionumérique|enregistrement, édition et mixage audio|[manuel](https://manual.ardour.org/toc)|
+|Ardour|application|enregistrement, édition et mixage audio|[manuel](https://manual.ardour.org/toc)|
 |Arduino|langage informatique|programmation|[documentation](https://www.arduino.cc/reference)|
 |Aria2|utilitaire|gestion des téléchargements|[documentation](https://aria2.github.io/manual/en/html/index.html)|
 |Asciidoc|langage informatique|rédaction de documentation technique|[documentation](https://docs.asciidoctor.org/asciidoc/latest)|
@@ -32,6 +32,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Affinity Publisher|application|conception et mise en page|[manuel (PC)](https://affinity.serif.com/fr/learn/publisher/desktop) ▪ [manuel (iPad)](https://affinity.serif.com/fr/learn/publisher/ipad)|
 |ASP.NET|cadriciel|développement web|[documentation](https://learn.microsoft.com/fr-fr/aspnet/core)|
 |Atom|application|édition de code|[manuel](https://flight-manual.atom-editor.cc) ▪ [IPA](https://flight-manual.atom-editor.cc/api/v1.63.1/AtomEnvironment)|
+|Audacity|application|enregistrement et édition audio|[manuel](https://manual.audacityteam.org/index.html)|
 |Bulma|cadriciel|développement web|[documentation](https://bulma.io/documentation)|
 |Gather|plateforme en ligne|espace virtuel persistant|[manuel](https://support.gather.town/hc/en-us)|
 
