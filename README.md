@@ -34,13 +34,13 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Atom|application|édition de code|[manuel](https://flight-manual.atom-editor.cc) ▪ [IPA](https://flight-manual.atom-editor.cc/api/v1.63.1/AtomEnvironment)|
 |Audacity|application|enregistrement et édition audio|[manuel](https://manual.audacityteam.org/index.html)|
 |Audition|application|enregistrement, édition et mixage audio|[manuel](https://helpx.adobe.com/fr/audition/user-guide.html)|
+|AuthPass|application|gestion des mots de passes|[manuel](https://authpass.app/docs)|
+|AutoCAD|application|dessin assisté par ordinateur (DAO)|[manuel](https://help.autodesk.com/FRA)|
 |Bulma|cadriciel|développement web|[documentation](https://bulma.io/documentation)|
 |Dolphin|application|émulation GameCube et Wii|[manuel](https://fr.dolphin-emu.org/docs/guides)|
 |Gather|plateforme en ligne|espace virtuel persistant|[manuel](https://support.gather.town/hc/en-us)|
 
 <!--
-|AuthPass|-|[documentation](https://authpass.app/documentations)|
-|AutoCAD|-|[documentation](https://knowledge.autodesk.com/fr/support/autocad)|
 |Autoconf|-|[documentation](https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.71/index.html)|
 |AutoHotkey|-|[documentation](https://www.autohotkey.com/documentations)|
 |AutoIT|-|[documentation](https://www.autoitscript.com/wiki)|
