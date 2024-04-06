@@ -36,19 +36,19 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Audition|application|enregistrement, édition et mixage audio|[manuel](https://helpx.adobe.com/fr/audition/user-guide.html)|
 |AuthPass|application|gestion des mots de passes|[manuel](https://authpass.app/docs)|
 |AutoCAD|application|dessin assisté par ordinateur|[manuel](https://help.autodesk.com/FRA)|
-|Autoconf|utilitaire|configuration automatique de code source|[manuel](https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.72/index.html)|
+|Autoconf|utilitaire|configuration automatique de code source|[documentation](https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.72/index.html)|
 |AutoHotkey|langage informatique|programmation|[documentation](https://www.autohotkey.com/docs)|
 |AutoIt|langage informatique|programmation|[wiki](https://www.autoitscript.com/wiki)|
 |Azure|plateforme en ligne|hébergement d'applications, données et services|[documentation](https://learn.microsoft.com/fr-fr/azure)|
 |Babylon.js|bibliothèque|rendu 3D sur navigateur|[documentation](https://doc.babylonjs.com)|
 |Backbone.js|cadriciel|développement web|[documentation](https://backbonejs.org)|
+|Bash|application<br>langage informatique|exécution de commandes<br>programmation|[documentation](https://www.gnu.org/software/bash/manual)|
 |Bulma|cadriciel|développement web|[documentation](https://bulma.io/documentation)|
 |Dolphin|application|émulation GameCube et Wii|[manuel](https://fr.dolphin-emu.org/docs/guides)|
 |Gather|plateforme en ligne|espace virtuel persistant|[manuel](https://support.gather.town/hc/en-us)|
-|Underscore.js|bibliothèque|développement web|[documentation](https://underscorejs.org)|
+|Underscore|bibliothèque|développement web|[documentation](https://underscorejs.org)|
 
 <!--
-|Bash|-|[documentation](https://www.gnu.org/software/bash/manual)|
 |Batch|-|[documentation](https://documentations.microsoft.com/en-us/azure/batch)|
 |Bevy|-|[documentation](https://bevyengine.org/learn/book/introduction)|
 |Bitbucket|-|[documentation](https://developer.atlassian.com/bitbucket/api/2/reference)|
