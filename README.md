@@ -43,13 +43,13 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Babylon.js|bibliothèque|rendu 3D sur navigateur|[documentation](https://doc.babylonjs.com)|
 |Backbone.js|cadriciel|développement web|[documentation](https://backbonejs.org)|
 |Bash|application<br>langage informatique|exécution de commandes<br>programmation|[documentation](https://www.gnu.org/software/bash/manual)|
+|Batch|langage informatique|programmation|[documentation](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)|
 |Bulma|cadriciel|développement web|[documentation](https://bulma.io/documentation)|
 |Dolphin|application|émulation GameCube et Wii|[manuel](https://fr.dolphin-emu.org/docs/guides)|
 |Gather|plateforme en ligne|espace virtuel persistant|[manuel](https://support.gather.town/hc/en-us)|
 |Underscore|bibliothèque|développement web|[documentation](https://underscorejs.org)|
 
 <!--
-|Batch|-|[documentation](https://documentations.microsoft.com/en-us/azure/batch)|
 |Bevy|-|[documentation](https://bevyengine.org/learn/book/introduction)|
 |Bitbucket|-|[documentation](https://developer.atlassian.com/bitbucket/api/2/reference)|
 |Bitcoin|-|[documentation](https://developer.bitcoin.org)|
