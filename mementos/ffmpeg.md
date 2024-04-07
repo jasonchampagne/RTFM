@@ -1,6 +1,7 @@
 # FFmpeg
 
-💠 _Les commandes de FFmpeg affichent généralement la version de ce dernier_
+> [!NOTE>
+> _Les commandes de FFmpeg affichent généralement la version de ce dernier_
 
 ![Logo de FFmpeg](https://nsa40.casimages.com/img/2021/03/14/210314041423969272.png)
 
