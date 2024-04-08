@@ -104,6 +104,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Docker||||
 |Doctrine||||
 |Dolphin|application|émulation GameCube et Wii|[MANUEL](https://fr.dolphin-emu.org/docs/guides)|
+|DotNET||||
 |Doxygen||||
 |Drupal||||
 |Dune||||
@@ -147,7 +148,6 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Git||||
 |Go||||
 |Godot Engine||||
-|Google <!-- Ads, API, Calendar, Classroom, Cloud, Cloud Functions, CloudRun, CloudSQL, Cloud Storage, Container Registry, Datastore, Dialogflow, Drive, Firebase, Fonts, Geocoding, Maps, Photos, Places, Sheets, Tag Manager, Translate, Vision -->||||
 |Gradle||||
 |GraphQL||||
 |Grav||||
@@ -177,8 +177,70 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Jupyter||||
 |Kafka||||
 |Kali||||
-|||||
-|||||
+|Kanban||||
+|Kotlin||||
+|Kubernetes||||
+|Laravel||||
+|LaTeX||||
+|Less||||
+|LibreOffice||||
+|Linode||||
+|Linux||||
+|Lisp||||
+|LLVM||||
+|Lua||||
+|LXC||||
+|LXD||||
+|Magento||||
+|Markdown||||
+|Material-UI||||
+|MATLAB||||
+|Maven||||
+|Mercurial||||
+|Meson||||
+|Meteor||||
+|MinGW-w64||||
+|ML||||
+|MongoDB||||
+|Moodle||||
+|MS-DOS||||
+|MuleSoft||||
+|MySQL||||
+|NASM||||
+|NetBeans||||
+|Next.js||||
+|NGINX||||
+|Nix||||
+|Node||||
+|NPM||||
+|NSIS||||
+|Objective-C||||
+|Obsidian||||
+|OCaml||||
+|Octave||||
+|OpenCV||||
+|OpenGL||||
+|OpenLDAP||||
+|OpenSSL||||
+|OpenVPN||||
+|OpenWRT||||
+|Oracle||||
+|Packer||||
+|Pascal||||
+|Passport.js||||
+|PEAR||||
+|Perl||||
+|Phaser||||
+|PHP||||
+|PHPBB||||
+|PHPUnit||||
+|PIP||||
+|PostgreSQL||||
+|PowerShell||||
+|Premake||||
+|PrestaShop||||
+|Prolog||||
+|Protobuf||||
 |||||
 |||||
 |||||
@@ -192,84 +254,13 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |||||
 |||||
 |Underscore|bibliothèque|développement web|[DOC](https://underscorejs.org)|
+|WooCommerce||||
 
 <!--
-|Kanban|-|[documentation](https://www.atlassian.com/agile/kanban)|
-|Kotlin|-|[documentation](https://kotlinlang.org/documentations/home.html)|
-|Kubernetes|-|[documentation](https://kubernetes.io/documentations)|
-|Laravel|-|[documentation](https://laravel.com/documentations)|
-|LaTeX|-|[documentation](https://www.latex-project.org/help/documentationumentation)|
-|Less|-|[documentation](http://lesscss.org)|
-|LibreOffice|-|[documentation](https://documentationumentation.libreoffice.org/en)|
-|Linode|-|[documentation](https://www.linode.com/documentations)|
-|Linux|-|[documentation](https://www.kernel.org/documentation/html/latest)|
-|Lisp|-|[documentation](https://lisp-lang.org/learn)|
-|LLVM|-|[documentation](https://llvm.org/documentations)|
-|Lua|-|[documentation](https://www.lua.org/documentations.html)|
-|LXC|-|[documentation](https://linuxcontainers.org/lxc/documentationumentation)|
-|LXD|-|[documentation](https://linuxcontainers.org/lxd/documentationumentation)|
-|Magento|-|[documentation](https://devdocumentations.magento.com)|
-|Markdown|-|[documentation](https://www.markdownguide.org)|
-|Material-UI|-|[documentation](https://mui.com/getting-started/installation)|
-|MATLAB|-|[documentation](https://www.mathworks.com/help/matlab)|
-|Maven|-|[documentation](https://maven.apache.org/guides)|
-|Mercurial|-|[documentation](https://www.mercurial-scm.org/documentation)|
-|Meson|-|[documentation](https://mesonbuild.com/Getting-started.html)|
-|Meteor|-|[documentation](https://documentations.meteor.com)|
-|Microsoft Azure|-|[documentation](https://documentations.microsoft.com/en-us/azure)|
-|Microsoft Edge|-|[documentation](https://documentations.microsoft.com/en-us/microsoft-edge)|
-|Microsoft Excel|-|[documentation](https://support.microsoft.com/fr-fr/excel)|
-|Microsoft Graph API|-|[documentation](https://documentations.microsoft.com/en-us/graph)|
-|Microsoft Office|-|[documentation](https://support.microsoft.com/fr-fr/office)|
-|Microsoft OneDrive|-|[documentation](https://support.microsoft.com/fr-fr/onedrive)|
-|Microsoft PowerPoint|-|[documentation](https://support.microsoft.com/fr-fr/powerpoint)|
-|Microsoft SQL Server|-|[documentation](https://documentations.microsoft.com/en-us/sql)|
-|Microsoft Teams|-|[documentation](https://support.microsoft.com/fr-fr/teams)|
-|Microsoft Windows|-|[documentation](https://documentations.microsoft.com/en-us/windows)|
-|Microsoft Word|-|[documentation](https://support.microsoft.com/fr-fr/word)|
-|MinGW-w64|-|[documentation](https://mingw-w64.org/documentationumentation)|
-|ML|-|[documentation](https://www.mlprog.com)|
-|MongoDB|-|[documentation](https://documentations.mongodb.com)|
-|Moodle|-|[documentation](https://documentations.moodle.org)|
-|MS-DOS|-|[documentation](https://www.pcjs.org/software/pcx86/sys/ibm/machines/pc/5160/rom/basic/ibmbasic)|
-|MuleSoft|-|[documentation](https://documentations.mulesoft.com)|
-|MySQL|-|[documentation](https://dev.mysql.com/documentation)|
-|NASM|-|[documentation](https://www.nasm.us/documentation)|
-|.NET|-|[documentation](https://documentations.microsoft.com/en-us/dotnet)|
-|NetBeans|-|[documentation](https://netbeans.apache.org/help/index.html)|
-|Next.js|-|[documentation](https://nextjs.org/documentations)|
-|NGINX|-|[documentation](https://nginx.org/en/documentations)|
-|Nix|-|[documentation](https://nixos.org)|
-|Node.js|-|[documentation](https://nodejs.org/en/documentations)|
-|npm|-|[documentation](https://documentations.npmjs.com)|
-|NSIS|-|[documentation](https://nsis.sourceforge.io/documentations)|
-|Objective-C|-|[documentation](https://developer.apple.com/library/archive/documentationumentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)|
-|Obsidian|prise de notes|[guide utilisateur](https://help.obsidian.md/Home) / [documentation](https://docs.obsidian.md/Home)|
-|OCaml|-|[documentation](https://ocaml.org/documentations)|
-|Octave|-|[documentation](https://www.gnu.org/software/octave/documentation/interpreter)|
-|OpenCV|-|[documentation](https://documentations.opencv.org/master)|
-|OpenGL|-|[documentation](https://www.khronos.org/opengl/wiki)|
-|OpenLDAP|-|[documentation](https://www.openldap.org/documentation)|
-|OpenSSL|-|[documentation](https://www.openssl.org/documentations)|
-|OpenVPN|-|[documentation](https://openvpn.net/community-resources)|
-|OpenWRT|-|[documentation](https://openwrt.org/documentations)|
-|Oracle|-|[documentation](https://documentations.oracle.com/en)|
-|Packer|-|[documentation](https://www.packer.io/documentations)|
-|Pascal|-|[documentation](https://www.freepascal.org/documentations.html)|
-|Passport.js|-|[documentation](http://www.passportjs.org/documentations)|
-|PEAR|-|[documentation](https://pear.php.net/manual/en)|
-|Perl|-|[documentation](https://perldocumentation.perl.org)|
-|Phaser|-|[documentation](https://phaser.io/learn)|
-|PHP|-|[documentation](https://www.php.net/manual/en)|
-|phpBB|-|[documentation](https://www.phpbb.com/support/documentations)|
-|PHPUnit|-|[documentation](https://phpunit.de/manual/current/en)|
-|pip|-|[documentation](https://pip.pypa.io/en/stable)|
-|PostgreSQL|-|[documentation](https://www.postgresql.org/documentations)|
-|PowerShell|-|[documentation](https://documentations.microsoft.com/en-us/powershell)|
-|Premake|-|[documentation](https://premake.github.io/documentations)|
-|PrestaShop|-|[documentation](https://devdocumentations.prestashop.com)|
-|Prolog|-|[documentation](https://www.swi-prolog.org/pldocumentation)|
-|Protobuf|-|[documentation](https://developers.google.com/protocol-buffers)|
+
+Google : Ads, API, Calendar, Classroom, Cloud, Cloud Functions, CloudRun, CloudSQL, Cloud Storage, Container Registry, Datastore, Dialogflow, Drive, Firebase, Fonts, Geocoding, Maps, Photos, Places, Sheets, Tag Manager, Translate, Vision
+
+Microsoft : Edge, Excel, Graph API, Office, OneDrive, PowerPoint, SQL Server, Teams, Windows, Word
 |Puppet|-|[documentation](https://puppet.com/documentations)|
 |Python|-|[documentation](https://documentations.python.org/3)|
 |Qt|-|[documentation](https://documentation.qt.io)|
