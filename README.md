@@ -318,7 +318,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Zig||||
 |Zoho CRM|application|gestion de la relation client|[MANUEL](https://www.zoho.com/fr/crm/resources)|
 |Zoho Mail|application|messagerie électronique|[MANUEL](https://www.zoho.com/fr/mail/help)|
-|Zoho One|système d'exploitation|gestion des processus d'organisations|[MANUEL](https://www.zoho.com/fr/one/guides)|
+|Zoho One|système d'exploitation|gestion d'entreprises|[MANUEL](https://www.zoho.com/fr/one/guides)|
 |Z shell|application|exécution de commandes|[MANUEL](https://zsh.sourceforge.io/Guide) ▪ [DOC](https://zsh.sourceforge.io/Doc)|
 
 
