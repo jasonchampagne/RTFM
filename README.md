@@ -300,7 +300,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Wireshark||||
 |WooCommerce||||
 |WordPress||||
-|World of Warcraft|jeu vidéo||[IPA Données](https://develop.battle.net/documentation/world-of-warcraft/game-data-apis)|
+|World of Warcraft|jeu vidéo||[IPA Données](https://develop.battle.net/documentation/world-of-warcraft/game-data-apis) ▪ [IPA Profils](https://develop.battle.net/documentation/world-of-warcraft/profile-apis)|
 |WxWidgets||||
 |Xamarin <!-- + Xamarin.Forms -->||||
 |Xcode||||
