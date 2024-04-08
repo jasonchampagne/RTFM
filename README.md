@@ -45,13 +45,13 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Bash|application<br>langage informatique|exécution de commandes<br>programmation|[documentation](https://www.gnu.org/software/bash/manual)|
 |Batch|langage informatique|programmation|[documentation](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)|
 |Bevy|moteur de jeu|création de jeux vidéo|[documentation](https://bevyengine.org/learn/quick-start/introduction) ▪ [IPA](https://docs.rs/bevy/latest/bevy)|
+|Bitbucket|plateforme en ligne|hébergement et gestion de développement logiciel|[documentation](https://support.atlassian.com/bitbucket-cloud/resources)|
 |Bulma|cadriciel|développement web|[documentation](https://bulma.io/documentation)|
 |Dolphin|application|émulation GameCube et Wii|[manuel](https://fr.dolphin-emu.org/docs/guides)|
 |Gather|plateforme en ligne|espace virtuel persistant|[manuel](https://support.gather.town/hc/en-us)|
 |Underscore|bibliothèque|développement web|[documentation](https://underscorejs.org)|
 
 <!--
-|Bitbucket|-|[documentation](https://developer.atlassian.com/bitbucket/api/2/reference)|
 |Bitcoin|-|[documentation](https://developer.bitcoin.org)|
 |Bitly|-|[documentation](https://dev.bitly.com)|
 |Blender|-|[documentation](https://documentations.blender.org)|
