@@ -47,14 +47,14 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Bevy|moteur de jeu|création de jeux vidéo|[documentation](https://bevyengine.org/learn/quick-start/introduction) ▪ [IPA](https://docs.rs/bevy/latest/bevy)|
 |Bitbucket|plateforme en ligne|hébergement et gestion de développement logiciel|[documentation](https://support.atlassian.com/bitbucket-cloud/resources)|
 |Bitcoin|crypto-monnaie|échange de valeur monétaire|[documentation](https://developer.bitcoin.org)|
-|Bitly|plateforme en ligne|réduction d'URLs|[manuel](https://support.bitly.com/hc/en-us) ▪ [documentation](https://dev.bitly.com)|
+|Bitly|plateforme en ligne|réduction d'URLs|[documentation](https://dev.bitly.com) ▪ [manuel](https://support.bitly.com/hc/en-us)|
+|Blender|application|modélisation 3D|[documentation](https://developer.blender.org/docs) ▪ [IPA Python](https://docs.blender.org/api/current) ▪ [manuel](https://docs.blender.org/manual/en/latest)|
 |Bulma|cadriciel|développement web|[documentation](https://bulma.io/documentation)|
 |Dolphin|application|émulation GameCube et Wii|[manuel](https://fr.dolphin-emu.org/docs/guides)|
 |Gather|plateforme en ligne|espace virtuel persistant|[manuel](https://support.gather.town/hc/en-us)|
 |Underscore|bibliothèque|développement web|[documentation](https://underscorejs.org)|
 
 <!--
-|Blender|-|[documentation](https://documentations.blender.org)|
 |Bootstrap|-|[documentation](https://getbootstrap.com/documentations)|
 |Brackets|-|[documentation](http://brackets.io/documentations/current/modules/brackets.html)|
 |Bun|-|[documentation](https://github.com/oven-sh/bun#Reference)|
