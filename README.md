@@ -99,7 +99,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Devdocs||||
 |Devuan||||
 |DIA||||
-|Diablo III|jeu vidéo||[IPA Données](https://develop.battle.net/documentation/diablo-3/game-data-apis)|
+|Diablo III|jeu vidéo|collecte de données|[IPA Données](https://develop.battle.net/documentation/diablo-3/game-data-apis)|
 |DigitalOcean||||
 |DirectAdmin||||
 |Django||||
@@ -302,7 +302,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Wireshark||||
 |WooCommerce||||
 |WordPress||||
-|World of Warcraft|jeu vidéo||[IPA Données](https://develop.battle.net/documentation/world-of-warcraft/game-data-apis) ▪ [IPA Profils](https://develop.battle.net/documentation/world-of-warcraft/profile-apis)|
+|World of Warcraft|jeu vidéo|collecte de données|[IPA Données](https://develop.battle.net/documentation/world-of-warcraft/game-data-apis) ▪ [IPA Profils](https://develop.battle.net/documentation/world-of-warcraft/profile-apis)|
 |WxWidgets||||
 |Xamarin <!-- + Xamarin.Forms -->||||
 |Xcode||||
