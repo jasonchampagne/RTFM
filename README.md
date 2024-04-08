@@ -316,13 +316,15 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Zend Framework||||
 |Zephyr||||
 |Zig||||
+|Zoho Backstage|application|gestion d'évènements|[MANUEL](https://www.zoho.com/backstage/help)|
 |Zoho Campaigns|application|marketing par e-mail|[MANUEL](https://www.zoho.com/campaigns/help)|
+|Zoho Commerce|plateforme en ligne|création d'une boutique en ligne|[MANUEL](https://www.zoho.com/commerce/help)|
 |Zoho CRM|application|gestion de la relation client|[MANUEL](https://www.zoho.com/fr/crm/resources)|
 |Zoho Forms|application|gestion de formulaires|[MANUEL](https://www.zoho.com/forms/help)|
 |Zoho Mail|application|messagerie électronique|[MANUEL](https://www.zoho.com/fr/mail/help)|
 |Zoho One|système d'exploitation|gestion d'entreprises|[MANUEL](https://www.zoho.com/fr/one/guides)|
-|Zoho PageSens|plateforme en ligne|personnalisation et optimisation du taux de conversion|[MANUEL](https://www.zoho.com/pagesense/help)|
-|Zoho Sites|application|création de sites web|[MANUEL](https://www.zoho.com/sites/resources.html)|
+|Zoho PageSense|plateforme en ligne|personnalisation et optimisation du taux de conversion|[MANUEL](https://www.zoho.com/pagesense/help)|
+|Zoho Sites|plateforme en ligne|création de sites web|[MANUEL](https://www.zoho.com/sites/resources.html)|
 |Z shell|application|exécution de commandes|[MANUEL](https://zsh.sourceforge.io/Guide) ▪ [DOC](https://zsh.sourceforge.io/Doc)|
 
 
