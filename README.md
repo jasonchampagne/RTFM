@@ -37,7 +37,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Atom|application|édition de code|[MANUEL](https://flight-manual.atom-editor.cc) ▪ [IPA](https://flight-manual.atom-editor.cc/api/v1.63.1/AtomEnvironment)|
 |Audacity|application|enregistrement et édition audio|[MANUEL](https://manual.audacityteam.org/index.html)|
 |Audition|application|enregistrement, édition et mixage audio|[MANUEL](https://helpx.adobe.com/fr/audition/user-guide.html)|
-|AuthPass|application|gestion des mots de passes|[MANUEL](https://authpass.app/docs)|
+|AuthPass|application|gestion des mots de passe|[MANUEL](https://authpass.app/docs)|
 |AutoCAD|application|dessin assisté par ordinateur|[MANUEL](https://help.autodesk.com/FRA)|
 |Autoconf|utilitaire|configuration automatique de code source|[DOC](https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.72/index.html)|
 |AutoHotkey|langage informatique|programmation|[DOC](https://www.autohotkey.com/docs)|
@@ -178,6 +178,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Kafka||||
 |Kali||||
 |Kanban||||
+|KeePassXC|application|gestion des mots de passe|[MANUEL](https://keepassxc.org/docs/KeePassXC_UserGuide)|
 |Kotlin||||
 |Kubernetes||||
 |Laravel||||
