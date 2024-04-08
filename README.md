@@ -11,7 +11,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 
 |NOM|TYPE|USAGE|RESSOURCES|
 |:--|:--|:--|:--|
-|3ds Max|application|modélisation 3D|[MAN](https://www.autodesk.fr/support/technical/product/3ds-max)|
+|3ds Max|application|modélisation 3D|[GUIDE](https://www.autodesk.fr/support/technical/product/3ds-max)|
 |Ada|langage informatique|programmation|[DOC](https://www.adacore.com/documentation)|
 |AdonisJS|cadriciel|développement web|[DOC](https://docs.adonisjs.com/guides/introduction)|
 |After Effects|application|animation et effets visuels|[GUIDE](https://helpx.adobe.com/fr/after-effects/user-guide.html)|
