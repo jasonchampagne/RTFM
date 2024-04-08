@@ -272,7 +272,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Svelte||||
 |Swift||||
 |Symfony||||
-|Tableau AI|-|[documentation](https://help.tableau.com/current/guides)|
+|Tableau AI|plateforme en ligne|analyse de données|[DOC](https://help.tableau.com/current/guides)|
 |Tesseract||||
 |TensorFlow||||
 |Terraform||||
