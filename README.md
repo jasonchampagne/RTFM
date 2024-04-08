@@ -321,6 +321,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Zoho Commerce|plateforme en ligne|création d'une boutique en ligne|[MANUEL](https://www.zoho.com/commerce/help)|
 |Zoho CRM|application|gestion de la relation client|[MANUEL](https://www.zoho.com/fr/crm/resources)|
 |Zoho Forms|application|gestion de formulaires|[MANUEL](https://www.zoho.com/forms/help)|
+|Zoho LandingPage|plateforme en ligne|création de pages de destination|[MANUEL](https://www.zoho.com/landingpage/help)|
 |Zoho Mail|application|messagerie électronique|[MANUEL](https://www.zoho.com/fr/mail/help)|
 |Zoho One|système d'exploitation|gestion d'entreprises|[MANUEL](https://www.zoho.com/fr/one/guides)|
 |Zoho PageSense|plateforme en ligne|personnalisation et optimisation du taux de conversion|[MANUEL](https://www.zoho.com/pagesense/help)|
