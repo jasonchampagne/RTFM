@@ -260,88 +260,64 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Sass||||
 |Scala||||
 |Scrapy||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
+|Sequelize||||
+|Shopify||||
+|Sinatra||||
+|Sketch||||
+|Slack||||
+|Svelte||||
+|Swift||||
+|Symfony||||
+|Tableau AI|-|[documentation](https://help.tableau.com/current/guides)|
+|Tesseract||||
+|TensorFlow||||
+|Terraform||||
+|Thonny||||
+|Tkinter||||
+|TOML||||
+|TypeScript||||
+|Twitch||||
+|Ubuntu||||
 |Underscore|bibliothèque|développement web|[DOC](https://underscorejs.org)|
+|Unity||||
+|Unreal Engine||||
+|Vagrant||||
+|VBA||||
+|Vim||||
+|VirtualBox||||
+|Visual Basic||||
+|Visual Studio Code||||
+|Vue||||
+|Vulkan||||
+|VVVV||||
+|WAMP||||
+|WebAssembly||||
+|WebExtensions||||
+|WebGL||||
+|Webpack||||
+|WebSocket||||
+|Wireshark||||
 |WooCommerce||||
+|WordPress||||
+|WxWidgets||||
+|Xamarin <!-- + Xamarin.Forms -->||||
+|Xcode||||
+|Xen||||
+|XML||||
+|Yarn||||
+|Yii||||
+|YouTube||||
+|Zend Framework||||
+|Zephyr||||
+|Zig||||
+|Zoho <!-- + Zoho CRM -->||||
+|Zsh||||
+
 
 <!--
 
 Google : Ads, API, Calendar, Classroom, Cloud, Cloud Functions, CloudRun, CloudSQL, Cloud Storage, Container Registry, Datastore, Dialogflow, Drive, Firebase, Fonts, Geocoding, Maps, Photos, Places, Sheets, Tag Manager, Translate, Vision
 
-Microsoft : Edge, Excel, Graph API, Office, OneDrive, PowerPoint, SQL Server, Teams, Windows, Word
-|Sequelize|-|[documentation](https://sequelize.org/master)|
-|Shopify|-|[documentation](https://shopify.dev/documentations)|
-|Sinatra|-|[documentation](http://sinatrarb.com/documentationumentation.html)|
-|Sketch|-|[documentation](https://www.sketch.com/documentations)|
-|Slack API|-|[documentation](https://api.slack.com)|
-|Slack|-|[documentation](https://slack.com/help)|
-|Svelte|-|[documentation](https://svelte.dev/documentations)|
-|Swift|-|[documentation](https://swift.org/documentationumentation)|
-|Symfony|-|[documentation](https://symfony.com/documentation/current)|
-|Tableau|-|[documentation](https://help.tableau.com/current/guides)|
-|Tesseract|-|[documentation](https://tesseract-ocr.github.io/tessdocumentation)|
-|TensorFlow|-|[documentation](https://www.tensorflow.org/guide)|
-|Terraform|-|[documentation](https://www.terraform.io/documentations)|
-|Thonny|-|[documentation](https://thonny.org)|
-|Tkinter|-|[documentation](https://documentations.python.org/3/library/tkinter.html)|
-|TOML|-|[documentation](https://toml.io/en)|
-|TypeScript|-|[documentation](https://www.typescriptlang.org/documentations)|
-|Ubuntu|-|[documentation](https://help.ubuntu.com)|
-|Unity|-|[documentation](https://documentations.unity3d.com/Manual/index.html)|
-|Unreal Engine|-|[documentation](https://documentations.unrealengine.com/4.27/en-US)|
-|Vagrant|-|[documentation](https://www.vagrantup.com/documentations)|
-|VBA|-|[documentation](https://documentations.microsoft.com/en-us/office/vba/api/overview)|
-|Vim|-|[documentation](https://www.vim.org/documentations.php)|
-|VirtualBox|-|[documentation](https://www.virtualbox.org/manual)|
-|Visual Basic|-|[documentation](https://documentations.microsoft.com/en-us/dotnet/visual-basic)|
-|Visual Studio Code|-|[documentation](https://code.visualstudio.com/documentations)|
-|Vue.js|-|[documentation](https://vuejs.org/v2/guide)|
-|Vulkan|-|[documentation](https://www.khronos.org/vulkan)|
-|VVVV|-|[documentation](https://vvvv.org/documentationumentation)|
-|W3.CSS|-|[documentation](https://www.w3schools.com/w3css/default.asp)|
-|WAMP|-|[documentation](https://sourceforge.net/projects/wampserver)|
-|WebAssembly|-|[documentation](https://webassembly.org/documentations)|
-|WebExtensions|-|[documentation](https://developer.mozilla.org/en-US/documentations/Mozilla/Add-ons/WebExtensions)|
-|WebGL|-|[documentation](https://developer.mozilla.org/en-US/documentations/Web/API/WebGL_API)|
-|Webpack|-|[documentation](https://webpack.js.org/concepts)|
-|WebSocket|-|[documentation](https://developer.mozilla.org/en-US/documentations/Web/API/WebSocket)|
-|Windows Forms|-|[documentation](https://documentations.microsoft.com/en-us/dotnet/desktop/winforms)|
-|Windows PowerShell|-|[documentation](https://documentations.microsoft.com/en-us/powershell)|
-|Windows Server|-|[documentation](https://documentations.microsoft.com/en-us/windows-server)|
-|Wireshark|-|[documentation](https://www.wireshark.org/documentations)|
-|WordPress|-|[documentation](https://wordpress.org/support)|
-|wxWidgets|-|[documentation](https://documentations.wxwidgets.org/trunk)|
-|Xamarin|-|[documentation](https://documentations.microsoft.com/en-us/xamarin)|
-|Xamarin.Forms|-|[documentation](https://documentations.microsoft.com/en-us/xamarin/xamarin-forms)|
-|Xcode|-|[documentation](https://developer.apple.com/documentationumentation/xcode)|
-|Xen|-|[documentation](https://xenproject.org)|
-|XHTML|-|[documentation](https://www.w3.org/MarkUp/Guide)|
-|XML|-|[documentation](https://www.w3schools.com/xml/xml_whatis.asp)|
-|YAML|-|[documentation](https://yaml.org/spec)|
-|Yarn|-|[documentation](https://classic.yarnpkg.com/en/documentations)|
-|Yii|-|[documentation](https://www.yiiframework.com/documentation/guide/2.0/en)|
-|YouTube API|-|[documentation](https://developers.google.com/youtube/v3/getting-started)|
-|Zend Framework|-|[documentation](https://documentations.zendframework.com)|
-|Zephyr|-|[documentation](https://documentations.zephyrproject.org/latest)|
-|Zig|-|[documentation](https://ziglang.org/documentationumentation)|
-|Zoho CRM|-|[documentation](https://www.zoho.com/crm/developer/documentations)|
-|Zoho|-|[documentation](https://www.zoho.com/documentations)|
-|Zsh|-|[documentation](https://www.zsh.org/documentation)|
+Microsoft : Edge, Excel, Forms, Graph API, Office, OneDrive, PowerPoint, Server, SQL Server, Teams, Windows, Word
+
 -->
