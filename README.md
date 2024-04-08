@@ -99,6 +99,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Devdocs||||
 |Devuan||||
 |DIA||||
+|Diablo III|jeu vidéo||[IPA Données](https://develop.battle.net/documentation/diablo-3/game-data-apis)|
 |DigitalOcean||||
 |DirectAdmin||||
 |Django||||
