@@ -53,75 +53,84 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Bitcoin|crypto-monnaie|échange de valeur monétaire|[DOC](https://developer.bitcoin.org)|
 |Bitly|plateforme en ligne|réduction d'URLs|[DOC](https://dev.bitly.com) ▪ [GUIDE](https://support.bitly.com/hc/en-us)|
 |Blender|application|modélisation 3D|[DOC](https://developer.blender.org/docs) ▪ [IPA](https://docs.blender.org/api/current) ▪ [GUIDE](https://docs.blender.org/manual/en/latest)|
+|Bootstrap||||
+|Brackets||||
 |Bulma|cadriciel|développement web|[DOC](https://bulma.io/documentation)|
+|Bun||||
+|Bundler||||
+|C||||
+|C++||||
+|C#||||
+|CakePHP||||
+|CapRover||||
+|CEGUI||||
+|CentOS||||
+|CherryPy||||
+|Chkdsk||||
+|Cinema 4D||||
+|ClamAV||||
+|Clang||||
+|Clip Studio Paint||||
+|Clojure||||
+|Cloudflare||||
+|CMake||||
+|COBOL||||
+|CodeIgniter||||
+|Codon||||
+|CoffeeScript||||
+|Coinbase||||
+|Common Lisp||||
+|Coq||||
+|CryENGINE||||
+|Crystal||||
+|CSS||||
+|CUDA||||
+|CustomTkinter||||
+|Cutter||||
+|D||||
+|DahliaOS||||
+|Darktable||||
+|Dart||||
+|DaVinci Resolve||||
+|Daz3D||||
+|DB2||||
+|Debian||||
+|Deno||||
+|Devdocs||||
+|Devuan||||
+|DIA||||
+|DigitalOcean||||
+|DirectAdmin||||
+|Django||||
+|Docker||||
+|Doctrine||||
 |Dolphin|application|émulation GameCube et Wii|[GUIDE](https://fr.dolphin-emu.org/docs/guides)|
+|Doxygen||||
+|Drupal||||
+|Dune||||
+|E||||
+|Ebay||||
+|ECMAScript||||
+|Ejabberd||||
+|Elasticsearch||||
+|Electron||||
+|Emacs||||
+|Ember.js||||
+|Emoji||||
+|Emscripten||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
 |Gather|plateforme en ligne|espace virtuel persistant|[GUIDE](https://support.gather.town/hc/en-us)|
 |Underscore|bibliothèque|développement web|[DOC](https://underscorejs.org)|
 
 <!--
-|Bootstrap|-|[documentation](https://getbootstrap.com/documentations)|
-|Brackets|-|[documentation](http://brackets.io/documentations/current/modules/brackets.html)|
-|Bun|-|[documentation](https://github.com/oven-sh/bun#Reference)|
-|Bundler|-|[documentation](https://bundler.io/documentations.html)|
-|C|-|[documentation](https://en.cppreference.com/w/c)|
-|C#|-|[documentation](https://documentations.microsoft.com/fr-fr/dotnet/csharp)|
-|C++|-|[documentation](https://en.cppreference.com/w/cpp)|
-|CakePHP|-|[documentation](https://book.cakephp.org/3.0/fr/index.html)|
-|CapRover|-|[documentation](https://caprover.com/documentations/get-started.html)|
-|CEGUI|-|[documentation](http://cegui.org.uk/content/documentationumentation)|
-|CentOS|-|[documentation](https://wiki.centos.org/fr)|
-|CherryPy|-|[documentation](https://documentations.cherrypy.org/en/latest)|
-|Chkdsk|-|[documentation](https://documentations.microsoft.com/en-us/windows-server/administration/windows-commands/chkdsk)|
-|Cinema 4D|-|[documentation](https://help.maxon.net)|
-|ClamAV|-|[documentation](https://www.clamav.net/documentationuments/clam-antivirus-user-manual)|
-|Clang|-|[documentation](https://clang.llvm.org/documentations/UsersManual.html)|
-|Clip Studio Paint|-|[documentation](https://tips.clip-studio.com/en-us/official)|
-|Clojure|-|[documentation](https://clojure.org/api/api)|
-|Cloudflare|-|[documentation](https://developers.cloudflare.com)|
-|CMake|-|[documentation](https://cmake.org/documentationumentation)|
-|COBOL|-|[documentation](https://open-cobol.sourceforge.io/documentation/gnucobol.pdf)|
-|CodeIgniter|-|[documentation](https://codeigniter.com/documentations)|
-|Codon|-|[documentation](https://documentations.exaloop.io/codon)|
-|CoffeeScript|-|[documentation](https://coffeescript.org/#language)|
-|Coinbase|-|[documentation](https://developers.coinbase.com)|
-|Common Lisp|-|[documentation](https://common-lisp.net/documentationumentation)|
-|Coq|-|[documentation](https://coq.inria.fr/documentationumentation)|
-|CryENGINE|-|[documentation](https://documentations.cryengine.com/display/CEMANUAL/CRYENGINE+V+Manual)|
-|Crystal|-|[documentation](https://crystal-lang.org/documentations)|
-|CSS|-|[documentation](https://www.w3.org/TR/css-color-4)|
-|CUDA|-|[documentation](https://documentations.nvidia.com/cuda/index.html)|
-|CustomTkinter|-|[documentation](https://customtkinter.tomschimansky.com/documentationumentation)|
-|Cutter|-|[documentation](https://cutter.re/documentations)|
-|D|-|[documentation](https://dlang.org/spec/spec.html)|
-|dahliaOS|-|[documentation](https://documentations.dahliaos.io)|
-|Darktable|-|[documentation](https://darktable.fr/les-manuels)|
-|Dart|-|[documentation](https://dart.dev/guides)|
-|DaVinci Resolve|-|[documentation](https://www.blackmagicdesign.com/fr/products/davinciresolve/training)|
-|Daz3D|-|[documentation](http://documentations.daz3d.com/doku.php)|
-|DB2|-|[documentation](https://www.ibm.com/documentations/fr/db2)|
-|Debian|-|[documentation](https://www.debian.org/documentation/index.fr.html)|
-|Deno|-|[documentation](https://deno.land/manual)|
-|Devdocumentations|-|[documentation](https://devdocumentations.io)|
-|Devuan|-|[documentation](https://documentations.devuan.org)|
-|DIA|-|[documentation](https://dia-installer.de/documentationumentation.html)|
-|DigitalOcean|-|[documentation](https://www.digitalocean.com/documentations)|
-|DirectAdmin|-|[documentation](https://www.directadmin.com/api-documentation)|
-|Django|-|[documentation](https://documentations.djangoproject.com/en/stable)|
-|documentationker|-|[documentation](https://documentations.documentationker.com)|
-|documentationtrine|-|[documentation](https://www.documentationtrine-project.org/projects/documentationtrine-orm/en/2.9/index.html)|
-|Doxygen|-|[documentation](https://www.doxygen.nl/manual/index.html)|
-|Drupal|-|[documentation](https://www.drupal.org/documentations)|
-|Dune|-|[documentation](https://dune.readthedocumentations.io/en/stable)|
-|E|-|[documentation](https://www.erights.org/elib/capability/ode/ode-capabilities.html)|
-|eBay API|-|[documentation](https://developer.ebay.com/api-documentations)|
-|ECMAScript|-|[documentation](https://tc39.es/ecma262)|
-|Ejabberd|-|[documentation](https://documentations.ejabberd.im)|
-|Elasticsearch|-|[documentation](https://www.elastic.co/guide/index.html)|
-|Electron|-|[documentation](https://www.electronjs.org/documentations)|
-|Emacs|-|[documentation](https://www.gnu.org/software/emacs/manual/html_node/emacs/index.html)|
-|Ember.js|-|[documentation](https://guides.emberjs.com/release)|
-|Emoji|-|[documentation](https://unicode.org/emoji/charts/full-emoji-list.html)|
-|Emscripten|-|[documentation](https://emscripten.org/documentations)|
 |Entity Framework|-|[documentation](https://documentations.microsoft.com/en-us/ef)|
 |Erlang|-|[documentation](https://www.erlang.org/documentation)|
 |ESLint|-|[documentation](https://eslint.org/documentations/user-guide/getting-started)|
