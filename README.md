@@ -16,7 +16,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |3ds Max|application|modélisation 3D|[MANUEL](https://www.autodesk.fr/support/technical/product/3ds-max)|
 |Ada|langage informatique|programmation|[DOC](https://www.adacore.com/documentation)|
 |AdonisJS|cadriciel|développement web|[DOC](https://docs.adonisjs.com/guides/introduction)|
-|Ads||||
+|Ads|plateforme en ligne|annonces publicitaires|[MANUEL](https://support.google.com/google-ads/answer/6146252)|
 |After Effects|application|animation et effets visuels|[MANUEL](https://helpx.adobe.com/fr/after-effects/user-guide.html)|
 |Allegro|bibliothèque|création de jeux vidéo, multimédia|[DOC](https://www.allegro.cc/manual/5)|
 |AlmaLinux|système d'exploitation|administration système et réseaux|[WIKI](https://wiki.almalinux.org)|
