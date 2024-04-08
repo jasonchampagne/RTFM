@@ -47,6 +47,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Backbone.js|cadriciel|développement web|[DOC](https://backbonejs.org)|
 |Bash|application<br>langage informatique|exécution de commandes<br>programmation|[DOC](https://www.gnu.org/software/bash/manual)|
 |Batch|langage informatique|programmation|[DOC](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)|
+|Battle.net|application|authentification d'utilisateurs|[IPA OAuth](https://develop.battle.net/documentation/battle-net/oauth-apis)|
 |Bevy|moteur de jeu|création de jeux vidéo|[DOC](https://bevyengine.org/learn/quick-start/introduction) ▪ [IPA](https://docs.rs/bevy/latest/bevy)|
 |Bitbucket|plateforme en ligne|hébergement et gestion de développement logiciel|[DOC](https://support.atlassian.com/bitbucket-cloud/resources)|
 |Bitcoin|crypto-monnaie|échange de valeur monétaire|[DOC](https://developer.bitcoin.org)|
