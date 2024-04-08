@@ -325,6 +325,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Zoho Mail|application|messagerie électronique|[MANUEL](https://www.zoho.com/fr/mail/help)|
 |Zoho One|système d'exploitation|gestion d'entreprises|[MANUEL](https://www.zoho.com/fr/one/guides)|
 |Zoho PageSense|plateforme en ligne|personnalisation et optimisation du taux de conversion|[MANUEL](https://www.zoho.com/pagesense/help)|
+|Zoho SalesIQ|application|discussion instantanée|[MANUEL](https://www.zoho.com/salesiq/help)|
 |Zoho Sites|plateforme en ligne|création de sites web|[MANUEL](https://www.zoho.com/sites/resources.html)|
 |Z shell|application|exécution de commandes|[MANUEL](https://zsh.sourceforge.io/Guide) ▪ [DOC](https://zsh.sourceforge.io/Doc)|
 
