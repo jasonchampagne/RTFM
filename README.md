@@ -50,8 +50,8 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Bevy|moteur de jeu|création de jeux vidéo|[DOC](https://bevyengine.org/learn/quick-start/introduction) ▪ [IPA](https://docs.rs/bevy/latest/bevy)|
 |Bitbucket|plateforme en ligne|hébergement et gestion de développement logiciel|[DOC](https://support.atlassian.com/bitbucket-cloud/resources)|
 |Bitcoin|crypto-monnaie|échange de valeur monétaire|[DOC](https://developer.bitcoin.org)|
-|Bitly|plateforme en ligne|réduction d'URLs|[DOC](https://dev.bitly.com) ▪ [MANUEL](https://support.bitly.com/hc/en-us)|
-|Blender|application|modélisation 3D|[DOC](https://developer.blender.org/docs) ▪ [IPA](https://docs.blender.org/api/current) ▪ [MANUEL](https://docs.blender.org/manual/en/latest)|
+|Bitly|plateforme en ligne|réduction d'URLs|[MANUEL](https://support.bitly.com/hc/en-us) ▪ [DOC](https://dev.bitly.com)|
+|Blender|application|modélisation 3D|[MANUEL](https://docs.blender.org/manual/en/latest) ▪ [DOC](https://developer.blender.org/docs) ▪ [IPA](https://docs.blender.org/api/current)|
 |Bootstrap||||
 |Brackets||||
 |Bulma|cadriciel|développement web|[DOC](https://bulma.io/documentation)|
