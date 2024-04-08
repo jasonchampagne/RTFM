@@ -149,7 +149,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Git||||
 |Go||||
 |Godot Engine||||
-|Google Ads|plateforme en ligne|diffusion d'annonces publicitaires|[MANUEL](https://support.google.com/google-ads/answer/6146252)|
+|Google Ads|plateforme en ligne|diffusion d'annonces publicitaires|[MANUEL](https://support.google.com/google-ads/answer/6146252) ▪ [IPA](https://developers.google.com/google-ads/api/docs/start?hl=fr)|
 |Google Calendar|plateforme en ligne|partage d'évènements et agendas|[IPA](https://developers.google.com/calendar/api/guides/overview?hl=fr)|
 |Gradle||||
 |GraphQL||||
