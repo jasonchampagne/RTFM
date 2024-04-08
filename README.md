@@ -16,7 +16,6 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |3ds Max|application|modélisation 3D|[MANUEL](https://www.autodesk.fr/support/technical/product/3ds-max)|
 |Ada|langage informatique|programmation|[DOC](https://www.adacore.com/documentation)|
 |AdonisJS|cadriciel|développement web|[DOC](https://docs.adonisjs.com/guides/introduction)|
-|Ads|plateforme en ligne|diffusion d'annonces publicitaires|[MANUEL](https://support.google.com/google-ads/answer/6146252)|
 |After Effects|application|animation et effets visuels|[MANUEL](https://helpx.adobe.com/fr/after-effects/user-guide.html)|
 |Allegro|bibliothèque|création de jeux vidéo, multimédia|[DOC](https://www.allegro.cc/manual/5)|
 |AlmaLinux|système d'exploitation|administration système et réseaux|[WIKI](https://wiki.almalinux.org)|
@@ -150,6 +149,8 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Git||||
 |Go||||
 |Godot Engine||||
+|Google Ads|plateforme en ligne|diffusion d'annonces publicitaires|[MANUEL](https://support.google.com/google-ads/answer/6146252)|
+|Google Calendar|plateforme en ligne|partage d'évènements et agendas|[IPA](https://developers.google.com/calendar/api/guides/overview?hl=fr)|
 |Gradle||||
 |GraphQL||||
 |Grav||||
@@ -321,8 +322,8 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 
 <!--
 
-Google : Ads, API, Calendar, Classroom, Cloud, Cloud Functions, CloudRun, CloudSQL, Cloud Storage, Container Registry, Datastore, Dialogflow, Drive, Firebase, Fonts, Geocoding, Maps, Photos, Places, Sheets, Tag Manager, Translate, Vision
+Google : API, Classroom, Cloud, Cloud Functions, CloudRun, CloudSQL, Cloud Storage, Container Registry, Datastore, Dialogflow, Drive, Firebase, Fonts, Geocoding, Maps, Photos, Places, Sheets, Tag Manager, Translate, Vision
 
-Microsoft : Edge, Excel, Forms, Graph API, Office, OneDrive, PowerPoint, Server, SQL Server, Teams, Windows, Word
+Microsoft : Edge, Forms, Graph API, Office, OneDrive, PowerPoint, Server, SQL Server, Teams, Windows, Word
 
 -->
