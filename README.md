@@ -52,8 +52,8 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Bitcoin|crypto-monnaie|échange de valeur monétaire|[DOC](https://developer.bitcoin.org)|
 |Bitly|plateforme en ligne|réduction d'URLs|[MANUEL](https://support.bitly.com/hc/en-us) ▪ [DOC](https://dev.bitly.com)|
 |Blender|application|modélisation 3D|[MANUEL](https://docs.blender.org/manual/en/latest) ▪ [DOC](https://developer.blender.org/docs) ▪ [IPA](https://docs.blender.org/api/current)|
-|Bootstrap||||
-|Brackets||||
+|Bootstrap|cadriciel|développement web|[DOC](https://getbootstrap.com/docs)|
+|Brackets|application|édition de code|[IPA](https://brackets.io/docs/current/modules/brackets.html)|
 |Bulma|cadriciel|développement web|[DOC](https://bulma.io/documentation)|
 |Bun||||
 |Bundler||||
