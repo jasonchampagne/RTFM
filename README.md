@@ -1,9 +1,13 @@
 # RTFM
 
-Ci dessous une liste de documentations, guides d'utilisation et manuels de référence pour des applications, langages de programmation/développement web, bibliothèques, cadriciels, plateformes en ligne, gestionnaires de contenu, systèmes d'exploitation, utilitaires, etc.
+Ci dessous une liste de ressources disponibles en ligne pour des applications, langages de programmation/développement web, bibliothèques, cadriciels, plateformes en ligne, gestionnaires de contenu, systèmes d'exploitation, utilitaires, etc.
 
 > [!NOTE]
 > **N'hésitez pas à signaler tout lien qui ne serait plus fonctionnel ou plus à jour**.
+> + **DOC** : documentation pour les développeurs
+> + **GUIDE** : manuel pour les utilisateurs
+> + **IPA** : interface pour les développeurs
+> + **WIKI** : guide pour les utilisateurs
 
 Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/FindMyDoc/tree/master/mementos) de commandes usuelles pour des programmes en ligne de commande (console).
 
