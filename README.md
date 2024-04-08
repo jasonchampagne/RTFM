@@ -302,6 +302,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |WxWidgets||||
 |Xamarin <!-- + Xamarin.Forms -->||||
 |Xcode||||
+|XD|application|conception vectorielle|[MANUEL](https://helpx.adobe.com/fr/xd/get-started.html)|
 |Xen||||
 |XML||||
 |Yarn||||
