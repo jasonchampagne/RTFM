@@ -18,6 +18,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |3ds Max|application|modélisation 3D|[GUIDE](https://www.autodesk.fr/support/technical/product/3ds-max)|
 |Ada|langage informatique|programmation|[DOC](https://www.adacore.com/documentation)|
 |AdonisJS|cadriciel|développement web|[DOC](https://docs.adonisjs.com/guides/introduction)|
+|Ads||||
 |After Effects|application|animation et effets visuels|[GUIDE](https://helpx.adobe.com/fr/after-effects/user-guide.html)|
 |Allegro|bibliothèque|création de jeux vidéo, multimédia|[DOC](https://www.allegro.cc/manual/5)|
 |AlmaLinux|système d'exploitation|administration système et réseaux|[WIKI](https://wiki.almalinux.org)|
@@ -118,106 +119,82 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Ember.js||||
 |Emoji||||
 |Emscripten||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
+|Entity Framework||||
+|Erlang||||
+|ESLint||||
+|Ethereum||||
+|Excel||||
+|Express.js||||
+|F#||||
+|FASM||||
+|Fedora||||
+|Figma||||
+|FileZilla||||
+|Firebase||||
+|Flask||||
+|Flutter||||
+|Foundation||||
+|FreeBSD||||
+|Freemarker||||
+|Frida||||
+|FUSE||||
+|Gatsby||||
 |Gather|plateforme en ligne|espace virtuel persistant|[GUIDE](https://support.gather.town/hc/en-us)|
+|GCC||||
+|GDB||||
+|Gentoo||||
+|GitHub Actions||||
+|GitLab||||
+|Git||||
+|Go||||
+|Godot Engine||||
+|Google <!-- Ads, API, Calendar, Classroom, Cloud, Cloud Functions, CloudRun, CloudSQL, Cloud Storage, Container Registry, Datastore, Dialogflow, Drive, Firebase, Fonts, Geocoding, Maps, Photos, Places, Sheets, Tag Manager, Translate, Vision -->||||
+|Gradle||||
+|GraphQL||||
+|Grav||||
+|Gulp||||
+|Haiku||||
+|Haskell||||
+|Heroku||||
+|Hibernate||||
+|Homebrew||||
+|Hugo||||
+|HTML||||
+|HTTP||||
+|Idris||||
+|IntelliJ||||
+|Ionic Framework||||
+|IOS||||
+|IPFS||||
+|Java||||
+|JavaScript||||
+|Jenkins||||
+|Jest||||
+|Jira||||
+|Jekyll||||
+|JQuery||||
+|Json||||
+|Julia||||
+|Jupyter||||
+|Kafka||||
+|Kali||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
 |Underscore|bibliothèque|développement web|[DOC](https://underscorejs.org)|
 
 <!--
-|Entity Framework|-|[documentation](https://documentations.microsoft.com/en-us/ef)|
-|Erlang|-|[documentation](https://www.erlang.org/documentation)|
-|ESLint|-|[documentation](https://eslint.org/documentations/user-guide/getting-started)|
-|Ethereum|-|[documentation](https://ethereum.org/en/developers/documentations)|
-|Excel|-|[documentation](https://support.microsoft.com/fr-fr/excel)|
-|Express.js|-|[documentation](https://expressjs.com/fr/starter/installing.html)|
-|F#|-|[documentation](https://documentations.microsoft.com/fr-fr/dotnet/fsharp)|
-|FASM|-|[documentation](https://flatassembler.net/documentations.php)|
-|Fedora|-|[documentation](https://documentations.fedoraproject.org)|
-|Figma|-|[documentation](https://www.figma.com/learn)|
-|FileZilla|-|[documentation](https://wiki.filezilla-project.org/documentationumentation)|
-|Firebase|-|[documentation](https://firebase.google.com/documentations)|
-|Flask|-|[documentation](https://flask.palletsprojects.com/en/2.0.x)|
-|Flutter|-|[documentation](https://flutter.dev/documentations)|
-|Foundation|-|[documentation](https://foundation.zurb.com/sites/documentations)|
-|FreeBSD|-|[documentation](https://documentations.freebsd.org/documentation)|
-|Freemarker|-|[documentation](https://freemarker.apache.org/documentations)|
-|Frida|-|[documentation](https://frida.re/documentations/home)|
-|FUSE|-|[documentation](https://github.com/libfuse/libfuse/blob/master/README.md)|
-|Gatsby|-|[documentation](https://www.gatsbyjs.com/documentations)|
-|GCC|-|[documentation](https://gcc.gnu.org/onlinedocumentations)|
-|GDB|-|[documentation](https://sourceware.org/gdb/current/onlinedocumentations)|
-|Gentoo|-|[documentation](https://wiki.gentoo.org/wiki/Handbook:Main_Page)|
-|GitHub Actions|-|[documentation](https://documentations.github.com/en/actions)|
-|GitLab CI|-|[documentation](https://documentations.gitlab.com/ee/ci)|
-|GitLab|-|[documentation](https://documentations.gitlab.com/ee)|
-|Git|-|[documentation](https://git-scm.com/documentation)|
-|GNU Bash|-|[documentation](https://www.gnu.org/software/bash/manual)|
-|Go|-|[documentation](https://golang.org/documentation)|
-|Godot Engine|-|[documentation](https://documentations.godotengine.org/en/stable)|
-|Google Ads API|-|[documentation](https://developers.google.com/google-ads/api/documentations/start)|
-|Google Analytics|-|[documentation](https://developers.google.com/analytics/devguides)|
-|Google API|-|[documentation](https://developers.google.com/products)|
-|Google Calendar API|-|[documentation](https://developers.google.com/calendar/api)|
-|Google Charts|-|[documentation](https://developers.google.com/chart)|
-|Google Classroom API|-|[documentation](https://developers.google.com/classroom)|
-|Google Cloud|-|[documentation](https://cloud.google.com/documentations)|
-|Google Cloud Functions|-|[documentation](https://cloud.google.com/functions/documentations)|
-|Google Cloud Run|-|[documentation](https://cloud.google.com/run/documentations)|
-|Google Cloud SQL|-|[documentation](https://cloud.google.com/sql/documentations)|
-|Google Cloud Storage|-|[documentation](https://cloud.google.com/storage/documentations)|
-|Google Container Registry|-|[documentation](https://cloud.google.com/container-registry/documentations)|
-|Google Datastore|-|[documentation](https://cloud.google.com/datastore/documentations)|
-|Google Dialogflow|-|[documentation](https://cloud.google.com/dialogflow/documentations)|
-|Google Drive API|-|[documentation](https://developers.google.com/drive)|
-|Google Firebase|-|[documentation](https://firebase.google.com/documentations)|
-|Google Fonts|-|[documentation](https://developers.google.com/fonts/documentations/getting_started)|
-|Google Geocoding API|-|[documentation](https://developers.google.com/maps/documentationumentation/geocoding/start)|
-|Google Maps API|-|[documentation](https://developers.google.com/maps/documentationumentation/javascript/overview)|
-|Google Photos API|-|[documentation](https://developers.google.com/photos)|
-|Google Places API|-|[documentation](https://developers.google.com/places/web-service/overview)|
-|Google Sheets API|-|[documentation](https://developers.google.com/sheets/api)|
-|Google Tag Manager API|-|[documentation](https://developers.google.com/tag-manager/api/v2)|
-|Google Translate API|-|[documentation](https://cloud.google.com/translate/documentations)|
-|Google Vision API|-|[documentation](https://cloud.google.com/vision/documentations)|
-|Gradle|-|[documentation](https://documentations.gradle.org/current/userguide/userguide.html)|
-|GraphQL|-|[documentation](https://graphql.org/learn)|
-|Grav|-|[documentation](https://learn.getgrav.org)|
-|Gulp|-|[documentation](https://gulpjs.com/documentations/en/getting-started/quick-start)|
-|Haiku|-|[documentation](https://www.haiku-os.org/documentations)|
-|Haskell|-|[documentation](https://www.haskell.org/documentationumentation)|
-|Heroku|-|[documentation](https://devcenter.heroku.com/categories/reference)|
-|Hibernate|-|[documentation](https://hibernate.org/orm/documentationumentation)|
-|Homebrew|-|[documentation](https://documentations.brew.sh)|
-|Hugo|-|[documentation](https://gohugo.io/documentationumentation)|
-|HxD|-|[documentation](https://mh-nexus.de/en/hxd)|
-|HTML|-|[documentation](https://developer.mozilla.org/en-US/documentations/Web/HTML)|
-|HTTP|-|[documentation](https://developer.mozilla.org/en-US/documentations/Web/HTTP)|
-|Hugo|-|[documentation](https://gohugo.io/documentationumentation)|
-|HxD|-|[documentation](https://mh-nexus.de/en/hxd)|
-|Idris|-|[documentation](https://documentations.idris-lang.org/en/latest)|
-|IntelliJ IDEA|-|[documentation](https://www.jetbrains.com/idea/documentationumentation)|
-|Ionic Framework|-|[documentation](https://ionicframework.com/documentations)|
-|iOS|-|[documentation](https://developer.apple.com/documentationumentation)|
-|IPFS|-|[documentation](https://documentations.ipfs.io/concepts)|
-|Java|-|[documentation](https://documentations.oracle.com/en/java)|
-|JavaScript|-|[documentation](https://developer.mozilla.org/en-US/documentations/Web/JavaScript)|
-|Jenkins|-|[documentation](https://www.jenkins.io/documentation)|
-|Jest|-|[documentation](https://jestjs.io/documentations/getting-started)|
-|JIRA|-|[documentation](https://confluence.atlassian.com/jirasoftwarecloud)|
-|Jekyll|-|[documentation](https://jekyllrb.com/documentations)|
-|jQuery|-|[documentation](https://learn.jquery.com)|
-|JSON|-|[documentation](https://www.json.org/json-en.html)|
-|Julia|-|[documentation](https://documentations.julialang.org/en/v1)|
-|Jupyter|-|[documentation](https://jupyter.org/documentationumentation)|
-|Kafka|-|[documentation](https://kafka.apache.org/documentationumentation)|
-|Kali Linux|-|[documentation](https://www.kali.org/documentations)|
 |Kanban|-|[documentation](https://www.atlassian.com/agile/kanban)|
 |Kotlin|-|[documentation](https://kotlinlang.org/documentations/home.html)|
 |Kubernetes|-|[documentation](https://kubernetes.io/documentations)|
