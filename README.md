@@ -241,6 +241,31 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |PrestaShop||||
 |Prolog||||
 |Protobuf||||
+|Puppet||||
+|Python||||
+|Qt||||
+|R||||
+|RabbitMQ||||
+|Rails||||
+|Raspberry Pi||||
+|React <!-- React Native, React Router -->||||
+|Redis||||
+|Redux||||
+|REST||||
+|RHEL||||
+|Riot.js||||
+|Ruby||||
+|Rust||||
+|SaltStack||||
+|Sass||||
+|Scala||||
+|Scrapy||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
 |||||
 |||||
 |||||
@@ -261,27 +286,6 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 Google : Ads, API, Calendar, Classroom, Cloud, Cloud Functions, CloudRun, CloudSQL, Cloud Storage, Container Registry, Datastore, Dialogflow, Drive, Firebase, Fonts, Geocoding, Maps, Photos, Places, Sheets, Tag Manager, Translate, Vision
 
 Microsoft : Edge, Excel, Graph API, Office, OneDrive, PowerPoint, SQL Server, Teams, Windows, Word
-|Puppet|-|[documentation](https://puppet.com/documentations)|
-|Python|-|[documentation](https://documentations.python.org/3)|
-|Qt|-|[documentation](https://documentation.qt.io)|
-|R|-|[documentation](https://cran.r-project.org/manuals.html)|
-|RabbitMQ|-|[documentation](https://www.rabbitmq.com/documentationumentation.html)|
-|Rails|-|[documentation](https://guides.rubyonrails.org)|
-|Raspberry Pi|-|[documentation](https://www.raspberrypi.org/documentationumentation)|
-|React|-|[documentation](https://reactjs.org/documentations/getting-started.html)|
-|React Native|-|[documentation](https://reactnative.dev/documentations/getting-started)|
-|React Router|-|[documentation](https://reactrouter.com/documentations)|
-|Redis|-|[documentation](https://redis.io/documentationumentation)|
-|Redux|-|[documentation](https://redux.js.org/introduction/getting-started)|
-|REST|-|[documentation](https://restfulapi.net)|
-|RHEL|-|[documentation](https://access.redhat.com/documentationumentation/en-us/red_hat_enterprise_linux)|
-|Riot.js|-|[documentation](https://riot.js.org/documentationumentation)|
-|Ruby|-|[documentation](https://www.ruby-lang.org/en/documentationumentation)|
-|Rust|-|[documentation](https://www.rust-lang.org/learn)|
-|SaltStack|-|[documentation](https://documentations.saltproject.io/en/latest)|
-|Sass|-|[documentation](https://sass-lang.com/documentationumentation)|
-|Scala|-|[documentation](https://documentations.scala-lang.org)|
-|Scrapy|-|[documentation](https://documentations.scrapy.org/en/latest)|
 |Sequelize|-|[documentation](https://sequelize.org/master)|
 |Shopify|-|[documentation](https://shopify.dev/documentations)|
 |Sinatra|-|[documentation](http://sinatrarb.com/documentationumentation.html)|
