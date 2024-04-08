@@ -317,7 +317,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Zephyr||||
 |Zig||||
 |Zoho <!-- + Zoho CRM -->||||
-|Zsh||||
+|Z shell|application|exécution de commandes|[MANUEL](https://zsh.sourceforge.io/Guide) ▪ [DOC](https://zsh.sourceforge.io/Doc)|
 
 
 <!--
