@@ -316,7 +316,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Zend Framework||||
 |Zephyr||||
 |Zig||||
-|Zoho <!-- + Zoho CRM -->||||
+|Zoho One|système d'exploitation|gestion des processus d'organisations|[MANUEL](https://www.zoho.com/fr/one/guides)|
 |Z shell|application|exécution de commandes|[MANUEL](https://zsh.sourceforge.io/Guide) ▪ [DOC](https://zsh.sourceforge.io/Doc)|
 
 
