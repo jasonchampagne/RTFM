@@ -126,6 +126,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |F#||||
 |FASM||||
 |Fedora||||
+|FFmpeg|utilitaire|traitement audio et vidéo|[DOC](https://ffmpeg.org/documentation.html)|
 |Figma||||
 |FileZilla||||
 |Firebase||||
