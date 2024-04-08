@@ -316,9 +316,12 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Zend Framework||||
 |Zephyr||||
 |Zig||||
+|Zoho Campaigns|application|marketing par e-mail|[MANUEL](https://www.zoho.com/campaigns/help)|
 |Zoho CRM|application|gestion de la relation client|[MANUEL](https://www.zoho.com/fr/crm/resources)|
+|Zoho Forms|application|gestion de formulaires|[MANUEL](https://www.zoho.com/forms/help)|
 |Zoho Mail|application|messagerie électronique|[MANUEL](https://www.zoho.com/fr/mail/help)|
 |Zoho One|système d'exploitation|gestion d'entreprises|[MANUEL](https://www.zoho.com/fr/one/guides)|
+|Zoho Sites|application|création de sites web|[MANUEL](https://www.zoho.com/sites/resources.html)|
 |Z shell|application|exécution de commandes|[MANUEL](https://zsh.sourceforge.io/Guide) ▪ [DOC](https://zsh.sourceforge.io/Doc)|
 
 
