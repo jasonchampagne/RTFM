@@ -11,48 +11,48 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 
 |NOM|TYPE|USAGE|RESSOURCES|
 |:--|:--|:--|:--|
-|3ds Max|application|modélisation 3D|[manuel](https://www.autodesk.fr/support/technical/product/3ds-max)|
-|Ada|langage informatique|programmation|[documentation](https://www.adacore.com/documentation)|
-|AdonisJS|cadriciel|développement web|[documentation](https://docs.adonisjs.com/guides/introduction)|
-|After Effects|application|animation et effets visuels|[manuel](https://helpx.adobe.com/fr/after-effects/user-guide.html)|
-|Allegro|bibliothèque|création de jeux vidéo, multimédia|[documentation](https://www.allegro.cc/manual/5)|
-|AlmaLinux|système d'exploitation|administration système et réseaux|[wiki](https://wiki.almalinux.org)|
-|Amazon Web Services|plateforme en ligne|hébergement d'applications, données et services|[documentation](https://docs.aws.amazon.com)|
-|Analytics|service web|analyse d'audience|[documentation](https://developers.google.com/analytics?hl=fr)|
-|Android|système d'exploitation|programmation|[documentation](https://developer.android.com/guide)|
-|Angular|cadriciel|développement web|[documentation](https://angular.io/docs)|
-|Apache|application|serveur web|[documentation](https://httpd.apache.org/docs)|
-|ArchLinux|système d'exploitation|administration système et réseaux|[wiki](https://wiki.archlinux.org/title/Main_page_(Fran%C3%A7ais))|
-|Ardour|application|enregistrement, édition et mixage audio|[manuel](https://manual.ardour.org/toc)|
-|Arduino|langage informatique|programmation|[documentation](https://www.arduino.cc/reference)|
-|Aria2|utilitaire|gestion des téléchargements|[documentation](https://aria2.github.io/manual/en/html/index.html)|
-|Asciidoc|langage informatique|rédaction de documentation technique|[documentation](https://docs.asciidoctor.org/asciidoc/latest)|
-|Affinity Designer|application|conception et illustration|[manuel (PC)](https://affinity.serif.com/fr/learn/designer/desktop) ▪ [manuel (iPad)](https://affinity.serif.com/fr/learn/designer/ipad)|
-|Affinity Photo|application|édition photo|[manuel (PC)](https://affinity.serif.com/fr/learn/photo/desktop) ▪ [manuel (iPad)](https://affinity.serif.com/fr/learn/photo/ipad)|
-|Affinity Publisher|application|conception et mise en page|[manuel (PC)](https://affinity.serif.com/fr/learn/publisher/desktop) ▪ [manuel (iPad)](https://affinity.serif.com/fr/learn/publisher/ipad)|
-|ASP.NET|cadriciel|développement web|[documentation](https://learn.microsoft.com/fr-fr/aspnet/core)|
-|Atom|application|édition de code|[manuel](https://flight-manual.atom-editor.cc) ▪ [IPA](https://flight-manual.atom-editor.cc/api/v1.63.1/AtomEnvironment)|
-|Audacity|application|enregistrement et édition audio|[manuel](https://manual.audacityteam.org/index.html)|
-|Audition|application|enregistrement, édition et mixage audio|[manuel](https://helpx.adobe.com/fr/audition/user-guide.html)|
-|AuthPass|application|gestion des mots de passes|[manuel](https://authpass.app/docs)|
-|AutoCAD|application|dessin assisté par ordinateur|[manuel](https://help.autodesk.com/FRA)|
-|Autoconf|utilitaire|configuration automatique de code source|[documentation](https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.72/index.html)|
-|AutoHotkey|langage informatique|programmation|[documentation](https://www.autohotkey.com/docs)|
-|AutoIt|langage informatique|programmation|[wiki](https://www.autoitscript.com/wiki)|
-|Azure|plateforme en ligne|hébergement d'applications, données et services|[documentation](https://learn.microsoft.com/fr-fr/azure)|
-|Babylon.js|bibliothèque|rendu 3D sur navigateur|[documentation](https://doc.babylonjs.com)|
-|Backbone.js|cadriciel|développement web|[documentation](https://backbonejs.org)|
-|Bash|application<br>langage informatique|exécution de commandes<br>programmation|[documentation](https://www.gnu.org/software/bash/manual)|
-|Batch|langage informatique|programmation|[documentation](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)|
-|Bevy|moteur de jeu|création de jeux vidéo|[documentation](https://bevyengine.org/learn/quick-start/introduction) ▪ [IPA](https://docs.rs/bevy/latest/bevy)|
-|Bitbucket|plateforme en ligne|hébergement et gestion de développement logiciel|[documentation](https://support.atlassian.com/bitbucket-cloud/resources)|
-|Bitcoin|crypto-monnaie|échange de valeur monétaire|[documentation](https://developer.bitcoin.org)|
-|Bitly|plateforme en ligne|réduction d'URLs|[documentation](https://dev.bitly.com) ▪ [manuel](https://support.bitly.com/hc/en-us)|
-|Blender|application|modélisation 3D|[documentation](https://developer.blender.org/docs) ▪ [IPA Python](https://docs.blender.org/api/current) ▪ [manuel](https://docs.blender.org/manual/en/latest)|
-|Bulma|cadriciel|développement web|[documentation](https://bulma.io/documentation)|
-|Dolphin|application|émulation GameCube et Wii|[manuel](https://fr.dolphin-emu.org/docs/guides)|
-|Gather|plateforme en ligne|espace virtuel persistant|[manuel](https://support.gather.town/hc/en-us)|
-|Underscore|bibliothèque|développement web|[documentation](https://underscorejs.org)|
+|3ds Max|application|modélisation 3D|[MAN](https://www.autodesk.fr/support/technical/product/3ds-max)|
+|Ada|langage informatique|programmation|[DOC](https://www.adacore.com/documentation)|
+|AdonisJS|cadriciel|développement web|[DOC](https://docs.adonisjs.com/guides/introduction)|
+|After Effects|application|animation et effets visuels|[GUIDE](https://helpx.adobe.com/fr/after-effects/user-guide.html)|
+|Allegro|bibliothèque|création de jeux vidéo, multimédia|[DOC](https://www.allegro.cc/manual/5)|
+|AlmaLinux|système d'exploitation|administration système et réseaux|[WIKI](https://wiki.almalinux.org)|
+|Amazon Web Services|plateforme en ligne|hébergement d'applications, données et services|[DOC](https://docs.aws.amazon.com)|
+|Analytics|service web|analyse d'audience|[DOC](https://developers.google.com/analytics?hl=fr)|
+|Android|système d'exploitation|programmation|[DOC](https://developer.android.com/guide)|
+|Angular|cadriciel|développement web|[DOC](https://angular.io/docs)|
+|Apache|application|serveur web|[DOC](https://httpd.apache.org/docs)|
+|ArchLinux|système d'exploitation|administration système et réseaux|[WIKI](https://wiki.archlinux.org/title/Main_page_(Fran%C3%A7ais))|
+|Ardour|application|enregistrement, édition et mixage audio|[GUIDE](https://manual.ardour.org/toc)|
+|Arduino|langage informatique|programmation|[DOC](https://www.arduino.cc/reference)|
+|Aria2|utilitaire|gestion des téléchargements|[DOC](https://aria2.github.io/manual/en/html/index.html)|
+|Asciidoc|langage informatique|rédaction de documentation technique|[DOC](https://docs.asciidoctor.org/asciidoc/latest)|
+|Affinity Designer|application|conception et illustration|[GUIDE (PC)](https://affinity.serif.com/fr/learn/designer/desktop) ▪ [GUIDE (iPad)](https://affinity.serif.com/fr/learn/designer/ipad)|
+|Affinity Photo|application|édition photo|[GUIDE (PC)](https://affinity.serif.com/fr/learn/photo/desktop) ▪ [GUIDE (iPad)](https://affinity.serif.com/fr/learn/photo/ipad)|
+|Affinity Publisher|application|conception et mise en page|[GUIDE (PC)](https://affinity.serif.com/fr/learn/publisher/desktop) ▪ [GUIDE (iPad)](https://affinity.serif.com/fr/learn/publisher/ipad)|
+|ASP.NET|cadriciel|développement web|[DOC](https://learn.microsoft.com/fr-fr/aspnet/core)|
+|Atom|application|édition de code|[GUIDE](https://flight-manual.atom-editor.cc) ▪ [IPA](https://flight-manual.atom-editor.cc/api/v1.63.1/AtomEnvironment)|
+|Audacity|application|enregistrement et édition audio|[GUIDE](https://manual.audacityteam.org/index.html)|
+|Audition|application|enregistrement, édition et mixage audio|[GUIDE](https://helpx.adobe.com/fr/audition/user-guide.html)|
+|AuthPass|application|gestion des mots de passes|[GUIDE](https://authpass.app/docs)|
+|AutoCAD|application|dessin assisté par ordinateur|[GUIDE](https://help.autodesk.com/FRA)|
+|Autoconf|utilitaire|configuration automatique de code source|[DOC](https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.72/index.html)|
+|AutoHotkey|langage informatique|programmation|[DOC](https://www.autohotkey.com/docs)|
+|AutoIt|langage informatique|programmation|[WIKI](https://www.autoitscript.com/wiki)|
+|Azure|plateforme en ligne|hébergement d'applications, données et services|[DOC](https://learn.microsoft.com/fr-fr/azure)|
+|Babylon.js|bibliothèque|rendu 3D sur navigateur|[DOC](https://doc.babylonjs.com)|
+|Backbone.js|cadriciel|développement web|[DOC](https://backbonejs.org)|
+|Bash|application<br>langage informatique|exécution de commandes<br>programmation|[DOC](https://www.gnu.org/software/bash/manual)|
+|Batch|langage informatique|programmation|[DOC](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)|
+|Bevy|moteur de jeu|création de jeux vidéo|[DOC](https://bevyengine.org/learn/quick-start/introduction) ▪ [IPA](https://docs.rs/bevy/latest/bevy)|
+|Bitbucket|plateforme en ligne|hébergement et gestion de développement logiciel|[DOC](https://support.atlassian.com/bitbucket-cloud/resources)|
+|Bitcoin|crypto-monnaie|échange de valeur monétaire|[DOC](https://developer.bitcoin.org)|
+|Bitly|plateforme en ligne|réduction d'URLs|[DOC](https://dev.bitly.com) ▪ [GUIDE](https://support.bitly.com/hc/en-us)|
+|Blender|application|modélisation 3D|[DOC](https://developer.blender.org/docs) ▪ [IPA](https://docs.blender.org/api/current) ▪ [GUIDE](https://docs.blender.org/manual/en/latest)|
+|Bulma|cadriciel|développement web|[DOC](https://bulma.io/documentation)|
+|Dolphin|application|émulation GameCube et Wii|[GUIDE](https://fr.dolphin-emu.org/docs/guides)|
+|Gather|plateforme en ligne|espace virtuel persistant|[GUIDE](https://support.gather.town/hc/en-us)|
+|Underscore|bibliothèque|développement web|[DOC](https://underscorejs.org)|
 
 <!--
 |Bootstrap|-|[documentation](https://getbootstrap.com/documentations)|
