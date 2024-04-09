@@ -36,8 +36,8 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Audacity|éditeur et enregistreur audio multipiste|[MANUEL](https://manual.audacityteam.org/index.html)|
 |Audition|station de travail audio-numérique|[MANUEL](https://helpx.adobe.com/fr/audition/user-guide.html)|
 |AuthPass|gestionnaire de mots de passe|[MANUEL](https://authpass.app/docs)|
-|AutoCAD||[MANUEL](https://help.autodesk.com/FRA)|
-|Autoconf||[DOC](https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.72/index.html)|
+|AutoCAD|dessin assisté par ordinateur|[MANUEL](https://help.autodesk.com/FRA)|
+|Autoconf|logiciel de production de scripts pour la configuration de codes source|[DOC](https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.72/index.html)|
 |AutoHotkey||[DOC](https://www.autohotkey.com/docs)|
 |AutoIt||[WIKI](https://www.autoitscript.com/wiki)|
 |Azure||[DOC](https://learn.microsoft.com/fr-fr/azure)|
