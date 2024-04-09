@@ -289,7 +289,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Underscore||[DOC](https://underscorejs.org)|
 |Unity|||
 |Unreal Engine|||
-|V|langage de programmation||
+|V|langage de programmation|[DOC](https://github.com/vlang/v/blob/master/doc/docs.md) ▪ [DOC STDLIB](https://modules.vlang.io)|
 |Vagrant|||
 |VBA|||
 |Vim|||
