@@ -16,15 +16,14 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |3ds Max|logiciel de modélisation 3d|[MANUEL](https://www.autodesk.fr/support/technical/product/3ds-max)|
 |Ada|langage de programmation|[DOC](https://www.adacore.com/documentation)|
 |AdonisJS|cadriciel pour la création d'applications web et IPAs|[DOC](https://docs.adonisjs.com/guides/introduction)|
-|After Effects||[MANUEL](https://helpx.adobe.com/fr/after-effects/user-guide.html)|
+|After Effects|logiciel de composition, animation et effets visuels|[MANUEL](https://helpx.adobe.com/fr/after-effects/user-guide.html)|
 |Allegro||[DOC](https://www.allegro.cc/manual/5)|
 |AlmaLinux||[WIKI](https://wiki.almalinux.org)|
 |Amazon Web Services||[DOC](https://docs.aws.amazon.com)|
-|Analytics||[DOC](https://developers.google.com/analytics?hl=fr)|
-|Android||[DOC](https://developer.android.com/guide)|
+|Android|système d'exploitation|[DOC](https://developer.android.com/guide)|
 |Angular||[DOC](https://angular.io/docs)|
-|Apache||[DOC](https://httpd.apache.org/docs)|
-|ArchLinux||[WIKI](https://wiki.archlinux.org/title/Main_page_(Fran%C3%A7ais))|
+|Apache|serveur web HTTP|[DOC](https://httpd.apache.org/docs)|
+|ArchLinux|système d'exploitation|[WIKI](https://wiki.archlinux.org/title/Main_page_(Fran%C3%A7ais))|
 |Ardour||[MANUEL](https://manual.ardour.org/toc)|
 |Arduino||[DOC](https://www.arduino.cc/reference)|
 |Aria2||[DOC](https://aria2.github.io/manual/en/html/index.html)|
@@ -150,6 +149,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Go|||
 |Godot Engine|||
 |Google Ads||[MANUEL](https://support.google.com/google-ads/answer/6146252) ▪ [IPA](https://developers.google.com/google-ads/api/docs/start?hl=fr)|
+|Google Analytics||[DOC](https://developers.google.com/analytics?hl=fr)|
 |Google Calendar||[IPA](https://developers.google.com/calendar/api/guides/overview?hl=fr)|
 |Gradle|||
 |GraphQL|||
