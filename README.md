@@ -26,7 +26,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |ArchLinux|système d'exploitation|[WIKI](https://wiki.archlinux.org/title/Main_page_(Fran%C3%A7ais))|
 |Ardour|station de travail audio-numérique|[MANUEL](https://manual.ardour.org/toc)|
 |Arduino|plateforme pour la création d'objets électroniques programmables|[DOC](https://www.arduino.cc/reference)|
-|Aria2||[DOC](https://aria2.github.io/manual/en/html/index.html)|
+|Aria2|utilitaire de téléchargement multi-protocole et multi-source|[DOC](https://aria2.github.io/manual/en/html/index.html)|
 |Asciidoc||[DOC](https://docs.asciidoctor.org/asciidoc/latest)|
 |Affinity Designer||[MANUEL (PC)](https://affinity.serif.com/fr/learn/designer/desktop) ▪ [MANUEL (iPad)](https://affinity.serif.com/fr/learn/designer/ipad)|
 |Affinity Photo||[MANUEL (PC)](https://affinity.serif.com/fr/learn/photo/desktop) ▪ [MANUEL (iPad)](https://affinity.serif.com/fr/learn/photo/ipad)|
