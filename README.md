@@ -39,8 +39,8 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |AutoCAD|dessin assisté par ordinateur|[MANUEL](https://help.autodesk.com/FRA)|
 |Autoconf|utilitaire de production de scripts pour la configuration de code source|[DOC](https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.72/index.html)|
 |AutoHotkey|langage de script pour l'automatisation de tâches Windows|[DOC](https://www.autohotkey.com/docs)|
-|AutoIt||[WIKI](https://www.autoitscript.com/wiki)|
-|Azure||[DOC](https://learn.microsoft.com/fr-fr/azure)|
+|AutoIt|langage de script pour l'automatisation de l'interface graphique de Windows et l'écriture de scripts|[WIKI](https://www.autoitscript.com/wiki)|
+|Azure|plateforme dans le nuage pour créer des applications|[DOC](https://learn.microsoft.com/fr-fr/azure)|
 |Babylon.js||[DOC](https://doc.babylonjs.com)|
 |Backbone.js||[DOC](https://backbonejs.org)|
 |Bash|interpréteur de lignes de commandes (_shell_)|[DOC](https://www.gnu.org/software/bash/manual)|
