@@ -19,9 +19,9 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |After Effects|logiciel de composition, animation et effets visuels|[MANUEL](https://helpx.adobe.com/fr/after-effects/user-guide.html)|
 |Allegro|Moteur de jeu|[DOC](https://www.allegro.cc/manual/5)|
 |AlmaLinux|système d'exploitation|[WIKI](https://wiki.almalinux.org)|
-|Amazon Web Services|plateforme informatique dans le nuage pour créer des applications|[DOC](https://docs.aws.amazon.com)|
+|Amazon Web Services|plateforme dans le nuage pour créer des applications|[DOC](https://docs.aws.amazon.com)|
 |Android|système d'exploitation|[DOC](https://developer.android.com/guide)|
-|Angular||[DOC](https://angular.io/docs)|
+|Angular|cadriciel pour la création d'applications web|[DOC](https://angular.io/docs)|
 |Apache|serveur web HTTP|[DOC](https://httpd.apache.org/docs)|
 |ArchLinux|système d'exploitation|[WIKI](https://wiki.archlinux.org/title/Main_page_(Fran%C3%A7ais))|
 |Ardour||[MANUEL](https://manual.ardour.org/toc)|
