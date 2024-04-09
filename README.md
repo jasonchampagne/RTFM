@@ -37,8 +37,8 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Audition|station de travail audio-numérique|[MANUEL](https://helpx.adobe.com/fr/audition/user-guide.html)|
 |AuthPass|gestionnaire de mots de passe|[MANUEL](https://authpass.app/docs)|
 |AutoCAD|dessin assisté par ordinateur|[MANUEL](https://help.autodesk.com/FRA)|
-|Autoconf|logiciel de production de scripts pour la configuration de codes source|[DOC](https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.72/index.html)|
-|AutoHotkey||[DOC](https://www.autohotkey.com/docs)|
+|Autoconf|utilitaire de production de scripts pour la configuration de code source|[DOC](https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.72/index.html)|
+|AutoHotkey|langage de script pour l'automatisation de tâches Windows|[DOC](https://www.autohotkey.com/docs)|
 |AutoIt||[WIKI](https://www.autoitscript.com/wiki)|
 |Azure||[DOC](https://learn.microsoft.com/fr-fr/azure)|
 |Babylon.js||[DOC](https://doc.babylonjs.com)|
