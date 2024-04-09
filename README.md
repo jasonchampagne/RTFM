@@ -30,7 +30,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |AsciiDoc|format de rédaction pour écrire des notices, livres et documents techniques|[DOC](https://docs.asciidoctor.org/asciidoc/latest)|
 |Affinity Designer|logiciel de conception et illustration vectorielle|[MANUEL (PC)](https://affinity.serif.com/fr/learn/designer/desktop) ▪ [MANUEL (iPad)](https://affinity.serif.com/fr/learn/designer/ipad)|
 |Affinity Photo|logiciel de retouche d'images|[MANUEL (PC)](https://affinity.serif.com/fr/learn/photo/desktop) ▪ [MANUEL (iPad)](https://affinity.serif.com/fr/learn/photo/ipad)|
-|Affinity Publisher|logiciel de mise en page|[MANUEL (PC)](https://affinity.serif.com/fr/learn/publisher/desktop) ▪ [MANUEL (iPad)](https://affinity.serif.com/fr/learn/publisher/ipad)|
+|Affinity Publisher|logiciel de mise en page pour projets numériques ou imprimés|[MANUEL (PC)](https://affinity.serif.com/fr/learn/publisher/desktop) ▪ [MANUEL (iPad)](https://affinity.serif.com/fr/learn/publisher/ipad)|
 |ASP.NET||[DOC](https://learn.microsoft.com/fr-fr/aspnet/core)|
 |Atom||[MANUEL](https://flight-manual.atom-editor.cc) ▪ [IPA](https://flight-manual.atom-editor.cc/api/v1.63.1/AtomEnvironment)|
 |Audacity||[MANUEL](https://manual.audacityteam.org/index.html)|
