@@ -17,9 +17,9 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Ada|langage de programmation|[DOC](https://www.adacore.com/documentation)|
 |AdonisJS|cadriciel pour la création d'applications web et IPAs|[DOC](https://docs.adonisjs.com/guides/introduction)|
 |After Effects|logiciel de composition, animation et effets visuels|[MANUEL](https://helpx.adobe.com/fr/after-effects/user-guide.html)|
-|Allegro||[DOC](https://www.allegro.cc/manual/5)|
-|AlmaLinux||[WIKI](https://wiki.almalinux.org)|
-|Amazon Web Services||[DOC](https://docs.aws.amazon.com)|
+|Allegro|Moteur de jeu|[DOC](https://www.allegro.cc/manual/5)|
+|AlmaLinux|système d'exploitation|[WIKI](https://wiki.almalinux.org)|
+|Amazon Web Services|plateforme informatique dans le nuage pour créer des applications|[DOC](https://docs.aws.amazon.com)|
 |Android|système d'exploitation|[DOC](https://developer.android.com/guide)|
 |Angular||[DOC](https://angular.io/docs)|
 |Apache|serveur web HTTP|[DOC](https://httpd.apache.org/docs)|
