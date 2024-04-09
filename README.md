@@ -281,7 +281,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |TOML||||
 |TypeScript||||
 |Twitch||||
-|Ubuntu||||
+|Ubuntu|système d'exploitation|administration système et réseaux|[MANUEL](https://help.ubuntu.com) ▪ [WIKI](https://help.ubuntu.com/community/CommunityHelpWiki) ▪ [DOC](https://doc.ubuntu-fr.org/accueil)|
 |Underscore|bibliothèque|développement web|[DOC](https://underscorejs.org)|
 |Unity||||
 |Unreal Engine||||
