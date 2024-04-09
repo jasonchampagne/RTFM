@@ -76,6 +76,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Codon|||
 |CoffeeScript|||
 |Coinbase|||
+|Command Shell|interpréteur de lignes de commandes (_shell_)|[DOC](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)|
 |Common Lisp|||
 |Coq|||
 |CryENGINE|||
@@ -208,7 +209,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |ML|||
 |MongoDB|||
 |Moodle|||
-|MS-DOS||[DOC](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)|
+|MS-DOS|système d'exploitation||
 |MuleSoft|||
 |MySQL|||
 |NASM|||
