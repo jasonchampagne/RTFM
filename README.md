@@ -326,7 +326,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Zoho CRM|gestionnaire de la relation client|[MANUEL](https://www.zoho.com/fr/crm/resources)|
 |Zoho Forms|gestionnaire de formulaires|[MANUEL](https://www.zoho.com/forms/help)|
 |Zoho LandingPage|créateur de pages de destination|[MANUEL](https://www.zoho.com/landingpage/help)|
-|Zoho Mail|messagerie électronique|[MANUEL](https://www.zoho.com/fr/mail/help)|
+|Zoho Mail|service de messagerie électronique|[MANUEL](https://www.zoho.com/fr/mail/help)|
 |Zoho One|gestionnaire d'entreprises|[MANUEL](https://www.zoho.com/fr/one/guides)|
 |Zoho PageSense|personnalisation et optimisation du taux de conversion|[MANUEL](https://www.zoho.com/pagesense/help)|
 |Zoho SalesIQ|discussion instantanée|[MANUEL](https://www.zoho.com/salesiq/help)|
