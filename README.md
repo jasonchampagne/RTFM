@@ -44,7 +44,6 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Babylon.js|moteur de rendu web pour créer des graphiques 3D|[DOC](https://doc.babylonjs.com)|
 |Backbone.js|cadriciel pour le développement web|[DOC](https://backbonejs.org)|
 |Bash|interpréteur de lignes de commandes (_shell_)|[DOC](https://www.gnu.org/software/bash/manual)|
-|Batch||[DOC](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)|
 |Battle.net||[IPA OAuth](https://develop.battle.net/documentation/battle-net/oauth-apis)|
 |Bevy||[DOC](https://bevyengine.org/learn/quick-start/introduction) ▪ [IPA](https://docs.rs/bevy/latest/bevy)|
 |Bitbucket||[DOC](https://support.atlassian.com/bitbucket-cloud/resources)|
@@ -209,7 +208,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |ML|||
 |MongoDB|||
 |Moodle|||
-|MS-DOS|||
+|MS-DOS||[DOC](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)|
 |MuleSoft|||
 |MySQL|||
 |NASM|||
