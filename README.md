@@ -41,8 +41,8 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |AutoHotkey|langage de script pour l'automatisation de tâches Windows|[DOC](https://www.autohotkey.com/docs)|
 |AutoIt|langage de script pour l'automatisation de l'interface graphique de Windows et l'écriture de scripts|[WIKI](https://www.autoitscript.com/wiki)|
 |Azure|plateforme dans le nuage pour créer des applications|[DOC](https://learn.microsoft.com/fr-fr/azure)|
-|Babylon.js||[DOC](https://doc.babylonjs.com)|
-|Backbone.js||[DOC](https://backbonejs.org)|
+|Babylon.js|moteur de rendu web pour créer des graphiques 3D|[DOC](https://doc.babylonjs.com)|
+|Backbone.js|cadriciel pour le développement web|[DOC](https://backbonejs.org)|
 |Bash|interpréteur de lignes de commandes (_shell_)|[DOC](https://www.gnu.org/software/bash/manual)|
 |Batch||[DOC](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)|
 |Battle.net||[IPA OAuth](https://develop.battle.net/documentation/battle-net/oauth-apis)|
