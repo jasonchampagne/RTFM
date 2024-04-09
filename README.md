@@ -31,11 +31,11 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Affinity Designer|logiciel de conception et illustration vectorielle|[MANUEL (PC)](https://affinity.serif.com/fr/learn/designer/desktop) ▪ [MANUEL (iPad)](https://affinity.serif.com/fr/learn/designer/ipad)|
 |Affinity Photo|logiciel de retouche d'images et montage photo|[MANUEL (PC)](https://affinity.serif.com/fr/learn/photo/desktop) ▪ [MANUEL (iPad)](https://affinity.serif.com/fr/learn/photo/ipad)|
 |Affinity Publisher|logiciel de mise en page pour projets numériques ou imprimés|[MANUEL (PC)](https://affinity.serif.com/fr/learn/publisher/desktop) ▪ [MANUEL (iPad)](https://affinity.serif.com/fr/learn/publisher/ipad)|
-|ASP.NET||[DOC](https://learn.microsoft.com/fr-fr/aspnet/core)|
-|Atom||[MANUEL](https://flight-manual.atom-editor.cc) ▪ [IPA](https://flight-manual.atom-editor.cc/api/v1.63.1/AtomEnvironment)|
-|Audacity||[MANUEL](https://manual.audacityteam.org/index.html)|
-|Audition||[MANUEL](https://helpx.adobe.com/fr/audition/user-guide.html)|
-|AuthPass||[MANUEL](https://authpass.app/docs)|
+|ASP.NET|cadriciel pour le développement web et la production de pages web|[DOC](https://learn.microsoft.com/fr-fr/aspnet/core)|
+|Atom|éditeur de code|[MANUEL](https://flight-manual.atom-editor.cc) ▪ [IPA](https://flight-manual.atom-editor.cc/api/v1.63.1/AtomEnvironment)|
+|Audacity|éditeur et enregistreur audio multipiste|[MANUEL](https://manual.audacityteam.org/index.html)|
+|Audition|station de travail audio-numérique|[MANUEL](https://helpx.adobe.com/fr/audition/user-guide.html)|
+|AuthPass|gestionnaire de mots de passe|[MANUEL](https://authpass.app/docs)|
 |AutoCAD||[MANUEL](https://help.autodesk.com/FRA)|
 |Autoconf||[DOC](https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.72/index.html)|
 |AutoHotkey||[DOC](https://www.autohotkey.com/docs)|
@@ -56,9 +56,9 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Bulma||[DOC](https://bulma.io/documentation)|
 |Bun|||
 |Bundler|||
-|C|||
-|C++|||
-|C#|||
+|C|langage de programmation||
+|C++|langage de programmation||
+|C#|langage de programmation||
 |CakePHP|||
 |CapRover|||
 |CEGUI|||
@@ -72,7 +72,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Clojure|||
 |Cloudflare|||
 |CMake|||
-|COBOL|||
+|COBOL|langage de programmation||
 |CodeIgniter|||
 |Codon|||
 |CoffeeScript|||
@@ -86,14 +86,14 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |CUDA|||
 |CustomTkinter|||
 |Cutter|||
-|D|||
+|D|langage de programmation||
 |DahliaOS|||
 |Darktable|||
-|Dart|||
+|Dart|langage de programmation||
 |DaVinci Resolve|||
 |Daz3D|||
 |DB2|||
-|Debian|||
+|Debian|système d'exploitation||
 |Deno|||
 |Devdocs|||
 |Devuan|||
@@ -120,14 +120,14 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Emoji|||
 |Emscripten|||
 |Entity Framework|||
-|Erlang|||
+|Erlang|langage de programmation||
 |ESLint|||
 |Ethereum|||
 |Excel|||
 |Express.js|||
-|F#|||
+|F#|langage de programmation||
 |FASM|||
-|Fedora|||
+|Fedora|système d'exploitation||
 |FFmpeg||[DOC](https://ffmpeg.org/documentation.html)|
 |Figma|||
 |FileZilla|||
@@ -135,7 +135,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Flask|||
 |Flutter|||
 |Foundation|||
-|FreeBSD|||
+|FreeBSD|système d'exploitation||
 |Freemarker|||
 |Frida|||
 |FUSE|||
@@ -143,11 +143,11 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Gather||[MANUEL](https://support.gather.town/hc/en-us)|
 |GCC|||
 |GDB|||
-|Gentoo|||
+|Gentoo|système d'exploitation||
 |GitHub Actions|||
 |GitLab|||
 |Git|||
-|Go|||
+|Go|langage de programmation||
 |Godot Engine|||
 |Google Ads||[MANUEL](https://support.google.com/google-ads/answer/6146252) ▪ [IPA](https://developers.google.com/google-ads/api/docs/start?hl=fr)|
 |Google Analytics||[DOC](https://developers.google.com/analytics?hl=fr)|
@@ -156,34 +156,34 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |GraphQL|||
 |Grav|||
 |Gulp|||
-|Haiku|||
-|Haskell|||
+|Haiku|langage de programmation||
+|Haskell|langage de programmation||
 |Heroku|||
 |Hibernate|||
 |Homebrew|||
 |Hugo|||
-|HTML|||
+|HTML|langage de balisage pour la création de pages web||
 |HTTP|||
 |Idris|||
 |IntelliJ|||
 |Ionic Framework|||
 |IOS|||
 |IPFS|||
-|Java|||
-|JavaScript|||
+|Java|langage de programmation||
+|JavaScript|langage de programmation||
 |Jenkins|||
 |Jest|||
 |Jira|||
 |Jekyll|||
 |JQuery|||
 |Json|||
-|Julia|||
+|Julia|langage de programmation||
 |Jupyter|||
 |Kafka|||
-|Kali|||
+|Kali|système d'exploitation||
 |Kanban|||
-|KeePassXC||[MANUEL](https://keepassxc.org/docs/KeePassXC_UserGuide)|
-|Kotlin|||
+|KeePassXC|gestionnaire de mots de passe|[MANUEL](https://keepassxc.org/docs/KeePassXC_UserGuide)|
+|Kotlin|langage de programmation||
 |Kubernetes|||
 |Laravel|||
 |LaTeX|||
@@ -194,7 +194,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Lisp|||
 |LLVM|||
 |LMMS|||
-|Lua|||
+|Lua|langage de programmation||
 |LXC|||
 |LXD|||
 |Magento|||
@@ -220,9 +220,9 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Node|||
 |NPM|||
 |NSIS|||
-|Objective-C|||
+|Objective-C|langage de programmation||
 |Obsidian|||
-|OCaml|||
+|OCaml|langage de programmation||
 |Octave|||
 |OpenCV|||
 |OpenGL|||
@@ -232,12 +232,12 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |OpenWRT|||
 |Oracle|||
 |Packer|||
-|Pascal|||
+|Pascal|langage de programmation||
 |Passport.js|||
 |PEAR|||
 |Perl|||
 |Phaser|||
-|PHP|||
+|PHP|langage de programmation||
 |PHPBB|||
 |PHPUnit|||
 |PIP|||
@@ -249,9 +249,9 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Protobuf|||
 |Pro Tools|||
 |Puppet|||
-|Python|||
+|Python|langage de programmation||
 |Qt|||
-|R|||
+|R|langage de programmation||
 |RabbitMQ|||
 |Rails|||
 |Raspberry Pi|||
@@ -262,8 +262,8 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |REST|||
 |RHEL|||
 |Riot.js|||
-|Ruby|||
-|Rust|||
+|Ruby|langage de programmation||
+|Rust|langage de programmation||
 |SaltStack|||
 |Sass|||
 |Scala|||
@@ -289,6 +289,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Underscore||[DOC](https://underscorejs.org)|
 |Unity|||
 |Unreal Engine|||
+|V|langage de programmation||
 |Vagrant|||
 |VBA|||
 |Vim|||
@@ -319,7 +320,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |YouTube|||
 |Zend Framework|||
 |Zephyr|||
-|Zig|||
+|Zig|langage de programmation||
 |Zoho Backstage|gestionnaire d'évènements|[MANUEL](https://www.zoho.com/backstage/help)|
 |Zoho Campaigns|marketing par e-mail|[MANUEL](https://www.zoho.com/campaigns/help)|
 |Zoho Commerce|créateur de boutique en ligne|[MANUEL](https://www.zoho.com/commerce/help)|
