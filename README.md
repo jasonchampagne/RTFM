@@ -13,9 +13,9 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 
 |NOM|DESCRIPTION|RESSOURCES|
 |:--|:--|:--|
-|3ds Max||[MANUEL](https://www.autodesk.fr/support/technical/product/3ds-max)|
-|Ada||[DOC](https://www.adacore.com/documentation)|
-|AdonisJS||[DOC](https://docs.adonisjs.com/guides/introduction)|
+|3ds Max|logiciel de modélisation 3d|[MANUEL](https://www.autodesk.fr/support/technical/product/3ds-max)|
+|Ada|langage de programmation|[DOC](https://www.adacore.com/documentation)|
+|AdonisJS|cadriciel pour la création d'applications web et IPAs|[DOC](https://docs.adonisjs.com/guides/introduction)|
 |After Effects||[MANUEL](https://helpx.adobe.com/fr/after-effects/user-guide.html)|
 |Allegro||[DOC](https://www.allegro.cc/manual/5)|
 |AlmaLinux||[WIKI](https://wiki.almalinux.org)|
