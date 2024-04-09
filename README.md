@@ -24,7 +24,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Angular|cadriciel pour la création d'applications web|[DOC](https://angular.io/docs)|
 |Apache|serveur web HTTP|[DOC](https://httpd.apache.org/docs)|
 |ArchLinux|système d'exploitation|[WIKI](https://wiki.archlinux.org/title/Main_page_(Fran%C3%A7ais))|
-|Ardour||[MANUEL](https://manual.ardour.org/toc)|
+|Ardour|station de travail audio-numérique|[MANUEL](https://manual.ardour.org/toc)|
 |Arduino||[DOC](https://www.arduino.cc/reference)|
 |Aria2||[DOC](https://aria2.github.io/manual/en/html/index.html)|
 |Asciidoc||[DOC](https://docs.asciidoctor.org/asciidoc/latest)|
