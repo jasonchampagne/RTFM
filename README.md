@@ -17,7 +17,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Ada||[DOC](https://www.adacore.com/documentation)|
 |AdonisJS||[DOC](https://docs.adonisjs.com/guides/introduction)|
 |After Effects||[MANUEL](https://helpx.adobe.com/fr/after-effects/user-guide.html)|
-|Allegro|bibliothèque||[DOC](https://www.allegro.cc/manual/5)|
+|Allegro||[DOC](https://www.allegro.cc/manual/5)|
 |AlmaLinux||[WIKI](https://wiki.almalinux.org)|
 |Amazon Web Services||[DOC](https://docs.aws.amazon.com)|
 |Analytics||[DOC](https://developers.google.com/analytics?hl=fr)|
