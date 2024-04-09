@@ -43,7 +43,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Azure||[DOC](https://learn.microsoft.com/fr-fr/azure)|
 |Babylon.js||[DOC](https://doc.babylonjs.com)|
 |Backbone.js||[DOC](https://backbonejs.org)|
-|Bash||[DOC](https://www.gnu.org/software/bash/manual)|
+|Bash|interpréteur de lignes de commandes (_shell_)|[DOC](https://www.gnu.org/software/bash/manual)|
 |Batch||[DOC](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)|
 |Battle.net||[IPA OAuth](https://develop.battle.net/documentation/battle-net/oauth-apis)|
 |Bevy||[DOC](https://bevyengine.org/learn/quick-start/introduction) ▪ [IPA](https://docs.rs/bevy/latest/bevy)|
@@ -331,7 +331,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Zoho PageSense|personnalisation et optimisation du taux de conversion|[MANUEL](https://www.zoho.com/pagesense/help)|
 |Zoho SalesIQ|discussion instantanée|[MANUEL](https://www.zoho.com/salesiq/help)|
 |Zoho Sites|créateur de sites web|[MANUEL](https://www.zoho.com/sites/resources.html)|
-|Z shell||[MANUEL](https://zsh.sourceforge.io/Guide) ▪ [DOC](https://zsh.sourceforge.io/Doc)|
+|Z shell|interpréteur de lignes de commandes (_shell_)|[MANUEL](https://zsh.sourceforge.io/Guide) ▪ [DOC](https://zsh.sourceforge.io/Doc)|
 
 
 <!--
