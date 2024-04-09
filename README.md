@@ -17,7 +17,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Ada|langage de programmation|[DOC](https://www.adacore.com/documentation)|
 |AdonisJS|cadriciel pour la création d'applications web et IPAs|[DOC](https://docs.adonisjs.com/guides/introduction)|
 |After Effects|logiciel de composition, animation et effets visuels|[MANUEL](https://helpx.adobe.com/fr/after-effects/user-guide.html)|
-|Allegro|Moteur de jeu|[DOC](https://www.allegro.cc/manual/5)|
+|Allegro|moteur de jeu|[DOC](https://www.allegro.cc/manual/5)|
 |AlmaLinux|système d'exploitation|[WIKI](https://wiki.almalinux.org)|
 |Amazon Web Services|plateforme dans le nuage pour créer des applications|[DOC](https://docs.aws.amazon.com)|
 |Android|système d'exploitation|[DOC](https://developer.android.com/guide)|
@@ -44,8 +44,8 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Babylon.js|moteur de rendu web pour créer des graphiques 3D|[DOC](https://doc.babylonjs.com)|
 |Backbone.js|cadriciel pour le développement web|[DOC](https://backbonejs.org)|
 |Bash|interpréteur de lignes de commandes et langage de script|[DOC](https://www.gnu.org/software/bash/manual)|
-|Battle.net||[IPA OAuth](https://develop.battle.net/documentation/battle-net/oauth-apis)|
-|Bevy||[DOC](https://bevyengine.org/learn/quick-start/introduction) ▪ [IPA](https://docs.rs/bevy/latest/bevy)|
+|Battle.net|client de jeux de Blizzard|[IPA OAuth](https://develop.battle.net/documentation/battle-net/oauth-apis)|
+|Bevy|moteur de jeu|[DOC](https://bevyengine.org/learn/quick-start/introduction) ▪ [IPA](https://docs.rs/bevy/latest/bevy)|
 |Bitbucket||[DOC](https://support.atlassian.com/bitbucket-cloud/resources)|
 |Bitcoin||[DOC](https://developer.bitcoin.org)|
 |Bitly||[MANUEL](https://support.bitly.com/hc/en-us) ▪ [DOC](https://dev.bitly.com)|
