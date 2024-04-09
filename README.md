@@ -82,6 +82,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |CryENGINE|||
 |Crystal|||
 |CSS|||
+|Cubase|||
 |CUDA|||
 |CustomTkinter|||
 |Cutter|||
@@ -192,6 +193,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Linux|||
 |Lisp|||
 |LLVM|||
+|LMMS|||
 |Lua|||
 |LXC|||
 |LXD|||
@@ -245,6 +247,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |PrestaShop|||
 |Prolog|||
 |Protobuf|||
+|Pro Tools|||
 |Puppet|||
 |Python|||
 |Qt|||
@@ -253,6 +256,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Rails|||
 |Raspberry Pi|||
 |React <!-- React Native, React Router -->|||
+|REAPER|||
 |Redis|||
 |Redux|||
 |REST|||
