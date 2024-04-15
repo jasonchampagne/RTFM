@@ -60,7 +60,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Battle.net|client de jeux de Blizzard|-|-|-|[📒](https://develop.battle.net/documentation/battle-net/oauth-apis) OAuth|
 |Bevy|moteur de jeu|-|-|[📘](https://bevyengine.org/learn/quick-start/introduction)|[📒](https://docs.rs/bevy/latest/bevy)|
 |Bitbucket Cloud|dépôt Git dans le nuage et plateforme CI/CD intégrée à Jira pour l'examen de code, l'analyse de sécurité, la gestion des incidents et l'intégration|-|-|[📘](https://support.atlassian.com/bitbucket-cloud/resources)|-|
-|||||||
+|Bitcoin|crypto-monnaie et réseau de paiement décentralisé|-|-|[📘](https://developer.bitcoin.org)|-|
 |||||||
 |||||||
 |||||||
@@ -74,7 +74,6 @@ hapi.dev / koajs.com / hono.dev / fastify.dev / expressjs.com/fr
 
 |NOM|DESCRIPTION|RESSOURCES|
 |:--|:--|:--|
-|Bitcoin||[DOC](https://developer.bitcoin.org)|
 |Bitly||[MANUEL](https://support.bitly.com/hc/en-us) ▪ [DOC](https://dev.bitly.com)|
 |Blender||[MANUEL](https://docs.blender.org/manual/en/latest) ▪ [DOC](https://developer.blender.org/docs) ▪ [IPA](https://docs.blender.org/api/current)|
 |Bootstrap||[DOC](https://getbootstrap.com/docs)|
