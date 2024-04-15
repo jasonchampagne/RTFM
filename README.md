@@ -18,12 +18,13 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Autodesk AutoCAD|logiciel de création assistée par ordinateur (CAO)|[📘](https://help.autodesk.com/FRA/#A-B)|-|-|-|
 |Autodesk Civil 3D|logiciel de conception et construction 3D de projets de routes, autoroutes, sites et voies ferrées|[📘](https://help.autodesk.com/FRA/#C-H)|-|-|-|
 |Autodesk Maya|logiciel de modélisation 3D|[📘](https://www.autodesk.com/support/technical/article/caas/tsarticles/ts/lC3jaffqnWFyQoLPEPm7n.html)|-|-|-|
-|Ada|langage de programmation|-|-|[📘](https://www.adacore.com/documentation)|-|
-|AdonisJS|cadriciel pour la création d'applications web et IPA|-|-|[📘](https://docs.adonisjs.com/guides/introduction)|-|
+|Ada|langage de programmation|-|-|[📕](https://www.adacore.com/documentation)|-|
+|AdonisJS|cadriciel pour la création d'applications web et IPA|-|-|[📕](https://docs.adonisjs.com/guides/introduction)|-|
 |||||||
 |||||||
 
 <!--
+📗📘📒
 hapi.dev / koajs.com / hono.dev / fastify.dev / expressjs.com/fr
 
 |NOM|DESCRIPTION|RESSOURCES|
