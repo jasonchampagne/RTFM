@@ -7,7 +7,7 @@ Ci dessous une liste de ressources disponibles en ligne pour des applications, l
 > + Les ressources pour les utilisateurs sont les manuels et les wikis
 > + Les ressources pour les développeurs sont les documentations et les interfaces (IPA)
 
-Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/FindMyDoc/tree/master/mementos) de commandes usuelles pour des programmes en ligne de commande (console).
+Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/FindMyDoc/tree/master/mementos) de commandes usuelles pour des programmes en ligne de commande.
 
 > 📛 **GROSSE REFONTE EN COURS...**
 
