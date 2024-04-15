@@ -151,6 +151,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |FreeBSD||||||
 |Freemarker||||||
 |Frida||||||
+|Friendly Interactive Shell (fish)|interpréteur de lignes de commandes et langage de script|-|-|[📕](https://fishshell.com/docs/current/index.html)|-|
 |FUSE||||||
 |Gatsby||||||
 |Gather||[📘](https://support.gather.town/hc/en-us)|-|-|-|
