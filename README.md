@@ -34,6 +34,10 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Adobe XD|logiciel de conception vectorielle pour applications web et mobiles|[📘](https://helpx.adobe.com/fr/xd/user-guide.html)|-|-|-|
 |AdonisJS|cadriciel pour la création d'applications web et IPA|-|-|[📕](https://docs.adonisjs.com/guides/introduction)|-|
 |Allegro|moteur de jeu|-|-|[📕](https://www.allegro.cc/manual/5)|-|
+|AlmaLinux|système d'exploitation|-|[📗](https://wiki.almalinux.org)|-|-|
+|Amazon Web Services|plateforme dans le nuage pour la création d'applications|-|-|[📕](https://docs.aws.amazon.com)|-|
+|||||||
+|||||||
 |||||||
 
 <!--
@@ -41,8 +45,6 @@ hapi.dev / koajs.com / hono.dev / fastify.dev / expressjs.com/fr
 
 |NOM|DESCRIPTION|RESSOURCES|
 |:--|:--|:--|
-|AlmaLinux|système d'exploitation|[WIKI](https://wiki.almalinux.org)|
-|Amazon Web Services|plateforme dans le nuage pour la création d'applications|[DOC](https://docs.aws.amazon.com)|
 |Android|système d'exploitation|[DOC](https://developer.android.com/guide)|
 |Angular|cadriciel pour la création d'applications web|[DOC](https://angular.io/docs)|
 |Apache|serveur web HTTP|[DOC](https://httpd.apache.org/docs)|
