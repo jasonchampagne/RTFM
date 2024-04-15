@@ -274,6 +274,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Sinatra|||
 |Sketch|||
 |Slack|||
+|Stripe|infrastructure de paiement pour le commerce en ligne|[DOC](https://docs.stripe.com) ▪ [IPA](https://docs.stripe.com/api)|
 |Svelte|||
 |Swift|||
 |Symfony|||
