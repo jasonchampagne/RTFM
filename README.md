@@ -305,43 +305,42 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Underscore||-|-|[📕](https://underscorejs.org)|-|
 |Unity||||||
 |Unreal Engine||||||
+|V|langage de programmation|-|-|[📕](https://github.com/vlang/v/blob/master/doc/docs.md)<br>[📕](https://modules.vlang.io) StdLib|-|
+|Vagrant||||||
+|VBA||||||
+|Vim||||||
+|VirtualBox||||||
+|Visual Basic||||||
+|Visual Studio Code||||||
+|Vue||||||
+|Vulkan||||||
+|VVVV||||||
+|WAMP||||||
+|WebAssembly||||||
+|WebExtensions||||||
+|WebGL||||||
+|Webpack||||||
+|WebSocket||||||
+|Wireshark||||||
+|WooCommerce||||||
+|WordPress||||||
+|WxWidgets||||||
+|Xamarin<!-- + Xamarin.Forms-->||||||
+|Xcode||||||
+|Xen||||||
+|XML||||||
+|Yarn||||||
+|Yii||||||
+|YouTube||||||
+|Zend Framework||||||
+|Zephyr||||||
+|Zig||||||
+|Z shell|interpréteur de lignes de commandes|[📘](https://zsh.sourceforge.io/Guide)|-|[📕](https://zsh.sourceforge.io/Doc)|-|
 
 <!--
 hapi.dev / koajs.com / hono.dev / fastify.dev / expressjs.com/fr
 
-
-|V|langage de programmation|[DOC](https://github.com/vlang/v/blob/master/doc/docs.md) ▪ [DOC STDLIB](https://modules.vlang.io)|
-|Vagrant|||
-|VBA|||
-|Vim|||
-|VirtualBox|||
-|Visual Basic|||
-|Visual Studio Code|||
-|Vue|||
-|Vulkan|||
-|VVVV|||
-|WAMP|||
-|WebAssembly|||
-|WebExtensions|||
-|WebGL|||
-|Webpack|||
-|WebSocket|||
-|Wireshark|||
-|WooCommerce|||
-|WordPress|||
 |World of Warcraft||[IPA Données](https://develop.battle.net/documentation/world-of-warcraft/game-data-apis) ▪ [IPA Profils](https://develop.battle.net/documentation/world-of-warcraft/profile-apis)|
-|WxWidgets|||
-|Xamarin + Xamarin.Forms|||
-|Xcode|||
-|XD||[MANUEL](https://helpx.adobe.com/fr/xd/get-started.html)|
-|Xen|||
-|XML|||
-|Yarn|||
-|Yii|||
-|YouTube|||
-|Zend Framework|||
-|Zephyr|||
-|Zig|langage de programmation||
 |Zoho Backstage|gestionnaire d'évènements|[MANUEL](https://www.zoho.com/backstage/help)|
 |Zoho Campaigns|marketing par e-mail|[MANUEL](https://www.zoho.com/campaigns/help)|
 |Zoho Commerce|créateur de boutique en ligne|[MANUEL](https://www.zoho.com/commerce/help)|
@@ -353,7 +352,6 @@ hapi.dev / koajs.com / hono.dev / fastify.dev / expressjs.com/fr
 |Zoho PageSense|personnalisation et optimisation du taux de conversion|[MANUEL](https://www.zoho.com/pagesense/help)|
 |Zoho SalesIQ|discussion instantanée|[MANUEL](https://www.zoho.com/salesiq/help)|
 |Zoho Sites|créateur de sites web|[MANUEL](https://www.zoho.com/sites/resources.html)|
-|Z shell|interpréteur de lignes de commandes (_shell_)|[MANUEL](https://zsh.sourceforge.io/Guide) ▪ [DOC](https://zsh.sourceforge.io/Doc)|
 
 Google : API, Classroom, Cloud, Cloud Functions, CloudRun, CloudSQL, Cloud Storage, Container Registry, Datastore, Dialogflow, Drive, Firebase, Fonts, Geocoding, Maps, Photos, Places, Sheets, Tag Manager, Translate, Vision
 
