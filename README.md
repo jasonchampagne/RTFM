@@ -28,9 +28,9 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Arduino|plateforme pour la création d'objets électroniques programmables|[DOC](https://www.arduino.cc/reference)|
 |Aria2|utilitaire de téléchargement multi-protocole et multi-source|[DOC](https://aria2.github.io/manual/en/html/index.html)|
 |AsciiDoc|format de rédaction pour écrire des notices, livres et documents techniques|[DOC](https://docs.asciidoctor.org/asciidoc/latest)|
-|Affinity Designer|logiciel de conception et illustration vectorielle|[MANUEL PC](https://affinity.serif.com/fr/learn/designer/desktop) ▪ [MANUEL IPAD](https://affinity.serif.com/fr/learn/designer/ipad)|
-|Affinity Photo|logiciel de retouche d'images et montage photo|[MANUEL PC](https://affinity.serif.com/fr/learn/photo/desktop) ▪ [MANUEL IPAD](https://affinity.serif.com/fr/learn/photo/ipad)|
-|Affinity Publisher|logiciel de mise en page pour projets numériques ou imprimés|[MANUEL PC](https://affinity.serif.com/fr/learn/publisher/desktop) ▪ [MANUEL IPAD](https://affinity.serif.com/fr/learn/publisher/ipad)|
+|Affinity Designer|logiciel de conception et illustration vectorielle|[MANUEL PC](https://affinity.serif.com/fr/learn/designer/desktop) ▪ [MANUEL iPad](https://affinity.serif.com/fr/learn/designer/ipad)|
+|Affinity Photo|logiciel de retouche d'images et montage photo|[MANUEL PC](https://affinity.serif.com/fr/learn/photo/desktop) ▪ [MANUEL iPad](https://affinity.serif.com/fr/learn/photo/ipad)|
+|Affinity Publisher|logiciel de mise en page pour projets numériques ou imprimés|[MANUEL PC](https://affinity.serif.com/fr/learn/publisher/desktop) ▪ [MANUEL iPad](https://affinity.serif.com/fr/learn/publisher/ipad)|
 |ASP.NET|cadriciel pour le développement web et la production de pages web|[DOC](https://learn.microsoft.com/fr-fr/aspnet/core)|
 |Atom|éditeur de code|[MANUEL](https://flight-manual.atom-editor.cc) ▪ [IPA](https://flight-manual.atom-editor.cc/api/v1.63.1/AtomEnvironment)|
 |Audacity|éditeur et enregistreur audio multipiste|[MANUEL](https://manual.audacityteam.org/index.html)|
