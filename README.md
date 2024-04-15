@@ -66,6 +66,66 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Bootstrap|cadriciel CSS pour le développement web|-|-|[📕](https://getbootstrap.com/docs)|-|
 |Brackets|logiciel d'édition de code|-|-|-|[📒](https://brackets.io/docs/current/modules/brackets.html)|
 |Bulma|cadriciel CSS pour le développement web|-|-|[📕](https://bulma.io/documentation)|-|
+|Bun||||||
+|Bundler||||||
+|C||||||
+|C++||||||
+|C#||||||
+|CakePHP||||||
+|CapRover||||||
+|CEGUI||||||
+|CentOS||||||
+|CherryPy||||||
+|Chkdsk||||||
+|Cinema 4D||||||
+|ClamAV||||||
+|Clang||||||
+|Clip Studio Paint||||||
+|Clojure||||||
+|Cloudflare||||||
+|CMake||||||
+|COBOL||||||
+|CodeIgniter||||||
+|Codon||||||
+|CoffeeScript||||||
+|Coinbase||||||
+|Command Shell|interpréteur de lignes de commandes et langage de script (_Batch_)|-|-|[📕](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)|-|
+|Common Lisp||||||
+|Coq||||||
+|CryENGINE||||||
+|Crystal||||||
+|CSS||||||
+|Cubase||||||
+|CUDA||||||
+|CustomTkinter||||||
+|Cutter||||||
+|D||||||
+|DahliaOS||||||
+|Darktable||||||
+|Dart||||||
+|DaVinci Resolve||||||
+|Daz3D||||||
+|DB2||||||
+|Debian||||||
+|Deno||||||
+|DevDocs||||||
+|Devuan||||||
+|DIA||||||
+|Diablo III|jeu vidéo|-|-|-|[📒](https://develop.battle.net/documentation/diablo-3/game-data-apis) Données|
+|DigitalOcean||||||
+|DirectAdmin||||||
+|Django||||||
+|Docker||||||
+|Doctrine||||||
+|Dolphin|émulateur GameCube et Wii|[📘](https://fr.dolphin-emu.org/docs/guides)|-|-|-|
+|DotNet (.NET)||||||
+|Doxygen||||||
+|Drupal||||||
+|Dune||||||
+|E||||||
+|Ebay||||||
+|ECMAScript||||||
+|||||||
 |||||||
 |||||||
 |||||||
@@ -75,67 +135,6 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 <!--
 hapi.dev / koajs.com / hono.dev / fastify.dev / expressjs.com/fr
 
-|NOM|DESCRIPTION|RESSOURCES|
-|:--|:--|:--|
-|Bun|||
-|Bundler|||
-|C|langage de programmation||
-|C++|langage de programmation||
-|C#|langage de programmation||
-|CakePHP|||
-|CapRover|||
-|CEGUI|||
-|CentOS|||
-|CherryPy|||
-|Chkdsk|||
-|Cinema 4D|||
-|ClamAV|||
-|Clang|||
-|Clip Studio Paint|||
-|Clojure|||
-|Cloudflare|||
-|CMake|||
-|COBOL|langage de programmation||
-|CodeIgniter|||
-|Codon|||
-|CoffeeScript|||
-|Coinbase|||
-|Command Shell|interpréteur de lignes de commandes et langage de script (_Batch_)|[DOC](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)|
-|Common Lisp|||
-|Coq|||
-|CryENGINE|||
-|Crystal|||
-|CSS|||
-|Cubase|||
-|CUDA|||
-|CustomTkinter|||
-|Cutter|||
-|D|langage de programmation||
-|DahliaOS|||
-|Darktable|||
-|Dart|langage de programmation||
-|DaVinci Resolve|||
-|Daz3D|||
-|DB2|||
-|Debian|système d'exploitation||
-|Deno|||
-|Devdocs|||
-|Devuan|||
-|DIA|||
-|Diablo III||[IPA Données](https://develop.battle.net/documentation/diablo-3/game-data-apis)|
-|DigitalOcean|||
-|DirectAdmin|||
-|Django|||
-|Docker|||
-|Doctrine|||
-|Dolphin||[MANUEL](https://fr.dolphin-emu.org/docs/guides)|
-|DotNET|||
-|Doxygen|||
-|Drupal|||
-|Dune|||
-|E|||
-|Ebay|||
-|ECMAScript|||
 |Ejabberd|||
 |Elasticsearch|||
 |Electron|||
