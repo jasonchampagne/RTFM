@@ -57,7 +57,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Babylon.js|moteur de rendu web pour la création de graphiques en 3D|-|-|[📘](https://doc.babylonjs.com)|-|
 |Backbone.js|cadriciel pour le développement web|-|-|[📘](https://backbonejs.org)|-|
 |Bash|interpréteur de lignes de commandes et langage de script|-|-|[📘](https://www.gnu.org/software/bash/manual)|-|
-|Battle.net|client de jeux de Blizzard|-|-|-|[📒 OAuth](https://develop.battle.net/documentation/battle-net/oauth-apis)|
+|Battle.net|client de jeux de Blizzard|-|-|-|[📒](https://develop.battle.net/documentation/battle-net/oauth-apis) OAuth|
 |||||||
 |||||||
 |||||||
