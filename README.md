@@ -39,6 +39,10 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Android|système d'exploitation|-|-|[📕](https://developer.android.com/guide)|-|
 |Angular|cadriciel pour la création d'applications web|-|-|[📕](https://angular.io/docs)|-|
 |Apache HTTP Server|serveur web|-|-|[📕](https://httpd.apache.org/docs)|-|
+|ArchLinux|système d'exploitation|-|[📗](https://wiki.archlinux.org/title/Main_page_(Fran%C3%A7ais))|-|-|
+|Ardour|station de travail audio-numérique|[📘](https://manual.ardour.org/toc)|-|-|-|
+|||||||
+|||||||
 |||||||
 |||||||
 |||||||
@@ -48,8 +52,6 @@ hapi.dev / koajs.com / hono.dev / fastify.dev / expressjs.com/fr
 
 |NOM|DESCRIPTION|RESSOURCES|
 |:--|:--|:--|
-|ArchLinux|système d'exploitation|[WIKI](https://wiki.archlinux.org/title/Main_page_(Fran%C3%A7ais))|
-|Ardour|station de travail audio-numérique|[MANUEL](https://manual.ardour.org/toc)|
 |Arduino|plateforme pour la création d'objets électroniques programmables|[DOC](https://www.arduino.cc/reference)|
 |Aria2|utilitaire de téléchargement multi-protocole et multi-source|[DOC](https://aria2.github.io/manual/en/html/index.html)|
 |AsciiDoc|format de rédaction pour écrire des notices, livres et documents techniques|[DOC](https://docs.asciidoctor.org/asciidoc/latest)|
