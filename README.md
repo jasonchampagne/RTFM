@@ -41,9 +41,9 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Apache HTTP Server|serveur web|-|-|[📕](https://httpd.apache.org/docs)|-|
 |ArchLinux|système d'exploitation|-|[📗](https://wiki.archlinux.org/title/Main_page_(Fran%C3%A7ais))|-|-|
 |Ardour|station de travail audio-numérique|[📘](https://manual.ardour.org/toc)|-|-|-|
-|||||||
-|||||||
-|||||||
+|Arduino|plateforme pour la création d'objets électroniques programmables|-|-|[📕](https://www.arduino.cc/reference)|-|
+|Aria2|utilitaire de téléchargement multi-protocole et multi-source|-|-|[📕](https://aria2.github.io/manual/en/html/index.html)|-|
+|AsciiDoc|format de rédaction pour l'écriture de notices, livres et documents techniques|-|-|[📕](https://docs.asciidoctor.org/asciidoc/latest)|-|
 |||||||
 |||||||
 
@@ -52,9 +52,6 @@ hapi.dev / koajs.com / hono.dev / fastify.dev / expressjs.com/fr
 
 |NOM|DESCRIPTION|RESSOURCES|
 |:--|:--|:--|
-|Arduino|plateforme pour la création d'objets électroniques programmables|[DOC](https://www.arduino.cc/reference)|
-|Aria2|utilitaire de téléchargement multi-protocole et multi-source|[DOC](https://aria2.github.io/manual/en/html/index.html)|
-|AsciiDoc|format de rédaction pour écrire des notices, livres et documents techniques|[DOC](https://docs.asciidoctor.org/asciidoc/latest)|
 |Affinity Designer|logiciel de conception et illustration vectorielle|[MANUEL PC](https://affinity.serif.com/fr/learn/designer/desktop) ▪ [MANUEL iPad](https://affinity.serif.com/fr/learn/designer/ipad)|
 |Affinity Photo|logiciel de retouche d'images et montage photo|[MANUEL PC](https://affinity.serif.com/fr/learn/photo/desktop) ▪ [MANUEL iPad](https://affinity.serif.com/fr/learn/photo/ipad)|
 |Affinity Publisher|logiciel de mise en page pour projets numériques ou imprimés|[MANUEL PC](https://affinity.serif.com/fr/learn/publisher/desktop) ▪ [MANUEL iPad](https://affinity.serif.com/fr/learn/publisher/ipad)|
