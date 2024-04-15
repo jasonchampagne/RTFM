@@ -12,7 +12,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 > 📛 **GROSSE REFONTE EN COURS...**
 
 |NOM_COMPLET_DE_L'OUTIL|DESCRIPTION|MANUEL|WIKI|DOC|IPA|
-|:--|:--|:--:|:--:|:--:|:--:|
+|--:|:--|:--:|:--:|:--:|:--:|
 |Autodesk 3DS Max|logiciel de modélisation 3D|[📘](https://help.autodesk.com/FRA/#A-B)|-|-|-|
 |Autodesk Advance Steel|logiciel de création de plans de détail, fabrication et construction de structures en acier|[📘](https://help.autodesk.com/FRA/#A-B)|-|-|-|
 |Autodesk AutoCAD|logiciel de création assistée par ordinateur (CAO)|[📘](https://help.autodesk.com/FRA/#A-B)|-|-|-|
