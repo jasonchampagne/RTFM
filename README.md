@@ -270,45 +270,46 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Rails||||||
 |Raspberry Pi||||||
 |React <!-- + React Native, React Router -->||||||
+|REAPER||||||
+|Redis||||||
+|Redux||||||
+|REST||||||
+|RHEL||||||
+|Riot.js||||||
+|Ruby||||||
+|Rust||||||
+|SaltStack||||||
+|Sass||||||
+|Scala||||||
+|Scrapy||||||
+|Sequelize||||||
+|Shopify||||||
+|Sinatra||||||
+|Sketch||||||
+|Slack||||||
+|Stripe|infrastructure de paiement pour le commerce en ligne|[📘](https://stripe.com/fr/guideshttps://stripe.com/fr/guides)|-|[📕](https://docs.stripe.com)|[📒](https://docs.stripe.com/api)|
+|Svelte||||||
+|Swift||||||
+|Symfony||||||
+|Tableau AI||-|-|[📕](https://help.tableau.com/current/guides)|-|
+|Taler|système de paiement en ligne sans compte|-|-|[📕](https://taler.net/fr/docs.html)|-|
+|Tesseract||||||
+|TensorFlow||||||
+|Terraform||||||
+|Thonny||||||
+|Tkinter||||||
+|TOML||||||
+|TypeScript||||||
+|Twitch||||||
+|Ubuntu|système d'exploitation|[📘](https://help.ubuntu.com)|[📗](https://help.ubuntu.com/community/CommunityHelpWiki)|[📕](https://doc.ubuntu-fr.org/accueil)|-|
+|Underscore||-|-|[📕](https://underscorejs.org)|-|
+|Unity||||||
+|Unreal Engine||||||
 
 <!--
 hapi.dev / koajs.com / hono.dev / fastify.dev / expressjs.com/fr
 
-|REAPER|||
-|Redis|||
-|Redux|||
-|REST|||
-|RHEL|||
-|Riot.js|||
-|Ruby|langage de programmation||
-|Rust|langage de programmation||
-|SaltStack|||
-|Sass|||
-|Scala|||
-|Scrapy|||
-|Sequelize|||
-|Shopify|||
-|Sinatra|||
-|Sketch|||
-|Slack|||
-|Stripe|infrastructure de paiement pour le commerce en ligne|[MANUEL](https://stripe.com/fr/guideshttps://stripe.com/fr/guides) ▪ [DOC](https://docs.stripe.com) ▪ [IPA](https://docs.stripe.com/api)|
-|Svelte|||
-|Swift|||
-|Symfony|||
-|Tableau AI||[DOC](https://help.tableau.com/current/guides)|
-|Taler|système de paiement en ligne sans compte|[DOC](https://taler.net/fr/docs.html)|
-|Tesseract|||
-|TensorFlow|||
-|Terraform|||
-|Thonny|||
-|Tkinter|||
-|TOML|||
-|TypeScript|||
-|Twitch|||
-|Ubuntu||[MANUEL](https://help.ubuntu.com) ▪ [WIKI](https://help.ubuntu.com/community/CommunityHelpWiki) ▪ [DOC](https://doc.ubuntu-fr.org/accueil)|
-|Underscore||[DOC](https://underscorejs.org)|
-|Unity|||
-|Unreal Engine|||
+
 |V|langage de programmation|[DOC](https://github.com/vlang/v/blob/master/doc/docs.md) ▪ [DOC STDLIB](https://modules.vlang.io)|
 |Vagrant|||
 |VBA|||
