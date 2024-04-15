@@ -53,7 +53,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |AuthPass|logiciel de gestion des mots de passe|[📘](https://authpass.app/docs)|-|-|-|
 |Autoconf|utilitaire de production de scripts pour la configuration de code source|-|-|[📕](https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.72/index.html)|-|
 |AutoHotkey|langage de script pour l'automatisation de tâches Windows|-|-|[📘](https://www.autohotkey.com/docs)|-|
-|AutoIt|langage de script pour l'automatisation de l'interface graphique de Windows|-|-|[📘](https://www.autoitscript.com/wiki)|-|
+|AutoIt|langage de script pour l'automatisation de l'interface graphique de Windows|-|[📗](https://www.autoitscript.com/wiki)|[📘](https://www.autoitscript.com/autoit3/docs)|-|
 |||||||
 |||||||
 |||||||
