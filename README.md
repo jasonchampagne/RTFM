@@ -11,6 +11,11 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 
 > 📛 **GROSSE REFONTE EN COURS...**
 
+|NOM|MANUEL|WIKI|DOC|IPA|
+|--:|:--:|:--:|:--:|
+|||||
+
+<!--
 |NOM|DESCRIPTION|RESSOURCES|
 |:--|:--|:--|
 |3ds Max|logiciel de modélisation 3d|[MANUEL](https://www.autodesk.fr/support/technical/product/3ds-max)|
@@ -256,7 +261,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |RabbitMQ|||
 |Rails|||
 |Raspberry Pi|||
-|React <!-- React Native, React Router -->|||
+|React + React Native, React Router|||
 |REAPER|||
 |Redis|||
 |Redux|||
@@ -313,7 +318,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |WordPress|||
 |World of Warcraft||[IPA Données](https://develop.battle.net/documentation/world-of-warcraft/game-data-apis) ▪ [IPA Profils](https://develop.battle.net/documentation/world-of-warcraft/profile-apis)|
 |WxWidgets|||
-|Xamarin <!-- + Xamarin.Forms -->|||
+|Xamarin + Xamarin.Forms|||
 |Xcode|||
 |XD||[MANUEL](https://helpx.adobe.com/fr/xd/get-started.html)|
 |Xen|||
@@ -336,9 +341,6 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Zoho SalesIQ|discussion instantanée|[MANUEL](https://www.zoho.com/salesiq/help)|
 |Zoho Sites|créateur de sites web|[MANUEL](https://www.zoho.com/sites/resources.html)|
 |Z shell|interpréteur de lignes de commandes (_shell_)|[MANUEL](https://zsh.sourceforge.io/Guide) ▪ [DOC](https://zsh.sourceforge.io/Doc)|
-
-
-<!--
 
 Google : API, Classroom, Cloud, Cloud Functions, CloudRun, CloudSQL, Cloud Storage, Container Registry, Datastore, Dialogflow, Drive, Firebase, Fonts, Geocoding, Maps, Photos, Places, Sheets, Tag Manager, Translate, Vision
 
