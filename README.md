@@ -47,6 +47,9 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Affinity Designer|logiciel de conception et illustration vectorielle|[📘](https://affinity.serif.com/fr/learn/designer/desktop)|-|-|-|
 |Affinity Photo|logiciel de création d'image, édition et retouche photo|[📘](https://affinity.serif.com/fr/learn/photo/desktop)|-|-|-|
 |Affinity Publisher|logiciel de mise en page et création d'illustrations, affiches, livres, rapports et brochures|[📘](https://affinity.serif.com/fr/learn/publisher/desktop)|-|-|-|
+|ASP.NET|cadriciel pour le développement web et la production de pages web|-|-|[📕](https://learn.microsoft.com/fr-fr/aspnet/core)|-|
+|Atom|logiciel d'édition de code|[📘](https://flight-manual.atom-editor.cc)|-|-|[📒](https://flight-manual.atom-editor.cc/api/v1.63.1/AtomEnvironment)|
+|||||||
 |||||||
 |||||||
 |||||||
@@ -58,8 +61,6 @@ hapi.dev / koajs.com / hono.dev / fastify.dev / expressjs.com/fr
 
 |NOM|DESCRIPTION|RESSOURCES|
 |:--|:--|:--|
-|ASP.NET|cadriciel pour le développement web et la production de pages web|[DOC](https://learn.microsoft.com/fr-fr/aspnet/core)|
-|Atom|éditeur de code|[MANUEL](https://flight-manual.atom-editor.cc) ▪ [IPA](https://flight-manual.atom-editor.cc/api/v1.63.1/AtomEnvironment)|
 |Audacity|éditeur et enregistreur audio multipiste|[MANUEL](https://manual.audacityteam.org/index.html)|
 |AuthPass|gestionnaire de mots de passe|[MANUEL](https://authpass.app/docs)|
 |Autoconf|utilitaire de production de scripts pour la configuration de code source|[DOC](https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.72/index.html)|
