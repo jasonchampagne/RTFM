@@ -20,9 +20,9 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Autodesk Maya|logiciel de modélisation 3D|[📘](https://www.autodesk.com/support/technical/article/caas/tsarticles/ts/lC3jaffqnWFyQoLPEPm7n.html)|-|-|-|
 |Ada|langage de programmation|-|-|[📕](https://www.adacore.com/documentation)|-|
 |Adobe Acrobat|logiciel de manipulation de documents PDF|[📘](https://helpx.adobe.com/fr/acrobat/user-guide.html)|-|-|-|
-|Adobe After Effects||[📘](https://helpx.adobe.com/fr/after-effects/user-guide.html)|-|-|-|
-|Adobe Audition||[📘](https://helpx.adobe.com/fr/audition/user-guide.html)|-|-|-|
-|Adobe Illustrator||[📘](https://helpx.adobe.com/fr/illustrator/user-guide.html)|-|-|-|
+|Adobe After Effects|logiciel de création d'animations et effets spéciaux|[📘](https://helpx.adobe.com/fr/after-effects/user-guide.html)|-|-|-|
+|Adobe Audition|logiciel d'enregistrement, mixage et restauration audio|[📘](https://helpx.adobe.com/fr/audition/user-guide.html)|-|-|-|
+|Adobe Illustrator|logiciel de dessin vectoriel|[📘](https://helpx.adobe.com/fr/illustrator/user-guide.html)|-|-|-|
 |Adobe InDesign||[📘](https://helpx.adobe.com/fr/indesign/user-guide.html)|-|-|-|
 |Adobe Photoshop||[📘](https://helpx.adobe.com/fr/photoshop/user-guide.html)|-|-|-|
 |Adobe Premiere Pro||[📘](https://helpx.adobe.com/fr/premiere-pro/user-guide.html)|-|-|-|
