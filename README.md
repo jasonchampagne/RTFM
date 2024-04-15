@@ -4,8 +4,8 @@ Ci-dessous une liste de ressources disponibles en ligne pour des applications, l
 
 > [!NOTE]
 > **N'hésitez pas à signaler tout lien qui ne serait plus fonctionnel ou plus à jour**.
-> + Les ressources pour les utilisateurs sont les manuels et les wikis
-> + Les ressources pour les développeurs sont les documentations et les interfaces (IPA)
+> + Les ressources pour les utilisateurs sont les manuels📘 et les wikis📗
+> + Les ressources pour les développeurs sont les documentations📕 et les interfaces (IPA)📒
 
 Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/FindMyDoc/tree/master/mementos) de commandes usuelles pour des programmes en ligne de commande.
 
@@ -24,7 +24,6 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |||||||
 
 <!--
-📗📘📒
 hapi.dev / koajs.com / hono.dev / fastify.dev / expressjs.com/fr
 
 |NOM|DESCRIPTION|RESSOURCES|
