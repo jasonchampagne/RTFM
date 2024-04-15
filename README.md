@@ -65,7 +65,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Blender|logiciel de modélisation 3D|[📘](https://docs.blender.org/manual/en/latest)|-|[📕](https://developer.blender.org/docs)|[📒](https://docs.blender.org/api/current)|
 |Bootstrap|cadriciel CSS pour le développement web|-|-|[📕](https://getbootstrap.com/docs)|-|
 |Brackets|logiciel d'édition de code|-|-|-|[📒](https://brackets.io/docs/current/modules/brackets.html)|
-|Bulma|cadriciel CSS pour le développement web|-|-|[📘](https://bulma.io/documentation)|-|
+|Bulma|cadriciel CSS pour le développement web|-|-|[📕](https://bulma.io/documentation)|-|
 |||||||
 |||||||
 |||||||
