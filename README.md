@@ -36,6 +36,9 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Allegro|moteur de jeu|-|-|[📕](https://www.allegro.cc/manual/5)|-|
 |AlmaLinux|système d'exploitation|-|[📗](https://wiki.almalinux.org)|-|-|
 |Amazon Web Services|plateforme dans le nuage pour la création d'applications|-|-|[📕](https://docs.aws.amazon.com)|-|
+|Android|système d'exploitation|-|-|[📕](https://developer.android.com/guide)|-|
+|Angular|cadriciel pour la création d'applications web|-|-|[📕](https://angular.io/docs)|-|
+|Apache HTTP Server|serveur web|-|-|[📕](https://httpd.apache.org/docs)|-|
 |||||||
 |||||||
 |||||||
@@ -45,9 +48,6 @@ hapi.dev / koajs.com / hono.dev / fastify.dev / expressjs.com/fr
 
 |NOM|DESCRIPTION|RESSOURCES|
 |:--|:--|:--|
-|Android|système d'exploitation|[DOC](https://developer.android.com/guide)|
-|Angular|cadriciel pour la création d'applications web|[DOC](https://angular.io/docs)|
-|Apache|serveur web HTTP|[DOC](https://httpd.apache.org/docs)|
 |ArchLinux|système d'exploitation|[WIKI](https://wiki.archlinux.org/title/Main_page_(Fran%C3%A7ais))|
 |Ardour|station de travail audio-numérique|[MANUEL](https://manual.ardour.org/toc)|
 |Arduino|plateforme pour la création d'objets électroniques programmables|[DOC](https://www.arduino.cc/reference)|
