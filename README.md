@@ -279,6 +279,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Swift|||
 |Symfony|||
 |Tableau AI||[DOC](https://help.tableau.com/current/guides)|
+|Taler|système de paiement en ligne sans compte|[DOC](https://taler.net/fr/docs.html)|
 |Tesseract|||
 |TensorFlow|||
 |Terraform|||
