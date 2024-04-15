@@ -24,6 +24,8 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |||||||
 
 <!--
+hapi.dev / koajs.com / hono.dev / fastify.dev / expressjs.com/fr
+
 |NOM|DESCRIPTION|RESSOURCES|
 |:--|:--|:--|
 |After Effects|logiciel de composition, animation et effets visuels|[MANUEL](https://helpx.adobe.com/fr/after-effects/user-guide.html)|
