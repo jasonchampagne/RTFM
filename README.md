@@ -23,7 +23,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Adobe After Effects|logiciel de création d'animations et effets spéciaux|[📘](https://helpx.adobe.com/fr/after-effects/user-guide.html)|-|-|-|
 |Adobe Audition|logiciel d'enregistrement, mixage et restauration audio|[📘](https://helpx.adobe.com/fr/audition/user-guide.html)|-|-|-|
 |Adobe Illustrator|logiciel de dessin vectoriel|[📘](https://helpx.adobe.com/fr/illustrator/user-guide.html)|-|-|-|
-|Adobe InDesign||[📘](https://helpx.adobe.com/fr/indesign/user-guide.html)|-|-|-|
+|Adobe InDesign|logiciel de mise en page et création d'illustrations, affiches, livres, rapports et brochures|[📘](https://helpx.adobe.com/fr/indesign/user-guide.html)|-|-|-|
 |Adobe Photoshop||[📘](https://helpx.adobe.com/fr/photoshop/user-guide.html)|-|-|-|
 |Adobe Premiere Pro||[📘](https://helpx.adobe.com/fr/premiere-pro/user-guide.html)|-|-|-|
 |Adobe XD||[📘](https://helpx.adobe.com/fr/xd/user-guide.html)|-|-|-|
