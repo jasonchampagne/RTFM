@@ -64,7 +64,6 @@ hapi.dev / koajs.com / hono.dev / fastify.dev / expressjs.com/fr
 
 |NOM|DESCRIPTION|RESSOURCES|
 |:--|:--|:--|
-|Azure|plateforme dans le nuage pour la création d'applications|[DOC](https://learn.microsoft.com/fr-fr/azure)|
 |Babylon.js|moteur de rendu web pour créer des graphiques 3D|[DOC](https://doc.babylonjs.com)|
 |Backbone.js|cadriciel pour le développement web|[DOC](https://backbonejs.org)|
 |Bash|interpréteur de lignes de commandes et langage de script|[DOC](https://www.gnu.org/software/bash/manual)|
@@ -230,6 +229,7 @@ hapi.dev / koajs.com / hono.dev / fastify.dev / expressjs.com/fr
 |Mercurial|||
 |Meson|||
 |Meteor|||
+|Microsoft Azure|plateforme dans le nuage pour la création d'applications|[DOC](https://learn.microsoft.com/fr-fr/azure)|
 |MinGW-w64|||
 |ML|||
 |MongoDB|||
