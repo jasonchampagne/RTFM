@@ -11,7 +11,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 
 > 📛 **GROSSE REFONTE EN COURS...**
 
-|NOM DE L'OUTIL|DESCRIPTION ET USAGE|LIENS DES RESSOURCES|
+|NOM DE L'OUTIL|DESCRIPTION ET USAGE|RESSOURCES EN LIGNE|
 |:--|:--|:--|
 |3ds Max|logiciel de modélisation 3d|[MANUEL](https://www.autodesk.fr/support/technical/product/3ds-max)|
 |Ada|langage de programmation|[DOC](https://www.adacore.com/documentation)|
