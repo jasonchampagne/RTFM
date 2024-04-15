@@ -56,7 +56,6 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |AutoIt|langage de script pour l'automatisation de l'interface graphique de Windows|-|[📗](https://www.autoitscript.com/wiki)|[📕](https://www.autoitscript.com/autoit3/docs)|-|
 |Babylon.js|moteur de rendu web pour la création de graphiques en 3D|-|-|[📕](https://doc.babylonjs.com)|-|
 |Backbone.js|cadriciel pour le développement web|-|-|[📕](https://backbonejs.org)|-|
-|Bash|interpréteur de lignes de commandes et langage de script|-|-|[📕](https://www.gnu.org/software/bash/manual)|-|
 |Battle.net|client de jeux de Blizzard|-|-|-|[📒](https://develop.battle.net/documentation/battle-net/oauth-apis) OAuth|
 |Bevy|moteur de jeu|-|-|[📕](https://bevyengine.org/learn/quick-start/introduction)|[📒](https://docs.rs/bevy/latest/bevy)|
 |Bitbucket Cloud|dépôt Git dans le nuage et plateforme CI/CD intégrée à Jira pour l'examen de code, l'analyse de sécurité, la gestion des incidents et l'intégration|-|-|[📕](https://support.atlassian.com/bitbucket-cloud/resources)|-|
@@ -64,6 +63,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Bitly|service de réduction d'URL|[📘](https://support.bitly.com/hc/en-us)|-|[📕](https://dev.bitly.com)|-|
 |Blender|logiciel de modélisation 3D|[📘](https://docs.blender.org/manual/en/latest)|-|[📕](https://developer.blender.org/docs)|[📒](https://docs.blender.org/api/current)|
 |Bootstrap|cadriciel CSS pour le développement web|-|-|[📕](https://getbootstrap.com/docs)|-|
+|Bourne-Again shell (bash)|interpréteur de lignes de commandes et langage de script|-|-|[📕](https://www.gnu.org/software/bash/manual)|-|
 |Brackets|logiciel d'édition de code|-|-|-|[📒](https://brackets.io/docs/current/modules/brackets.html)|
 |Bulma|cadriciel CSS pour le développement web|-|-|[📕](https://bulma.io/documentation)|-|
 |Bun||||||
@@ -335,7 +335,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Zend Framework||||||
 |Zephyr||||||
 |Zig||||||
-|Z Shell|interpréteur de lignes de commandes|[📘](https://zsh.sourceforge.io/Guide)|-|[📕](https://zsh.sourceforge.io/Doc)|-|
+|Z shell (zsh)|interpréteur de lignes de commandes|[📘](https://zsh.sourceforge.io/Guide)|-|[📕](https://zsh.sourceforge.io/Doc)|-|
 
 <!--
 hapi.dev / koajs.com / hono.dev / fastify.dev / expressjs.com/fr
