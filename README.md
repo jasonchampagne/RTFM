@@ -52,8 +52,8 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Audacity|logiciel d'édition et enregistrement audio multipiste|[📘](https://manual.audacityteam.org/index.html)|-|-|-|
 |AuthPass|logiciel de gestion des mots de passe|[📘](https://authpass.app/docs)|-|-|-|
 |Autoconf|utilitaire de production de scripts pour la configuration de code source|-|-|[📕](https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.72/index.html)|-|
-|||||||
-|||||||
+|AutoHotkey|langage de script pour l'automatisation de tâches Windows|-|-|[📘](https://www.autohotkey.com/docs)|-|
+|AutoIt|langage de script pour l'automatisation de l'interface graphique de Windows|-|-|[📘](https://www.autoitscript.com/wiki)|-|
 |||||||
 |||||||
 |||||||
@@ -64,8 +64,6 @@ hapi.dev / koajs.com / hono.dev / fastify.dev / expressjs.com/fr
 
 |NOM|DESCRIPTION|RESSOURCES|
 |:--|:--|:--|
-|AutoHotkey|langage de script pour l'automatisation de tâches Windows|[DOC](https://www.autohotkey.com/docs)|
-|AutoIt|langage de script pour l'automatisation de l'interface graphique de Windows et l'écriture de scripts|[WIKI](https://www.autoitscript.com/wiki)|
 |Azure|plateforme dans le nuage pour la création d'applications|[DOC](https://learn.microsoft.com/fr-fr/azure)|
 |Babylon.js|moteur de rendu web pour créer des graphiques 3D|[DOC](https://doc.babylonjs.com)|
 |Backbone.js|cadriciel pour le développement web|[DOC](https://backbonejs.org)|
