@@ -58,7 +58,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Backbone.js|cadriciel pour le développement web|-|-|[📘](https://backbonejs.org)|-|
 |Bash|interpréteur de lignes de commandes et langage de script|-|-|[📘](https://www.gnu.org/software/bash/manual)|-|
 |Battle.net|client de jeux de Blizzard|-|-|-|[📒](https://develop.battle.net/documentation/battle-net/oauth-apis) OAuth|
-|||||||
+|Bevy|moteur de jeu|-|-|[📘](https://bevyengine.org/learn/quick-start/introduction)|[📒](https://docs.rs/bevy/latest/bevy)|
 |||||||
 |||||||
 |||||||
@@ -74,7 +74,6 @@ hapi.dev / koajs.com / hono.dev / fastify.dev / expressjs.com/fr
 
 |NOM|DESCRIPTION|RESSOURCES|
 |:--|:--|:--|
-|Bevy|moteur de jeu|[DOC](https://bevyengine.org/learn/quick-start/introduction) ▪ [IPA](https://docs.rs/bevy/latest/bevy)|
 |Bitbucket||[DOC](https://support.atlassian.com/bitbucket-cloud/resources)|
 |Bitcoin||[DOC](https://developer.bitcoin.org)|
 |Bitly||[MANUEL](https://support.bitly.com/hc/en-us) ▪ [DOC](https://dev.bitly.com)|
