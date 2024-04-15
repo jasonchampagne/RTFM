@@ -15,15 +15,20 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |--:|:--|:--:|:--:|:--:|:--:|
 |Autodesk 3DS Max|logiciel de modélisation 3D|[📘](https://help.autodesk.com/FRA/#A-B)|-|-|-|
 |Autodesk Advance Steel|logiciel de création de plans de détail, fabrication et construction de structures en acier|[📘](https://help.autodesk.com/FRA/#A-B)|-|-|-|
-|Autodesk AutoCAD|logiciel de création assistée par ordinateur (CAO)|[📘](https://help.autodesk.com/FRA/#A-B)|-|-|-|
+|Autodesk AutoCAD|logiciel de création assistée par ordinateur|[📘](https://help.autodesk.com/FRA/#A-B)|-|-|-|
 |Autodesk Civil 3D|logiciel de conception et construction 3D de projets de routes, autoroutes, sites et voies ferrées|[📘](https://help.autodesk.com/FRA/#C-H)|-|-|-|
 |Autodesk Maya|logiciel de modélisation 3D|[📘](https://www.autodesk.com/support/technical/article/caas/tsarticles/ts/lC3jaffqnWFyQoLPEPm7n.html)|-|-|-|
 |Ada|langage de programmation|-|-|[📕](https://www.adacore.com/documentation)|-|
 |Adobe Acrobat|logiciel de manipulation de documents PDF|[📘](https://helpx.adobe.com/fr/acrobat/user-guide.html)|-|-|-|
 |Adobe After Effects|logiciel de création d'animations et effets spéciaux|[📘](https://helpx.adobe.com/fr/after-effects/user-guide.html)|-|-|-|
+|Adobe Animate|logiciel de création d'animations interactives|[📘](https://helpx.adobe.com/fr/animate/user-guide.html)|-|-|-|
 |Adobe Audition|logiciel d'enregistrement, mixage et restauration audio|[📘](https://helpx.adobe.com/fr/audition/user-guide.html)|-|-|-|
+|Adobe Character Animator|logiciel d'animation de personnages en 2D et illustrations en temps réel|[📘](https://helpx.adobe.com/fr/adobe-character-animator/user-guide.html)|-|-|-|
+|Adobe Dreamweaver|logiciel de création de sites web|[📘](https://helpx.adobe.com/fr/dreamweaver/user-guide.html)|-|-|-|
+|Adobe Fresco|logiciel de dessin et peinture|[📘](https://helpx.adobe.com/fr/fresco/user-guide.html)|-|-|-|
 |Adobe Illustrator|logiciel de dessin vectoriel|[📘](https://helpx.adobe.com/fr/illustrator/user-guide.html)|-|-|-|
 |Adobe InDesign|logiciel de mise en page et création d'illustrations, affiches, livres, rapports et brochures|[📘](https://helpx.adobe.com/fr/indesign/user-guide.html)|-|-|-|
+|Adobe Lightroom|logiciel de retouche photo|[📘](https://helpx.adobe.com/fr/lightroom-cc/user-guide.html)|-|-|-|
 |Adobe Photoshop|logiciel de création d'image, édition et retouche photo|[📘](https://helpx.adobe.com/fr/photoshop/user-guide.html)|-|-|-|
 |Adobe Premiere Pro|logiciel de production et montage vidéo|[📘](https://helpx.adobe.com/fr/premiere-pro/user-guide.html)|-|-|-|
 |Adobe XD|logiciel de conception vectorielle pour applications web et mobiles|[📘](https://helpx.adobe.com/fr/xd/user-guide.html)|-|-|-|
