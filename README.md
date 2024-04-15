@@ -11,9 +11,9 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 
 > 📛 **GROSSE REFONTE EN COURS...**
 
-|NOM COMPLET|MANUEL|WIKI|DOC|IPA|
-|--:|:--:|:--:|:--:|:--:|
-|Autodesk 3DS Max|[LIEN](https://www.autodesk.fr/support/technical/product/3ds-max)|-|-|-|
+|NOM COMPLET|DESCRIPTION|MANUEL|WIKI|DOC|IPA|
+|--:|:--|:--:|:--:|:--:|:--:|
+|Autodesk 3DS Max|logiciel de modélisation 3D|[LIEN](https://www.autodesk.fr/support/technical/product/3ds-max)|-|-|-|
 
 <!--
 |NOM|DESCRIPTION|RESSOURCES|
