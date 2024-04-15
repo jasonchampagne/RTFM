@@ -185,6 +185,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |KeePassXC|gestionnaire de mots de passe|[MANUEL](https://keepassxc.org/docs/KeePassXC_UserGuide)|
 |Kotlin|langage de programmation||
 |Kubernetes|||
+|Lago|service auto-hébergé de comptabilité et facturation|[DOC](https://docs.getlago.com)|
 |Laravel|||
 |LaTeX|||
 |Less|||
