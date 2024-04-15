@@ -20,7 +20,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Autodesk Maya|logiciel de modélisation 3D|[📘](https://www.autodesk.com/support/technical/article/caas/tsarticles/ts/lC3jaffqnWFyQoLPEPm7n.html)|-|-|-|
 |Ada|langage de programmation|-|-|[📕](https://www.adacore.com/documentation)|-|
 |Adobe Acrobat|logiciel de manipulation de documents PDF|[📘](https://helpx.adobe.com/fr/acrobat/user-guide.html)|-|-|-|
-|Adobe After Effects|logiciel de création d'animations et effets spéciaux|[📘](https://helpx.adobe.com/fr/after-effects/user-guide.html)|-|-|-|
+|Adobe After Effects|logiciel de création d'animations et effets visuels|[📘](https://helpx.adobe.com/fr/after-effects/user-guide.html)|-|-|-|
 |Adobe Animate|logiciel de création d'animations interactives|[📘](https://helpx.adobe.com/fr/animate/user-guide.html)|-|-|-|
 |Adobe Audition|logiciel d'enregistrement, mixage et restauration audio|[📘](https://helpx.adobe.com/fr/audition/user-guide.html)|-|-|-|
 |Adobe Character Animator|logiciel d'animation de personnages en 2D et illustrations en temps réel|[📘](https://helpx.adobe.com/fr/adobe-character-animator/user-guide.html)|-|-|-|
@@ -33,7 +33,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Adobe Premiere Pro|logiciel de production et montage vidéo|[📘](https://helpx.adobe.com/fr/premiere-pro/user-guide.html)|-|-|-|
 |Adobe XD|logiciel de conception vectorielle pour applications web et mobiles|[📘](https://helpx.adobe.com/fr/xd/user-guide.html)|-|-|-|
 |AdonisJS|cadriciel pour la création d'applications web et IPA|-|-|[📕](https://docs.adonisjs.com/guides/introduction)|-|
-|||||||
+|Allegro|moteur de jeu|-|-|[📕](https://www.allegro.cc/manual/5)|-|
 |||||||
 
 <!--
@@ -41,8 +41,6 @@ hapi.dev / koajs.com / hono.dev / fastify.dev / expressjs.com/fr
 
 |NOM|DESCRIPTION|RESSOURCES|
 |:--|:--|:--|
-|After Effects|logiciel de composition, animation et effets visuels|[MANUEL](https://helpx.adobe.com/fr/after-effects/user-guide.html)|
-|Allegro|moteur de jeu|[DOC](https://www.allegro.cc/manual/5)|
 |AlmaLinux|système d'exploitation|[WIKI](https://wiki.almalinux.org)|
 |Amazon Web Services|plateforme dans le nuage pour la création d'applications|[DOC](https://docs.aws.amazon.com)|
 |Android|système d'exploitation|[DOC](https://developer.android.com/guide)|
@@ -59,9 +57,7 @@ hapi.dev / koajs.com / hono.dev / fastify.dev / expressjs.com/fr
 |ASP.NET|cadriciel pour le développement web et la production de pages web|[DOC](https://learn.microsoft.com/fr-fr/aspnet/core)|
 |Atom|éditeur de code|[MANUEL](https://flight-manual.atom-editor.cc) ▪ [IPA](https://flight-manual.atom-editor.cc/api/v1.63.1/AtomEnvironment)|
 |Audacity|éditeur et enregistreur audio multipiste|[MANUEL](https://manual.audacityteam.org/index.html)|
-|Audition|station de travail audio-numérique|[MANUEL](https://helpx.adobe.com/fr/audition/user-guide.html)|
 |AuthPass|gestionnaire de mots de passe|[MANUEL](https://authpass.app/docs)|
-|AutoCAD|dessin assisté par ordinateur|[MANUEL](https://help.autodesk.com/FRA)|
 |Autoconf|utilitaire de production de scripts pour la configuration de code source|[DOC](https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.72/index.html)|
 |AutoHotkey|langage de script pour l'automatisation de tâches Windows|[DOC](https://www.autohotkey.com/docs)|
 |AutoIt|langage de script pour l'automatisation de l'interface graphique de Windows et l'écriture de scripts|[WIKI](https://www.autoitscript.com/wiki)|
