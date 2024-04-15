@@ -94,7 +94,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Coq||||||
 |CryENGINE||||||
 |Crystal||||||
-|C shell|interpréteur de lignes de commandes et langage de script|-|[📗](https://en.wikibooks.org/wiki/C_Shell_Scripting)|-|-|
+|C shell (csh)|interpréteur de lignes de commandes et langage de script|-|[📗](https://en.wikibooks.org/wiki/C_Shell_Scripting)|-|-|
 |CSS||||||
 |Cubase||||||
 |CUDA||||||
