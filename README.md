@@ -54,6 +54,16 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Autoconf|utilitaire de production de scripts pour la configuration de code source|-|-|[📕](https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.72/index.html)|-|
 |AutoHotkey|langage de script pour l'automatisation de tâches Windows|-|-|[📘](https://www.autohotkey.com/docs)|-|
 |AutoIt|langage de script pour l'automatisation de l'interface graphique de Windows|-|[📗](https://www.autoitscript.com/wiki)|[📘](https://www.autoitscript.com/autoit3/docs)|-|
+|Babylon.js|moteur de rendu web pour la création de graphiques en 3D|-|-|[📘](https://doc.babylonjs.com)|-|
+|Backbone.js|cadriciel pour le développement web|-|-|[📘](https://backbonejs.org)|-|
+|Bash|interpréteur de lignes de commandes et langage de script|-|-|[📘](https://www.gnu.org/software/bash/manual)|-|
+|Battle.net|client de jeux de Blizzard|-|-|-|[📒 OAuth](https://develop.battle.net/documentation/battle-net/oauth-apis)|
+|||||||
+|||||||
+|||||||
+|||||||
+|||||||
+|||||||
 |||||||
 |||||||
 |||||||
@@ -64,10 +74,6 @@ hapi.dev / koajs.com / hono.dev / fastify.dev / expressjs.com/fr
 
 |NOM|DESCRIPTION|RESSOURCES|
 |:--|:--|:--|
-|Babylon.js|moteur de rendu web pour créer des graphiques 3D|[DOC](https://doc.babylonjs.com)|
-|Backbone.js|cadriciel pour le développement web|[DOC](https://backbonejs.org)|
-|Bash|interpréteur de lignes de commandes et langage de script|[DOC](https://www.gnu.org/software/bash/manual)|
-|Battle.net|client de jeux de Blizzard|[IPA OAuth](https://develop.battle.net/documentation/battle-net/oauth-apis)|
 |Bevy|moteur de jeu|[DOC](https://bevyengine.org/learn/quick-start/introduction) ▪ [IPA](https://docs.rs/bevy/latest/bevy)|
 |Bitbucket||[DOC](https://support.atlassian.com/bitbucket-cloud/resources)|
 |Bitcoin||[DOC](https://developer.bitcoin.org)|
