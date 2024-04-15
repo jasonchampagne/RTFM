@@ -18,7 +18,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Autodesk AutoCAD|logiciel de création assistée par ordinateur (CAO)|[LIEN](https://help.autodesk.com/FRA/#A-B)|-|-|-|
 |Autodesk Civil 3D|logiciel de conception et construction 3D de projets de routes, autoroutes, sites et voies ferrées|[LIEN](https://help.autodesk.com/FRA/#C-H)|-|-|-|
 |Autodesk Maya|logiciel de modélisation 3D|[LIEN](https://www.autodesk.com/support/technical/article/caas/tsarticles/ts/lC3jaffqnWFyQoLPEPm7n.html)|-|-|-|
-|||||||
+|Ada|langage de programmation|-|-|[LIEN](https://www.adacore.com/documentation)|-|
 |||||||
 |||||||
 |||||||
@@ -26,7 +26,6 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 <!--
 |NOM|DESCRIPTION|RESSOURCES|
 |:--|:--|:--|
-|Ada|langage de programmation|[DOC](https://www.adacore.com/documentation)|
 |AdonisJS|cadriciel pour la création d'applications web et IPAs|[DOC](https://docs.adonisjs.com/guides/introduction)|
 |After Effects|logiciel de composition, animation et effets visuels|[MANUEL](https://helpx.adobe.com/fr/after-effects/user-guide.html)|
 |Allegro|moteur de jeu|[DOC](https://www.allegro.cc/manual/5)|
