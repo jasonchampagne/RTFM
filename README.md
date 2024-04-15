@@ -19,7 +19,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |After Effects|logiciel de composition, animation et effets visuels|[MANUEL](https://helpx.adobe.com/fr/after-effects/user-guide.html)|
 |Allegro|moteur de jeu|[DOC](https://www.allegro.cc/manual/5)|
 |AlmaLinux|système d'exploitation|[WIKI](https://wiki.almalinux.org)|
-|Amazon Web Services|plateforme dans le nuage pour créer des applications|[DOC](https://docs.aws.amazon.com)|
+|Amazon Web Services|plateforme dans le nuage pour la création d'applications|[DOC](https://docs.aws.amazon.com)|
 |Android|système d'exploitation|[DOC](https://developer.android.com/guide)|
 |Angular|cadriciel pour la création d'applications web|[DOC](https://angular.io/docs)|
 |Apache|serveur web HTTP|[DOC](https://httpd.apache.org/docs)|
@@ -40,7 +40,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Autoconf|utilitaire de production de scripts pour la configuration de code source|[DOC](https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.72/index.html)|
 |AutoHotkey|langage de script pour l'automatisation de tâches Windows|[DOC](https://www.autohotkey.com/docs)|
 |AutoIt|langage de script pour l'automatisation de l'interface graphique de Windows et l'écriture de scripts|[WIKI](https://www.autoitscript.com/wiki)|
-|Azure|plateforme dans le nuage pour créer des applications|[DOC](https://learn.microsoft.com/fr-fr/azure)|
+|Azure|plateforme dans le nuage pour la création d'applications|[DOC](https://learn.microsoft.com/fr-fr/azure)|
 |Babylon.js|moteur de rendu web pour créer des graphiques 3D|[DOC](https://doc.babylonjs.com)|
 |Backbone.js|cadriciel pour le développement web|[DOC](https://backbonejs.org)|
 |Bash|interpréteur de lignes de commandes et langage de script|[DOC](https://www.gnu.org/software/bash/manual)|
