@@ -13,13 +13,13 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 
 |NOM_COMPLET_DE_L'OUTIL|DESCRIPTION|MANUEL|WIKI|DOC|IPA|
 |:--|:--|:--:|:--:|:--:|:--:|
-|Autodesk 3DS Max|logiciel de modélisation 3D|[ACCÈS](https://help.autodesk.com/FRA/#A-B)|-|-|-|
-|Autodesk Advance Steel|logiciel de création de plans de détail, fabrication et construction de structures en acier|[ACCÈS](https://help.autodesk.com/FRA/#A-B)|-|-|-|
-|Autodesk AutoCAD|logiciel de création assistée par ordinateur (CAO)|[ACCÈS](https://help.autodesk.com/FRA/#A-B)|-|-|-|
-|Autodesk Civil 3D|logiciel de conception et construction 3D de projets de routes, autoroutes, sites et voies ferrées|[ACCÈS](https://help.autodesk.com/FRA/#C-H)|-|-|-|
-|Autodesk Maya|logiciel de modélisation 3D|[ACCÈS](https://www.autodesk.com/support/technical/article/caas/tsarticles/ts/lC3jaffqnWFyQoLPEPm7n.html)|-|-|-|
-|Ada|langage de programmation|-|-|[ACCÈS](https://www.adacore.com/documentation)|-|
-|AdonisJS|cadriciel pour la création d'applications web et IPA|-|-|[ACCÈS](https://docs.adonisjs.com/guides/introduction)|-|
+|Autodesk 3DS Max|logiciel de modélisation 3D|[🔗](https://help.autodesk.com/FRA/#A-B)|-|-|-|
+|Autodesk Advance Steel|logiciel de création de plans de détail, fabrication et construction de structures en acier|[🔗](https://help.autodesk.com/FRA/#A-B)|-|-|-|
+|Autodesk AutoCAD|logiciel de création assistée par ordinateur (CAO)|[🔗](https://help.autodesk.com/FRA/#A-B)|-|-|-|
+|Autodesk Civil 3D|logiciel de conception et construction 3D de projets de routes, autoroutes, sites et voies ferrées|[🔗](https://help.autodesk.com/FRA/#C-H)|-|-|-|
+|Autodesk Maya|logiciel de modélisation 3D|[🔗](https://www.autodesk.com/support/technical/article/caas/tsarticles/ts/lC3jaffqnWFyQoLPEPm7n.html)|-|-|-|
+|Ada|langage de programmation|-|-|[🔗](https://www.adacore.com/documentation)|-|
+|AdonisJS|cadriciel pour la création d'applications web et IPA|-|-|[🔗](https://docs.adonisjs.com/guides/introduction)|-|
 |||||||
 |||||||
 
