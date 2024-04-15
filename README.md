@@ -12,8 +12,8 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 > 📛 **GROSSE REFONTE EN COURS...**
 
 |NOM|MANUEL|WIKI|DOC|IPA|
-|--:|:--:|:--:|:--:|
-|||||
+|--:|:--:|:--:|:--:|:--:|
+||||||
 
 <!--
 |NOM|DESCRIPTION|RESSOURCES|
