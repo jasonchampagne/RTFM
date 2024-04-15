@@ -94,6 +94,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Coq||||||
 |CryENGINE||||||
 |Crystal||||||
+|C shell|interpréteur de lignes de commandes et langage de script|-|[📗](https://en.wikibooks.org/wiki/C_Shell_Scripting)|-|-|
 |CSS||||||
 |Cubase||||||
 |CUDA||||||
@@ -196,6 +197,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Kali||||||
 |Kanban||||||
 |KeePassXC|logiciel de gestion des mots de passe|[📘](https://keepassxc.org/docs/KeePassXC_UserGuide)|-|-|-|
+|Korn shell (ksh)|interpréteur de lignes de commandes et langage de script|-|-|[📕](http://kornshell.com/doc)|-|
 |Kotlin||||||
 |Kubernetes||||||
 |Lago|service auto-hébergé de comptabilité et facturation|-|-|[📕](https://docs.getlago.com)|-|
