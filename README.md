@@ -40,7 +40,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Angular|cadriciel pour la création d'applications web|-|-|[📕](https://angular.io/docs)|-|
 |Apache HTTP Server|serveur web|-|-|[📕](https://httpd.apache.org/docs)|-|
 |ArchLinux|système d'exploitation|-|[📗](https://wiki.archlinux.org/title/Main_page_(Fran%C3%A7ais))|-|-|
-|Ardour|station de travail audio-numérique|[📘](https://manual.ardour.org/toc)|-|-|-|
+|Ardour|logiciel de travail audio-numérique|[📘](https://manual.ardour.org/toc)|-|-|-|
 |Arduino|plateforme pour la création d'objets électroniques programmables|-|-|[📕](https://www.arduino.cc/reference)|-|
 |Aria2|utilitaire de téléchargement multi-protocole et multi-source|-|-|[📕](https://aria2.github.io/manual/en/html/index.html)|-|
 |AsciiDoc|format de rédaction pour l'écriture de notices, livres et documents techniques|-|-|[📕](https://docs.asciidoctor.org/asciidoc/latest)|-|
@@ -49,6 +49,9 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Affinity Publisher|logiciel de mise en page et création d'illustrations, affiches, livres, rapports et brochures|[📘](https://affinity.serif.com/fr/learn/publisher/desktop)|-|-|-|
 |ASP.NET|cadriciel pour le développement web et la production de pages web|-|-|[📕](https://learn.microsoft.com/fr-fr/aspnet/core)|-|
 |Atom|logiciel d'édition de code|[📘](https://flight-manual.atom-editor.cc)|-|-|[📒](https://flight-manual.atom-editor.cc/api/v1.63.1/AtomEnvironment)|
+|Audacity|logiciel d'édition et enregistrement audio multipiste|[📘](https://manual.audacityteam.org/index.html)|-|-|-|
+|AuthPass|logiciel de gestion des mots de passe|[📘](https://authpass.app/docs)|-|-|-|
+|Autoconf|utilitaire de production de scripts pour la configuration de code source|-|-|[📕](https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.72/index.html)|-|
 |||||||
 |||||||
 |||||||
@@ -61,9 +64,6 @@ hapi.dev / koajs.com / hono.dev / fastify.dev / expressjs.com/fr
 
 |NOM|DESCRIPTION|RESSOURCES|
 |:--|:--|:--|
-|Audacity|éditeur et enregistreur audio multipiste|[MANUEL](https://manual.audacityteam.org/index.html)|
-|AuthPass|gestionnaire de mots de passe|[MANUEL](https://authpass.app/docs)|
-|Autoconf|utilitaire de production de scripts pour la configuration de code source|[DOC](https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.72/index.html)|
 |AutoHotkey|langage de script pour l'automatisation de tâches Windows|[DOC](https://www.autohotkey.com/docs)|
 |AutoIt|langage de script pour l'automatisation de l'interface graphique de Windows et l'écriture de scripts|[WIKI](https://www.autoitscript.com/wiki)|
 |Azure|plateforme dans le nuage pour la création d'applications|[DOC](https://learn.microsoft.com/fr-fr/azure)|
