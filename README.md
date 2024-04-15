@@ -61,7 +61,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Bevy|moteur de jeu|-|-|[📕](https://bevyengine.org/learn/quick-start/introduction)|[📒](https://docs.rs/bevy/latest/bevy)|
 |Bitbucket Cloud|dépôt Git dans le nuage et plateforme CI/CD intégrée à Jira pour l'examen de code, l'analyse de sécurité, la gestion des incidents et l'intégration|-|-|[📕](https://support.atlassian.com/bitbucket-cloud/resources)|-|
 |Bitcoin|crypto-monnaie et réseau de paiement décentralisé|-|-|[📕](https://developer.bitcoin.org)|-|
-|Bitly||[📘](https://support.bitly.com/hc/en-us)|-|[📕](https://dev.bitly.com)|-|
+|Bitly|service de réduction d'URL|[📘](https://support.bitly.com/hc/en-us)|-|[📕](https://dev.bitly.com)|-|
 |||||||
 |||||||
 |||||||
