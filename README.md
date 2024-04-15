@@ -19,6 +19,13 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Autodesk Civil 3D|logiciel de conception et construction 3D de projets de routes, autoroutes, sites et voies ferrées|[📘](https://help.autodesk.com/FRA/#C-H)|-|-|-|
 |Autodesk Maya|logiciel de modélisation 3D|[📘](https://www.autodesk.com/support/technical/article/caas/tsarticles/ts/lC3jaffqnWFyQoLPEPm7n.html)|-|-|-|
 |Ada|langage de programmation|-|-|[📕](https://www.adacore.com/documentation)|-|
+|Adobe After Effects||[📘](https://helpx.adobe.com/fr/after-effects/user-guide.html)|-|-|-|
+|Adobe Audition||[📘](https://helpx.adobe.com/fr/audition/user-guide.html)|-|-|-|
+|Adobe Illustrator||[📘](https://helpx.adobe.com/fr/illustrator/user-guide.html)|-|-|-|
+|Adobe InDesign||[📘](https://helpx.adobe.com/fr/indesign/user-guide.html)|-|-|-|
+|Adobe Photoshop||[📘](https://helpx.adobe.com/fr/photoshop/user-guide.html)|-|-|-|
+|Adobe Premiere Pro||[📘](https://helpx.adobe.com/fr/premiere-pro/user-guide.html)|-|-|-|
+|Adobe XD||[📘](https://helpx.adobe.com/fr/xd/user-guide.html)|-|-|-|
 |AdonisJS|cadriciel pour la création d'applications web et IPA|-|-|[📕](https://docs.adonisjs.com/guides/introduction)|-|
 |||||||
 |||||||
