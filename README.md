@@ -305,7 +305,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Underscore||-|-|[📕](https://underscorejs.org)|-|
 |Unity||||||
 |Unreal Engine||||||
-|V|langage de programmation|-|-|[📕](https://github.com/vlang/v/blob/master/doc/docs.md)<br>[📕](https://modules.vlang.io) StdLib|-|
+|V|langage de programmation|-|-|[📕](https://github.com/vlang/v/blob/master/doc/docs.md)|-|
 |Vagrant||||||
 |VBA||||||
 |Vim||||||
