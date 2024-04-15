@@ -62,9 +62,9 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Bitbucket Cloud|dépôt Git dans le nuage et plateforme CI/CD intégrée à Jira pour l'examen de code, l'analyse de sécurité, la gestion des incidents et l'intégration|-|-|[📕](https://support.atlassian.com/bitbucket-cloud/resources)|-|
 |Bitcoin|crypto-monnaie et réseau de paiement décentralisé|-|-|[📕](https://developer.bitcoin.org)|-|
 |Bitly|service de réduction d'URL|[📘](https://support.bitly.com/hc/en-us)|-|[📕](https://dev.bitly.com)|-|
-|||||||
-|||||||
-|||||||
+|Blender|logiciel de modélisation 3D|[📘](https://docs.blender.org/manual/en/latest)|-|[📕](https://developer.blender.org/docs)|[📒](https://docs.blender.org/api/current)|
+|Bootstrap|cadriciel CSS pour le développement web|-|-|[📕](https://getbootstrap.com/docs)|-|
+|Brackets|logiciel d'édition de code|-|-|-|[📒](https://brackets.io/docs/current/modules/brackets.html)|
 |||||||
 |||||||
 |||||||
@@ -74,9 +74,6 @@ hapi.dev / koajs.com / hono.dev / fastify.dev / expressjs.com/fr
 
 |NOM|DESCRIPTION|RESSOURCES|
 |:--|:--|:--|
-|Blender||[MANUEL](https://docs.blender.org/manual/en/latest) ▪ [DOC](https://developer.blender.org/docs) ▪ [IPA](https://docs.blender.org/api/current)|
-|Bootstrap||[DOC](https://getbootstrap.com/docs)|
-|Brackets||[IPA](https://brackets.io/docs/current/modules/brackets.html)|
 |Bulma||[DOC](https://bulma.io/documentation)|
 |Bun|||
 |Bundler|||
