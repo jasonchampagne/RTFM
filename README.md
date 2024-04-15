@@ -335,7 +335,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Zend Framework||||||
 |Zephyr||||||
 |Zig||||||
-|Z shell|interpréteur de lignes de commandes|[📘](https://zsh.sourceforge.io/Guide)|-|[📕](https://zsh.sourceforge.io/Doc)|-|
+|Z Shell|interpréteur de lignes de commandes|[📘](https://zsh.sourceforge.io/Guide)|-|[📕](https://zsh.sourceforge.io/Doc)|-|
 
 <!--
 hapi.dev / koajs.com / hono.dev / fastify.dev / expressjs.com/fr
