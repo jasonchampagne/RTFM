@@ -162,126 +162,118 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Git|||||||||
 |Go||||||
 |Godot Engine||||||
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
-|||||||
+|Google Ads||[📘](https://support.google.com/google-ads/answer/6146252)|-|-|[📒](https://developers.google.com/google-ads/api/docs/start?hl=fr)|
+|Google Calendar||-|-|-|[📒](https://developers.google.com/calendar/api/guides/overview?hl=fr)|
+|Gradle||||||
+|GraphQL||||||
+|Grav||||||
+|Gulp||||||
+|Haiku||||||
+|Haskell||||||
+|Heroku||||||
+|Hibernate||||||
+|Homebrew||||||
+|Hugo||||||
+|HTML||||||
+|HTTP||||||
+|Idris||||||
+|IntelliJ||||||
+|Ionic Framework||||||
+|IOS||||||
+|IPFS||||||
+|Java||||||
+|JavaScript||||||
+|Jenkins||||||
+|Jest||||||
+|Jira||||||
+|Jekyll||||||
+|JQuery||||||
+|Json||||||
+|Julia||||||
+|Jupyter||||||
+|Kafka||||||
+|Kali||||||
+|Kanban||||||
+|KeePassXC|logiciel de gestion des mots de passe|[📘](https://keepassxc.org/docs/KeePassXC_UserGuide)|-|-|-|
+|Kotlin||||||
+|Kubernetes||||||
+|Lago|service auto-hébergé de comptabilité et facturation|-|-|[📕](https://docs.getlago.com)|-|
+|Laravel||||||
+|LaTeX||||||
+|Less||||||
+|LibreOffice||||||
+|Linode||||||
+|Linux||||||
+|Lisp||||||
+|LLVM||||||
+|LMMS||||||
+|Lua||||||
+|LXC||||||
+|LXD||||||
+|Magento||||||
+|Markdown||||||
+|Material-UI||||||
+|MATLAB||||||
+|Maven||||||
+|Mercurial||||||
+|Meson||||||
+|Meteor||||||
+|Microsoft Azure|plateforme dans le nuage pour la création d'applications|-|-|[📕](https://learn.microsoft.com/fr-fr/azure)|-|
+|MinGW-w64||||||
+|ML||||||
+|MongoDB||||||
+|Moodle||||||
+|MS-DOS||||||
+|MuleSoft||||||
+|MySQL||||||
+|NASM||||||
+|NetBeans||||||
+|Next.js||||||
+|NGINX||||||
+|Nix||||||
+|Node||||||
+|NPM||||||
+|NSIS||||||
+|Objective-C||||||
+|Obsidian||||||
+|OCaml||||||
+|Octave||||||
+|OpenCV||||||
+|OpenGL||||||
+|OpenLDAP||||||
+|OpenSSL||||||
+|OpenVPN||||||
+|OpenWRT||||||
+|Oracle||||||
+|Packer||||||
+|Pascal||||||
+|Passport.js||||||
+|PEAR||||||
+|Perl||||||
+|Phaser||||||
+|PHP||||||
+|PHPBB||||||
+|PHPUnit||||||
+|PIP||||||
+|PostgreSQL||||||
+|PowerShell||||||
+|Premake||||||
+|PrestaShop||||||
+|Prolog||||||
+|Protobuf||||||
+|Pro Tools||||||
+|Puppet||||||
+|Python||||||
+|Qt||||||
+|R||||||
+|RabbitMQ||||||
+|Rails||||||
+|Raspberry Pi||||||
+|React <!-- + React Native, React Router -->||||||
 
 <!--
 hapi.dev / koajs.com / hono.dev / fastify.dev / expressjs.com/fr
 
-|Google Ads||[MANUEL](https://support.google.com/google-ads/answer/6146252) ▪ [IPA](https://developers.google.com/google-ads/api/docs/start?hl=fr)|
-|Google Analytics||[DOC](https://developers.google.com/analytics?hl=fr)|
-|Google Calendar||[IPA](https://developers.google.com/calendar/api/guides/overview?hl=fr)|
-|Gradle|||
-|GraphQL|||
-|Grav|||
-|Gulp|||
-|Haiku|langage de programmation||
-|Haskell|langage de programmation||
-|Heroku|||
-|Hibernate|||
-|Homebrew|||
-|Hugo|||
-|HTML|langage de balisage pour la création de pages web||
-|HTTP|||
-|Idris|||
-|IntelliJ|||
-|Ionic Framework|||
-|IOS|||
-|IPFS|||
-|Java|langage de programmation||
-|JavaScript|langage de programmation||
-|Jenkins|||
-|Jest|||
-|Jira|||
-|Jekyll|||
-|JQuery|||
-|Json|||
-|Julia|langage de programmation||
-|Jupyter|||
-|Kafka|||
-|Kali|système d'exploitation||
-|Kanban|||
-|KeePassXC|gestionnaire de mots de passe|[MANUEL](https://keepassxc.org/docs/KeePassXC_UserGuide)|
-|Kotlin|langage de programmation||
-|Kubernetes|||
-|Lago|service auto-hébergé de comptabilité et facturation|[DOC](https://docs.getlago.com)|
-|Laravel|||
-|LaTeX|||
-|Less|||
-|LibreOffice|||
-|Linode|||
-|Linux|||
-|Lisp|||
-|LLVM|||
-|LMMS|||
-|Lua|langage de programmation||
-|LXC|||
-|LXD|||
-|Magento|||
-|Markdown|||
-|Material-UI|||
-|MATLAB|||
-|Maven|||
-|Mercurial|||
-|Meson|||
-|Meteor|||
-|Microsoft Azure|plateforme dans le nuage pour la création d'applications|[DOC](https://learn.microsoft.com/fr-fr/azure)|
-|MinGW-w64|||
-|ML|||
-|MongoDB|||
-|Moodle|||
-|MS-DOS|système d'exploitation||
-|MuleSoft|||
-|MySQL|||
-|NASM|||
-|NetBeans|||
-|Next.js|||
-|NGINX|||
-|Nix|||
-|Node|||
-|NPM|||
-|NSIS|||
-|Objective-C|langage de programmation||
-|Obsidian|||
-|OCaml|langage de programmation||
-|Octave|||
-|OpenCV|||
-|OpenGL|||
-|OpenLDAP|||
-|OpenSSL|||
-|OpenVPN|||
-|OpenWRT|||
-|Oracle|||
-|Packer|||
-|Pascal|langage de programmation||
-|Passport.js|||
-|PEAR|||
-|Perl|||
-|Phaser|||
-|PHP|langage de programmation||
-|PHPBB|||
-|PHPUnit|||
-|PIP|||
-|PostgreSQL|||
-|PowerShell|||
-|Premake|||
-|PrestaShop|||
-|Prolog|||
-|Protobuf|||
-|Pro Tools|||
-|Puppet|||
-|Python|langage de programmation||
-|Qt|||
-|R|langage de programmation||
-|RabbitMQ|||
-|Rails|||
-|Raspberry Pi|||
-|React + React Native, React Router|||
 |REAPER|||
 |Redis|||
 |Redux|||
