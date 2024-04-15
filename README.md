@@ -1,6 +1,6 @@
 # RTFM
 
-Ci dessous une liste de ressources disponibles en ligne pour des applications, langages de programmation/développement web, bibliothèques, cadriciels, plateformes en ligne, gestionnaires de contenu, systèmes d'exploitation, utilitaires, etc.
+Ci-dessous une liste de ressources disponibles en ligne pour des applications, langages de programmation/développement web, bibliothèques, cadriciels, plateformes en ligne, gestionnaires de contenu, systèmes d'exploitation, utilitaires, etc.
 
 > [!NOTE]
 > **N'hésitez pas à signaler tout lien qui ne serait plus fonctionnel ou plus à jour**.
