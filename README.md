@@ -125,6 +125,44 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |E||||||
 |Ebay||||||
 |ECMAScript||||||
+|Ejabberd||||||
+|Elasticsearch||||||
+|Electron||||||
+|Emacs||||||
+|Ember.js||||||
+|Emoji||||||
+|Emscripten||||||
+|Entity Framework||||||
+|Erlang||||||
+|ESLint||||||
+|Ethereum||||||
+|Excel||||||
+|Express.js||||||
+|F#||||||
+|FASM||||||
+|Fedora||||||
+|FFmpeg||||||
+|Figma||||||
+|FileZilla||||||
+|Firebase||||||
+|Flask||||||
+|Flutter||||||
+|Foundation||||||
+|FreeBSD||||||
+|Freemarker||||||
+|Frida||||||
+|FUSE||||||
+|Gatsby||||||
+|Gather||[📘](https://support.gather.town/hc/en-us)|-|-|-|
+|GCC||||||
+|GDB||||||
+|Gentoo||||||
+|GitHub Actions||||||
+|GitLab||||||
+|Git|||||||||
+|Go||||||
+|Godot Engine||||||
+|||||||
 |||||||
 |||||||
 |||||||
@@ -135,43 +173,6 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 <!--
 hapi.dev / koajs.com / hono.dev / fastify.dev / expressjs.com/fr
 
-|Ejabberd|||
-|Elasticsearch|||
-|Electron|||
-|Emacs|||
-|Ember.js|||
-|Emoji|||
-|Emscripten|||
-|Entity Framework|||
-|Erlang|langage de programmation||
-|ESLint|||
-|Ethereum|||
-|Excel|||
-|Express.js|||
-|F#|langage de programmation||
-|FASM|||
-|Fedora|système d'exploitation||
-|FFmpeg||[DOC](https://ffmpeg.org/documentation.html)|
-|Figma|||
-|FileZilla|||
-|Firebase|||
-|Flask|||
-|Flutter|||
-|Foundation|||
-|FreeBSD|système d'exploitation||
-|Freemarker|||
-|Frida|||
-|FUSE|||
-|Gatsby|||
-|Gather||[MANUEL](https://support.gather.town/hc/en-us)|
-|GCC|||
-|GDB|||
-|Gentoo|système d'exploitation||
-|GitHub Actions|||
-|GitLab|||
-|Git|||
-|Go|langage de programmation||
-|Godot Engine|||
 |Google Ads||[MANUEL](https://support.google.com/google-ads/answer/6146252) ▪ [IPA](https://developers.google.com/google-ads/api/docs/start?hl=fr)|
 |Google Analytics||[DOC](https://developers.google.com/analytics?hl=fr)|
 |Google Calendar||[IPA](https://developers.google.com/calendar/api/guides/overview?hl=fr)|
