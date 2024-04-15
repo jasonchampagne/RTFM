@@ -19,7 +19,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Autodesk Civil 3D|logiciel de conception et construction 3D de projets de routes, autoroutes, sites et voies ferrées|[LIEN](https://help.autodesk.com/FRA/#C-H)|-|-|-|
 |Autodesk Maya|logiciel de modélisation 3D|[LIEN](https://www.autodesk.com/support/technical/article/caas/tsarticles/ts/lC3jaffqnWFyQoLPEPm7n.html)|-|-|-|
 |Ada|langage de programmation|-|-|[LIEN](https://www.adacore.com/documentation)|-|
-|AdonisJS|cadriciel pour la création d'applications web et IPAscadriciel pour la création d'applications web et IPAs|-|-|[LIEN](https://docs.adonisjs.com/guides/introduction)|-|
+|AdonisJS|cadriciel pour la création d'applications web et IPA|-|-|[LIEN](https://docs.adonisjs.com/guides/introduction)|-|
 |||||||
 |||||||
 
