@@ -11,14 +11,13 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 
 > 📛 **GROSSE REFONTE EN COURS...**
 
-|NOM|MANUEL|WIKI|DOC|IPA|
+|NOM COMPLET|MANUEL|WIKI|DOC|IPA|
 |--:|:--:|:--:|:--:|:--:|
-||||||
+|Autodesk 3DS Max|[LIEN](https://www.autodesk.fr/support/technical/product/3ds-max)|-|-|-|
 
 <!--
 |NOM|DESCRIPTION|RESSOURCES|
 |:--|:--|:--|
-|3ds Max|logiciel de modélisation 3d|[MANUEL](https://www.autodesk.fr/support/technical/product/3ds-max)|
 |Ada|langage de programmation|[DOC](https://www.adacore.com/documentation)|
 |AdonisJS|cadriciel pour la création d'applications web et IPAs|[DOC](https://docs.adonisjs.com/guides/introduction)|
 |After Effects|logiciel de composition, animation et effets visuels|[MANUEL](https://helpx.adobe.com/fr/after-effects/user-guide.html)|
