@@ -19,7 +19,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Autodesk Civil 3D|logiciel de conception et construction 3D de projets de routes, autoroutes, sites et voies ferrées|[📘](https://help.autodesk.com/FRA/#C-H)|-|-|-|
 |Autodesk Maya|logiciel de modélisation 3D|[📘](https://www.autodesk.com/support/technical/article/caas/tsarticles/ts/lC3jaffqnWFyQoLPEPm7n.html)|-|-|-|
 |Ada|langage de programmation|-|-|[📕](https://www.adacore.com/documentation)|-|
-|Adobe Acrobat||[📘](https://helpx.adobe.com/fr/acrobat/user-guide.html)|-|-|-|
+|Adobe Acrobat|logiciel de manipulation de documents PDF|[📘](https://helpx.adobe.com/fr/acrobat/user-guide.html)|-|-|-|
 |Adobe After Effects||[📘](https://helpx.adobe.com/fr/after-effects/user-guide.html)|-|-|-|
 |Adobe Audition||[📘](https://helpx.adobe.com/fr/audition/user-guide.html)|-|-|-|
 |Adobe Illustrator||[📘](https://helpx.adobe.com/fr/illustrator/user-guide.html)|-|-|-|
