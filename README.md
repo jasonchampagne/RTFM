@@ -52,15 +52,15 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Audacity|logiciel d'édition et enregistrement audio multipiste|[📘](https://manual.audacityteam.org/index.html)|-|-|-|
 |AuthPass|logiciel de gestion des mots de passe|[📘](https://authpass.app/docs)|-|-|-|
 |Autoconf|utilitaire de production de scripts pour la configuration de code source|-|-|[📕](https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.72/index.html)|-|
-|AutoHotkey|langage de script pour l'automatisation de tâches Windows|-|-|[📘](https://www.autohotkey.com/docs)|-|
-|AutoIt|langage de script pour l'automatisation de l'interface graphique de Windows|-|[📗](https://www.autoitscript.com/wiki)|[📘](https://www.autoitscript.com/autoit3/docs)|-|
-|Babylon.js|moteur de rendu web pour la création de graphiques en 3D|-|-|[📘](https://doc.babylonjs.com)|-|
-|Backbone.js|cadriciel pour le développement web|-|-|[📘](https://backbonejs.org)|-|
-|Bash|interpréteur de lignes de commandes et langage de script|-|-|[📘](https://www.gnu.org/software/bash/manual)|-|
+|AutoHotkey|langage de script pour l'automatisation de tâches Windows|-|-|[📕](https://www.autohotkey.com/docs)|-|
+|AutoIt|langage de script pour l'automatisation de l'interface graphique de Windows|-|[📗](https://www.autoitscript.com/wiki)|[📕](https://www.autoitscript.com/autoit3/docs)|-|
+|Babylon.js|moteur de rendu web pour la création de graphiques en 3D|-|-|[📕](https://doc.babylonjs.com)|-|
+|Backbone.js|cadriciel pour le développement web|-|-|[📕](https://backbonejs.org)|-|
+|Bash|interpréteur de lignes de commandes et langage de script|-|-|[📕](https://www.gnu.org/software/bash/manual)|-|
 |Battle.net|client de jeux de Blizzard|-|-|-|[📒](https://develop.battle.net/documentation/battle-net/oauth-apis) OAuth|
-|Bevy|moteur de jeu|-|-|[📘](https://bevyengine.org/learn/quick-start/introduction)|[📒](https://docs.rs/bevy/latest/bevy)|
-|Bitbucket Cloud|dépôt Git dans le nuage et plateforme CI/CD intégrée à Jira pour l'examen de code, l'analyse de sécurité, la gestion des incidents et l'intégration|-|-|[📘](https://support.atlassian.com/bitbucket-cloud/resources)|-|
-|Bitcoin|crypto-monnaie et réseau de paiement décentralisé|-|-|[📘](https://developer.bitcoin.org)|-|
+|Bevy|moteur de jeu|-|-|[📕](https://bevyengine.org/learn/quick-start/introduction)|[📒](https://docs.rs/bevy/latest/bevy)|
+|Bitbucket Cloud|dépôt Git dans le nuage et plateforme CI/CD intégrée à Jira pour l'examen de code, l'analyse de sécurité, la gestion des incidents et l'intégration|-|-|[📕](https://support.atlassian.com/bitbucket-cloud/resources)|-|
+|Bitcoin|crypto-monnaie et réseau de paiement décentralisé|-|-|[📕](https://developer.bitcoin.org)|-|
 |Bitly||[📘](https://support.bitly.com/hc/en-us)|-|[📕](https://dev.bitly.com)|-|
 |||||||
 |||||||
