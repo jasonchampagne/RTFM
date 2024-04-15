@@ -17,7 +17,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Autodesk Advance Steel|création de plans de détail, fabrication et construction de structures en acier|[LIEN](https://help.autodesk.com/FRA/#A-B)|-|-|-|
 |Autodesk AutoCAD||[LIEN](https://help.autodesk.com/FRA/#A-B)|-|-|-|
 |Autodesk Civil 3D|||||[](https://help.autodesk.com/FRA/#C-H)|
-|Autodesk Maya|||-|-|-|
+|Autodesk Maya||[LIEN](https://www.autodesk.fr/support/technical/article/caas/tsarticles/tsarticles/FRA/ts/lC3jaffqnWFyQoLPEPm7n.html)|-|-|-|
 |||||||
 |||||||
 |||||||
