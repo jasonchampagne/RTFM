@@ -339,7 +339,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |YouTube||||||
 |Zend Framework||||||
 |Zephyr||||||
-|Zig||||||
+|Zig|langage de programmation|-|-|[📕](https://ziglang.org/documentation/master)|-|
 |Z shell (zsh)|interpréteur de lignes de commandes|[📘](https://zsh.sourceforge.io/Guide)|-|[📕](https://zsh.sourceforge.io/Doc)|-|
 
 <!--
