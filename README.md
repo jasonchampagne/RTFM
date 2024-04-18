@@ -115,7 +115,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Diablo III|jeu vidéo|-|-|-|[📒](https://develop.battle.net/documentation/diablo-3/game-data-apis) Données|
 |DigitalOcean||||||
 |DirectAdmin||||||
-|Directus||-|-|[📕](https://docs.directus.io)|[📒](https://docs.directus.io/reference/introduction.html)|
+|Directus|plateforme de données composable pour la création et le déploiement d'applications riches en données|-|-|[📕](https://docs.directus.io)|[📒](https://docs.directus.io/reference/introduction.html)|
 |Django||||||
 |Docker||||||
 |Doctrine||||||
