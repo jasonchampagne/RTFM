@@ -234,7 +234,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |NASM||||||
 |NetBeans||||||
 |Next.js||||||
-|Nexus Mods|plateforme de mods de jeux|-|[📗](https://wiki.nexusmods.com/index.php/Category:Tutorials)|-|-|
+|Nexus Mods|plateforme de mods de jeux|-|[📗](https://wiki.nexusmods.com/index.php/Main_Page)|-|-|
 |NGINX||||||
 |Nix||||||
 |Node||||||
