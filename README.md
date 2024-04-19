@@ -225,7 +225,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Microsoft Azure|plateforme dans le nuage pour la création d'applications|-|-|[📕](https://learn.microsoft.com/fr-fr/azure)|-|
 |MinGW-w64||||||
 |ML||||||
-|Mod Organizer|logiciel de gestion de mods pour les jeux PC|-|-|[📕](https://www.modorganizer.org)|-|
+|Mod Organizer|logiciel de gestion de mods pour les jeux PC|-|[📗](https://stepmodifications.org/wiki/Guide:Mod_Organizer)|-|-|
 |MongoDB||||||
 |Moodle||||||
 |MS-DOS||||||
