@@ -234,7 +234,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |NASM||||||
 |NetBeans||||||
 |Next.js||||||
-|Nexus Mods|plateforme de mods de jeux|-|[📗](https://wiki.nexusmods.com/index.php/Category:Tutorials)|-|[📒](https://app.swaggerhub.com/apis-docs/NexusMods/nexus-mods_public_api_params_in_form_data)|
+|Nexus Mods|plateforme de mods de jeux|-|[📗](https://wiki.nexusmods.com/index.php/Category:Tutorials)|-|-|
 |NGINX||||||
 |Nix||||||
 |Node||||||
@@ -319,6 +319,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |VirtualBox||||||
 |Visual Basic||||||
 |Visual Studio Code||||||
+|Vortex|logiciel de gestion de mods pour les jeux PC|-|[📗](https://wiki.nexusmods.com/index.php/Category:Tutorials)|-|[📒](https://app.swaggerhub.com/apis-docs/NexusMods/nexus-mods_public_api_params_in_form_data)|
 |Vue||||||
 |Vulkan||||||
 |VVVV||||||
