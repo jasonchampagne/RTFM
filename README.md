@@ -319,7 +319,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |VirtualBox||||||
 |Visual Basic||||||
 |Visual Studio Code||||||
-|Vortex|logiciel de gestion de mods pour les jeux PC|-|[📗](https://wiki.nexusmods.com/index.php/Category:Tutorials)|-|[📒](https://app.swaggerhub.com/apis-docs/NexusMods/nexus-mods_public_api_params_in_form_data)|
+|Vortex Mod Manager|logiciel de gestion de mods pour les jeux PC|-|[📗](https://wiki.nexusmods.com/index.php/Category:Tutorials)|-|[📒](https://app.swaggerhub.com/apis-docs/NexusMods/nexus-mods_public_api_params_in_form_data)|
 |Vue||||||
 |Vulkan||||||
 |VVVV||||||
