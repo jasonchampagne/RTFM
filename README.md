@@ -294,6 +294,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Sinatra||||||
 |Sketch||||||
 |Slack||||||
+|Spyder|environnement de développement logiciel|[📘](https://docs.spyder-ide.org/current/index.html)|-|-|-|
 |Stripe|infrastructure de paiement pour le commerce en ligne|[📘](https://stripe.com/fr/guideshttps://stripe.com/fr/guides)|-|[📕](https://docs.stripe.com)|[📒](https://docs.stripe.com/api)|
 |Svelte||||||
 |Swift||||||
