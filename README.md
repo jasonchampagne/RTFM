@@ -241,7 +241,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |NPM||||||
 |NSIS||||||
 |Nvidia Canvas|logiciel IA de conception d'arrière-plans à partir d'un esquisse|[📘](https://www.nvidia.com/en-gb/studio/canvas/user-guide)|-|-|-|
-|Nvidia CUDA Toolkit|kit de développement pour la création d'applications multiplateformes accélérées par CG|-|-|[📕](https://docs.nvidia.com/cuda/index.html)|-|
+|Nvidia CUDA Toolkit|kit de développement pour la création d'applications multiplateformes accélérées par carte graphique|-|-|[📕](https://docs.nvidia.com/cuda/index.html)|-|
 |Nvidia Omniverse|plateforme de calcul pour le développement d'applications de métavers basées sur Universal Scene Description (OpenUSD)|-|-|[📕](https://docs.omniverse.nvidia.com)|-|
 |Objective-C||||||
 |Obsidian||||||
