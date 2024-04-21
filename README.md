@@ -162,7 +162,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Gentoo||||||
 |GitHub Actions||||||
 |GitLab||||||
-|Git|||||||||
+|Git|système de gestion de révision de fichiers|-|-|[📕](https://git-scm.com/doc)|-|
 |Go||||||
 |Godot Engine||||||
 |Google Ads||[📘](https://support.google.com/google-ads/answer/6146252)|-|-|[📒](https://developers.google.com/google-ads/api/docs/start?hl=fr)|
