@@ -288,6 +288,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |SaltStack||||||
 |Sass||||||
 |Scala||||||
+|Scoop|utilitaire de gestion de paquets pour Windows|-|-|[📕](https://github.com/ScoopInstaller/Scoop/wiki)|-|
 |Scrapy||||||
 |Sequelize||||||
 |Shopify||||||
