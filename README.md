@@ -240,6 +240,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Node||||||
 |NPM||||||
 |NSIS||||||
+|Nvidia Canvas|logiciel IA de conception d'arrière-plans à partir d'un esquisse|[📘](https://www.nvidia.com/en-gb/studio/canvas/user-guide)|-|-|-|
 |Objective-C||||||
 |Obsidian||||||
 |OCaml||||||
