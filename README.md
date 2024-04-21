@@ -56,7 +56,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |AutoIt|langage de script pour l'automatisation de l'interface graphique de Windows|-|[📗](https://www.autoitscript.com/wiki)|[📕](https://www.autoitscript.com/autoit3/docs)|-|
 |Babylon.js|moteur de rendu web pour la création de graphiques en 3D|-|-|[📕](https://doc.babylonjs.com)|-|
 |Backbone.js|cadriciel pour le développement web|-|-|[📕](https://backbonejs.org)|-|
-|Battle.net|client de jeux de Blizzard|-|-|-|[📒](https://develop.battle.net/documentation/battle-net/oauth-apis) OAuth|
+|Battle.net|client de jeux de Blizzard|-|-|-|[📒](https://develop.battle.net/documentation/battle-net/oauth-apis)<br>OAuth|
 |Bevy|moteur de jeu|-|-|[📕](https://bevyengine.org/learn/quick-start/introduction)|[📒](https://docs.rs/bevy/latest/bevy)|
 |Bitbucket Cloud|dépôt Git dans le nuage et plateforme CI/CD intégrée à Jira pour l'examen de code, l'analyse de sécurité, la gestion des incidents et l'intégration|-|-|[📕](https://support.atlassian.com/bitbucket-cloud/resources)|-|
 |Bitcoin|crypto-monnaie et réseau de paiement décentralisé|-|-|[📕](https://developer.bitcoin.org)|-|
@@ -112,7 +112,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |DevDocs||||||
 |Devuan||||||
 |DIA||||||
-|Diablo III|jeu vidéo|-|-|-|[📒](https://develop.battle.net/documentation/diablo-3/game-data-apis) Données|
+|Diablo III|jeu vidéo|-|-|-|[📒](https://develop.battle.net/documentation/diablo-3/game-data-apis)<br>Données|
 |DigitalOcean||||||
 |DirectAdmin||||||
 |Directus|plateforme de données composable pour la création et le déploiement d'applications riches en données|-|-|[📕](https://docs.directus.io)|[📒](https://docs.directus.io/reference/introduction.html)|
