@@ -314,6 +314,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Underscore||-|-|[📕](https://underscorejs.org)|-|
 |Unity||||||
 |Unreal Engine||||||
+|Universal Package-management Tool|utilitaire de gestion de paquets multisystème|-|-|[📕](https://github.com/sigoden/upt)|-|
 |V|langage de programmation|-|-|[📕](https://github.com/vlang/v/blob/master/doc/docs.md)|-|
 |Vagrant||||||
 |VBA||||||
