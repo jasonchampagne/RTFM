@@ -315,6 +315,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |TypeScript||||||
 |Twitch||||||
 |Ubuntu|système d'exploitation|[📘](https://help.ubuntu.com)|[📗](https://help.ubuntu.com/community/CommunityHelpWiki)|[📕](https://doc.ubuntu-fr.org/accueil)|-|
+|Ultra|plateforme de jeux vidéo décentralisée|-|-|[📕](https://developers.ultra.io)|-|
 |Underscore||-|-|[📕](https://underscorejs.org)|-|
 |Unity||||||
 |Unreal Engine||||||
