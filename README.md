@@ -194,6 +194,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Json||||||
 |Julia||||||
 |Jupyter||||||
+|JxBrowser|bibliothèque d'intégration d'un navigateur Chromium pour application JavaFX|-|-|[📕](https://teamdev.com/jxbrowser/docs/guides/introduction/requirements.html)|-|
 |Kafka||||||
 |Kali||||||
 |Kanban||||||
