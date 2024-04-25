@@ -44,6 +44,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Aria2|utilitaire de téléchargement multi-protocole et multi-source|-|-|[📕](https://aria2.github.io/manual/en/html/index.html)|-|
 |AsciiDoc|format de rédaction pour l'écriture de notices, livres et documents techniques|-|-|[📕](https://docs.asciidoctor.org/asciidoc/latest)|-|
 |ASP.NET|cadriciel pour le développement web et la production de pages web|-|-|[📕](https://learn.microsoft.com/fr-fr/aspnet/core)|-|
+|Astrop|cadriciel de génération de sites web statiques|-|-|[📕](https://docs.astro.build/fr)|-|
 |Atom|logiciel d'édition de code|[📘](https://flight-manual.atom-editor.cc)|-|-|[📒](https://flight-manual.atom-editor.cc/api/v1.63.1/AtomEnvironment)|
 |Audacity|logiciel d'édition et enregistrement audio multipiste|[📘](https://manual.audacityteam.org/index.html)|-|-|-|
 |AuthPass|logiciel de gestion des mots de passe|[📘](https://authpass.app/docs)|-|-|-|
@@ -157,7 +158,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Frida||||||
 |Friendly Interactive Shell (fish)|interpréteur de lignes de commandes et langage de script|-|-|[📕](https://fishshell.com/docs/current/index.html)|-|
 |FUSE||||||
-|Gatsby||||||
+|Gatsby|cadriciel de génération de sites web statiques|-|-|[📕](https://www.gatsbyjs.com/docs)|-|
 |Gather||[📘](https://support.gather.town/hc/en-us)|-|-|-|
 |GCC||||||
 |GDB||||||
