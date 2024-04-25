@@ -36,7 +36,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Amazon Web Services|plateforme dans le nuage pour la création d'applications|-|-|[📕](https://docs.aws.amazon.com)|-|
 |Android|système d'exploitation|-|-|[📕](https://developer.android.com/guide)|-|
 |Angular|cadriciel pour la création d'applications web|-|-|[📕](https://angular.io/docs)|-|
-|Ansible||-|-|[📕](https://docs.ansible.com/ansible/latest/index.html)|-|
+|Ansible|plateforme pour la configuration et la gestion des ordinateurs|[📘](https://docs.ansible.com/ansible/latest/index.html)|-|[📕](https://docs.ansible.com/ansible/latest/dev_guide/index.html)|-|
 |Apache HTTP Server|serveur web|-|-|[📕](https://httpd.apache.org/docs)|-|
 |ArchLinux|système d'exploitation|-|[📗](https://wiki.archlinux.org/title/Main_page_(Fran%C3%A7ais))|-|-|
 |Ardour|logiciel de travail audio-numérique|[📘](https://manual.ardour.org/toc)|-|-|-|
