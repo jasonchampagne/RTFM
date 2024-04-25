@@ -13,11 +13,6 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 
 |NOM COMPLET|DESCRIPTION|MAN|WIKI|DOC|IPA|
 |--:|:--|:--:|:--:|:--:|:--:|
-|Autodesk 3DS Max|logiciel de modélisation 3D|[📘](https://help.autodesk.com/FRA/#A-B)|-|-|-|
-|Autodesk Advance Steel|logiciel de création de plans de détail, fabrication et construction de structures en acier|[📘](https://help.autodesk.com/FRA/#A-B)|-|-|-|
-|Autodesk AutoCAD|logiciel de création assistée par ordinateur|[📘](https://help.autodesk.com/FRA/#A-B)|-|-|-|
-|Autodesk Civil 3D|logiciel de conception et construction 3D de projets de routes, autoroutes, sites et voies ferrées|[📘](https://help.autodesk.com/FRA/#C-H)|-|-|-|
-|Autodesk Maya|logiciel de modélisation 3D|[📘](https://www.autodesk.com/support/technical/article/caas/tsarticles/ts/lC3jaffqnWFyQoLPEPm7n.html)|-|-|-|
 |Ada|langage de programmation|-|-|[📕](https://www.adacore.com/documentation)|-|
 |Adobe Acrobat|logiciel de manipulation de documents PDF|[📘](https://helpx.adobe.com/fr/acrobat/user-guide.html)|-|-|-|
 |Adobe After Effects|logiciel de création d'animations et effets visuels|[📘](https://helpx.adobe.com/fr/after-effects/user-guide.html)|-|-|-|
@@ -33,25 +28,31 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Adobe Premiere Pro|logiciel de production et montage vidéo|[📘](https://helpx.adobe.com/fr/premiere-pro/user-guide.html)|-|-|-|
 |Adobe XD|logiciel de conception vectorielle pour applications web et mobiles|[📘](https://helpx.adobe.com/fr/xd/user-guide.html)|-|-|-|
 |AdonisJS|cadriciel pour la création d'applications web et IPA|-|-|[📕](https://docs.adonisjs.com/guides/introduction)|-|
+|Affinity Designer|logiciel de conception et illustration vectorielle|[📘](https://affinity.serif.com/fr/learn/designer/desktop)|-|-|-|
+|Affinity Photo|logiciel de création d'image, édition et retouche photo|[📘](https://affinity.serif.com/fr/learn/photo/desktop)|-|-|-|
+|Affinity Publisher|logiciel de mise en page et création d'illustrations, affiches, livres, rapports et brochures|[📘](https://affinity.serif.com/fr/learn/publisher/desktop)|-|-|-|
 |Allegro|moteur de jeu|-|-|[📕](https://www.allegro.cc/manual/5)|-|
 |AlmaLinux|système d'exploitation|-|[📗](https://wiki.almalinux.org)|-|-|
 |Amazon Web Services|plateforme dans le nuage pour la création d'applications|-|-|[📕](https://docs.aws.amazon.com)|-|
 |Android|système d'exploitation|-|-|[📕](https://developer.android.com/guide)|-|
 |Angular|cadriciel pour la création d'applications web|-|-|[📕](https://angular.io/docs)|-|
+|Ansible||-|-|[📕](https://docs.ansible.com/ansible/latest/index.html)|-|
 |Apache HTTP Server|serveur web|-|-|[📕](https://httpd.apache.org/docs)|-|
 |ArchLinux|système d'exploitation|-|[📗](https://wiki.archlinux.org/title/Main_page_(Fran%C3%A7ais))|-|-|
 |Ardour|logiciel de travail audio-numérique|[📘](https://manual.ardour.org/toc)|-|-|-|
 |Arduino|plateforme pour la création d'objets électroniques programmables|-|-|[📕](https://www.arduino.cc/reference)|-|
 |Aria2|utilitaire de téléchargement multi-protocole et multi-source|-|-|[📕](https://aria2.github.io/manual/en/html/index.html)|-|
 |AsciiDoc|format de rédaction pour l'écriture de notices, livres et documents techniques|-|-|[📕](https://docs.asciidoctor.org/asciidoc/latest)|-|
-|Affinity Designer|logiciel de conception et illustration vectorielle|[📘](https://affinity.serif.com/fr/learn/designer/desktop)|-|-|-|
-|Affinity Photo|logiciel de création d'image, édition et retouche photo|[📘](https://affinity.serif.com/fr/learn/photo/desktop)|-|-|-|
-|Affinity Publisher|logiciel de mise en page et création d'illustrations, affiches, livres, rapports et brochures|[📘](https://affinity.serif.com/fr/learn/publisher/desktop)|-|-|-|
 |ASP.NET|cadriciel pour le développement web et la production de pages web|-|-|[📕](https://learn.microsoft.com/fr-fr/aspnet/core)|-|
 |Atom|logiciel d'édition de code|[📘](https://flight-manual.atom-editor.cc)|-|-|[📒](https://flight-manual.atom-editor.cc/api/v1.63.1/AtomEnvironment)|
 |Audacity|logiciel d'édition et enregistrement audio multipiste|[📘](https://manual.audacityteam.org/index.html)|-|-|-|
 |AuthPass|logiciel de gestion des mots de passe|[📘](https://authpass.app/docs)|-|-|-|
 |Autoconf|utilitaire de production de scripts pour la configuration de code source|-|-|[📕](https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.72/index.html)|-|
+|Autodesk 3DS Max|logiciel de modélisation 3D|[📘](https://help.autodesk.com/FRA/#A-B)|-|-|-|
+|Autodesk Advance Steel|logiciel de création de plans de détail, fabrication et construction de structures en acier|[📘](https://help.autodesk.com/FRA/#A-B)|-|-|-|
+|Autodesk AutoCAD|logiciel de création assistée par ordinateur|[📘](https://help.autodesk.com/FRA/#A-B)|-|-|-|
+|Autodesk Civil 3D|logiciel de conception et construction 3D de projets de routes, autoroutes, sites et voies ferrées|[📘](https://help.autodesk.com/FRA/#C-H)|-|-|-|
+|Autodesk Maya|logiciel de modélisation 3D|[📘](https://www.autodesk.com/support/technical/article/caas/tsarticles/ts/lC3jaffqnWFyQoLPEPm7n.html)|-|-|-|
 |AutoHotkey|langage de script pour l'automatisation de tâches Windows|-|-|[📕](https://www.autohotkey.com/docs)|-|
 |AutoIt|langage de script pour l'automatisation de l'interface graphique de Windows|-|[📗](https://www.autoitscript.com/wiki)|[📕](https://www.autoitscript.com/autoit3/docs)|-|
 |Babylon.js|moteur de rendu web pour la création de graphiques en 3D|-|-|[📕](https://doc.babylonjs.com)|-|
