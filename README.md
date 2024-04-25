@@ -131,7 +131,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Ejabberd||||||
 |Elasticsearch||||||
 |Electron||||||
-|Eleventy|utilitaire de génération de sites web statiques|-|-|[📕](https://www.11ty.dev/docs)|-|
+|Eleventy (11ty)|bibliothèque de génération de sites web statiques|-|-|[📕](https://www.11ty.dev/docs)|-|
 |Emacs||||||
 |Ember.js||||||
 |Emoji||||||
@@ -188,6 +188,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |IPFS||||||
 |Java||||||
 |JavaScript||||||
+|Jekyll|générateur de sites web statiques|-|-|[📕](https://jekyllrb.com/docs)|-|
 |Jenkins||||||
 |Jest||||||
 |Jira||||||
