@@ -197,6 +197,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |JQuery||||||
 |Json||||||
 |Julia||||||
+|JUnit|cadriciel de tests unitaires pour Java|-|-|[📕](https://junit.org/junit5/docs/current/user-guide)|-|
 |Jupyter||||||
 |JxBrowser|bibliothèque d'intégration d'un navigateur Chromium pour application JavaFX|-|-|[📕](https://teamdev.com/jxbrowser/docs/guides/introduction/requirements.html)|-|
 |Kafka||||||
