@@ -320,6 +320,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Tkinter||||||
 |TOML||||||
 |TypeScript||||||
+|TypeSpec|langage de programmation|-|-|[📕](https://typespec.io/docs)|-|
 |Twitch||||||
 |Ubuntu|système d'exploitation|[📘](https://help.ubuntu.com)|[📗](https://help.ubuntu.com/community/CommunityHelpWiki)|[📕](https://doc.ubuntu-fr.org/accueil)|-|
 |Ultra|plateforme de jeux vidéo décentralisée|-|-|[📕](https://developers.ultra.io)|-|
