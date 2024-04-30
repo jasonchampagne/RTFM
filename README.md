@@ -289,7 +289,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |React <!-- + React Native, React Router -->||||||
 |REAPER||||||
 |Recaf|logiciel d'édition de _bytecode_ Java|-|-|[📕](https://www.coley.software/Recaf-documentation)|-|
-|Redis||||||
+|Redis|système de gestion de base de données|-|-|[📕](https://redis.io/docs/latest)|[📒](https://redis.io/docs/latest/apis)|
 |Redux||||||
 |REST||||||
 |RHEL||||||
