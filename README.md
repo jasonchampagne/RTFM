@@ -184,6 +184,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |HTML||||||
 |HTTP||||||
 |Idris||||||
+|IGDB|base de données de jeux|-|-|-|[📒](https://www.igdb.com/api)|
 |IntelliJ||||||
 |Ionic Framework||||||
 |IOS||||||
