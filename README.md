@@ -103,6 +103,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |CustomTkinter||||||
 |Cutter||||||
 |D||||||
+|Dada|langage de programmation|-|-|[📕](https://dada-lang.org)|-|
 |DahliaOS||||||
 |Darktable||||||
 |Dart||||||
