@@ -134,6 +134,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Elasticsearch||||||
 |Electron||||||
 |Eleventy (11ty)|bibliothèque de génération de sites web statiques|-|-|[📕](https://www.11ty.dev/docs)|-|
+|Elvish|langage de programmation|-|-|[📕](https://elv.sh/learn)|-|
 |Emacs||||||
 |Ember.js||||||
 |Emoji||||||
