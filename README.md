@@ -259,7 +259,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Obsidian||||||
 |OCaml||||||
 |Octave||||||
-|OliveTin|interface web pour l'exécution de commandes shell prédéfinies|-|-|[📕](https://docs.olivetin.app)|-|
+|OliveTin|service auto-hébergé pour l'exécution de commandes shell prédéfinies|-|-|[📕](https://docs.olivetin.app)|-|
 |OpenCV||||||
 |OpenGL||||||
 |OpenLDAP||||||
@@ -277,6 +277,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |PHPBB||||||
 |PHPUnit||||||
 |PIP||||||
+|Planka|application de gestion de projets|-|-|[📕](https://docs.planka.cloud/docs/intro)|-|
 |PostgreSQL||||||
 |PowerShell||||||
 |Premake||||||
