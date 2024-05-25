@@ -259,7 +259,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Obsidian||||||
 |OCaml||||||
 |Octave||||||
-|OliveTin||-|-|[📕](https://docs.olivetin.app)|-|
+|OliveTin|interface web pour l'exécution de commandes shell prédéfinies|-|-|[📕](https://docs.olivetin.app)|-|
 |OpenCV||||||
 |OpenGL||||||
 |OpenLDAP||||||
