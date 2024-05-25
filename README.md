@@ -346,6 +346,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Vulkan||||||
 |VVVV||||||
 |WAMP||||||
+|Waydroid|conteneur d'exécution d'un système Android sur GNU/Linux|-|-|[📕](https://docs.waydro.id)|-|
 |WebAssembly||||||
 |WebExtensions||||||
 |WebGL||||||
