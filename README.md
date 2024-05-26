@@ -186,6 +186,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Hugo||||||
 |HTML||||||
 |HTTP||||||
+|HTTP Toolkit|logiciel de simulation de tests et débogage de requêtes HTTP|-|-|[📕](https://httptoolkit.com/docs)|-|
 |Idris||||||
 |IGDB|base de données de jeux|-|-|-|[📒](https://www.igdb.com/api)|
 |IntelliJ||||||
