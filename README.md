@@ -1,6 +1,6 @@
 # RTFM
 
-Ci-dessous une liste de ressources disponibles en ligne pour des applications, langages de programmation/développement web, bibliothèques, cadriciels, plateformes en ligne, gestionnaires de contenu, systèmes d'exploitation, utilitaires, etc.
+Ci-dessous une liste de ressources disponibles en ligne pour des applications, langages de programmation/développement web, bibliothèques, s, plateformes en ligne, gestionnaires de contenu, systèmes d'exploitation, utilitaires, etc.
 
 > [!NOTE]
 > **N'hésitez pas à signaler tout lien qui ne serait plus fonctionnel ou plus à jour**.
@@ -151,6 +151,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |FASM||||||
 |Fedora||||||
 |FFmpeg||||||
+|Fiber|cadriciel web|-|-|[📕](https://docs.gofiber.io)|-|
 |Figma||||||
 |FileZilla||||||
 |Firebase||||||
@@ -203,7 +204,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |JQuery||||||
 |Json||||||
 |Julia||||||
-|JUnit|cadriciel de tests unitaires pour Java|-|-|[📕](https://junit.org/junit5/docs/current/user-guide)|[📒](https://junit.org/junit5/docs/current/api)|
+|JUnit| de tests unitaires pour Java|-|-|[📕](https://junit.org/junit5/docs/current/user-guide)|[📒](https://junit.org/junit5/docs/current/api)|
 |Jupyter||||||
 |JxBrowser|bibliothèque d'intégration d'un navigateur Chromium pour application JavaFX|-|-|[📕](https://teamdev.com/jxbrowser/docs/guides/introduction/requirements.html)|-|
 |Kafka||||||
