@@ -239,6 +239,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Meteor||||||
 |Microsoft Azure|plateforme dans le nuage pour la création d'applications|-|-|[📕](https://learn.microsoft.com/fr-fr/azure)|-|
 |MinGW-w64||||||
+|Mistral AI|intelligence artificielle|-|-|[📕](https://docs.mistral.ai)|-|
 |ML||||||
 |Mod Organizer|logiciel de gestion de mods pour les jeux PC|-|[📗](https://stepmodifications.org/wiki/Guide:Mod_Organizer)|-|-|
 |MongoDB||||||
