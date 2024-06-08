@@ -1,4 +1,4 @@
-# RTFM
+# Read That Fucking Manual
 
 Ci-dessous une liste de ressources disponibles en ligne pour des applications, langages de programmation/développement web, bibliothèques, s, plateformes en ligne, gestionnaires de contenu, systèmes d'exploitation, utilitaires, etc.
 
