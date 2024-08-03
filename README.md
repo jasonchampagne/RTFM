@@ -56,7 +56,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Autodesk Maya|logiciel de modélisation 3D|[📘](https://www.autodesk.com/support/technical/article/caas/tsarticles/ts/lC3jaffqnWFyQoLPEPm7n.html)|-|-|-|
 |AutoHotkey|langage de script pour l'automatisation de tâches Windows|-|-|[📕](https://www.autohotkey.com/docs)|-|
 |AutoIt|langage de script pour l'automatisation de l'interface graphique de Windows|-|[📗](https://www.autoitscript.com/wiki)|[📕](https://www.autoitscript.com/autoit3/docs)|-|
-|Babylon.js|moteur de rendu web pour la création de graphiques en 3D|-|-|[📕](https://doc.babylonjs.com)|-|
+|Babylon.js|bibliothèque de rendu web pour la création de graphiques en 3D|-|-|[📕](https://doc.babylonjs.com)|-|
 |Backbone.js|cadriciel pour le développement web|-|-|[📕](https://backbonejs.org)|-|
 |Battle.net|client de jeux de Blizzard|-|-|-|[📒](https://develop.battle.net/documentation/battle-net/oauth-apis)|
 |Bevy|moteur de jeu|-|-|[📕](https://bevyengine.org/learn/quick-start/introduction)|[📒](https://docs.rs/bevy/latest/bevy)|
