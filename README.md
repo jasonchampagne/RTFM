@@ -153,7 +153,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |FFmpeg||||||
 |Fiber|cadriciel web|-|-|[📕](https://docs.gofiber.io)|-|
 |Figma||||||
-|FileZilla|client FTP|-|[📘](https://wiki.filezilla-project.org/Main_Page)|-|-|
+|FileZilla|client FTP|-|[📗](https://wiki.filezilla-project.org/Main_Page)|-|-|
 |Firebase||||||
 |Flask||||||
 |Flutter||||||
