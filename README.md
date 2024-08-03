@@ -67,7 +67,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Bootstrap|cadriciel CSS pour le développement web|-|-|[📕](https://getbootstrap.com/docs)|-|
 |Bourne-Again shell (bash)|interpréteur de lignes de commandes et langage de script|-|-|[📕](https://www.gnu.org/software/bash/manual)|-|
 |Brackets|logiciel d'édition de code|-|-|-|[📒](https://brackets.io/docs/current/modules/brackets.html)|
-|Bulma|cadriciel CSS pour le développement web|-|-|[📕](https://bulma.io/documentation)|-|
+|Bulma|cadriciel pour la mise en forme CSS|-|-|[📕](https://bulma.io/documentation)|-|
 |Bun||||||
 |Bundler||||||
 |C||||||
