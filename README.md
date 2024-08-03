@@ -72,7 +72,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Bundler||||||
 |C|langage de programmation|-|-|[📕](https://en.cppreference.com/w/c)|-|
 |C++|langage de programmation|-|-|[📕](https://en.cppreference.com/w)|-|
-|C#|langage de programmation|||||
+|C#|langage de programmation|-|-|[📕](https://learn.microsoft.com/fr-fr/dotnet/csharp/tour-of-csharp)|-|
 |CakePHP||||||
 |CapRover||||||
 |CEGUI||||||
