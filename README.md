@@ -70,8 +70,8 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Bulma|cadriciel pour la mise en forme CSS|-|-|[📕](https://bulma.io/documentation)|-|
 |Bun||||||
 |Bundler||||||
-|C|langage de programmation|-|-|[📕](https://fr.cppreference.com/w/c)|-|
-|C++|langage de programmation|-|-|[📕](https://fr.cppreference.com/w)|-|
+|C|langage de programmation|-|-|[📕](https://en.cppreference.com/w/c)|-|
+|C++|langage de programmation|-|-|[📕](https://en.cppreference.com/w)|-|
 |C#|langage de programmation|||||
 |CakePHP||||||
 |CapRover||||||
