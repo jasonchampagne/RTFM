@@ -68,7 +68,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Bourne-Again shell (bash)|interpréteur de lignes de commandes et langage de script|-|-|[📕](https://www.gnu.org/software/bash/manual)|-|
 |Brackets|logiciel d'édition de code|-|-|-|[📒](https://brackets.io/docs/current/modules/brackets.html)|
 |Bulma|cadriciel pour la mise en forme CSS|-|-|[📕](https://bulma.io/documentation)|-|
-|Bun||||||
+|Bun||-|-|[📕](https://bun.sh/docs)|-|
 |Bundler||||||
 |C|langage de programmation|-|-|[📕](https://en.cppreference.com/w/c)|-|
 |C++|langage de programmation|-|-|[📕](https://en.cppreference.com/w)|-|
