@@ -64,7 +64,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Bitcoin|crypto-monnaie et réseau de paiement décentralisé|-|-|[📕](https://developer.bitcoin.org)|-|
 |Bitly|service de réduction d'URL|[📘](https://support.bitly.com/hc/en-us)|-|[📕](https://dev.bitly.com)|-|
 |Blender|logiciel de modélisation 3D|[📘](https://docs.blender.org/manual/en/latest)|-|[📕](https://developer.blender.org/docs)|[📒](https://docs.blender.org/api/current)|
-|Bootstrap|cadriciel CSS pour le développement web|-|-|[📕](https://getbootstrap.com/docs)|-|
+|Bootstrap|cadriciel pour la mise en forme CSS|-|-|[📕](https://getbootstrap.com/docs)|-|
 |Bourne-Again shell (bash)|interpréteur de lignes de commandes et langage de script|-|-|[📕](https://www.gnu.org/software/bash/manual)|-|
 |Brackets|logiciel d'édition de code|-|-|-|[📒](https://brackets.io/docs/current/modules/brackets.html)|
 |Bulma|cadriciel pour la mise en forme CSS|-|-|[📕](https://bulma.io/documentation)|-|
