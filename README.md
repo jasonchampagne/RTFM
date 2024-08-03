@@ -70,9 +70,9 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Bulma|cadriciel pour la mise en forme CSS|-|-|[📕](https://bulma.io/documentation)|-|
 |Bun||||||
 |Bundler||||||
-|C||||||
-|C++||||||
-|C#||||||
+|C|langage de programmation|||||
+|C++|langage de programmation|||||
+|C#|langage de programmation|||||
 |CakePHP||||||
 |CapRover||||||
 |CEGUI||||||
@@ -83,30 +83,30 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |ClamAV||||||
 |Clang||||||
 |Clip Studio Paint||||||
-|Clojure||||||
+|Clojure|langage de programmation|||||
 |Cloudflare||||||
 |CMake||||||
-|COBOL||||||
+|COBOL|langage de programmation|||||
 |CodeIgniter||||||
 |Codon||||||
-|CoffeeScript||||||
+|CoffeeScript|langage de programmation|||||
 |Coinbase||||||
 |Command Shell|interpréteur de lignes de commandes et langage de script (_Batch_)|-|-|[📕](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)|-|
-|Common Lisp||||||
+|Common Lisp|langage de programmation|||||
 |Coq||||||
 |CryENGINE||||||
-|Crystal||||||
+|Crystal|langage de programmation|||||
 |C shell (csh)|interpréteur de lignes de commandes et langage de script|-|[📗](https://en.wikibooks.org/wiki/C_Shell_Scripting)|-|-|
-|CSS||||||
+|CSS|langage de mise en forme web|||||
 |Cubase||||||
 |CUDA||||||
 |CustomTkinter||||||
 |Cutter||||||
-|D||||||
+|D|langage de programmation|||||
 |Dada|langage de programmation|-|-|[📕](https://dada-lang.org)|-|
 |DahliaOS||||||
 |Darktable||||||
-|Dart||||||
+|Dart|langage de programmation|||||
 |DaVinci Resolve||||||
 |Daz3D||||||
 |DB2||||||
@@ -128,9 +128,9 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Doxygen||||||
 |Drupal||||||
 |Dune||||||
-|E||||||
+|E|langage de programmation|||||
 |Ebay||||||
-|ECMAScript||||||
+|ECMAScript|norme pour les langages de programmation « script »|||||
 |Ejabberd||||||
 |Elasticsearch||||||
 |Electron||||||
@@ -141,13 +141,13 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Emoji||||||
 |Emscripten||||||
 |Entity Framework||||||
-|Erlang||||||
+|Erlang|langage de programmation|||||
 |ESLint||||||
 |Ethereum||||||
 |Excel||||||
 |Express.js||||||
 |F*|langage de programmation|-|-|[📕](https://www.fstar-lang.org/tutorial/proof-oriented-programming-in-fstar.pdf)|-|
-|F#||||||
+|F#|langage de programmation|||||
 |FASM||||||
 |Fedora||||||
 |FFmpeg||||||
@@ -172,7 +172,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |GitHub Actions||||||
 |GitLab||||||
 |Git|système de gestion de révision de fichiers|-|-|[📕](https://git-scm.com/doc)|-|
-|Go||||||
+|Go|langage de programmation|||||
 |Godot Engine||||||
 |Google Ads||[📘](https://support.google.com/google-ads/answer/6146252)|-|-|[📒](https://developers.google.com/google-ads/api/docs/start?hl=fr)|
 |Google Calendar||-|-|-|[📒](https://developers.google.com/calendar/api/guides/overview?hl=fr)|
@@ -181,7 +181,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Grav||||||
 |Gulp||||||
 |Haiku||||||
-|Haskell||||||
+|Haskell|langage de programmation|||||
 |Heroku||||||
 |Hibernate||||||
 |Homebrew||||||
@@ -195,8 +195,8 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Ionic Framework||||||
 |IOS||||||
 |IPFS||||||
-|Java||||||
-|JavaScript||||||
+|Java|langage de programmation|||||
+|JavaScript|langage de programmation|||||
 |Jekyll|générateur de sites web statiques|-|-|[📕](https://jekyllrb.com/docs)|-|
 |Jenkins||||||
 |Jest||||||
@@ -204,7 +204,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Jekyll||||||
 |JQuery||||||
 |Json||||||
-|Julia||||||
+|Julia|langage de programmation|||||
 |JUnit| de tests unitaires pour Java|-|-|[📕](https://junit.org/junit5/docs/current/user-guide)|[📒](https://junit.org/junit5/docs/current/api)|
 |Jupyter||||||
 |JxBrowser|bibliothèque d'intégration d'un navigateur Chromium pour application JavaFX|-|-|[📕](https://teamdev.com/jxbrowser/docs/guides/introduction/requirements.html)|-|
@@ -214,7 +214,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |KeePassXC|logiciel de gestion des mots de passe|[📘](https://keepassxc.org/docs/KeePassXC_UserGuide)|-|-|-|
 |KOReader|logiciel de lecture d'ebooks pour liseuses|[📘](https://koreader.rocks/user_guide)|[📗](https://github.com/koreader/koreader/wiki)|[📕](https://koreader.rocks/doc)|-|
 |Korn shell (ksh)|interpréteur de lignes de commandes et langage de script|-|-|[📕](http://kornshell.com/doc)|-|
-|Kotlin||||||
+|Kotlin|langage de programmation|||||
 |Kubernetes||||||
 |Lago|service auto-hébergé de comptabilité et facturation|-|-|[📕](https://docs.getlago.com)|-|
 |Laravel||||||
@@ -223,10 +223,10 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |LibreOffice||||||
 |Linode||||||
 |Linux||||||
-|Lisp||||||
+|Lisp|langage de programmation|||||
 |LLVM||||||
 |LMMS||||||
-|Lua||||||
+|Lua|langage de programmation|||||
 |LXC||||||
 |LXD||||||
 |Magento||||||
@@ -246,7 +246,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Moodle||||||
 |MS-DOS||||||
 |MuleSoft||||||
-|MySQL||||||
+|MySQL|système de gestion de bases de données|||||
 |NASM||||||
 |NetBeans||||||
 |Next.js||||||
@@ -259,9 +259,9 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Nvidia Canvas|logiciel IA de conception d'arrière-plans à partir d'un esquisse|[📘](https://www.nvidia.com/en-gb/studio/canvas/user-guide)|-|-|-|
 |Nvidia CUDA Toolkit|kit de développement pour la création d'applications multiplateformes accélérées par carte graphique|-|-|[📕](https://docs.nvidia.com/cuda/index.html)|-|
 |Nvidia Omniverse|plateforme de calcul pour le développement d'applications de métavers basées sur Universal Scene Description (OpenUSD)|-|-|[📕](https://docs.omniverse.nvidia.com)|-|
-|Objective-C||||||
+|Objective-C|langage de programmation|||||
 |Obsidian||||||
-|OCaml||||||
+|OCaml|langage de programmation|||||
 |Octave||||||
 |OliveTin|service auto-hébergé pour l'exécution de commandes shell prédéfinies|-|-|[📕](https://docs.olivetin.app)|-|
 |OpenCV||||||
@@ -272,27 +272,27 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |OpenWRT||||||
 |Oracle||||||
 |Packer||||||
-|Pascal||||||
+|Pascal|langage de programmation|||||
 |Passport.js||||||
 |PEAR||||||
-|Perl||||||
+|Perl|langage de programmation|||||
 |Phaser||||||
-|PHP||||||
+|PHP|langage de programmation|||||
 |PHPBB||||||
 |PHPUnit||||||
 |PIP||||||
 |Planka|application de gestion de projets|-|-|[📕](https://docs.planka.cloud/docs/intro)|-|
-|PostgreSQL||||||
+|PostgreSQL|système de gestion de bases de données|||||
 |PowerShell||||||
 |Premake||||||
 |PrestaShop||||||
-|Prolog||||||
+|Prolog|langage de programmation|||||
 |Protobuf||||||
 |Pro Tools||||||
 |Puppet||||||
-|Python||||||
+|Python|langage de programmation|||||
 |Qt||||||
-|R||||||
+|R|langage de programmation|||||
 |RabbitMQ||||||
 |Rails||||||
 |Raspberry Pi||||||
@@ -304,11 +304,11 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |REST||||||
 |RHEL||||||
 |Riot.js||||||
-|Ruby||||||
-|Rust||||||
+|Ruby|langage de programmation|||||
+|Rust|langage de programmation|||||
 |SaltStack||||||
 |Sass||||||
-|Scala||||||
+|Scala|langage de programmation|||||
 |Scoop|utilitaire de gestion de paquets pour Windows|-|-|[📕](https://github.com/ScoopInstaller/Scoop/wiki)|-|
 |Scrapy||||||
 |Sequelize||||||
@@ -320,7 +320,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Spyder|environnement de développement logiciel|[📘](https://docs.spyder-ide.org/current/index.html)|-|-|-|
 |Stripe|infrastructure de paiement pour le commerce en ligne|[📘](https://stripe.com/fr/guideshttps://stripe.com/fr/guides)|-|[📕](https://docs.stripe.com)|[📒](https://docs.stripe.com/api)|
 |Svelte||||||
-|Swift||||||
+|Swift|langage de programmation|||||
 |Symfony||||||
 |Tableau AI||-|-|[📕](https://help.tableau.com/current/guides)|-|
 |Taler|système de paiement en ligne sans compte|-|-|[📕](https://taler.net/fr/docs.html)|-|
@@ -330,7 +330,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Thonny||||||
 |Tkinter||||||
 |TOML||||||
-|TypeScript||||||
+|TypeScript|langage de programmation|||||
 |TypeSpec|langage de programmation|-|-|[📕](https://typespec.io/docs)|-|
 |Twitch||||||
 |Ubuntu|système d'exploitation|[📘](https://help.ubuntu.com)|[📗](https://help.ubuntu.com/community/CommunityHelpWiki)|[📕](https://doc.ubuntu-fr.org/accueil)|-|
@@ -341,10 +341,10 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Universal Package-management Tool (upt)|utilitaire de gestion de paquets multisystème|-|-|[📕](https://github.com/sigoden/upt)|-|
 |V|langage de programmation|-|-|[📕](https://github.com/vlang/v/blob/master/doc/docs.md)|-|
 |Vagrant||||||
-|VBA||||||
+|VBA|langage de programmation|||||
 |Vim||||||
 |VirtualBox||||||
-|Visual Basic||||||
+|Visual Basic|langage de programmation|||||
 |Visual Studio Code||||||
 |Vortex Mod Manager|logiciel de gestion de mods pour les jeux PC|-|[📗](https://wiki.nexusmods.com/index.php/Category:Tutorials)|-|[📒](https://app.swaggerhub.com/apis-docs/NexusMods/nexus-mods_public_api_params_in_form_data)|
 |Vue||||||
