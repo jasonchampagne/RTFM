@@ -49,3 +49,14 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |[Audacity](https://manual.audacityteam.org/index.html)|logiciel d'édition et enregistrement audio multipiste|
 |[AuthPass](https://authpass.app/docs)|logiciel de gestion des mots de passe|
 |[Autoconf](https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.72/index.html)|utilitaire de production de scripts pour la configuration de code source|
+|[Autodesk 3DS Max](https://help.autodesk.com/FRA/#A-B)|logiciel de modélisation 3D|
+|[Autodesk Advance Steel](https://help.autodesk.com/FRA/#A-B)|logiciel de création de plans de détail, fabrication et construction de structures en acier|
+|[Autodesk AutoCAD](https://help.autodesk.com/FRA/#A-B)|logiciel de création assistée par ordinateur|
+|[Autodesk Civil 3D](https://help.autodesk.com/FRA/#C-H)|logiciel de conception et construction 3D de projets de routes, autoroutes, sites et voies ferrées|
+|[Autodesk Maya](https://www.autodesk.com/support/technical/article/caas/tsarticles/ts/lC3jaffqnWFyQoLPEPm7n.html)|logiciel de modélisation 3D|
+|[AutoHotkey](https://www.autohotkey.com/docs)|langage de script pour l'automatisation de tâches Windows|
+|[AutoIt](https://www.autoitscript.com/autoit3/docs)|langage de script pour l'automatisation de l'interface graphique de Windows|
+|[Babylon.js](https://doc.babylonjs.com)|bibliothèque de rendu web pour la création de graphiques en 3D|
+|[Backbone.js](https://backbonejs.org)|cadriciel pour le développement web|
+|[Battle.net](https://develop.battle.net/documentation/battle-net/oauth-apis)|client de jeux de Blizzard|
+|[Bevy](https://bevyengine.org/learn/quick-start/introduction)|bibliothèque de création de jeux|
