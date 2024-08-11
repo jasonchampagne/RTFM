@@ -124,6 +124,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Doctrine||||||
 |Docusaurus||||||
 |Dolphin|émulateur GameCube et Wii|[📘](https://fr.dolphin-emu.org/docs/guides)|-|-|-|
+|DOSBox|émulateur DOS|[📘](https://www.dosbox.com/DOSBoxManual.html)|-|-|-|
 |DotNet (.NET)||||||
 |Doxygen||||||
 |Drupal||||||
