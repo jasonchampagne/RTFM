@@ -30,3 +30,22 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |[AdonisJS](https://docs.adonisjs.com/guides/introduction)|cadriciel pour la création d'applications web et IPA|
 |[Affinity Designer](https://affinity.serif.com/fr/learn/designer/desktop)|logiciel de conception et illustration vectorielle|
 |[Affinity Photo](https://affinity.serif.com/fr/learn/photo/desktop)|logiciel de création d'image, édition et retouche photo|
+|[Affinity Publisher](https://affinity.serif.com/fr/learn/publisher/desktop)|logiciel de mise en page et création d'illustrations, affiches, livres, rapports et brochures|
+|[Allegro](https://www.allegro.cc/manual/5)|bibliothèque de création de jeux|
+|[AlmaLinux](https://wiki.almalinux.org)|système d'exploitation|
+|[Amazon Web Services](https://docs.aws.amazon.com)|plateforme dans le nuage pour la création d'applications|
+|[Android](https://developer.android.com/guide)|système d'exploitation|
+|[Angular](https://angular.io/docs)|cadriciel pour la création d'applications web|
+|[Ansible](https://docs.ansible.com/ansible/latest/index.html)|plateforme pour la configuration et la gestion des ordinateurs|
+|[Apache HTTP Server](https://httpd.apache.org/docs)|serveur web|
+|[ArchLinux](https://wiki.archlinux.org/title/Main_page_(Fran%C3%A7ais))|système d'exploitation|
+|[Ardour](https://manual.ardour.org/toc)|logiciel de travail audio-numérique|
+|[Arduino](https://www.arduino.cc/reference)|plateforme pour la création d'objets électroniques programmables|
+|[Aria2](https://aria2.github.io/manual/en/html/index.html)|utilitaire de téléchargement multi-protocole et multi-source|
+|[AsciiDoc](https://docs.asciidoctor.org/asciidoc/latest)|format de rédaction pour l'écriture de notices, livres et documents techniques|
+|[ASP.NET](https://learn.microsoft.com/fr-fr/aspnet/core)|cadriciel pour le développement web et la production de pages web|
+|[Astrop](https://docs.astro.build/fr)|cadriciel de génération de sites web statiques|
+|[Atom](https://flight-manual.atom-editor.cc)|logiciel d'édition de code|
+|[Audacity](https://manual.audacityteam.org/index.html)|logiciel d'édition et enregistrement audio multipiste|
+|[AuthPass](https://authpass.app/docs)|logiciel de gestion des mots de passe|
+|[Autoconf](https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.72/index.html)|utilitaire de production de scripts pour la configuration de code source|
