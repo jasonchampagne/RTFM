@@ -5,7 +5,7 @@ Ci-dessous une liste de ressources disponibles en ligne pour des applications, l
 > [!NOTE]
 > **N'hésitez pas à signaler tout lien qui ne serait plus fonctionnel ou plus à jour**.
 
-Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/FindMyDoc/tree/master/mementos) de commandes usuelles pour des programmes en ligne de commande.
+Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/FindMyDoc/tree/master/mementos) de commandes usuelles pour des utilitaires en ligne de commande.
 
 > 📛 **GROSSE REFONTE EN COURS...**
 
