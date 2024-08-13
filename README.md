@@ -268,6 +268,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |OpenWRT||
 |Oracle||
 |Packer||
+|Pages CMS|[pagescms.org/docs](https://pagescms.org/docs)|
 |Pascal||
 |Passport.js||
 |PEAR||
