@@ -95,7 +95,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Cubase|[steinberg.net/fr/cubase/learn](https://www.steinberg.net/fr/cubase/learn)|
 |CUDA|[docs.nvidia.com/cuda/cuda-toolkit-release-notes](https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html)|
 |CustomTkinter|[customtkinter.tomschimansky.com/tutorial](https://customtkinter.tomschimansky.com/tutorial)<br>[customtkinter.tomschimansky.com/documentation](https://customtkinter.tomschimansky.com/documentation)|
-|Cutter||
+|Cutter|[cutter.re/docs](https://cutter.re/docs)|
 |D|[dlang.org/spec](https://dlang.org/spec/spec.html)|
 |Dada|[dada-lang.org](https://dada-lang.org)|
 |DahliaOS|[docs.dahliaos.io](https://docs.dahliaos.io)|
