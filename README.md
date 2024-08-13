@@ -102,16 +102,16 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Darktable|[docs.darktable.org/usermanual](https://docs.darktable.org/usermanual)|
 |Dart|[dart.dev/guides](https://dart.dev/guides)|
 |DaVinci Resolve|[documents.blackmagicdesign.com/.../DaVinci_Resolve_18_Reference_Manual](https://documents.blackmagicdesign.com/UserManuals/DaVinci_Resolve_18_Reference_Manual.pdf)|
-|Daz3D||
-|DB2||
-|Debian||
-|Deno||
-|DevDocs||
-|Devuan||
-|DIA||
+|Daz3D|[daz3d.com/help/help-daz-3d-video-tutorials](https://www.daz3d.com/help/help-daz-3d-video-tutorials)|
+|DB2|[ibm.com/docs/en/db2](https://www.ibm.com/docs/en/db2)|
+|Debian|[debian.org/.../installmanual](https://www.debian.org/releases/bookworm/installmanual)|
+|Deno|[docs.deno.com](https://docs.deno.com)|
+|DevDocs|[devdocs.io](https://devdocs.io)|
+|Devuan|[devuan.org/os/development](https://www.devuan.org/os/development)|
+|Dia Diagram Editor|[dia-installer.de/doc](http://dia-installer.de/doc/index.html.en)|
 |Diablo III|[develop.battle.net/documentation/diablo-3/game-data-apis](https://develop.battle.net/documentation/diablo-3/game-data-apis)|
-|DigitalOcean||
-|DirectAdmin||
+|DigitalOcean|[digitalocean.com/community/tutorials](https://www.digitalocean.com/community/tutorials)<br>[docs.digitalocean.com/products](https://docs.digitalocean.com/products)|
+|DirectAdmin|[docs.directadmin.com](https://docs.directadmin.com)<br>[directadmin.com/api](https://www.directadmin.com/api.php)|
 |Directus|[docs.directus.io](https://docs.directus.io)<br>[docs.directus.io/reference](https://docs.directus.io/reference/introduction.html)|
 |Django||
 |Docker||
