@@ -83,10 +83,10 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |COBOL|[ibm.com/docs/en/cobol-zos](https://www.ibm.com/docs/en/cobol-zos)|
 |CodeIgniter|[codeigniter.com/user_guide](https://codeigniter.com/user_guide/index.html)|
 |Codon||
-|CoffeeScript||
-|Coinbase||
+|CoffeeScript|[coffeescript.org/#languag](https://coffeescript.org/#language)|
+|Coinbase|[coinbase.com/fr-fr/developer-platform](https://www.coinbase.com/fr-fr/developer-platform)|
 |Command Shell|[learn.microsoft.com/.../windows-commands](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)|
-|Common Lisp||
+|Common Lisp|[lisp-lang.org/learn](https://lisp-lang.org/learn)<br>[lisp-lang.org/wiki](https://lisp-lang.org/wiki)|
 |Coq||
 |CryENGINE||
 |Crystal||
