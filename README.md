@@ -212,6 +212,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Kotlin||
 |Kubernetes||
 |Lago|[docs.getlago.com](https://docs.getlago.com)|
+|Laminas|[docs.laminas.dev](https://docs.laminas.dev)|
 |Laravel||
 |LaTeX||
 |Less||
@@ -362,9 +363,8 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Xen||
 |XML||
 |Yarn||
-|Yii||
-|YouTube||
-|Zend Framework||
-|Zephyr||
+|Yii|[yiiframework.com/wiki](https://www.yiiframework.com/wiki)<br>[yiiframework.com/doc/api/2.0](https://www.yiiframework.com/doc/api/2.0)|
+|YouTube|[developers.google.com/youtube/documentation](https://developers.google.com/youtube/documentation?hl=fr)<br>[developers.google.com/youtube/v3/docs](https://developers.google.com/youtube/v3/docs?hl=fr)|
+|Zephyr|[docs.zephyrproject.org](https://docs.zephyrproject.org/latest/index.html)|
 |Zig|[ziglang.org/documentation](https://ziglang.org/documentation/master)|
 |Z shell (_zsh_)|[zsh.sourceforge.io/Guide](https://zsh.sourceforge.io/Guide)<br>[zsh.sourceforge.io/Doc](https://zsh.sourceforge.io/Doc)|
