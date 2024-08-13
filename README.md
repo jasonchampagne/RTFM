@@ -357,12 +357,11 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |WooCommerce||
 |WordPress||
 |World of Warcraft|[develop.battle.net/.../world-of-warcraft/game-data-apis](https://develop.battle.net/documentation/world-of-warcraft/game-data-apis)<br>[develop.battle.net/.../world-of-warcraft/profile-apis](https://develop.battle.net/documentation/world-of-warcraft/profile-apis)|
-|WxWidgets||
-|Xamarin<!-- + Xamarin.Forms-->||
-|Xcode||
-|Xen||
-|XML||
-|Yarn||
+|WxWidgets|[wiki.wxwidgets.org](https://wiki.wxwidgets.org/Main_Page)<br>[https://wxwidgets.org/docs](https://wxwidgets.org/docs)|
+|Xcode|[developer.apple.com/documentation/xcode](https://developer.apple.com/documentation/xcode)|
+|Xen|[xenproject.org/developers/getting-started-devs](https://xenproject.org/developers/getting-started-devs)|
+|XML|[w3.org/XML](https://www.w3.org/XML)|
+|Yarn|[classic.yarnpkg.com/en/docs](https://classic.yarnpkg.com/en/docs)|
 |Yii|[yiiframework.com/wiki](https://www.yiiframework.com/wiki)<br>[yiiframework.com/doc/api/2.0](https://www.yiiframework.com/doc/api/2.0)|
 |YouTube|[developers.google.com/youtube/documentation](https://developers.google.com/youtube/documentation?hl=fr)<br>[developers.google.com/youtube/v3/docs](https://developers.google.com/youtube/v3/docs?hl=fr)|
 |Zephyr|[docs.zephyrproject.org](https://docs.zephyrproject.org/latest/index.html)|
