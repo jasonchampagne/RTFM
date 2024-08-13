@@ -101,7 +101,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |DahliaOS|[docs.dahliaos.io](https://docs.dahliaos.io)|
 |Darktable|[docs.darktable.org/usermanual](https://docs.darktable.org/usermanual)|
 |Dart|[dart.dev/guides](https://dart.dev/guides)|
-|DaVinci Resolve|[documents.blackmagicdesign.com/.../DaVinci_Resolve_18_Reference_Manual](https://documents.blackmagicdesign.com/UserManuals/DaVinci_Resolve_18_Reference_Manual.pdf)|
+|DaVinci Resolve|[blackmagicdesign.com/.../DaVinci_Resolve_18_Reference_Manual](https://documents.blackmagicdesign.com/UserManuals/DaVinci_Resolve_18_Reference_Manual.pdf)|
 |Daz3D|[daz3d.com/help/help-daz-3d-video-tutorials](https://www.daz3d.com/help/help-daz-3d-video-tutorials)|
 |DB2|[ibm.com/docs/en/db2](https://www.ibm.com/docs/en/db2)|
 |Debian|[debian.org/.../installmanual](https://www.debian.org/releases/bookworm/installmanual)|
