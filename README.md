@@ -71,17 +71,17 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |CapRover|[caprover.com/docs](https://caprover.com/docs/get-started.html)|
 |CEGUI|[static.cegui.org.uk/docs](http://static.cegui.org.uk/docs)<br>[cegui.org.uk/wiki](http://cegui.org.uk/wiki)|
 |CentOS|[wiki.centos.org](https://wiki.centos.org)<br>[docs.centos.org](https://docs.centos.org/en-US/docs)|
-|CherryPy||
-|Chkdsk||
-|Cinema 4D||
-|ClamAV||
-|Clang||
-|Clip Studio Paint||
-|Clojure||
-|Cloudflare||
-|CMake||
-|COBOL||
-|CodeIgniter||
+|CherryPy|[docs.cherrypy.dev](https://docs.cherrypy.dev/en/latest)|
+|Chkdsk|[learn.microsoft.com/.../chkdsk](https://learn.microsoft.com/fr-fr/windows-server/administration/windows-commands/chkdsk)|
+|Cinema 4D|[help.maxon.net/c4d](https://help.maxon.net/c4d/en-us)|
+|ClamAV|[docs.clamav.net](https://docs.clamav.net)|
+|Clang|[clang.llvm.org/docs/UsersManual](https://clang.llvm.org/docs/UsersManual.html)|
+|Clip Studio Paint|[tips.clip-studio.com](https://tips.clip-studio.com/fr-fr/official)|
+|Clojure|[clojure.org/reference](https://clojure.org/reference/reader)<br>[clojure.org/api](https://clojure.org/api/api)|
+|Cloudflare|[developers.cloudflare.com](https://developers.cloudflare.com)<br>[developers.cloudflare.com/api](https://developers.cloudflare.com/api)|
+|CMake|[cmake.org/documentation](https://cmake.org/documentation)|
+|COBOL|[ibm.com/docs/en/cobol-zos](https://www.ibm.com/docs/en/cobol-zos)|
+|CodeIgniter|[codeigniter.com/user_guide](https://codeigniter.com/user_guide/index.html)|
 |Codon||
 |CoffeeScript||
 |Coinbase||
