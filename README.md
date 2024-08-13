@@ -87,21 +87,21 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Coinbase|[coinbase.com/fr-fr/developer-platform](https://www.coinbase.com/fr-fr/developer-platform)|
 |Command Shell|[learn.microsoft.com/.../windows-commands](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)|
 |Common Lisp|[lisp-lang.org/learn](https://lisp-lang.org/learn)<br>[lisp-lang.org/wiki](https://lisp-lang.org/wiki)|
-|Coq||
-|CryENGINE||
-|Crystal||
+|Coq|[coq.inria.fr/documentation](https://coq.inria.fr/documentation)|
+|CryENGINE|[cryengine.com/tutorials](https://www.cryengine.com/tutorials)<br>[docs.cryengine.com](https://docs.cryengine.com)|
+|Crystal|[crystal-lang.org/reference](https://crystal-lang.org/reference)|
 |C shell (_csh_)|[wikibooks.org/wiki/C_Shell_Scripting](https://en.wikibooks.org/wiki/C_Shell_Scripting)|
-|CSS||
-|Cubase||
-|CUDA||
-|CustomTkinter||
+|CSS|[w3.org/Style/CSS](https://www.w3.org/Style/CSS)|
+|Cubase|[steinberg.net/fr/cubase/learn](https://www.steinberg.net/fr/cubase/learn)|
+|CUDA|[docs.nvidia.com/cuda/cuda-toolkit-release-notes](https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html)|
+|CustomTkinter|[customtkinter.tomschimansky.com/tutorial](https://customtkinter.tomschimansky.com/tutorial)<br>[customtkinter.tomschimansky.com/documentation](https://customtkinter.tomschimansky.com/documentation)|
 |Cutter||
-|D||
+|D|[dlang.org/spec](https://dlang.org/spec/spec.html)|
 |Dada|[dada-lang.org](https://dada-lang.org)|
-|DahliaOS||
-|Darktable||
-|Dart||
-|DaVinci Resolve||
+|DahliaOS|[docs.dahliaos.io](https://docs.dahliaos.io)|
+|Darktable|[docs.darktable.org/usermanual](https://docs.darktable.org/usermanual)|
+|Dart|[dart.dev/guides](https://dart.dev/guides)|
+|DaVinci Resolve|[documents.blackmagicdesign.com/.../DaVinci_Resolve_18_Reference_Manual](https://documents.blackmagicdesign.com/UserManuals/DaVinci_Resolve_18_Reference_Manual.pdf)|
 |Daz3D||
 |DB2||
 |Debian||
