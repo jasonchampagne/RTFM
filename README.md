@@ -351,13 +351,13 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |WebAssembly||
 |WebExtensions||
 |WebGL||
-|Webpack||
-|WebSocket||
-|Wireshark||
-|WooCommerce||
-|WordPress||
+|Webpack|[webpack.js.org/concepts](https://webpack.js.org/concepts)|
+|WebSocket|[websockets.spec.whatwg.org](https://websockets.spec.whatwg.org)|
+|Wireshark|[wireshark.org/learn](https://www.wireshark.org/learn)<br>[wireshark.org/docs](https://www.wireshark.org/docs/wsdg_html_chunked)|
+|WooCommerce|[woocommerce.com/documentation](https://woocommerce.com/documentation/woocommerce)|
+|WordPress|[wordpress.org/support](https://fr.wordpress.org/support)|
 |World of Warcraft|[develop.battle.net/.../world-of-warcraft/game-data-apis](https://develop.battle.net/documentation/world-of-warcraft/game-data-apis)<br>[develop.battle.net/.../world-of-warcraft/profile-apis](https://develop.battle.net/documentation/world-of-warcraft/profile-apis)|
-|WxWidgets|[wiki.wxwidgets.org](https://wiki.wxwidgets.org/Main_Page)<br>[https://wxwidgets.org/docs](https://wxwidgets.org/docs)|
+|WxWidgets|[wiki.wxwidgets.org](https://wiki.wxwidgets.org/Main_Page)<br>[wxwidgets.org/docs](https://wxwidgets.org/docs)|
 |Xcode|[developer.apple.com/documentation/xcode](https://developer.apple.com/documentation/xcode)|
 |Xen|[xenproject.org/developers/getting-started-devs](https://xenproject.org/developers/getting-started-devs)|
 |XML|[w3.org/XML](https://www.w3.org/XML)|
