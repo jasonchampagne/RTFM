@@ -63,14 +63,14 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Brackets|[brackets.io/docs](https://brackets.io/docs/current/modules/brackets.html)|
 |Bulma|[bulma.io/documentation](https://bulma.io/documentation)|
 |Bun|[bun.sh/docs](https://bun.sh/docs)|
-|Bundler||
+|Bundler|[bundler.io/docs](https://bundler.io/docs.html)|
 |C|[cppreference.com/w/c](https://en.cppreference.com/w/c)|
 |C++|[cppreference.com/w](https://en.cppreference.com/w)|
 |C#|[learn.microsoft.com/.../csharp](https://learn.microsoft.com/fr-fr/dotnet/csharp/tour-of-csharp)|
-|CakePHP||
-|CapRover||
-|CEGUI||
-|CentOS||
+|CakePHP|[book.cakephp.org/5](https://book.cakephp.org/5/fr/index.html)<br>[api.cakephp.org/5.0](https://api.cakephp.org/5.0)|
+|CapRover|[caprover.com/docs](https://caprover.com/docs/get-started.html)|
+|CEGUI|[static.cegui.org.uk/docs](http://static.cegui.org.uk/docs)<br>[cegui.org.uk/wiki](http://cegui.org.uk/wiki)|
+|CentOS|[wiki.centos.org](https://wiki.centos.org)<br>[docs.centos.org](https://docs.centos.org/en-US/docs)|
 |CherryPy||
 |Chkdsk||
 |Cinema 4D||
