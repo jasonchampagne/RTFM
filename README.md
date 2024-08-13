@@ -77,10 +77,10 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |ClamAV||
 |Clang||
 |Clip Studio Paint||
-|Clojure|langage de programmation|
+|Clojure||
 |Cloudflare||
 |CMake||
-|COBOL|langage de programmation|
+|COBOL||
 |CodeIgniter||
 |Codon||
 |CoffeeScript||
