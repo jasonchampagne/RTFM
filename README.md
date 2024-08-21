@@ -287,6 +287,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Protobuf||
 |Pro Tools||
 |Puppet||
+|PySimpleGUI|[docs.pysimplegui.com](https://docs.pysimplegui.com/en/latest)|
 |Python||
 |Qt||
 |R||
