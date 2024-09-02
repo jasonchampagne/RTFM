@@ -281,7 +281,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Planka|[docs.planka.cloud](https://docs.planka.cloud/docs/intro)|
 |PostgreSQL||
 |PowerShell|[learn.microsoft.com/fr-fr/powershell](https://learn.microsoft.com/fr-fr/powershell)|
-|PowerShell Gallery|[learn.microsoft.com/fr-fr/powershell](https://learn.microsoft.com/fr-fr/powershell/scripting/gallery/overview)|
+|PowerShell Gallery|[learn.microsoft.com/fr-fr/powershell/scripting/gallery](https://learn.microsoft.com/fr-fr/powershell/scripting/gallery/overview)|
 |Premake||
 |PrestaShop||
 |Prolog||
