@@ -32,7 +32,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Allegro|[allegro.cc/manual](https://www.allegro.cc/manual/5)|
 |AlmaLinux|[wiki.almalinux.org](https://wiki.almalinux.org)|
 |Amazon Web Services|[docs.aws.amazon.com](https://docs.aws.amazon.com)|
-|Android|[developer.android.com/guidedeveloper.android.com/guide](https://developer.android.com/guide)|
+|Android|[developer.android.com/guide](https://developer.android.com/guide)|
 |Angular|[angular.io/docs](https://angular.io/docs)|
 |Ansible|[docs.ansible.com](https://docs.ansible.com/ansible/latest/index.html)|
 |Apache HTTP Server|[httpd.apache.org/docs](https://httpd.apache.org/docs)|
