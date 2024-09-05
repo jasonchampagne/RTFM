@@ -270,6 +270,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |OrbStack|[docs.orbstack.dev](https://docs.orbstack.dev)|
 |Packer||
 |Pages CMS|[pagescms.org/docs](https://pagescms.org/docs)|
+|Pandas|[pandas.pydata.org/docs](https://pandas.pydata.org/docs)|
 |Pascal||
 |Passport.js||
 |PEAR||
@@ -289,6 +290,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Protobuf||
 |Pro Tools||
 |Puppet||
+|Pyrocko|[pyrocko.org/docs](https://pyrocko.org/docs/current)|
 |PySimpleGUI|[docs.pysimplegui.com](https://docs.pysimplegui.com/en/latest)|
 |Python||
 |Qt||
