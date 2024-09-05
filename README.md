@@ -83,7 +83,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |CMake|[cmake.org/documentation](https://cmake.org/documentation)|
 |COBOL|[ibm.com/docs/en/cobol-zos](https://www.ibm.com/docs/en/cobol-zos)|
 |CodeIgniter|[codeigniter.com/user_guide](https://codeigniter.com/user_guide/index.html)|
-|Codon||
+|Codon|[docs.exaloop.io/codon](https://docs.exaloop.io/codon)|
 |CoffeeScript|[coffeescript.org/#languag](https://coffeescript.org/#language)|
 |Coinbase|[coinbase.com/fr-fr/developer-platform](https://www.coinbase.com/fr-fr/developer-platform)|
 |Command Shell|[learn.microsoft.com/.../windows-commands](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)|
@@ -114,10 +114,10 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |DigitalOcean|[digitalocean.com/community/tutorials](https://www.digitalocean.com/community/tutorials)<br>[docs.digitalocean.com/products](https://docs.digitalocean.com/products)|
 |DirectAdmin|[docs.directadmin.com](https://docs.directadmin.com)<br>[directadmin.com/api](https://www.directadmin.com/api.php)|
 |Directus|[docs.directus.io](https://docs.directus.io)<br>[docs.directus.io/reference](https://docs.directus.io/reference/introduction.html)|
-|Django||
-|Docker||
-|Doctrine||
-|Docusaurus||
+|Django|[docs.djangoproject.com](https://docs.djangoproject.com/fr)|
+|Docker|[docs.docker.com](https://docs.docker.com)|
+|Doctrine|[doctrine-project.org/projects/orm](https://www.doctrine-project.org/projects/orm.html)|
+|Docusaurus|[docusaurus.io/docs](https://docusaurus.io/docs)<br>[docusaurus.io/docs/cli](https://docusaurus.io/docs/cli)|
 |Dolphin|[dolphin-emu.org/docs/guides](https://fr.dolphin-emu.org/docs/guides)|
 |DOSBox|[dosbox.com/DOSBoxManual](https://www.dosbox.com/DOSBoxManual.html)|
 |DotNet (.NET)||
