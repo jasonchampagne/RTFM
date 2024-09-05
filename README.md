@@ -300,7 +300,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Rails||
 |Raspberry Pi||
 |React <!-- + React Native, React Router -->||
-|REAPER||
+|REAPER|[reaper.fm/userguide](https://www.reaper.fm/userguide.php)|
 |Recaf|[coley.software/Recaf-documentation](https://www.coley.software/Recaf-documentation)|
 |Redis|[redis.io/docs](https://redis.io/docs/latest)<br>[redis.io/docs/latest/apis](https://redis.io/docs/latest/apis)|
 |Redux||
