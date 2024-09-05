@@ -357,7 +357,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Waydroid|[docs.waydro.id](https://docs.waydro.id)|
 |WebAssembly||
 |WebExtensions||
-|WebGL||
+|WebGL|[khronos.org/developers/reference-cards](https://www.khronos.org/developers/reference-cards)<br>[developer.mozilla.org/fr/docs/Web/API/WebGL_API](https://developer.mozilla.org/fr/docs/Web/API/WebGL_API)|
 |Webpack|[webpack.js.org/concepts](https://webpack.js.org/concepts)|
 |WebSocket|[websockets.spec.whatwg.org](https://websockets.spec.whatwg.org)|
 |Wireshark|[wireshark.org/learn](https://www.wireshark.org/learn)<br>[wireshark.org/docs](https://www.wireshark.org/docs/wsdg_html_chunked)|
