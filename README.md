@@ -333,20 +333,20 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Thonny||
 |Tkinter||
 |TOML||
-|TypeScript||
+|TypeScript|[typescriptlang.org/docs](https://www.typescriptlang.org/docs)|
 |TypeSpec|[typespec.io/docs](https://typespec.io/docs)|
-|Twitch||
+|Twitch|[dev.twitch.tv/docs](https://dev.twitch.tv/docs)|
 |Ubuntu|[help.ubuntu.com](https://help.ubuntu.com)<br>[help.ubuntu.com/.../CommunityHelpWiki](https://help.ubuntu.com/community/CommunityHelpWiki)<br>[doc.ubuntu-fr.org](https://doc.ubuntu-fr.org/accueil)|
 |Ultra|[developers.ultra.io](https://developers.ultra.io)|
 |Underscore|[underscorejs.org](https://underscorejs.org)|
-|Unity||
-|Unreal Engine||
+|Unity|[docs.unity.com](https://docs.unity.com)|
+|Unreal Engine|[dev.epicgames.com/community/unreal-engine/learning](https://dev.epicgames.com/community/unreal-engine/learning)<br>[dev.epicgames.com/documentation](https://dev.epicgames.com/documentation/fr-fr/unreal-engine/unreal-engine-5-4-documentation)|
 |Universal Package-management Tool (_upt_)|[github.com/sigoden/upt](https://github.com/sigoden/upt)|
 |V|[github.com/vlang/.../docs](https://github.com/vlang/v/blob/master/doc/docs.md)|
-|Vagrant||
-|VBA||
-|Vim||
-|VirtualBox||
+|Vagrant|[developer.hashicorp.com/vagrant/docs](https://developer.hashicorp.com/vagrant/docs)|
+|VBA|[learn.microsoft.com/fr-fr/office/vba](https://learn.microsoft.com/fr-fr/office/vba/api/overview)|
+|Vim|[vim.org/docs](https://www.vim.org/docs.php)|
+|VirtualBox|[virtualbox.org/wiki/Documentation](https://www.virtualbox.org/wiki/Documentation)|
 |Visual Basic|[learn.microsoft.com/fr-fr/dotnet/visual-basic](https://learn.microsoft.com/fr-fr/dotnet/visual-basic)|
 |Visual Studio|[learn.microsoft.com/fr-fr/visualstudio](https://learn.microsoft.com/fr-fr/visualstudio)|
 |Visual Studio Code|[code.visualstudio.com/docs](https://code.visualstudio.com/docs)<br>[code.visualstudio.com/api](https://code.visualstudio.com/api)|
