@@ -350,13 +350,13 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Visual Basic||
 |Visual Studio Code||
 |Vortex Mod Manager|[wiki.nexusmods.com/...Category:Tutorials](https://wiki.nexusmods.com/index.php/Category:Tutorials)<br>[app.swaggerhub.com/apis-docs/NexusMods](https://app.swaggerhub.com/apis-docs/NexusMods/nexus-mods_public_api_params_in_form_data)|
-|Vue||
-|Vulkan||
-|VVVV||
-|WAMP||
+|VueJS|[fr.vuejs.org/tutorial](https://fr.vuejs.org/tutorial)<br>[fr.vuejs.org/guide](https://fr.vuejs.org/guide/introduction.html)<br>[fr.vuejs.org/api](https://fr.vuejs.org/api)|
+|Vulkan|[vulkan.org/learn](https://www.vulkan.org/learn)|
+|VVVV|[thegraybook.vvvv.org](https://thegraybook.vvvv.org)|
+|WampServer|[wampserver.com](https://www.wampserver.com/?lang=fr#begin-wrapper)|
 |Waydroid|[docs.waydro.id](https://docs.waydro.id)|
-|WebAssembly||
-|WebExtensions||
+|WebAssembly|[webassembly.org/getting-started/developers-guide](https://webassembly.org/getting-started/developers-guide)|
+|WebExtensions|[developer.mozilla.org/fr/docs/Mozilla/Add-ons/WebExtensions](https://developer.mozilla.org/fr/docs/Mozilla/Add-ons/WebExtensions/What_are_WebExtensions)|
 |WebGL|[khronos.org/developers/reference-cards](https://www.khronos.org/developers/reference-cards)<br>[developer.mozilla.org/fr/docs/Web/API/WebGL_API](https://developer.mozilla.org/fr/docs/Web/API/WebGL_API)|
 |Webpack|[webpack.js.org/concepts](https://webpack.js.org/concepts)|
 |WebSocket|[websockets.spec.whatwg.org](https://websockets.spec.whatwg.org)|
