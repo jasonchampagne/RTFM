@@ -57,6 +57,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Bitbucket Cloud|[support.atlassian.com/bitbucket-cloud/resources](https://support.atlassian.com/bitbucket-cloud/resources)|
 |Bitcoin|[developer.bitcoin.org](https://developer.bitcoin.org)|
 |Bitly|[dev.bitly.com](https://dev.bitly.com)|
+|Bitwig|[bitwig.com/learn](https://www.bitwig.com/learn)|
 |Blender|[docs.blender.org/manual](https://docs.blender.org/manual/en/latest)<br>[developer.blender.org/docs](https://developer.blender.org/docs)<br>[docs.blender.org/api](https://docs.blender.org/api/current)|
 |Bootstrap|[getbootstrap.com/docs](https://getbootstrap.com/docs)|
 |Bourne-Again shell (_bash_)|[gnu.org/software/bash/manual](https://www.gnu.org/software/bash/manual)|
