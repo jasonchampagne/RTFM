@@ -120,7 +120,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Docusaurus|[docusaurus.io/docs](https://docusaurus.io/docs)<br>[docusaurus.io/docs/cli](https://docusaurus.io/docs/cli)|
 |Dolphin|[dolphin-emu.org/docs/guides](https://fr.dolphin-emu.org/docs/guides)|
 |DOSBox|[dosbox.com/DOSBoxManual](https://www.dosbox.com/DOSBoxManual.html)|
-|DotNet (.NET)||
+|DotNet (.NET)|[learn.microsoft.com/fr-fr/dotnet](https://learn.microsoft.com/fr-fr/dotnet)<br>[learn.microsoft.com/fr-fr/dotnet/api](https://learn.microsoft.com/fr-fr/dotnet/api)|
 |Doxygen||
 |Drupal||
 |Dune||
@@ -347,10 +347,11 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |VBA||
 |Vim||
 |VirtualBox||
-|Visual Basic||
-|Visual Studio Code||
+|Visual Basic|[learn.microsoft.com/fr-fr/dotnet/visual-basic](https://learn.microsoft.com/fr-fr/dotnet/visual-basic)|
+|Visual Studio|[learn.microsoft.com/fr-fr/visualstudio](https://learn.microsoft.com/fr-fr/visualstudio)|
+|Visual Studio Code|[code.visualstudio.com/docs](https://code.visualstudio.com/docs)<br>[code.visualstudio.com/api](https://code.visualstudio.com/api)|
 |Vortex Mod Manager|[wiki.nexusmods.com/...Category:Tutorials](https://wiki.nexusmods.com/index.php/Category:Tutorials)<br>[app.swaggerhub.com/apis-docs/NexusMods](https://app.swaggerhub.com/apis-docs/NexusMods/nexus-mods_public_api_params_in_form_data)|
-|VueJS|[fr.vuejs.org/tutorial](https://fr.vuejs.org/tutorial)<br>[fr.vuejs.org/guide](https://fr.vuejs.org/guide/introduction.html)<br>[fr.vuejs.org/api](https://fr.vuejs.org/api)|
+|Vue.js|[fr.vuejs.org/tutorial](https://fr.vuejs.org/tutorial)<br>[fr.vuejs.org/guide](https://fr.vuejs.org/guide/introduction.html)<br>[fr.vuejs.org/api](https://fr.vuejs.org/api)|
 |Vulkan|[vulkan.org/learn](https://www.vulkan.org/learn)|
 |VVVV|[thegraybook.vvvv.org](https://thegraybook.vvvv.org)|
 |WampServer|[wampserver.com](https://www.wampserver.com/?lang=fr#begin-wrapper)|
