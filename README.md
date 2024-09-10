@@ -123,13 +123,13 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |DotNet (.NET)|[learn.microsoft.com/fr-fr/dotnet](https://learn.microsoft.com/fr-fr/dotnet)<br>[learn.microsoft.com/fr-fr/dotnet/api](https://learn.microsoft.com/fr-fr/dotnet/api)|
 |Doxygen|[doxygen.nl/manual](https://www.doxygen.nl/manual/index.html)|
 |Drupal|[drupal.org/docs/user_guide](https://www.drupal.org/fr/docs/user_guide/fr/index.html)<br>[drupal.org/docs/official_docs/local-development-guide](https://www.drupal.org/docs/official_docs/local-development-guide)<br>[drupal.org/documentation](https://www.drupal.org/documentation)|
-|Dune|[dune.com/guide](https://dune.com/guide)<br>[docs.dune.com](https://docs.dune.com/home)|
-|E||
-|Ebay||
-|ECMAScript||
-|Ejabberd||
-|Elasticsearch||
-|Electron||
+|Dune|[dune.readthedocs.io](https://dune.readthedocs.io/en/stable/index.html)|
+|E|[erights.org/#quickstart](http://erights.org/#quickstart)|
+|Ebay|[developer.ebay.com](https://developer.ebay.com/develop)|
+|ECMAScript|[262.ecma-international.org](https://262.ecma-international.org)|
+|Ejabberd|[docs.ejabberd.im](https://docs.ejabberd.im)|
+|Elasticsearch|[elastic.co/docs](https://www.elastic.co/docs)|
+|Electron|[electronjs.org/fr/docs](https://www.electronjs.org/fr/docs/latest)<br>[electronjs.org/fr/docs/latest/api/app](https://www.electronjs.org/fr/docs/latest/api/app)|
 |Eleventy (11ty)|[11ty.dev/docs](https://www.11ty.dev/docs)|
 |Elvish|[elv.sh/learn](https://elv.sh/learn)|
 |Emacs||
