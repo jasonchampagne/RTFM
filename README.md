@@ -323,17 +323,17 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |SmartFTP|[smartftp.com/fr-fr/support/howto](https://www.smartftp.com/fr-fr/support/howto)<br>[smartftp.com/static/ftplib/documentation](https://www.smartftp.com/static/ftplib/documentation/html/frames.html)|
 |Spyder|[docs.spyder-ide.org](https://docs.spyder-ide.org/current/index.html)|
 |Stripe|[stripe.com/fr/guides](https://stripe.com/fr/guides)<br>[docs.stripe.com](https://docs.stripe.com)<br>[docs.stripe.com/api](https://docs.stripe.com/api)[docs.stripe.com/api](https://docs.stripe.com/api)|
-|Svelte||
-|Swift||
-|Symfony||
+|Svelte|[svelte.dev/docs](https://svelte.dev/docs/introduction)|
+|Swift|[swift.org/documentation](https://www.swift.org/documentation)|
+|Symfony|[symfony.com/doc](https://symfony.com/doc/current/index.html)|
 |Tableau AI|[help.tableau.com/current/guides](https://help.tableau.com/current/guides)|
 |Taler|[taler.net/fr/docs](https://taler.net/fr/docs.html)|
-|Tesseract||
-|TensorFlow||
-|Terraform||
-|Thonny||
-|Tkinter||
-|TOML||
+|Tesseract|[tesseract-ocr.github.io](https://tesseract-ocr.github.io)|
+|TensorFlow|[tensorflow.org/api_docs](https://www.tensorflow.org/api_docs)|
+|Terraform|[developer.hashicorp.com/terraform](https://developer.hashicorp.com/terraform)|
+|Thonny|[github.com/thonny/thonny/wiki](https://github.com/thonny/thonny/wiki)|
+|Tkinter|[docs.python.org/3/library/tkinter](https://docs.python.org/3/library/tkinter.html)|
+|TOML|[toml.io/fr](https://toml.io/fr/v1.0.0)|
 |TypeScript|[typescriptlang.org/docs](https://www.typescriptlang.org/docs)|
 |TypeSpec|[typespec.io/docs](https://typespec.io/docs)|
 |Twitch|[dev.twitch.tv/docs](https://dev.twitch.tv/docs)|
