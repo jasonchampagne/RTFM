@@ -307,6 +307,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |REST||
 |RHEL||
 |Riot.js||
+|RPG in a Box|[rpginabox.com/docs](https://rpginabox.com/docs/doku.php)|
 |Ruby||
 |Rust||
 |SaltStack||
