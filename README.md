@@ -158,7 +158,6 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Freemarker|[freemarker.apache.org/docs](https://freemarker.apache.org/docs/index.html)<br>[freemarker.apache.org/docs/api](https://freemarker.apache.org/docs/api/index.html)|
 |Frida|[frida.re/docs](https://frida.re/docs/home)|
 |Friendly Interactive Shell (_fish_)|[fishshell.com/docs](https://fishshell.com/docs/current/index.html)|
-|FUSE||
 |Gatsby|[gatsbyjs.com/docs](https://www.gatsbyjs.com/docs)|
 |Gather|[support.gather.town](https://support.gather.town/hc/en-us)|
 |GCC||
