@@ -132,32 +132,31 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Electron|[electronjs.org/fr/docs](https://www.electronjs.org/fr/docs/latest)<br>[electronjs.org/fr/docs/latest/api/app](https://www.electronjs.org/fr/docs/latest/api/app)|
 |Eleventy (11ty)|[11ty.dev/docs](https://www.11ty.dev/docs)|
 |Elvish|[elv.sh/learn](https://elv.sh/learn)|
-|Emacs||
-|Ember.js||
-|Emoji||
-|Emscripten||
-|Entity Framework||
-|Erlang||
-|ESLint||
-|Ethereum||
-|Excel||
-|Express.js||
+|Emacs|[gnu.org/software/emacs/documentation](https://www.gnu.org/software/emacs/documentation.html)|
+|Ember.js|[guides.emberjs.com](https://guides.emberjs.com/release)<br>[api.emberjs.com](https://api.emberjs.com/ember/release)|
+|Emscripten|[emscripten.org/docs](https://emscripten.org/docs/index.html)|
+|Entity Framework|[learn.microsoft.com/fr-fr/ef](https://learn.microsoft.com/fr-fr/ef)|
+|Erlang|[erlang.org/docs](https://www.erlang.org/docs)|
+|ESLint|[eslint.org/docs](https://eslint.org/docs/latest)|
+|Ethereum|[ethereum.org/fr/developers/docs](https://ethereum.org/fr/developers/docs)|
+|Excel|[support.microsoft.com/fr-FR/excel](https://support.microsoft.com/fr-FR/excel)|
+|Express.js|[expressjs.com/en/starter](https://expressjs.com/en/starter/installing.html)<br>[expressjs.com/en/guide](https://expressjs.com/en/guide/routing.html)<br>[expressjs.com/en/4x/api](https://expressjs.com/en/4x/api.html)|
 |F*|[fstar-lang.org/tutorial/proof-oriented-programming-in-fstar](https://www.fstar-lang.org/tutorial/proof-oriented-programming-in-fstar.pdf)|
-|F#||
-|FASM||
-|Fedora||
-|FFmpeg||
+|F#|[learn.microsoft.com/fr-fr/dotnet/fsharp](https://learn.microsoft.com/fr-fr/dotnet/fsharp)|
+|FASM|[flatassembler.net/docs](https://flatassembler.net/docs.php)|
+|Fedora|[docs.fedoraproject.org](https://docs.fedoraproject.org/fr/docs)|
+|FFmpeg|[ffmpeg.org/documentation](https://ffmpeg.org/documentation.html)|
 |Fiber|[docs.gofiber.io](https://docs.gofiber.io)|
-|Figma||
+|Figma|[figma.com/developers](https://www.figma.com/developers)|
 |FileZilla|[wiki.filezilla-project.org](https://wiki.filezilla-project.org/Main_Page)|
-|Firebase||
-|Flask||
-|Flutter||
-|Foundation||
+|Firebase|[firebase.google.com/docs](https://firebase.google.com/docs)|
+|Flask|[flask.palletsprojects.com](https://flask.palletsprojects.com)|
+|Flutter|[flutter.dev/learn](https://flutter.dev/learn)<br>[docs.flutter.dev](https://docs.flutter.dev)|
+|Foundation|[get.foundation/learn/tutorials](https://get.foundation/learn/tutorials.html)<br>[get.foundation/frameworks-docs](https://get.foundation/frameworks-docs.html)|
 |FrankenPHP|[frankenphp.dev/fr/docs](https://frankenphp.dev/fr/docs)|
-|FreeBSD||
-|Freemarker||
-|Frida||
+|FreeBSD|[docs.freebsd.org](https://docs.freebsd.org/en)|
+|Freemarker|[freemarker.apache.org/docs](https://freemarker.apache.org/docs/index.html)<br>[freemarker.apache.org/docs/api](https://freemarker.apache.org/docs/api/index.html)|
+|Frida|[frida.re/docs](https://frida.re/docs/home)|
 |Friendly Interactive Shell (_fish_)|[fishshell.com/docs](https://fishshell.com/docs/current/index.html)|
 |FUSE||
 |Gatsby|[gatsbyjs.com/docs](https://www.gatsbyjs.com/docs)|
