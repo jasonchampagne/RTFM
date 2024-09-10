@@ -121,9 +121,9 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Dolphin|[dolphin-emu.org/docs/guides](https://fr.dolphin-emu.org/docs/guides)|
 |DOSBox|[dosbox.com/DOSBoxManual](https://www.dosbox.com/DOSBoxManual.html)|
 |DotNet (.NET)|[learn.microsoft.com/fr-fr/dotnet](https://learn.microsoft.com/fr-fr/dotnet)<br>[learn.microsoft.com/fr-fr/dotnet/api](https://learn.microsoft.com/fr-fr/dotnet/api)|
-|Doxygen||
-|Drupal||
-|Dune||
+|Doxygen|[doxygen.nl/manual](https://www.doxygen.nl/manual/index.html)|
+|Drupal|[drupal.org/docs/user_guide](https://www.drupal.org/fr/docs/user_guide/fr/index.html)<br>[drupal.org/docs/official_docs/local-development-guide](https://www.drupal.org/docs/official_docs/local-development-guide)<br>[drupal.org/documentation](https://www.drupal.org/documentation)|
+|Dune|[dune.com/guide](https://dune.com/guide)<br>[docs.dune.com](https://docs.dune.com/home)|
 |E||
 |Ebay||
 |ECMAScript||
