@@ -11,7 +11,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 
 |NOM|RESSOURCES|
 |:--|:--|
-|Ade|[adacore.com/documentation](https://www.adacore.com/documentation)|
+|Ada|[adacore.com/documentation](https://www.adacore.com/documentation)|
 |Adobe Acrobat|[helpx.adobe.com/fr/acrobat/user-guide](https://helpx.adobe.com/fr/acrobat/user-guide.html)|
 |Adobe After Effects|[helpx.adobe.com/fr/after-effects/user-guide](https://helpx.adobe.com/fr/after-effects/user-guide.html)|
 |Adobe Animate|[helpx.adobe.com/fr/animate/user-guide](https://helpx.adobe.com/fr/animate/user-guide.html)|
