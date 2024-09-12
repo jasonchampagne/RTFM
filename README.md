@@ -11,29 +11,19 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 
 |NOM|ÉDITEUR|RESSOURCES|
 |:--|:--|:--|
+|Acrobat|Adobe|[helpx.adobe.com/fr/acrobat/user-guide](https://helpx.adobe.com/fr/acrobat/user-guide.html)|
 |Ada||[adacore.com/documentation](https://www.adacore.com/documentation)|
-|Adobe Acrobat||[helpx.adobe.com/fr/acrobat/user-guide](https://helpx.adobe.com/fr/acrobat/user-guide.html)|
-|Adobe After Effects||[helpx.adobe.com/fr/after-effects/user-guide](https://helpx.adobe.com/fr/after-effects/user-guide.html)|
-|Adobe Animate||[helpx.adobe.com/fr/animate/user-guide](https://helpx.adobe.com/fr/animate/user-guide.html)|
-|Adobe Audition||[helpx.adobe.com/fr/audition/user-guide](https://helpx.adobe.com/fr/audition/user-guide.html)|
-|Adobe Character Animator||[helpx.adobe.com/fr/adobe-character-animator/user-guide](https://helpx.adobe.com/fr/adobe-character-animator/user-guide.html)|
-|Adobe Dreamweaver||[helpx.adobe.com/fr/dreamweaver/user-guide](https://helpx.adobe.com/fr/dreamweaver/user-guide.html)|
-|Adobe Fresco||[helpx.adobe.com/fr/fresco/user-guide](https://helpx.adobe.com/fr/fresco/user-guide.html)|
-|Adobe Illustrator||[helpx.adobe.com/fr/illustrator/user-guide](https://helpx.adobe.com/fr/illustrator/user-guide.html)|
-|Adobe InDesign||[helpx.adobe.com/fr/indesign/user-guide](https://helpx.adobe.com/fr/indesign/user-guide.html)|
-|Adobe Lightroom||[helpx.adobe.com/fr/lightroom-cc/user-guide](https://helpx.adobe.com/fr/lightroom-cc/user-guide.html)|
-|Adobe Photoshop||[helpx.adobe.com/fr/photoshop/user-guide](https://helpx.adobe.com/fr/photoshop/user-guide.html)|
-|Adobe Premiere Pro||[helpx.adobe.com/fr/premiere-pro/user-guide](https://helpx.adobe.com/fr/premiere-pro/user-guide.html)|
-|Adobe XD||[helpx.adobe.com/fr/xd/user-guide](https://helpx.adobe.com/fr/xd/user-guide.html)|
 |AdonisJS||[docs.adonisjs.com/guides](https://docs.adonisjs.com/guides/introduction)|
 |Affinity Designer||[affinity.serif.com/fr/learn/designer](https://affinity.serif.com/fr/learn/designer/desktop)|
 |Affinity Photo||[affinity.serif.com/fr/learn/photo](https://affinity.serif.com/fr/learn/photo/desktop)|
 |Affinity Publisher||[affinity.serif.com/fr/learn/publisher](https://affinity.serif.com/fr/learn/publisher/desktop)|
+|After Effects|Adobe|[helpx.adobe.com/fr/after-effects/user-guide](https://helpx.adobe.com/fr/after-effects/user-guide.html)|
 |Allegro||[allegro.cc/manual](https://www.allegro.cc/manual/5)|
 |AlmaLinux||[wiki.almalinux.org](https://wiki.almalinux.org)|
 |Amazon Web Services||[docs.aws.amazon.com](https://docs.aws.amazon.com)|
 |Android||[developer.android.com/guide](https://developer.android.com/guide)|
 |Angular||[angular.io/docs](https://angular.io/docs)|
+|Animate|Adobe|[helpx.adobe.com/fr/animate/user-guide](https://helpx.adobe.com/fr/animate/user-guide.html)|
 |Ansible||[docs.ansible.com](https://docs.ansible.com/ansible/latest/index.html)|
 |Apache HTTP Server||[httpd.apache.org/docs](https://httpd.apache.org/docs)|
 |Aqua||[jetbrains.com/help/aqua](https://www.jetbrains.com/help/aqua)|
@@ -46,6 +36,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Astrop||[docs.astro.build](https://docs.astro.build/fr)|
 |Atom||[flight-manual.atom-editor.cc](https://flight-manual.atom-editor.cc)|
 |Audacity||[manual.audacityteam.org](https://manual.audacityteam.org/index.html)|
+|Audition|Adobe|[helpx.adobe.com/fr/audition/user-guide](https://helpx.adobe.com/fr/audition/user-guide.html)|
 |AuthPass||[authpass.app/docs](https://authpass.app/docs)|
 |Autoconf||[gnu.org/.../autoconf/manual](https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.72/index.html)|
 |Autodesk 3DS Max||[help.autodesk.com](https://help.autodesk.com/FRA/#A-B)|
@@ -73,6 +64,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |CapRover||[caprover.com/docs](https://caprover.com/docs/get-started.html)|
 |CEGUI||[static.cegui.org.uk/docs](http://static.cegui.org.uk/docs)<br>|[cegui.org.uk/wiki](http://cegui.org.uk/wiki)|
 |CentOS||[wiki.centos.org](https://wiki.centos.org)<br>|[docs.centos.org](https://docs.centos.org/en-US/docs)|
+|Character Animator|Adobe|[helpx.adobe.com/fr/adobe-character-animator/user-guide](https://helpx.adobe.com/fr/adobe-character-animator/user-guide.html)|
 |CherryPy||[docs.cherrypy.dev](https://docs.cherrypy.dev/en/latest)|
 |Chkdsk||[learn.microsoft.com/.../chkdsk](https://learn.microsoft.com/fr-fr/windows-server/administration/windows-commands/chkdsk)|
 |Cinema 4D||[help.maxon.net/c4d](https://help.maxon.net/c4d/en-us)|
@@ -126,6 +118,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |DOSBox||[dosbox.com/DOSBoxManual](https://www.dosbox.com/DOSBoxManual.html)|
 |DotNet (.NET)||[learn.microsoft.com/fr-fr/dotnet](https://learn.microsoft.com/fr-fr/dotnet)<br>|[learn.microsoft.com/fr-fr/dotnet/api](https://learn.microsoft.com/fr-fr/dotnet/api)|
 |Doxygen||[doxygen.nl/manual](https://www.doxygen.nl/manual/index.html)|
+|Dreamweaver|Adobe|[helpx.adobe.com/fr/dreamweaver/user-guide](https://helpx.adobe.com/fr/dreamweaver/user-guide.html)|
 |Drupal||[drupal.org/docs/user_guide](https://www.drupal.org/fr/docs/user_guide/fr/index.html)<br>|[drupal.org/docs/official_docs/local-development-guide](https://www.drupal.org/docs/official_docs/local-development-guide)<br>|[drupal.org/documentation](https://www.drupal.org/documentation)|
 |Dune||[dune.readthedocs.io](https://dune.readthedocs.io/en/stable/index.html)|
 |E||[erights.org/#quickstart](http://erights.org/#quickstart)|
@@ -161,6 +154,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |FrankenPHP||[frankenphp.dev/fr/docs](https://frankenphp.dev/fr/docs)|
 |FreeBSD||[docs.freebsd.org](https://docs.freebsd.org/en)|
 |Freemarker||[freemarker.apache.org/docs](https://freemarker.apache.org/docs/index.html)<br>|[freemarker.apache.org/docs/api](https://freemarker.apache.org/docs/api/index.html)|
+|Fresco|Adobe|[helpx.adobe.com/fr/fresco/user-guide](https://helpx.adobe.com/fr/fresco/user-guide.html)|
 |Frida||[frida.re/docs](https://frida.re/docs/home)|
 |Friendly Interactive Shell (_fish_)||[fishshell.com/docs](https://fishshell.com/docs/current/index.html)|
 |Gatsby||[gatsbyjs.com/docs](https://www.gatsbyjs.com/docs)|
@@ -191,6 +185,8 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |HTTP Toolkit||[httptoolkit.com/docs](https://httptoolkit.com/docs)|
 |Idris||[docs.idris-lang.org](https://docs.idris-lang.org/en/latest)|
 |IGDB||[igdb.com/api](https://www.igdb.com/api)|
+|Illustrator|Adobe|[helpx.adobe.com/fr/illustrator/user-guide](https://helpx.adobe.com/fr/illustrator/user-guide.html)|
+|InDesign|Adobe|[helpx.adobe.com/fr/indesign/user-guide](https://helpx.adobe.com/fr/indesign/user-guide.html)|
 |IntelliJ IDEA||[jetbrains.com/help/idea](https://www.jetbrains.com/help/idea)|
 |Ionic Framework||[ionicframework.com/docs](https://ionicframework.com/docs)|
 |iOS||[support.apple.com/fr-fr/docs/iphone](https://support.apple.com/fr-fr/docs/iphone)<br>|[developer.apple.com/documentation](https://developer.apple.com/documentation)|
@@ -224,6 +220,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |LaTeX|||
 |Less|||
 |LibreOffice|||
+|Lightroom|Adobe|[helpx.adobe.com/fr/lightroom-cc/user-guide](https://helpx.adobe.com/fr/lightroom-cc/user-guide.html)|
 |Linode|||
 |Linux|||
 |Lisp|||
@@ -284,6 +281,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |PEAR|||
 |Perl|||
 |Phaser|||
+|Photoshop|Adobe|[helpx.adobe.com/fr/photoshop/user-guide](https://helpx.adobe.com/fr/photoshop/user-guide.html)|
 |PHP|||
 |PHPBB|||
 |PhpStorm||[jetbrains.com/help/phpstorm](https://www.jetbrains.com/help/phpstorm)|
@@ -294,6 +292,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |PowerShell||[learn.microsoft.com/fr-fr/powershell](https://learn.microsoft.com/fr-fr/powershell)|
 |PowerShell Gallery||[learn.microsoft.com/fr-fr/powershell/scripting/gallery](https://learn.microsoft.com/fr-fr/powershell/scripting/gallery/overview)|
 |Premake|||
+|Premiere Pro|Adobe|[helpx.adobe.com/fr/premiere-pro/user-guide](https://helpx.adobe.com/fr/premiere-pro/user-guide.html)|
 |PrestaShop|||
 |Prolog|||
 |Protobuf|||
@@ -382,6 +381,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Writerside||[jetbrains.com/help/writerside](https://www.jetbrains.com/help/writerside)|
 |WxWidgets||[wiki.wxwidgets.org](https://wiki.wxwidgets.org/Main_Page)<br>|[wxwidgets.org/docs](https://wxwidgets.org/docs)|
 |Xcode||[developer.apple.com/documentation/xcode](https://developer.apple.com/documentation/xcode)|
+|XD|Adobe|[helpx.adobe.com/fr/xd/user-guide](https://helpx.adobe.com/fr/xd/user-guide.html)|
 |Xen||[xenproject.org/developers/getting-started-devs](https://xenproject.org/developers/getting-started-devs)|
 |XML||[w3.org/XML](https://www.w3.org/XML)|
 |Yarn||[classic.yarnpkg.com/en/docs](https://classic.yarnpkg.com/en/docs)|
