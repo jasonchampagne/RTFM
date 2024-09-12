@@ -43,6 +43,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Autoconf||[gnu.org/.../autoconf/manual](https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.72/index.html)|
 |AutoHotkey||[autohotkey.com/docs](https://www.autohotkey.com/docs)|
 |AutoIt||[autoitscript.com/autoit3/docs](https://www.autoitscript.com/autoit3/docs)|
+|Backstage|Zoho Corporation|[zoho.com/backstage/help](https://www.zoho.com/backstage/help)|
 |Bitbucket Cloud||[support.atlassian.com/bitbucket-cloud/resources](https://support.atlassian.com/bitbucket-cloud/resources)|
 |Bitcoin||[developer.bitcoin.org](https://developer.bitcoin.org)|
 |Bitly||[dev.bitly.com](https://dev.bitly.com)|
@@ -59,6 +60,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |C#||[learn.microsoft.com/.../csharp](https://learn.microsoft.com/fr-fr/dotnet/csharp/tour-of-csharp)|
 |CakePHP||[book.cakephp.org/5](https://book.cakephp.org/5/fr/index.html)<br>|[api.cakephp.org/5.0](https://api.cakephp.org/5.0)|
 |Calendar|Google|[developers.google.com/calendar/api](https://developers.google.com/calendar/api/guides/overview?hl=fr)|
+|Campaigns|Zoho Corporation|[zoho.com/campaigns/help](https://www.zoho.com/campaigns/help)|
 |CapRover||[caprover.com/docs](https://caprover.com/docs/get-started.html)|
 |CEGUI||[static.cegui.org.uk/docs](http://static.cegui.org.uk/docs)<br>|[cegui.org.uk/wiki](http://cegui.org.uk/wiki)|
 |CentOS||[wiki.centos.org](https://wiki.centos.org)<br>|[docs.centos.org](https://docs.centos.org/en-US/docs)|
@@ -80,8 +82,10 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |CoffeeScript||[coffeescript.org/#languag](https://coffeescript.org/#language)|
 |Coinbase||[coinbase.com/fr-fr/developer-platform](https://www.coinbase.com/fr-fr/developer-platform)|
 |Command Shell||[learn.microsoft.com/.../windows-commands](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)|
+|Commerce|Zoho Corporation|[zoho.com/commerce/help](https://www.zoho.com/commerce/help)|
 |Common Lisp||[lisp-lang.org/learn](https://lisp-lang.org/learn)<br>|[lisp-lang.org/wiki](https://lisp-lang.org/wiki)|
 |Coq||[coq.inria.fr/documentation](https://coq.inria.fr/documentation)|
+|CRM|Zoho Corporation|[zoho.com/fr/crm/resources](https://www.zoho.com/fr/crm/resources)|
 |CryENGINE||[cryengine.com/tutorials](https://www.cryengine.com/tutorials)<br>|[docs.cryengine.com](https://docs.cryengine.com)|
 |Crystal||[crystal-lang.org/reference](https://crystal-lang.org/reference)|
 |C shell (_csh_)||[wikibooks.org/wiki/C_Shell_Scripting](https://en.wikibooks.org/wiki/C_Shell_Scripting)|
@@ -149,6 +153,8 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Flask||[flask.palletsprojects.com](https://flask.palletsprojects.com)|
 |Fleet|JetBrains|[jetbrains.com/help/fleet](https://www.jetbrains.com/help/fleet)|
 |Flutter||[flutter.dev/learn](https://flutter.dev/learn)<br>|[docs.flutter.dev](https://docs.flutter.dev)|
+|Forms|Google||
+|Forms|Zoho Corporation|[zoho.com/forms/help](https://www.zoho.com/forms/help)|
 |Foundation||[get.foundation/learn/tutorials](https://get.foundation/learn/tutorials.html)<br>|[get.foundation/frameworks-docs](https://get.foundation/frameworks-docs.html)|
 |FrankenPHP||[frankenphp.dev/fr/docs](https://frankenphp.dev/fr/docs)|
 |FreeBSD||[docs.freebsd.org](https://docs.freebsd.org/en)|
@@ -214,6 +220,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Kubernetes||[kubernetes.io/fr/docs](https://kubernetes.io/fr/docs/home)|
 |Lago||[docs.getlago.com](https://docs.getlago.com)|
 |Laminas||[docs.laminas.dev](https://docs.laminas.dev)|
+|LandingPage|Zoho Corporation|[zoho.com/landingpage/help](https://www.zoho.com/landingpage/help)|
 |Laravel|||
 |LaTeX|||
 |Less|||
@@ -228,6 +235,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |LXC|||
 |LXD|||
 |Magento|||
+|Mail|Zoho Corporation|[zoho.com/fr/mail/help](https://www.zoho.com/fr/mail/help)|
 |Markdown|||
 |Material-UI|||
 |MATLAB|||
@@ -264,6 +272,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |OCaml|||
 |Octave|||
 |OliveTin||[docs.olivetin.app](https://docs.olivetin.app)|
+|One|Zoho Corporation|[zoho.com/fr/one/guides](https://www.zoho.com/fr/one/guides)|
 |OpenCV|||
 |OpenGL|||
 |OpenLDAP|||
@@ -274,6 +283,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |OrbStack||[docs.orbstack.dev](https://docs.orbstack.dev)|
 |Packer|||
 |Pages CMS||[pagescms.org/docs](https://pagescms.org/docs)|
+|PageSense|Zoho Corporation|[zoho.com/pagesense/help](https://www.zoho.com/pagesense/help)|
 |Pandas||[pandas.pydata.org/docs](https://pandas.pydata.org/docs)|
 |Pascal|||
 |Passport.js|||
@@ -320,6 +330,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |RubyMine|JetBrains|[jetbrains.com/help/ruby](https://www.jetbrains.com/help/ruby)|
 |Rust|||
 |RustRover|JetBrains|[jetbrains.com/help/rust](https://www.jetbrains.com/help/rust)|
+|SalesIQ|Zoho Corporation|[zoho.com/salesiq/help](https://www.zoho.com/salesiq/help)|
 |SaltStack|||
 |Sass|||
 |Scala|||
@@ -328,6 +339,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Sequelize|||
 |Shopify|||
 |Sinatra|||
+|Sites|Zoho Corporation|[zoho.com/sites/resources](https://www.zoho.com/sites/resources.html)|
 |Sketch|||
 |Slack|||
 |SmartFTP||[smartftp.com/fr-fr/support/howto](https://www.smartftp.com/fr-fr/support/howto)<br>|[smartftp.com/static/ftplib/documentation](https://www.smartftp.com/static/ftplib/documentation/html/frames.html)|
@@ -389,15 +401,4 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |YouTube||[developers.google.com/youtube/documentation](https://developers.google.com/youtube/documentation?hl=fr)<br>|[developers.google.com/youtube/v3/docs](https://developers.google.com/youtube/v3/docs?hl=fr)|
 |Zephyr||[docs.zephyrproject.org](https://docs.zephyrproject.org/latest/index.html)|
 |Zig||[ziglang.org/documentation](https://ziglang.org/documentation/master)|
-|Zoho Backstage||[zoho.com/backstage/help](https://www.zoho.com/backstage/help)|
-|Zoho Campaigns||[zoho.com/campaigns/help](https://www.zoho.com/campaigns/help)|
-|Zoho Commerce||[zoho.com/commerce/help](https://www.zoho.com/commerce/help)|
-|Zoho CRM||[zoho.com/fr/crm/resources](https://www.zoho.com/fr/crm/resources)|
-|Zoho Forms||[zoho.com/forms/help](https://www.zoho.com/forms/help)|
-|Zoho LandingPage||[zoho.com/landingpage/help](https://www.zoho.com/landingpage/help)|
-|Zoho Mail||[zoho.com/fr/mail/help](https://www.zoho.com/fr/mail/help)|
-|Zoho One||[zoho.com/fr/one/guides](https://www.zoho.com/fr/one/guides)|
-|Zoho PageSense||[zoho.com/pagesense/help](https://www.zoho.com/pagesense/help)|
-|Zoho SalesIQ||[zoho.com/salesiq/help](https://www.zoho.com/salesiq/help)|
-|Zoho Sites||[zoho.com/sites/resources](https://www.zoho.com/sites/resources.html)|
 |Z shell (_zsh_)||[zsh.sourceforge.io/Guide](https://zsh.sourceforge.io/Guide)<br>|[zsh.sourceforge.io/Doc](https://zsh.sourceforge.io/Doc)|
