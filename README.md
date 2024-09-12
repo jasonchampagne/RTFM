@@ -391,10 +391,10 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |WordPress||[wordpress.org/support](https://fr.wordpress.org/support)|
 |World of Warcraft|Blizzard|[develop.battle.net/.../world-of-warcraft/game-data-apis](https://develop.battle.net/documentation/world-of-warcraft/game-data-apis)<br>|[develop.battle.net/.../world-of-warcraft/profile-apis](https://develop.battle.net/documentation/world-of-warcraft/profile-apis)|
 |Writerside|JetBrains|[jetbrains.com/help/writerside](https://www.jetbrains.com/help/writerside)|
-|WxWidgets||[wiki.wxwidgets.org](https://wiki.wxwidgets.org/Main_Page)<br>|[wxwidgets.org/docs](https://wxwidgets.org/docs)|
+|wxWidgets|Robin Dunn<br>Václav Slavík<br>Vadim Zeitlin|[wiki.wxwidgets.org](https://wiki.wxwidgets.org/Main_Page)<br>|[wxwidgets.org/docs](https://wxwidgets.org/docs)|
 |Xcode|Apple|[developer.apple.com/documentation/xcode](https://developer.apple.com/documentation/xcode)|
 |XD|Adobe|[helpx.adobe.com/fr/xd/user-guide](https://helpx.adobe.com/fr/xd/user-guide.html)|
-|Xen||[xenproject.org/developers/getting-started-devs](https://xenproject.org/developers/getting-started-devs)|
+|Xen|Fondation Linux|[xenproject.org/developers/getting-started-devs](https://xenproject.org/developers/getting-started-devs)|
 |XML|W3C|[w3.org/XML](https://www.w3.org/XML)|
 |Yarn|Meta|[classic.yarnpkg.com/en/docs](https://classic.yarnpkg.com/en/docs)|
 |Yii|Yii Developper Team|[yiiframework.com/wiki](https://www.yiiframework.com/wiki)<br>|[yiiframework.com/doc/api/2.0](https://www.yiiframework.com/doc/api/2.0)|
