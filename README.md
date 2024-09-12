@@ -26,7 +26,6 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Angular|Google|[angular.io/docs](https://angular.io/docs)|
 |Animate|Adobe|[helpx.adobe.com/fr/animate/user-guide](https://helpx.adobe.com/fr/animate/user-guide.html)|
 |Ansible||[docs.ansible.com](https://docs.ansible.com/ansible/latest/index.html)|
-|Apache HTTP Server||[httpd.apache.org/docs](https://httpd.apache.org/docs)|
 |Aqua||[jetbrains.com/help/aqua](https://www.jetbrains.com/help/aqua)|
 |ArchLinux||[wiki.archlinux.org](https://wiki.archlinux.org/title/Main_page_(Fran%C3%A7ais))|
 |Ardour||[manual.ardour.org](https://manual.ardour.org/toc)|
@@ -180,6 +179,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Hugo||[gohugo.io/documentation](https://gohugo.io/documentation)|
 |HTML||[html.spec.whatwg.org](https://html.spec.whatwg.org/multipage)<br>|[developer.mozilla.org/fr/docs/Web/HTML](https://developer.mozilla.org/fr/docs/Web/HTML)|
 |HTTP||[httpwg.org/specs](https://httpwg.org/specs)|
+|HTTP Server|Apache Software Foundation|[httpd.apache.org/docs](https://httpd.apache.org/docs)|
 |HTTP Toolkit||[httptoolkit.com/docs](https://httptoolkit.com/docs)|
 |Idris||[docs.idris-lang.org](https://docs.idris-lang.org/en/latest)|
 |IGDB||[igdb.com/api](https://www.igdb.com/api)|
