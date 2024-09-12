@@ -386,9 +386,9 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Web Services|Amazon|[docs.aws.amazon.com](https://docs.aws.amazon.com)|
 |WebSocket||[websockets.spec.whatwg.org](https://websockets.spec.whatwg.org)|
 |WebStorm|JetBrains|[jetbrains.com/help/webstorm](https://www.jetbrains.com/help/webstorm/meet-webstorm.html)|
-|Wireshark||[wireshark.org/learn](https://www.wireshark.org/learn)<br>|[wireshark.org/docs](https://www.wireshark.org/docs/wsdg_html_chunked)|
-|WooCommerce||[woocommerce.com/documentation](https://woocommerce.com/documentation/woocommerce)|
-|WordPress||[wordpress.org/support](https://fr.wordpress.org/support)|
+|Wireshark|Projet Wireshark|[wireshark.org/learn](https://www.wireshark.org/learn)<br>|[wireshark.org/docs](https://www.wireshark.org/docs/wsdg_html_chunked)|
+|WooCommerce|James Koster<br>Mike Jolley|[woocommerce.com/documentation](https://woocommerce.com/documentation/woocommerce)|
+|WordPress|WordPress Foundation|[wordpress.org/support](https://fr.wordpress.org/support)|
 |World of Warcraft|Blizzard|[develop.battle.net/.../world-of-warcraft/game-data-apis](https://develop.battle.net/documentation/world-of-warcraft/game-data-apis)<br>|[develop.battle.net/.../world-of-warcraft/profile-apis](https://develop.battle.net/documentation/world-of-warcraft/profile-apis)|
 |Writerside|JetBrains|[jetbrains.com/help/writerside](https://www.jetbrains.com/help/writerside)|
 |wxWidgets|Robin Dunn<br>Václav Slavík<br>Vadim Zeitlin|[wiki.wxwidgets.org](https://wiki.wxwidgets.org/Main_Page)<br>|[wxwidgets.org/docs](https://wxwidgets.org/docs)|
