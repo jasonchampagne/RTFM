@@ -185,20 +185,6 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |HTTP Toolkit|[httptoolkit.com/docs](https://httptoolkit.com/docs)|
 |Idris|[docs.idris-lang.org](https://docs.idris-lang.org/en/latest)|
 |IGDB|[igdb.com/api](https://www.igdb.com/api)|
-|IntelliJ Aqua|[jetbrains.com/help/aqua](https://www.jetbrains.com/help/aqua)|
-|IntelliJ CLion|[jetbrains.com/help/clion](https://www.jetbrains.com/help/clion)|
-|IntelliJ DataGrip|[jetbrains.com/help/datagrip](https://www.jetbrains.com/help/datagrip)|
-|IntelliJ DataSpell|[jetbrains.com/help/dataspell](https://www.jetbrains.com/help/dataspell)|
-|IntelliJ Fleet|[jetbrains.com/help/fleet](https://www.jetbrains.com/help/fleet)|
-|IntelliJ GoLand|[jetbrains.com/help/go](https://www.jetbrains.com/help/go)|
-|IntelliJ IDEA|[jetbrains.com/help/idea](https://www.jetbrains.com/help/idea)|
-|IntelliJ PhpStorm|[jetbrains.com/help/phpstorm](https://www.jetbrains.com/help/phpstorm)|
-|IntelliJ PyCharm|[jetbrains.com/help/pycharm](https://www.jetbrains.com/help/pycharm)|
-|IntelliJ Rider|[jetbrains.com/help/rider](https://www.jetbrains.com/help/rider)|
-|IntelliJ RubyMine|[jetbrains.com/help/ruby](https://www.jetbrains.com/help/ruby)|
-|IntelliJ RustRover|[jetbrains.com/help/rust](https://www.jetbrains.com/help/rust)|
-|IntelliJ WebStorm|[jetbrains.com/help/webstorm](https://www.jetbrains.com/help/webstorm/meet-webstorm.html)|
-|IntelliJ Writerside|[jetbrains.com/help/writerside](https://www.jetbrains.com/help/writerside)|
 |Ionic Framework||
 |IOS||
 |IPFS||
@@ -207,6 +193,22 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Jekyll|[jekyllrb.com/docs](https://jekyllrb.com/docs)|
 |Jenkins||
 |Jest||
+|JetBrains Aqua|[jetbrains.com/help/aqua](https://www.jetbrains.com/help/aqua)|
+|JetBrains CLion|[jetbrains.com/help/clion](https://www.jetbrains.com/help/clion)|
+|JetBrains DataGrip|[jetbrains.com/help/datagrip](https://www.jetbrains.com/help/datagrip)|
+|JetBrains DataSpell|[jetbrains.com/help/dataspell](https://www.jetbrains.com/help/dataspell)|
+|JetBrains Fleet|[jetbrains.com/help/fleet](https://www.jetbrains.com/help/fleet)|
+|JetBrains GoLand|[jetbrains.com/help/go](https://www.jetbrains.com/help/go)|
+|JetBrains IntelliJ IDEA|[jetbrains.com/help/idea](https://www.jetbrains.com/help/idea)|
+|JetBrains Kotlin|[kotlinlang.org/docs](https://kotlinlang.org/docs/home.htm)|
+|JetBrains MPS|[jetbrains.com/help/mps](https://www.jetbrains.com/help/mps)|
+|JetBrains PhpStorm|[jetbrains.com/help/phpstorm](https://www.jetbrains.com/help/phpstorm)|
+|JetBrains PyCharm|[jetbrains.com/help/pycharm](https://www.jetbrains.com/help/pycharm)|
+|JetBrains Rider|[jetbrains.com/help/rider](https://www.jetbrains.com/help/rider)|
+|JetBrains RubyMine|[jetbrains.com/help/ruby](https://www.jetbrains.com/help/ruby)|
+|JetBrains RustRover|[jetbrains.com/help/rust](https://www.jetbrains.com/help/rust)|
+|JetBrains WebStorm|[jetbrains.com/help/webstorm](https://www.jetbrains.com/help/webstorm/meet-webstorm.html)|
+|JetBrains Writerside|[jetbrains.com/help/writerside](https://www.jetbrains.com/help/writerside)|
 |Jira||
 |Jekyll||
 |JQuery||
@@ -221,7 +223,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |KeePassXC|[keepassxc.org/docs/KeePassXC_UserGuide](https://keepassxc.org/docs/KeePassXC_UserGuide)|
 |KOReader|[koreader.rocks/user_guide](https://koreader.rocks/user_guide)<br>[github.com/koreader/koreader/wiki](https://github.com/koreader/koreader/wiki)<br>[koreader.rocks/doc](https://koreader.rocks/doc)|
 |Korn shell (_ksh_)|[kornshell.com/doc](http://kornshell.com/doc)|
-|Kotlin||
+|Ktor|[ktor.io/docs](https://ktor.io/docs/welcome.html)|
 |Kubernetes||
 |Lago|[docs.getlago.com](https://docs.getlago.com)|
 |Laminas|[docs.laminas.dev](https://docs.laminas.dev)|
