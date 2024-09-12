@@ -187,18 +187,18 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |IGDB|[igdb.com/api](https://www.igdb.com/api)|
 |IntelliJ Aqua|[jetbrains.com/help/aqua](https://www.jetbrains.com/help/aqua)|
 |IntelliJ CLion|[jetbrains.com/help/clion](https://www.jetbrains.com/help/clion)|
-|IntelliJ DataGrip|[jetbrains.com/help/clion](https://www.jetbrains.com/help/datagrip)|
-|IntelliJ DataSpell|[jetbrains.com/help/clion](https://www.jetbrains.com/help/dataspell)|
-|IntelliJ Fleet|[jetbrains.com/help/clion](https://www.jetbrains.com/help/fleet)|
-|IntelliJ GoLand|[jetbrains.com/help/clion](https://www.jetbrains.com/help/goland)|
+|IntelliJ DataGrip|[jetbrains.com/help/datagrip](https://www.jetbrains.com/help/datagrip)|
+|IntelliJ DataSpell|[jetbrains.com/help/dataspell](https://www.jetbrains.com/help/dataspell)|
+|IntelliJ Fleet|[jetbrains.com/help/fleet](https://www.jetbrains.com/help/fleet)|
+|IntelliJ GoLand|[jetbrains.com/help/goland](https://www.jetbrains.com/help/goland)|
 |IntelliJ IDEA|[jetbrains.com/help/idea](https://www.jetbrains.com/help/idea/getting-started.html)|
-|IntelliJ PhpStorm|[jetbrains.com/help/clion](https://www.jetbrains.com/help/phpstorm)|
-|IntelliJ PyCharm|[jetbrains.com/help/clion](https://www.jetbrains.com/help/pycharm)|
-|IntelliJ Rider|[jetbrains.com/help/clion](https://www.jetbrains.com/help/rider)|
-|IntelliJ RubyMine|[jetbrains.com/help/clion](https://www.jetbrains.com/help/rubymine)|
-|IntelliJ RustRover|[jetbrains.com/help/clion](https://www.jetbrains.com/help/rustrover)|
+|IntelliJ PhpStorm|[jetbrains.com/help/phpstorm](https://www.jetbrains.com/help/phpstorm)|
+|IntelliJ PyCharm|[jetbrains.com/help/pycharm](https://www.jetbrains.com/help/pycharm)|
+|IntelliJ Rider|[jetbrains.com/help/rider](https://www.jetbrains.com/help/rider)|
+|IntelliJ RubyMine|[jetbrains.com/help/rubymine](https://www.jetbrains.com/help/rubymine)|
+|IntelliJ RustRover|[jetbrains.com/help/rustrover](https://www.jetbrains.com/help/rustrover)|
 |IntelliJ WebStorm|[jetbrains.com/help/webstorm](https://www.jetbrains.com/help/webstorm/meet-webstorm.html)|
-|IntelliJ Writerside|[jetbrains.com/help/clion](https://www.jetbrains.com/help/writerside)|
+|IntelliJ Writerside|[jetbrains.com/help/writerside](https://www.jetbrains.com/help/writerside)|
 |Ionic Framework||
 |IOS||
 |IPFS||
