@@ -43,6 +43,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Autoconf||[gnu.org/.../autoconf/manual](https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.72/index.html)|
 |AutoHotkey||[autohotkey.com/docs](https://www.autohotkey.com/docs)|
 |AutoIt||[autoitscript.com/autoit3/docs](https://www.autoitscript.com/autoit3/docs)|
+|Azure|Microsoft|[learn.microsoft.com/fr-fr/azure](https://learn.microsoft.com/fr-fr/azure)|
 |Backstage|Zoho Corporation|[zoho.com/backstage/help](https://www.zoho.com/backstage/help)|
 |Bitbucket Cloud||[support.atlassian.com/bitbucket-cloud/resources](https://support.atlassian.com/bitbucket-cloud/resources)|
 |Bitcoin||[developer.bitcoin.org](https://developer.bitcoin.org)|
@@ -66,13 +67,13 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |CentOS||[wiki.centos.org](https://wiki.centos.org)<br>|[docs.centos.org](https://docs.centos.org/en-US/docs)|
 |Character Animator|Adobe|[helpx.adobe.com/fr/adobe-character-animator/user-guide](https://helpx.adobe.com/fr/adobe-character-animator/user-guide.html)|
 |CherryPy||[docs.cherrypy.dev](https://docs.cherrypy.dev/en/latest)|
-|Chkdsk||[learn.microsoft.com/.../chkdsk](https://learn.microsoft.com/fr-fr/windows-server/administration/windows-commands/chkdsk)|
+|Chkdsk|Microsoft|[learn.microsoft.com/.../chkdsk](https://learn.microsoft.com/fr-fr/windows-server/administration/windows-commands/chkdsk)|
 |Cinema 4D||[help.maxon.net/c4d](https://help.maxon.net/c4d/en-us)|
 |Civil 3D|Autodesk|[help.autodesk.com](https://help.autodesk.com/FRA/#C-H)|
 |ClamAV||[docs.clamav.net](https://docs.clamav.net)|
 |Clang||[clang.llvm.org/docs/UsersManual](https://clang.llvm.org/docs/UsersManual.html)|
 |CLion|JetBrains|[jetbrains.com/help/clion](https://www.jetbrains.com/help/clion)|
-|Clip Studio Paint||[tips.clip-studio.com](https://tips.clip-studio.com/fr-fr/official)|
+|Clip Studio Paint|Celsys|[tips.clip-studio.com](https://tips.clip-studio.com/fr-fr/official)|
 |Clojure||[clojure.org/reference](https://clojure.org/reference/reader)<br>|[clojure.org/api](https://clojure.org/api/api)|
 |Cloudflare||[developers.cloudflare.com](https://developers.cloudflare.com)<br>|[developers.cloudflare.com/api](https://developers.cloudflare.com/api)|
 |CMake||[cmake.org/documentation](https://cmake.org/documentation)|
@@ -81,7 +82,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Codon||[docs.exaloop.io/codon](https://docs.exaloop.io/codon)|
 |CoffeeScript||[coffeescript.org/#languag](https://coffeescript.org/#language)|
 |Coinbase||[coinbase.com/fr-fr/developer-platform](https://www.coinbase.com/fr-fr/developer-platform)|
-|Command Shell||[learn.microsoft.com/.../windows-commands](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)|
+|Command Shell|Microsoft|[learn.microsoft.com/.../windows-commands](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)|
 |Commerce|Zoho Corporation|[zoho.com/commerce/help](https://www.zoho.com/commerce/help)|
 |Common Lisp||[lisp-lang.org/learn](https://lisp-lang.org/learn)<br>|[lisp-lang.org/wiki](https://lisp-lang.org/wiki)|
 |Coq||[coq.inria.fr/documentation](https://coq.inria.fr/documentation)|
@@ -135,11 +136,11 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Emacs||[gnu.org/software/emacs/documentation](https://www.gnu.org/software/emacs/documentation.html)|
 |Ember.js||[guides.emberjs.com](https://guides.emberjs.com/release)<br>|[api.emberjs.com](https://api.emberjs.com/ember/release)|
 |Emscripten||[emscripten.org/docs](https://emscripten.org/docs/index.html)|
-|Entity Framework||[learn.microsoft.com/fr-fr/ef](https://learn.microsoft.com/fr-fr/ef)|
+|Entity Framework|Microsoft|[learn.microsoft.com/fr-fr/ef](https://learn.microsoft.com/fr-fr/ef)|
 |Erlang||[erlang.org/docs](https://www.erlang.org/docs)|
 |ESLint||[eslint.org/docs](https://eslint.org/docs/latest)|
 |Ethereum||[ethereum.org/fr/developers/docs](https://ethereum.org/fr/developers/docs)|
-|Excel||[support.microsoft.com/fr-FR/excel](https://support.microsoft.com/fr-FR/excel)|
+|Excel|Microsoft|[support.microsoft.com/fr-FR/excel](https://support.microsoft.com/fr-FR/excel)|
 |Express.js||[expressjs.com/en/starter](https://expressjs.com/en/starter/installing.html)<br>|[expressjs.com/en/guide](https://expressjs.com/en/guide/routing.html)<br>|[expressjs.com/en/4x/api](https://expressjs.com/en/4x/api.html)|
 |F*||[fstar-lang.org/tutorial/proof-oriented-programming-in-fstar](https://www.fstar-lang.org/tutorial/proof-oriented-programming-in-fstar.pdf)|
 |F#|Microsoft|[learn.microsoft.com/fr-fr/dotnet/fsharp](https://learn.microsoft.com/fr-fr/dotnet/fsharp)|
@@ -244,7 +245,6 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Mercurial|||
 |Meson|||
 |Meteor|||
-|Microsoft Azure||[learn.microsoft.com/fr-fr/azure](https://learn.microsoft.com/fr-fr/azure)|
 |MinGW-w64|||
 |Mistral AI||[docs.mistral.ai](https://docs.mistral.ai)|
 |ML|||
@@ -298,8 +298,8 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |PIP|||
 |Planka||[docs.planka.cloud](https://docs.planka.cloud/docs/intro)|
 |PostgreSQL|||
-|PowerShell||[learn.microsoft.com/fr-fr/powershell](https://learn.microsoft.com/fr-fr/powershell)|
-|PowerShell Gallery||[learn.microsoft.com/fr-fr/powershell/scripting/gallery](https://learn.microsoft.com/fr-fr/powershell/scripting/gallery/overview)|
+|PowerShell|Microsoft|[learn.microsoft.com/fr-fr/powershell](https://learn.microsoft.com/fr-fr/powershell)|
+|PowerShell Gallery|Microsoft|[learn.microsoft.com/fr-fr/powershell/scripting/gallery](https://learn.microsoft.com/fr-fr/powershell/scripting/gallery/overview)|
 |Premake|||
 |Premiere Pro|Adobe|[helpx.adobe.com/fr/premiere-pro/user-guide](https://helpx.adobe.com/fr/premiere-pro/user-guide.html)|
 |PrestaShop|||
