@@ -185,20 +185,20 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |HTTP Toolkit|[httptoolkit.com/docs](https://httptoolkit.com/docs)|
 |Idris|[docs.idris-lang.org](https://docs.idris-lang.org/en/latest)|
 |IGDB|[igdb.com/api](https://www.igdb.com/api)|
-|IntelliJ Aqua||
-|IntelliJ CLion||
-|IntelliJ DataGrip||
-|IntelliJ DataSpell||
-|IntelliJ Fleet||
-|IntelliJ GoLand||
+|IntelliJ Aqua|[jetbrains.com/help/aqua](https://www.jetbrains.com/help/aqua)|
+|IntelliJ CLion|[jetbrains.com/help/clion](https://www.jetbrains.com/help/clion)|
+|IntelliJ DataGrip|[jetbrains.com/help/clion](https://www.jetbrains.com/help/datagrip)|
+|IntelliJ DataSpell|[jetbrains.com/help/clion](https://www.jetbrains.com/help/dataspell)|
+|IntelliJ Fleet|[jetbrains.com/help/clion](https://www.jetbrains.com/help/fleet)|
+|IntelliJ GoLand|[jetbrains.com/help/clion](https://www.jetbrains.com/help/goland)|
 |IntelliJ IDEA|[jetbrains.com/help/idea](https://www.jetbrains.com/help/idea/getting-started.html)|
-|IntelliJ PhpStorm||
-|IntelliJ PyCharm||
-|IntelliJ Rider||
-|IntelliJ RubyMine||
-|IntelliJ RustRover||
+|IntelliJ PhpStorm|[jetbrains.com/help/clion](https://www.jetbrains.com/help/phpstorm)|
+|IntelliJ PyCharm|[jetbrains.com/help/clion](https://www.jetbrains.com/help/pycharm)|
+|IntelliJ Rider|[jetbrains.com/help/clion](https://www.jetbrains.com/help/rider)|
+|IntelliJ RubyMine|[jetbrains.com/help/clion](https://www.jetbrains.com/help/rubymine)|
+|IntelliJ RustRover|[jetbrains.com/help/clion](https://www.jetbrains.com/help/rustrover)|
 |IntelliJ WebStorm|[jetbrains.com/help/webstorm](https://www.jetbrains.com/help/webstorm/meet-webstorm.html)|
-|IntelliJ Writerside||
+|IntelliJ Writerside|[jetbrains.com/help/clion](https://www.jetbrains.com/help/writerside)|
 |Ionic Framework||
 |IOS||
 |IPFS||
