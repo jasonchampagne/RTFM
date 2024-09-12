@@ -33,7 +33,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Arduino||[arduino.cc/reference](https://www.arduino.cc/reference)|
 |Aria2||[aria2.github.io/manual](https://aria2.github.io/manual/en/html/index.html)|
 |AsciiDoc||[docs.asciidoctor.org](https://docs.asciidoctor.org/asciidoc/latest)|
-|ASP.NET||[learn.microsoft.com/fr-fr/aspnet](https://learn.microsoft.com/fr-fr/aspnet/core)|
+|ASP.NET|Microsoft|[learn.microsoft.com/fr-fr/aspnet](https://learn.microsoft.com/fr-fr/aspnet/core)|
 |Astrop||[docs.astro.build](https://docs.astro.build/fr)|
 |Atom||[flight-manual.atom-editor.cc](https://flight-manual.atom-editor.cc)|
 |Audacity||[manual.audacityteam.org](https://manual.audacityteam.org/index.html)|
