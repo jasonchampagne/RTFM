@@ -151,6 +151,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Figma||[figma.com/developers](https://www.figma.com/developers)|
 |FileZilla||[wiki.filezilla-project.org](https://wiki.filezilla-project.org/Main_Page)|
 |Firebase||[firebase.google.com/docs](https://firebase.google.com/docs)|
+|Firefox|Mozilla Foundation|[firefox-source-docs.mozilla.org](https://firefox-source-docs.mozilla.org)|
 |Flask||[flask.palletsprojects.com](https://flask.palletsprojects.com)|
 |Fleet|JetBrains|[jetbrains.com/help/fleet](https://www.jetbrains.com/help/fleet)|
 |Flutter||[flutter.dev/learn](https://flutter.dev/learn)<br>|[docs.flutter.dev](https://docs.flutter.dev)|
@@ -379,9 +380,9 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |VVVV||[thegraybook.vvvv.org](https://thegraybook.vvvv.org)|
 |WampServer||[wampserver.com](https://www.wampserver.com/?lang=fr#begin-wrapper)|
 |Waydroid||[docs.waydro.id](https://docs.waydro.id)|
-|WebAssembly||[webassembly.org/getting-started/developers-guide](https://webassembly.org/getting-started/developers-guide)|
-|WebExtensions||[developer.mozilla.org/fr/docs/Mozilla/Add-ons/WebExtensions](https://developer.mozilla.org/fr/docs/Mozilla/Add-ons/WebExtensions/What_are_WebExtensions)|
-|WebGL||[khronos.org/developers/reference-cards](https://www.khronos.org/developers/reference-cards)<br>|[developer.mozilla.org/fr/docs/Web/API/WebGL_API](https://developer.mozilla.org/fr/docs/Web/API/WebGL_API)|
+|WebAssembly|Apple<br>Google<br>Microsoft<br>Mozilla Foundation<br>W3C|[webassembly.org/getting-started/developers-guide](https://webassembly.org/getting-started/developers-guide)|
+|WebExtensions|Mozilla Foundation|[developer.mozilla.org/fr/docs/Mozilla/Add-ons/WebExtensions](https://developer.mozilla.org/fr/docs/Mozilla/Add-ons/WebExtensions/What_are_WebExtensions)|
+|WebGL|WebGL Working Group|[khronos.org/developers/reference-cards](https://www.khronos.org/developers/reference-cards)<br>|[developer.mozilla.org/fr/docs/Web/API/WebGL_API](https://developer.mozilla.org/fr/docs/Web/API/WebGL_API)|
 |Webpack|Johannes Ewald<br>Juho Vepsäläinen<br>Kees Kluskens<br>Sean Larkin<br>Tobias Koppers|[webpack.js.org/concepts](https://webpack.js.org/concepts)|
 |Web Services|Amazon|[docs.aws.amazon.com](https://docs.aws.amazon.com)|
 |WebSocket|IETF|[websockets.spec.whatwg.org](https://websockets.spec.whatwg.org)|
