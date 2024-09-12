@@ -15,6 +15,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Acrobat|Adobe|[helpx.adobe.com/fr/acrobat/user-guide](https://helpx.adobe.com/fr/acrobat/user-guide.html)|
 |Ada|Cii Honeywell Bull|[adacore.com/documentation](https://www.adacore.com/documentation)|
 |AdonisJS|Harminder Virk|[docs.adonisjs.com/guides](https://docs.adonisjs.com/guides/introduction)|
+|Ads|Google|[support.google.com/google-ads](https://support.google.com/google-ads/answer/6146252)<br>|[developers.google.com/google-ads/api](https://developers.google.com/google-ads/api/docs/start?hl=fr)|
 |Advance Steel|Autodesk|[help.autodesk.com](https://help.autodesk.com/FRA/#A-B)|
 |Affinity Designer|Serif Europe|[affinity.serif.com/fr/learn/designer](https://affinity.serif.com/fr/learn/designer/desktop)|
 |Affinity Photo|Serif Europe|[affinity.serif.com/fr/learn/photo](https://affinity.serif.com/fr/learn/photo/desktop)|
@@ -26,7 +27,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Angular|Google|[angular.io/docs](https://angular.io/docs)|
 |Animate|Adobe|[helpx.adobe.com/fr/animate/user-guide](https://helpx.adobe.com/fr/animate/user-guide.html)|
 |Ansible||[docs.ansible.com](https://docs.ansible.com/ansible/latest/index.html)|
-|Aqua||[jetbrains.com/help/aqua](https://www.jetbrains.com/help/aqua)|
+|Aqua|JetBrains|[jetbrains.com/help/aqua](https://www.jetbrains.com/help/aqua)|
 |ArchLinux||[wiki.archlinux.org](https://wiki.archlinux.org/title/Main_page_(Fran%C3%A7ais))|
 |Ardour||[manual.ardour.org](https://manual.ardour.org/toc)|
 |Arduino||[arduino.cc/reference](https://www.arduino.cc/reference)|
@@ -57,6 +58,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |C++||[cppreference.com/w](https://en.cppreference.com/w)|
 |C#||[learn.microsoft.com/.../csharp](https://learn.microsoft.com/fr-fr/dotnet/csharp/tour-of-csharp)|
 |CakePHP||[book.cakephp.org/5](https://book.cakephp.org/5/fr/index.html)<br>|[api.cakephp.org/5.0](https://api.cakephp.org/5.0)|
+|Calendar|Google|[developers.google.com/calendar/api](https://developers.google.com/calendar/api/guides/overview?hl=fr)|
 |CapRover||[caprover.com/docs](https://caprover.com/docs/get-started.html)|
 |CEGUI||[static.cegui.org.uk/docs](http://static.cegui.org.uk/docs)<br>|[cegui.org.uk/wiki](http://cegui.org.uk/wiki)|
 |CentOS||[wiki.centos.org](https://wiki.centos.org)<br>|[docs.centos.org](https://docs.centos.org/en-US/docs)|
@@ -67,7 +69,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Civil 3D|Autodesk|[help.autodesk.com](https://help.autodesk.com/FRA/#C-H)|
 |ClamAV||[docs.clamav.net](https://docs.clamav.net)|
 |Clang||[clang.llvm.org/docs/UsersManual](https://clang.llvm.org/docs/UsersManual.html)|
-|CLion||[jetbrains.com/help/clion](https://www.jetbrains.com/help/clion)|
+|CLion|JetBrains|[jetbrains.com/help/clion](https://www.jetbrains.com/help/clion)|
 |Clip Studio Paint||[tips.clip-studio.com](https://tips.clip-studio.com/fr-fr/official)|
 |Clojure||[clojure.org/reference](https://clojure.org/reference/reader)<br>|[clojure.org/api](https://clojure.org/api/api)|
 |Cloudflare||[developers.cloudflare.com](https://developers.cloudflare.com)<br>|[developers.cloudflare.com/api](https://developers.cloudflare.com/api)|
@@ -93,8 +95,8 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |DahliaOS||[docs.dahliaos.io](https://docs.dahliaos.io)|
 |Darktable||[docs.darktable.org/usermanual](https://docs.darktable.org/usermanual)|
 |Dart||[dart.dev/guides](https://dart.dev/guides)|
-|DataGrip||[jetbrains.com/help/datagrip](https://www.jetbrains.com/help/datagrip)|
-|DataSpell||[jetbrains.com/help/dataspell](https://www.jetbrains.com/help/dataspell)|
+|DataGrip|JetBrains|[jetbrains.com/help/datagrip](https://www.jetbrains.com/help/datagrip)|
+|DataSpell|JetBrains|[jetbrains.com/help/dataspell](https://www.jetbrains.com/help/dataspell)|
 |DaVinci Resolve|Blackmagic Design|[blackmagicdesign.com/.../DaVinci_Resolve_19_Reference_Manual](https://documents.blackmagicdesign.com/UserManuals/DaVinci_Resolve_19_Reference_Manual.pdf)|
 |Daz3D||[daz3d.com/help/help-daz-3d-video-tutorials](https://www.daz3d.com/help/help-daz-3d-video-tutorials)|
 |DB2||[ibm.com/docs/en/db2](https://www.ibm.com/docs/en/db2)|
@@ -145,7 +147,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |FileZilla||[wiki.filezilla-project.org](https://wiki.filezilla-project.org/Main_Page)|
 |Firebase||[firebase.google.com/docs](https://firebase.google.com/docs)|
 |Flask||[flask.palletsprojects.com](https://flask.palletsprojects.com)|
-|Fleet||[jetbrains.com/help/fleet](https://www.jetbrains.com/help/fleet)|
+|Fleet|JetBrains|[jetbrains.com/help/fleet](https://www.jetbrains.com/help/fleet)|
 |Flutter||[flutter.dev/learn](https://flutter.dev/learn)<br>|[docs.flutter.dev](https://docs.flutter.dev)|
 |Foundation||[get.foundation/learn/tutorials](https://get.foundation/learn/tutorials.html)<br>|[get.foundation/frameworks-docs](https://get.foundation/frameworks-docs.html)|
 |FrankenPHP||[frankenphp.dev/fr/docs](https://frankenphp.dev/fr/docs)|
@@ -164,9 +166,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Git||[git-scm.com/doc](https://git-scm.com/doc)|
 |Go||[go.dev/doc/effective_go](https://go.dev/doc/effective_go)|
 |Godot Engine||[docs.godotengine.org](https://docs.godotengine.org/en/stable)|
-|GoLand||[jetbrains.com/help/go](https://www.jetbrains.com/help/go)|
-|Google Ads||[support.google.com/google-ads](https://support.google.com/google-ads/answer/6146252)<br>|[developers.google.com/google-ads/api](https://developers.google.com/google-ads/api/docs/start?hl=fr)|
-|Google Calendar||[developers.google.com/calendar/api](https://developers.google.com/calendar/api/guides/overview?hl=fr)|
+|GoLand|JetBrains|[jetbrains.com/help/go](https://www.jetbrains.com/help/go)|
 |Gradle||[docs.gradle.org](https://docs.gradle.org)|
 |GraphQL||[graphql.org/learn](https://graphql.org/learn)|
 |Grav||[learn.getgrav.org](https://learn.getgrav.org)|
@@ -185,7 +185,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |IGDB||[igdb.com/api](https://www.igdb.com/api)|
 |Illustrator|Adobe|[helpx.adobe.com/fr/illustrator/user-guide](https://helpx.adobe.com/fr/illustrator/user-guide.html)|
 |InDesign|Adobe|[helpx.adobe.com/fr/indesign/user-guide](https://helpx.adobe.com/fr/indesign/user-guide.html)|
-|IntelliJ IDEA||[jetbrains.com/help/idea](https://www.jetbrains.com/help/idea)|
+|IntelliJ IDEA|JetBrains|[jetbrains.com/help/idea](https://www.jetbrains.com/help/idea)|
 |Ionic Framework||[ionicframework.com/docs](https://ionicframework.com/docs)|
 |iOS||[support.apple.com/fr-fr/docs/iphone](https://support.apple.com/fr-fr/docs/iphone)<br>|[developer.apple.com/documentation](https://developer.apple.com/documentation)|
 |IPFS||[docs.ipfs.tech](https://docs.ipfs.tech)|
@@ -209,7 +209,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |KeePassXC||[keepassxc.org/docs/KeePassXC_UserGuide](https://keepassxc.org/docs/KeePassXC_UserGuide)|
 |KOReader||[koreader.rocks/user_guide](https://koreader.rocks/user_guide)<br>|[github.com/koreader/koreader/wiki](https://github.com/koreader/koreader/wiki)<br>|[koreader.rocks/doc](https://koreader.rocks/doc)|
 |Korn shell (_ksh_)||[kornshell.com/doc](http://kornshell.com/doc)|
-|Kotlin||[kotlinlang.org/docs](https://kotlinlang.org/docs/home.htm)|
+|Kotlin|JetBrains|[kotlinlang.org/docs](https://kotlinlang.org/docs/home.htm)|
 |Ktor||[ktor.io/docs](https://ktor.io/docs/welcome.html)|
 |Kubernetes||[kubernetes.io/fr/docs](https://kubernetes.io/fr/docs/home)|
 |Lago||[docs.getlago.com](https://docs.getlago.com)|
@@ -283,7 +283,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Photoshop|Adobe|[helpx.adobe.com/fr/photoshop/user-guide](https://helpx.adobe.com/fr/photoshop/user-guide.html)|
 |PHP|||
 |PHPBB|||
-|PhpStorm||[jetbrains.com/help/phpstorm](https://www.jetbrains.com/help/phpstorm)|
+|PhpStorm|JetBrains|[jetbrains.com/help/phpstorm](https://www.jetbrains.com/help/phpstorm)|
 |PHPUnit|||
 |PIP|||
 |Planka||[docs.planka.cloud](https://docs.planka.cloud/docs/intro)|
@@ -297,7 +297,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Protobuf|||
 |Pro Tools|||
 |Puppet|||
-|PyCharm||[jetbrains.com/help/pycharm](https://www.jetbrains.com/help/pycharm)|
+|PyCharm|JetBrains|[jetbrains.com/help/pycharm](https://www.jetbrains.com/help/pycharm)|
 |Pyrocko||[pyrocko.org/docs](https://pyrocko.org/docs/current)|
 |PySimpleGUI||[docs.pysimplegui.com](https://docs.pysimplegui.com/en/latest)|
 |Python|||
@@ -313,13 +313,13 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Redux|||
 |REST|||
 |RHEL|||
-|Rider||[jetbrains.com/help/rider](https://www.jetbrains.com/help/rider)|
+|Rider|JetBrains|[jetbrains.com/help/rider](https://www.jetbrains.com/help/rider)|
 |Riot.js|||
 |RPG in a Box||[rpginabox.com/docs](https://rpginabox.com/docs/doku.php)|
 |Ruby|||
-|RubyMine||[jetbrains.com/help/ruby](https://www.jetbrains.com/help/ruby)|
+|RubyMine|JetBrains|[jetbrains.com/help/ruby](https://www.jetbrains.com/help/ruby)|
 |Rust|||
-|RustRover||[jetbrains.com/help/rust](https://www.jetbrains.com/help/rust)|
+|RustRover|JetBrains|[jetbrains.com/help/rust](https://www.jetbrains.com/help/rust)|
 |SaltStack|||
 |Sass|||
 |Scala|||
@@ -373,12 +373,12 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Webpack||[webpack.js.org/concepts](https://webpack.js.org/concepts)|
 |Web Services|Amazon|[docs.aws.amazon.com](https://docs.aws.amazon.com)|
 |WebSocket||[websockets.spec.whatwg.org](https://websockets.spec.whatwg.org)|
-|WebStorm||[jetbrains.com/help/webstorm](https://www.jetbrains.com/help/webstorm/meet-webstorm.html)|
+|WebStorm|JetBrains|[jetbrains.com/help/webstorm](https://www.jetbrains.com/help/webstorm/meet-webstorm.html)|
 |Wireshark||[wireshark.org/learn](https://www.wireshark.org/learn)<br>|[wireshark.org/docs](https://www.wireshark.org/docs/wsdg_html_chunked)|
 |WooCommerce||[woocommerce.com/documentation](https://woocommerce.com/documentation/woocommerce)|
 |WordPress||[wordpress.org/support](https://fr.wordpress.org/support)|
 |World of Warcraft||[develop.battle.net/.../world-of-warcraft/game-data-apis](https://develop.battle.net/documentation/world-of-warcraft/game-data-apis)<br>|[develop.battle.net/.../world-of-warcraft/profile-apis](https://develop.battle.net/documentation/world-of-warcraft/profile-apis)|
-|Writerside||[jetbrains.com/help/writerside](https://www.jetbrains.com/help/writerside)|
+|Writerside|JetBrains|[jetbrains.com/help/writerside](https://www.jetbrains.com/help/writerside)|
 |WxWidgets||[wiki.wxwidgets.org](https://wiki.wxwidgets.org/Main_Page)<br>|[wxwidgets.org/docs](https://wxwidgets.org/docs)|
 |Xcode||[developer.apple.com/documentation/xcode](https://developer.apple.com/documentation/xcode)|
 |XD|Adobe|[helpx.adobe.com/fr/xd/user-guide](https://helpx.adobe.com/fr/xd/user-guide.html)|
