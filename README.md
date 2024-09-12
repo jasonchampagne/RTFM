@@ -22,7 +22,6 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |After Effects|Adobe|[helpx.adobe.com/fr/after-effects/user-guide](https://helpx.adobe.com/fr/after-effects/user-guide.html)|
 |Allegro||[allegro.cc/manual](https://www.allegro.cc/manual/5)|
 |AlmaLinux||[wiki.almalinux.org](https://wiki.almalinux.org)|
-|Amazon Web Services||[docs.aws.amazon.com](https://docs.aws.amazon.com)|
 |Android||[developer.android.com/guide](https://developer.android.com/guide)|
 |Angular||[angular.io/docs](https://angular.io/docs)|
 |Animate|Adobe|[helpx.adobe.com/fr/animate/user-guide](https://helpx.adobe.com/fr/animate/user-guide.html)|
@@ -372,6 +371,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |WebExtensions||[developer.mozilla.org/fr/docs/Mozilla/Add-ons/WebExtensions](https://developer.mozilla.org/fr/docs/Mozilla/Add-ons/WebExtensions/What_are_WebExtensions)|
 |WebGL||[khronos.org/developers/reference-cards](https://www.khronos.org/developers/reference-cards)<br>|[developer.mozilla.org/fr/docs/Web/API/WebGL_API](https://developer.mozilla.org/fr/docs/Web/API/WebGL_API)|
 |Webpack||[webpack.js.org/concepts](https://webpack.js.org/concepts)|
+|Web Services|Amazon|[docs.aws.amazon.com](https://docs.aws.amazon.com)|
 |WebSocket||[websockets.spec.whatwg.org](https://websockets.spec.whatwg.org)|
 |WebStorm||[jetbrains.com/help/webstorm](https://www.jetbrains.com/help/webstorm/meet-webstorm.html)|
 |Wireshark||[wireshark.org/learn](https://www.wireshark.org/learn)<br>|[wireshark.org/docs](https://www.wireshark.org/docs/wsdg_html_chunked)|
