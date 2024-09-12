@@ -11,12 +11,14 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 
 |NOM|ÉDITEUR|RESSOURCES|
 |:--|:--|:--|
+|3DS Max|Autodesk|[help.autodesk.com](https://help.autodesk.com/FRA/#A-B)|
 |Acrobat|Adobe|[helpx.adobe.com/fr/acrobat/user-guide](https://helpx.adobe.com/fr/acrobat/user-guide.html)|
 |Ada||[adacore.com/documentation](https://www.adacore.com/documentation)|
 |AdonisJS||[docs.adonisjs.com/guides](https://docs.adonisjs.com/guides/introduction)|
-|Affinity Designer||[affinity.serif.com/fr/learn/designer](https://affinity.serif.com/fr/learn/designer/desktop)|
-|Affinity Photo||[affinity.serif.com/fr/learn/photo](https://affinity.serif.com/fr/learn/photo/desktop)|
-|Affinity Publisher||[affinity.serif.com/fr/learn/publisher](https://affinity.serif.com/fr/learn/publisher/desktop)|
+|Advance Steel|Autodesk|[help.autodesk.com](https://help.autodesk.com/FRA/#A-B)|
+|Affinity Designer|Serif Europe|[affinity.serif.com/fr/learn/designer](https://affinity.serif.com/fr/learn/designer/desktop)|
+|Affinity Photo|Serif Europe|[affinity.serif.com/fr/learn/photo](https://affinity.serif.com/fr/learn/photo/desktop)|
+|Affinity Publisher|Serif Europe|[affinity.serif.com/fr/learn/publisher](https://affinity.serif.com/fr/learn/publisher/desktop)|
 |After Effects|Adobe|[helpx.adobe.com/fr/after-effects/user-guide](https://helpx.adobe.com/fr/after-effects/user-guide.html)|
 |Allegro||[allegro.cc/manual](https://www.allegro.cc/manual/5)|
 |AlmaLinux||[wiki.almalinux.org](https://wiki.almalinux.org)|
@@ -38,12 +40,8 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Audacity||[manual.audacityteam.org](https://manual.audacityteam.org/index.html)|
 |Audition|Adobe|[helpx.adobe.com/fr/audition/user-guide](https://helpx.adobe.com/fr/audition/user-guide.html)|
 |AuthPass||[authpass.app/docs](https://authpass.app/docs)|
+|AutoCAD|Autodesk|[help.autodesk.com](https://help.autodesk.com/FRA/#A-B)|
 |Autoconf||[gnu.org/.../autoconf/manual](https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.72/index.html)|
-|Autodesk 3DS Max||[help.autodesk.com](https://help.autodesk.com/FRA/#A-B)|
-|Autodesk Advance Steel||[help.autodesk.com](https://help.autodesk.com/FRA/#A-B)|
-|Autodesk AutoCAD||[help.autodesk.com](https://help.autodesk.com/FRA/#A-B)|
-|Autodesk Civil 3D||[help.autodesk.com](https://help.autodesk.com/FRA/#C-H)|
-|Autodesk Maya||[autodesk.com/support/technical](https://www.autodesk.com/support/technical/article/caas/tsarticles/ts/lC3jaffqnWFyQoLPEPm7n.html)|
 |AutoHotkey||[autohotkey.com/docs](https://www.autohotkey.com/docs)|
 |AutoIt||[autoitscript.com/autoit3/docs](https://www.autoitscript.com/autoit3/docs)|
 |Bitbucket Cloud||[support.atlassian.com/bitbucket-cloud/resources](https://support.atlassian.com/bitbucket-cloud/resources)|
@@ -68,6 +66,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |CherryPy||[docs.cherrypy.dev](https://docs.cherrypy.dev/en/latest)|
 |Chkdsk||[learn.microsoft.com/.../chkdsk](https://learn.microsoft.com/fr-fr/windows-server/administration/windows-commands/chkdsk)|
 |Cinema 4D||[help.maxon.net/c4d](https://help.maxon.net/c4d/en-us)|
+|Civil 3D|Autodesk|[help.autodesk.com](https://help.autodesk.com/FRA/#C-H)|
 |ClamAV||[docs.clamav.net](https://docs.clamav.net)|
 |Clang||[clang.llvm.org/docs/UsersManual](https://clang.llvm.org/docs/UsersManual.html)|
 |CLion||[jetbrains.com/help/clion](https://www.jetbrains.com/help/clion)|
@@ -234,6 +233,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Material-UI|||
 |MATLAB|||
 |Maven|||
+|Maya|Autodesk|[autodesk.com/support/technical](https://www.autodesk.com/support/technical/article/caas/tsarticles/ts/lC3jaffqnWFyQoLPEPm7n.html)|
 |Mercurial|||
 |Meson|||
 |Meteor|||
