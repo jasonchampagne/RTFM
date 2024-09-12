@@ -89,7 +89,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |CryENGINE||[cryengine.com/tutorials](https://www.cryengine.com/tutorials)<br>|[docs.cryengine.com](https://docs.cryengine.com)|
 |Crystal||[crystal-lang.org/reference](https://crystal-lang.org/reference)|
 |C shell (_csh_)||[wikibooks.org/wiki/C_Shell_Scripting](https://en.wikibooks.org/wiki/C_Shell_Scripting)|
-|CSS||[w3.org/Style/CSS](https://www.w3.org/Style/CSS)<br>|[developer.mozilla.org/fr/docs/Web/CSS](https://developer.mozilla.org/fr/docs/Web/CSS)|
+|CSS|W3C|[w3.org/Style/CSS](https://www.w3.org/Style/CSS)<br>|[developer.mozilla.org/fr/docs/Web/CSS](https://developer.mozilla.org/fr/docs/Web/CSS)|
 |Cubase||[steinberg.net/fr/cubase/learn](https://www.steinberg.net/fr/cubase/learn)|
 |CUDA||[docs.nvidia.com/cuda/cuda-toolkit-release-notes](https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html)|
 |CustomTkinter||[customtkinter.tomschimansky.com/tutorial](https://customtkinter.tomschimansky.com/tutorial)<br>|[customtkinter.tomschimansky.com/documentation](https://customtkinter.tomschimansky.com/documentation)|
@@ -183,8 +183,8 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Hibernate ORM||[hibernate.org/orm/documentation](https://hibernate.org/orm/documentation)|
 |Homebrew||[docs.brew.sh](https://docs.brew.sh)|
 |Hugo||[gohugo.io/documentation](https://gohugo.io/documentation)|
-|HTML||[html.spec.whatwg.org](https://html.spec.whatwg.org/multipage)<br>|[developer.mozilla.org/fr/docs/Web/HTML](https://developer.mozilla.org/fr/docs/Web/HTML)|
-|HTTP||[httpwg.org/specs](https://httpwg.org/specs)|
+|HTML|W3C|[html.spec.whatwg.org](https://html.spec.whatwg.org/multipage)<br>|[developer.mozilla.org/fr/docs/Web/HTML](https://developer.mozilla.org/fr/docs/Web/HTML)|
+|HTTP|Tim Berners-Lee|[httpwg.org/specs](https://httpwg.org/specs)|
 |HTTP Server|Apache Software Foundation|[httpd.apache.org/docs](https://httpd.apache.org/docs)|
 |HTTP Toolkit||[httptoolkit.com/docs](https://httptoolkit.com/docs)|
 |Idris||[docs.idris-lang.org](https://docs.idris-lang.org/en/latest)|
@@ -395,10 +395,10 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Xcode|Apple|[developer.apple.com/documentation/xcode](https://developer.apple.com/documentation/xcode)|
 |XD|Adobe|[helpx.adobe.com/fr/xd/user-guide](https://helpx.adobe.com/fr/xd/user-guide.html)|
 |Xen||[xenproject.org/developers/getting-started-devs](https://xenproject.org/developers/getting-started-devs)|
-|XML||[w3.org/XML](https://www.w3.org/XML)|
-|Yarn||[classic.yarnpkg.com/en/docs](https://classic.yarnpkg.com/en/docs)|
-|Yii||[yiiframework.com/wiki](https://www.yiiframework.com/wiki)<br>|[yiiframework.com/doc/api/2.0](https://www.yiiframework.com/doc/api/2.0)|
+|XML|W3C|[w3.org/XML](https://www.w3.org/XML)|
+|Yarn|Meta|[classic.yarnpkg.com/en/docs](https://classic.yarnpkg.com/en/docs)|
+|Yii|Yii Developper Team|[yiiframework.com/wiki](https://www.yiiframework.com/wiki)<br>|[yiiframework.com/doc/api/2.0](https://www.yiiframework.com/doc/api/2.0)|
 |YouTube|Google|[developers.google.com/youtube/documentation](https://developers.google.com/youtube/documentation?hl=fr)<br>|[developers.google.com/youtube/v3/docs](https://developers.google.com/youtube/v3/docs?hl=fr)|
-|Zephyr||[docs.zephyrproject.org](https://docs.zephyrproject.org/latest/index.html)|
+|Zephyr|Fondation Linux|[docs.zephyrproject.org](https://docs.zephyrproject.org/latest/index.html)|
 |Zig|Andrew Kelley|[ziglang.org/documentation](https://ziglang.org/documentation/master)|
 |Z shell (_zsh_)|Peter Stephenson et al.|[zsh.sourceforge.io/Guide](https://zsh.sourceforge.io/Guide)<br>|[zsh.sourceforge.io/Doc](https://zsh.sourceforge.io/Doc)|
