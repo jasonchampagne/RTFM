@@ -373,4 +373,15 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |YouTube|[developers.google.com/youtube/documentation](https://developers.google.com/youtube/documentation?hl=fr)<br>[developers.google.com/youtube/v3/docs](https://developers.google.com/youtube/v3/docs?hl=fr)|
 |Zephyr|[docs.zephyrproject.org](https://docs.zephyrproject.org/latest/index.html)|
 |Zig|[ziglang.org/documentation](https://ziglang.org/documentation/master)|
+|Zoho Backstage|[zoho.com/backstage/help](https://www.zoho.com/backstage/help)|
+|Zoho Campaigns|[zoho.com/campaigns/help](https://www.zoho.com/campaigns/help)|
+|Zoho Commerce|[zoho.com/commerce/help](https://www.zoho.com/commerce/help)|
+|Zoho CRM|[zoho.com/fr/crm/resources](https://www.zoho.com/fr/crm/resources)|
+|Zoho Forms|[zoho.com/forms/help](https://www.zoho.com/forms/help)|
+|Zoho LandingPage|[zoho.com/landingpage/help](https://www.zoho.com/landingpage/help)|
+|Zoho Mail|[zoho.com/fr/mail/help](https://www.zoho.com/fr/mail/help)|
+|Zoho One|[zoho.com/fr/one/guides](https://www.zoho.com/fr/one/guides)|
+|Zoho PageSense|[zoho.com/pagesense/help](https://www.zoho.com/pagesense/help)|
+|Zoho SalesIQ|[zoho.com/salesiq/help](https://www.zoho.com/salesiq/help)|
+|Zoho Sites|[zoho.com/sites/resources](https://www.zoho.com/sites/resources.html)|
 |Z shell (_zsh_)|[zsh.sourceforge.io/Guide](https://zsh.sourceforge.io/Guide)<br>[zsh.sourceforge.io/Doc](https://zsh.sourceforge.io/Doc)|
