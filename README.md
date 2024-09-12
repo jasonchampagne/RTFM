@@ -160,23 +160,23 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Friendly Interactive Shell (_fish_)|[fishshell.com/docs](https://fishshell.com/docs/current/index.html)|
 |Gatsby|[gatsbyjs.com/docs](https://www.gatsbyjs.com/docs)|
 |Gather|[support.gather.town](https://support.gather.town/hc/en-us)|
-|GCC||
-|GDB||
-|Gentoo||
-|GitHub Actions||
-|GitLab||
+|GCC|[gcc.gnu.org/onlinedocs](https://gcc.gnu.org/onlinedocs)|
+|GDB|[sourceware.org/gdb/documentation](https://www.sourceware.org/gdb/documentation)|
+|Gentoo|[gentoo.org/support/documentation](https://www.gentoo.org/support/documentation)|
+|GitHub|[docs.github.com/fr](https://docs.github.com/fr)|
+|GitLab|[docs.gitlab.com](https://docs.gitlab.com)|
 |Git|[git-scm.com/doc](https://git-scm.com/doc)|
-|Go||
-|Godot Engine||
+|Go|[go.dev/doc/effective_go](https://go.dev/doc/effective_go)|
+|Godot Engine|[docs.godotengine.org](https://docs.godotengine.org/en/stable)|
 |Google Ads|[support.google.com/google-ads](https://support.google.com/google-ads/answer/6146252)<br>[developers.google.com/google-ads/api](https://developers.google.com/google-ads/api/docs/start?hl=fr)|
 |Google Calendar|[developers.google.com/calendar/api](https://developers.google.com/calendar/api/guides/overview?hl=fr)|
-|Gradle||
-|GraphQL||
-|Grav||
-|Gulp||
-|Haiku||
-|Haskell||
-|Heroku||
+|Gradle|[docs.gradle.org](https://docs.gradle.org)|
+|GraphQL|[graphql.org/learn](https://graphql.org/learn)|
+|Grav|[learn.getgrav.org](https://learn.getgrav.org)|
+|Gulp|[gulpjs.com/docs/en/getting-started/quick-start](https://gulpjs.com/docs/en/getting-started/quick-start)<br>[gulpjs.com/docs/en/api/concepts](https://gulpjs.com/docs/en/api/concepts)|
+|Haiku|[dm-haiku.readthedocs.io](https://dm-haiku.readthedocs.io/en/latest)|
+|Haskell|[haskell.org/documentation](https://www.haskell.org/documentation)|
+|Heroku|[devcenter.heroku.com](https://devcenter.heroku.com)|
 |Hibernate||
 |Homebrew||
 |Hugo||
