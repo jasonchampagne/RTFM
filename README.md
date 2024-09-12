@@ -177,15 +177,28 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Haiku|[dm-haiku.readthedocs.io](https://dm-haiku.readthedocs.io/en/latest)|
 |Haskell|[haskell.org/documentation](https://www.haskell.org/documentation)|
 |Heroku|[devcenter.heroku.com](https://devcenter.heroku.com)|
-|Hibernate||
-|Homebrew||
-|Hugo||
-|HTML||
-|HTTP||
+|Hibernate ORM|[hibernate.org/orm/documentation](https://hibernate.org/orm/documentation)|
+|Homebrew|[docs.brew.sh](https://docs.brew.sh)|
+|Hugo|[gohugo.io/documentation](https://gohugo.io/documentation)|
+|HTML|[html.spec.whatwg.org](https://html.spec.whatwg.org/multipage)<br>[developer.mozilla.org/fr/docs/Web/HTML](https://developer.mozilla.org/fr/docs/Web/HTML)|
+|HTTP|[httpwg.org/specs](https://httpwg.org/specs)|
 |HTTP Toolkit|[httptoolkit.com/docs](https://httptoolkit.com/docs)|
-|Idris||
+|Idris|[docs.idris-lang.org](https://docs.idris-lang.org/en/latest)|
 |IGDB|[igdb.com/api](https://www.igdb.com/api)|
-|IntelliJ||
+|IntelliJ Aqua||
+|IntelliJ CLion||
+|IntelliJ DataGrip||
+|IntelliJ DataSpell||
+|IntelliJ Fleet||
+|IntelliJ GoLand||
+|IntelliJ IDEA|[jetbrains.com/help/idea](https://www.jetbrains.com/help/idea/getting-started.html)|
+|IntelliJ PhpStorm||
+|IntelliJ PyCharm||
+|IntelliJ Rider||
+|IntelliJ RubyMine||
+|IntelliJ RustRover||
+|IntelliJ WebStorm|[jetbrains.com/help/webstorm](https://www.jetbrains.com/help/webstorm/meet-webstorm.html)|
+|IntelliJ Writerside||
 |Ionic Framework||
 |IOS||
 |IPFS||
