@@ -57,7 +57,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Bundler||[bundler.io/docs](https://bundler.io/docs.html)|
 |C||[cppreference.com/w/c](https://en.cppreference.com/w/c)|
 |C++||[cppreference.com/w](https://en.cppreference.com/w)|
-|C#||[learn.microsoft.com/.../csharp](https://learn.microsoft.com/fr-fr/dotnet/csharp/tour-of-csharp)|
+|C#|Microsoft|[learn.microsoft.com/.../csharp](https://learn.microsoft.com/fr-fr/dotnet/csharp/tour-of-csharp)|
 |CakePHP||[book.cakephp.org/5](https://book.cakephp.org/5/fr/index.html)<br>|[api.cakephp.org/5.0](https://api.cakephp.org/5.0)|
 |Calendar|Google|[developers.google.com/calendar/api](https://developers.google.com/calendar/api/guides/overview?hl=fr)|
 |Campaigns|Zoho Corporation|[zoho.com/campaigns/help](https://www.zoho.com/campaigns/help)|
@@ -119,13 +119,13 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Docusaurus||[docusaurus.io/docs](https://docusaurus.io/docs)<br>|[docusaurus.io/docs/cli](https://docusaurus.io/docs/cli)|
 |Dolphin||[dolphin-emu.org/docs/guides](https://fr.dolphin-emu.org/docs/guides)|
 |DOSBox||[dosbox.com/DOSBoxManual](https://www.dosbox.com/DOSBoxManual.html)|
-|DotNet (.NET)||[learn.microsoft.com/fr-fr/dotnet](https://learn.microsoft.com/fr-fr/dotnet)<br>|[learn.microsoft.com/fr-fr/dotnet/api](https://learn.microsoft.com/fr-fr/dotnet/api)|
+|DotNet (.NET)|Microsoft|[learn.microsoft.com/fr-fr/dotnet](https://learn.microsoft.com/fr-fr/dotnet)<br>|[learn.microsoft.com/fr-fr/dotnet/api](https://learn.microsoft.com/fr-fr/dotnet/api)|
 |Doxygen||[doxygen.nl/manual](https://www.doxygen.nl/manual/index.html)|
 |Dreamweaver|Adobe|[helpx.adobe.com/fr/dreamweaver/user-guide](https://helpx.adobe.com/fr/dreamweaver/user-guide.html)|
 |Drupal||[drupal.org/docs/user_guide](https://www.drupal.org/fr/docs/user_guide/fr/index.html)<br>|[drupal.org/docs/official_docs/local-development-guide](https://www.drupal.org/docs/official_docs/local-development-guide)<br>|[drupal.org/documentation](https://www.drupal.org/documentation)|
 |Dune||[dune.readthedocs.io](https://dune.readthedocs.io/en/stable/index.html)|
 |E||[erights.org/#quickstart](http://erights.org/#quickstart)|
-|Ebay||[developer.ebay.com](https://developer.ebay.com/develop)|
+|eBay||[developer.ebay.com](https://developer.ebay.com/develop)|
 |ECMAScript||[262.ecma-international.org](https://262.ecma-international.org)|
 |Ejabberd||[docs.ejabberd.im](https://docs.ejabberd.im)|
 |Elasticsearch||[elastic.co/docs](https://www.elastic.co/docs)|
@@ -142,7 +142,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Excel||[support.microsoft.com/fr-FR/excel](https://support.microsoft.com/fr-FR/excel)|
 |Express.js||[expressjs.com/en/starter](https://expressjs.com/en/starter/installing.html)<br>|[expressjs.com/en/guide](https://expressjs.com/en/guide/routing.html)<br>|[expressjs.com/en/4x/api](https://expressjs.com/en/4x/api.html)|
 |F*||[fstar-lang.org/tutorial/proof-oriented-programming-in-fstar](https://www.fstar-lang.org/tutorial/proof-oriented-programming-in-fstar.pdf)|
-|F#||[learn.microsoft.com/fr-fr/dotnet/fsharp](https://learn.microsoft.com/fr-fr/dotnet/fsharp)|
+|F#|Microsoft|[learn.microsoft.com/fr-fr/dotnet/fsharp](https://learn.microsoft.com/fr-fr/dotnet/fsharp)|
 |FASM||[flatassembler.net/docs](https://flatassembler.net/docs.php)|
 |Fedora||[docs.fedoraproject.org](https://docs.fedoraproject.org/fr/docs)|
 |FFmpeg||[ffmpeg.org/documentation](https://ffmpeg.org/documentation.html)|
@@ -193,7 +193,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |InDesign|Adobe|[helpx.adobe.com/fr/indesign/user-guide](https://helpx.adobe.com/fr/indesign/user-guide.html)|
 |IntelliJ IDEA|JetBrains|[jetbrains.com/help/idea](https://www.jetbrains.com/help/idea)|
 |Ionic Framework||[ionicframework.com/docs](https://ionicframework.com/docs)|
-|iOS||[support.apple.com/fr-fr/docs/iphone](https://support.apple.com/fr-fr/docs/iphone)<br>|[developer.apple.com/documentation](https://developer.apple.com/documentation)|
+|iOS|Apple|[support.apple.com/fr-fr/docs/iphone](https://support.apple.com/fr-fr/docs/iphone)<br>|[developer.apple.com/documentation](https://developer.apple.com/documentation)|
 |IPFS||[docs.ipfs.tech](https://docs.ipfs.tech)|
 |Java||[docs.oracle.com/en/java](https://docs.oracle.com/en/java)|
 |JavaScript||[developer.mozilla.org/fr/docs/Web/JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript)|
@@ -252,7 +252,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |MongoDB|||
 |Moodle|||
 |MPS||[jetbrains.com/help/mps](https://www.jetbrains.com/help/mps)|
-|MS-DOS|||
+|MS-DOS|Microsoft||
 |MuleSoft|||
 |MySQL|||
 |NASM|||
@@ -267,7 +267,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Nvidia Canvas||[nvidia.com/.../canvas/user-guide](https://www.nvidia.com/en-gb/studio/canvas/user-guide)|
 |Nvidia CUDA Toolkit||[docs.nvidia.com/cuda](https://docs.nvidia.com/cuda/index.html)|
 |Nvidia Omniverse||[docs.omniverse.nvidia.com](https://docs.omniverse.nvidia.com)|
-|Objective-C|||
+|Objective-C|Apple||
 |Obsidian|||
 |OCaml|||
 |Octave|||
@@ -292,7 +292,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Phaser|||
 |Photoshop|Adobe|[helpx.adobe.com/fr/photoshop/user-guide](https://helpx.adobe.com/fr/photoshop/user-guide.html)|
 |PHP|||
-|PHPBB|||
+|phpBB|||
 |PhpStorm|JetBrains|[jetbrains.com/help/phpstorm](https://www.jetbrains.com/help/phpstorm)|
 |PHPUnit|||
 |PIP|||
@@ -358,8 +358,8 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |TOML||[toml.io/fr](https://toml.io/fr/v1.0.0)|
 |TypeScript||[typescriptlang.org/docs](https://www.typescriptlang.org/docs)|
 |TypeSpec||[typespec.io/docs](https://typespec.io/docs)|
-|Twitch||[dev.twitch.tv/docs](https://dev.twitch.tv/docs)|
-|Ubuntu||[help.ubuntu.com](https://help.ubuntu.com)<br>|[help.ubuntu.com/.../CommunityHelpWiki](https://help.ubuntu.com/community/CommunityHelpWiki)<br>|[doc.ubuntu-fr.org](https://doc.ubuntu-fr.org/accueil)|
+|Twitch|Amazon|[dev.twitch.tv/docs](https://dev.twitch.tv/docs)|
+|Ubuntu|Canonical|[help.ubuntu.com](https://help.ubuntu.com)<br>|[help.ubuntu.com/.../CommunityHelpWiki](https://help.ubuntu.com/community/CommunityHelpWiki)<br>|[doc.ubuntu-fr.org](https://doc.ubuntu-fr.org/accueil)|
 |Ultra||[developers.ultra.io](https://developers.ultra.io)|
 |Underscore||[underscorejs.org](https://underscorejs.org)|
 |Unity||[docs.unity.com](https://docs.unity.com)|
@@ -367,12 +367,12 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Universal Package-management Tool (_upt_)||[github.com/sigoden/upt](https://github.com/sigoden/upt)|
 |V||[github.com/vlang/.../docs](https://github.com/vlang/v/blob/master/doc/docs.md)|
 |Vagrant||[developer.hashicorp.com/vagrant/docs](https://developer.hashicorp.com/vagrant/docs)|
-|VBA||[learn.microsoft.com/fr-fr/office/vba](https://learn.microsoft.com/fr-fr/office/vba/api/overview)|
+|VBA|Microsoft|[learn.microsoft.com/fr-fr/office/vba](https://learn.microsoft.com/fr-fr/office/vba/api/overview)|
 |Vim||[vim.org/docs](https://www.vim.org/docs.php)|
 |VirtualBox||[virtualbox.org/wiki/Documentation](https://www.virtualbox.org/wiki/Documentation)|
-|Visual Basic||[learn.microsoft.com/fr-fr/dotnet/visual-basic](https://learn.microsoft.com/fr-fr/dotnet/visual-basic)|
-|Visual Studio||[learn.microsoft.com/fr-fr/visualstudio](https://learn.microsoft.com/fr-fr/visualstudio)|
-|Visual Studio Code||[code.visualstudio.com/docs](https://code.visualstudio.com/docs)<br>|[code.visualstudio.com/api](https://code.visualstudio.com/api)|
+|Visual Basic|Microsoft|[learn.microsoft.com/fr-fr/dotnet/visual-basic](https://learn.microsoft.com/fr-fr/dotnet/visual-basic)|
+|Visual Studio|Microsoft|[learn.microsoft.com/fr-fr/visualstudio](https://learn.microsoft.com/fr-fr/visualstudio)|
+|Visual Studio Code|Microsoft|[code.visualstudio.com/docs](https://code.visualstudio.com/docs)<br>|[code.visualstudio.com/api](https://code.visualstudio.com/api)|
 |Vortex Mod Manager||[wiki.nexusmods.com/...Category:Tutorials](https://wiki.nexusmods.com/index.php/Category:Tutorials)<br>|[app.swaggerhub.com/apis-docs/NexusMods](https://app.swaggerhub.com/apis-docs/NexusMods/nexus-mods_public_api_params_in_form_data)|
 |Vue.js||[fr.vuejs.org/tutorial](https://fr.vuejs.org/tutorial)<br>|[fr.vuejs.org/guide](https://fr.vuejs.org/guide/introduction.html)<br>|[fr.vuejs.org/api](https://fr.vuejs.org/api)|
 |Vulkan||[vulkan.org/learn](https://www.vulkan.org/learn)|
@@ -389,16 +389,16 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Wireshark||[wireshark.org/learn](https://www.wireshark.org/learn)<br>|[wireshark.org/docs](https://www.wireshark.org/docs/wsdg_html_chunked)|
 |WooCommerce||[woocommerce.com/documentation](https://woocommerce.com/documentation/woocommerce)|
 |WordPress||[wordpress.org/support](https://fr.wordpress.org/support)|
-|World of Warcraft||[develop.battle.net/.../world-of-warcraft/game-data-apis](https://develop.battle.net/documentation/world-of-warcraft/game-data-apis)<br>|[develop.battle.net/.../world-of-warcraft/profile-apis](https://develop.battle.net/documentation/world-of-warcraft/profile-apis)|
+|World of Warcraft|Blizzard|[develop.battle.net/.../world-of-warcraft/game-data-apis](https://develop.battle.net/documentation/world-of-warcraft/game-data-apis)<br>|[develop.battle.net/.../world-of-warcraft/profile-apis](https://develop.battle.net/documentation/world-of-warcraft/profile-apis)|
 |Writerside|JetBrains|[jetbrains.com/help/writerside](https://www.jetbrains.com/help/writerside)|
 |WxWidgets||[wiki.wxwidgets.org](https://wiki.wxwidgets.org/Main_Page)<br>|[wxwidgets.org/docs](https://wxwidgets.org/docs)|
-|Xcode||[developer.apple.com/documentation/xcode](https://developer.apple.com/documentation/xcode)|
+|Xcode|Apple|[developer.apple.com/documentation/xcode](https://developer.apple.com/documentation/xcode)|
 |XD|Adobe|[helpx.adobe.com/fr/xd/user-guide](https://helpx.adobe.com/fr/xd/user-guide.html)|
 |Xen||[xenproject.org/developers/getting-started-devs](https://xenproject.org/developers/getting-started-devs)|
 |XML||[w3.org/XML](https://www.w3.org/XML)|
 |Yarn||[classic.yarnpkg.com/en/docs](https://classic.yarnpkg.com/en/docs)|
 |Yii||[yiiframework.com/wiki](https://www.yiiframework.com/wiki)<br>|[yiiframework.com/doc/api/2.0](https://www.yiiframework.com/doc/api/2.0)|
-|YouTube||[developers.google.com/youtube/documentation](https://developers.google.com/youtube/documentation?hl=fr)<br>|[developers.google.com/youtube/v3/docs](https://developers.google.com/youtube/v3/docs?hl=fr)|
+|YouTube|Google|[developers.google.com/youtube/documentation](https://developers.google.com/youtube/documentation?hl=fr)<br>|[developers.google.com/youtube/v3/docs](https://developers.google.com/youtube/v3/docs?hl=fr)|
 |Zephyr||[docs.zephyrproject.org](https://docs.zephyrproject.org/latest/index.html)|
 |Zig||[ziglang.org/documentation](https://ziglang.org/documentation/master)|
 |Z shell (_zsh_)||[zsh.sourceforge.io/Guide](https://zsh.sourceforge.io/Guide)<br>|[zsh.sourceforge.io/Doc](https://zsh.sourceforge.io/Doc)|
