@@ -23,7 +23,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Allegro||[allegro.cc/manual](https://www.allegro.cc/manual/5)|
 |AlmaLinux||[wiki.almalinux.org](https://wiki.almalinux.org)|
 |Android|Google|[developer.android.com/guide](https://developer.android.com/guide)|
-|Angular||[angular.io/docs](https://angular.io/docs)|
+|Angular|Google|[angular.io/docs](https://angular.io/docs)|
 |Animate|Adobe|[helpx.adobe.com/fr/animate/user-guide](https://helpx.adobe.com/fr/animate/user-guide.html)|
 |Ansible||[docs.ansible.com](https://docs.ansible.com/ansible/latest/index.html)|
 |Apache HTTP Server||[httpd.apache.org/docs](https://httpd.apache.org/docs)|
