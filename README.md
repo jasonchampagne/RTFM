@@ -337,6 +337,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Scala|||
 |Scoop||[github.com/.../Scoop/wiki](https://github.com/ScoopInstaller/Scoop/wiki)|
 |Scrapy|||
+|SearXNG||[docs.searxng.org](https://docs.searxng.org)|
 |Sequelize|||
 |Shopify|||
 |Sinatra|||
