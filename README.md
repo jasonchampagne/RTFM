@@ -190,7 +190,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |IntelliJ DataGrip|[jetbrains.com/help/datagrip](https://www.jetbrains.com/help/datagrip)|
 |IntelliJ DataSpell|[jetbrains.com/help/dataspell](https://www.jetbrains.com/help/dataspell)|
 |IntelliJ Fleet|[jetbrains.com/help/fleet](https://www.jetbrains.com/help/fleet)|
-|IntelliJ GoLand|[jetbrains.com/help/goland](https://www.jetbrains.com/help/goland)|
+|IntelliJ GoLand|[jetbrains.com/help/go](https://www.jetbrains.com/help/go)|
 |IntelliJ IDEA|[jetbrains.com/help/idea](https://www.jetbrains.com/help/idea/getting-started.html)|
 |IntelliJ PhpStorm|[jetbrains.com/help/phpstorm](https://www.jetbrains.com/help/phpstorm)|
 |IntelliJ PyCharm|[jetbrains.com/help/pycharm](https://www.jetbrains.com/help/pycharm)|
