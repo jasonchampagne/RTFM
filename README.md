@@ -195,7 +195,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |IntelliJ PhpStorm|[jetbrains.com/help/phpstorm](https://www.jetbrains.com/help/phpstorm)|
 |IntelliJ PyCharm|[jetbrains.com/help/pycharm](https://www.jetbrains.com/help/pycharm)|
 |IntelliJ Rider|[jetbrains.com/help/rider](https://www.jetbrains.com/help/rider)|
-|IntelliJ RubyMine|[jetbrains.com/help/rubymine](https://www.jetbrains.com/help/rubymine)|
+|IntelliJ RubyMine|[jetbrains.com/help/ruby](https://www.jetbrains.com/help/ruby)|
 |IntelliJ RustRover|[jetbrains.com/help/rustrover](https://www.jetbrains.com/help/rustrover)|
 |IntelliJ WebStorm|[jetbrains.com/help/webstorm](https://www.jetbrains.com/help/webstorm/meet-webstorm.html)|
 |IntelliJ Writerside|[jetbrains.com/help/writerside](https://www.jetbrains.com/help/writerside)|
