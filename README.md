@@ -22,7 +22,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Affinity Publisher|Serif Europe|[affinity.serif.com/fr/learn/publisher](https://affinity.serif.com/fr/learn/publisher/desktop)|
 |After Effects|Adobe|[helpx.adobe.com/fr/after-effects/user-guide](https://helpx.adobe.com/fr/after-effects/user-guide.html)|
 |Allegro||[allegro.cc/manual](https://www.allegro.cc/manual/5)|
-|AlmaLinux||[wiki.almalinux.org](https://wiki.almalinux.org)|
+|AlmaLinux|Andrew Lukoshko|[wiki.almalinux.org](https://wiki.almalinux.org)|
 |Android|Google|[developer.android.com/guide](https://developer.android.com/guide)|
 |Angular|Google|[angular.io/docs](https://angular.io/docs)|
 |Animate|Adobe|[helpx.adobe.com/fr/animate/user-guide](https://helpx.adobe.com/fr/animate/user-guide.html)|
