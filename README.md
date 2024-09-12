@@ -382,9 +382,9 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |WebAssembly||[webassembly.org/getting-started/developers-guide](https://webassembly.org/getting-started/developers-guide)|
 |WebExtensions||[developer.mozilla.org/fr/docs/Mozilla/Add-ons/WebExtensions](https://developer.mozilla.org/fr/docs/Mozilla/Add-ons/WebExtensions/What_are_WebExtensions)|
 |WebGL||[khronos.org/developers/reference-cards](https://www.khronos.org/developers/reference-cards)<br>|[developer.mozilla.org/fr/docs/Web/API/WebGL_API](https://developer.mozilla.org/fr/docs/Web/API/WebGL_API)|
-|Webpack||[webpack.js.org/concepts](https://webpack.js.org/concepts)|
+|Webpack|Johannes Ewald<br>Juho Vepsäläinen<br>Kees Kluskens<br>Sean Larkin<br>Tobias Koppers|[webpack.js.org/concepts](https://webpack.js.org/concepts)|
 |Web Services|Amazon|[docs.aws.amazon.com](https://docs.aws.amazon.com)|
-|WebSocket||[websockets.spec.whatwg.org](https://websockets.spec.whatwg.org)|
+|WebSocket|IETF|[websockets.spec.whatwg.org](https://websockets.spec.whatwg.org)|
 |WebStorm|JetBrains|[jetbrains.com/help/webstorm](https://www.jetbrains.com/help/webstorm/meet-webstorm.html)|
 |Wireshark|Projet Wireshark|[wireshark.org/learn](https://www.wireshark.org/learn)<br>|[wireshark.org/docs](https://www.wireshark.org/docs/wsdg_html_chunked)|
 |WooCommerce|James Koster<br>Mike Jolley|[woocommerce.com/documentation](https://woocommerce.com/documentation/woocommerce)|
