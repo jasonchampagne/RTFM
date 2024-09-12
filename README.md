@@ -16,9 +16,9 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Ada||[adacore.com/documentation](https://www.adacore.com/documentation)|
 |AdonisJS||[docs.adonisjs.com/guides](https://docs.adonisjs.com/guides/introduction)|
 |Advance Steel|Autodesk|[help.autodesk.com](https://help.autodesk.com/FRA/#A-B)|
-|Affinity Designer|Serif Europe|[affinity.serif.com/fr/learn/designer](https://affinity.serif.com/fr/learn/designer/desktop)|
-|Affinity Photo|Serif Europe|[affinity.serif.com/fr/learn/photo](https://affinity.serif.com/fr/learn/photo/desktop)|
-|Affinity Publisher|Serif Europe|[affinity.serif.com/fr/learn/publisher](https://affinity.serif.com/fr/learn/publisher/desktop)|
+|Affinity Designer|Serif|[affinity.serif.com/fr/learn/designer](https://affinity.serif.com/fr/learn/designer/desktop)|
+|Affinity Photo|Serif|[affinity.serif.com/fr/learn/photo](https://affinity.serif.com/fr/learn/photo/desktop)|
+|Affinity Publisher|Serif|[affinity.serif.com/fr/learn/publisher](https://affinity.serif.com/fr/learn/publisher/desktop)|
 |After Effects|Adobe|[helpx.adobe.com/fr/after-effects/user-guide](https://helpx.adobe.com/fr/after-effects/user-guide.html)|
 |Allegro||[allegro.cc/manual](https://www.allegro.cc/manual/5)|
 |AlmaLinux||[wiki.almalinux.org](https://wiki.almalinux.org)|
