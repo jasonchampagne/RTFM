@@ -185,8 +185,8 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |HTTP Toolkit|[httptoolkit.com/docs](https://httptoolkit.com/docs)|
 |Idris|[docs.idris-lang.org](https://docs.idris-lang.org/en/latest)|
 |IGDB|[igdb.com/api](https://www.igdb.com/api)|
-|Ionic Framework||
-|IOS||
+|Ionic Framework|[ionicframework.com/docs](https://ionicframework.com/docs)|
+|iOS|[support.apple.com/fr-fr/docs/iphone](https://support.apple.com/fr-fr/docs/iphone)<br>[developer.apple.com/documentation](https://developer.apple.com/documentation)|
 |IPFS||
 |Java||
 |JavaScript||
