@@ -187,12 +187,12 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |IGDB|[igdb.com/api](https://www.igdb.com/api)|
 |Ionic Framework|[ionicframework.com/docs](https://ionicframework.com/docs)|
 |iOS|[support.apple.com/fr-fr/docs/iphone](https://support.apple.com/fr-fr/docs/iphone)<br>[developer.apple.com/documentation](https://developer.apple.com/documentation)|
-|IPFS||
-|Java||
-|JavaScript||
+|IPFS|[docs.ipfs.tech](https://docs.ipfs.tech)|
+|Java|[docs.oracle.com/en/java](https://docs.oracle.com/en/java)|
+|JavaScript|[developer.mozilla.org/fr/docs/Web/JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript)|
 |Jekyll|[jekyllrb.com/docs](https://jekyllrb.com/docs)|
-|Jenkins||
-|Jest||
+|Jenkins|[jenkins.io/doc](https://www.jenkins.io/doc)|
+|Jest|[estjs.io/fr/docs](https://jestjs.io/fr/docs/getting-started)<br>[jestjs.io/fr/docs/api](https://jestjs.io/fr/docs/api)|
 |JetBrains Aqua|[jetbrains.com/help/aqua](https://www.jetbrains.com/help/aqua)|
 |JetBrains CLion|[jetbrains.com/help/clion](https://www.jetbrains.com/help/clion)|
 |JetBrains DataGrip|[jetbrains.com/help/datagrip](https://www.jetbrains.com/help/datagrip)|
@@ -209,22 +209,23 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |JetBrains RustRover|[jetbrains.com/help/rust](https://www.jetbrains.com/help/rust)|
 |JetBrains WebStorm|[jetbrains.com/help/webstorm](https://www.jetbrains.com/help/webstorm/meet-webstorm.html)|
 |JetBrains Writerside|[jetbrains.com/help/writerside](https://www.jetbrains.com/help/writerside)|
-|Jira||
-|Jekyll||
-|JQuery||
-|Json||
-|Julia||
+|Jira|[atlassian.com/fr/software/jira/guides](https://www.atlassian.com/fr/software/jira/guides)<br>[confluence.atlassian.com/alldoc/atlassian-documentation](https://confluence.atlassian.com/alldoc/atlassian-documentation-32243719.html)|
+|Jekyll|[jekyllrb.com/docs](https://jekyllrb.com/docs)|
+|JQuery|[api.jquery.com](https://api.jquery.com)|
+|JQuery UI|[api.jqueryui.com](https://api.jqueryui.com)|
+|Json||[developer.mozilla.org/fr/docs/Learn/JavaScript/Objects/JSON](https://developer.mozilla.org/fr/docs/Learn/JavaScript/Objects/JSON)|
+|Julia|[julialang.org/learning](https://julialang.org/learning)<br>[docs.julialang.org](https://docs.julialang.org)|
 |JUnit|[junit.org/junit5/docs](https://junit.org/junit5/docs/current/user-guide)<br>[junit.org/junit5/.../api](https://junit.org/junit5/docs/current/api)|
-|Jupyter||
+|Jupyter|[docs.jupyter.org](https://docs.jupyter.org)|
 |JxBrowser|[teamdev.com/jxbrowser/docs](https://teamdev.com/jxbrowser/docs/guides/introduction/requirements.html)|
-|Kafka||
-|Kali||
-|Kanban||
+|Kafka|[kafka.apache.org/documentation](https://kafka.apache.org/documentation)|
+|Kali|[kali.org/docs](https://www.kali.org/docs)<br>[kali.org/tools](https://www.kali.org/tools)|
+|Kanban|[atlassian.com/fr/agile/kanban](https://www.atlassian.com/fr/agile/kanban)|
 |KeePassXC|[keepassxc.org/docs/KeePassXC_UserGuide](https://keepassxc.org/docs/KeePassXC_UserGuide)|
 |KOReader|[koreader.rocks/user_guide](https://koreader.rocks/user_guide)<br>[github.com/koreader/koreader/wiki](https://github.com/koreader/koreader/wiki)<br>[koreader.rocks/doc](https://koreader.rocks/doc)|
 |Korn shell (_ksh_)|[kornshell.com/doc](http://kornshell.com/doc)|
 |Ktor|[ktor.io/docs](https://ktor.io/docs/welcome.html)|
-|Kubernetes||
+|Kubernetes|[kubernetes.io/fr/docs](https://kubernetes.io/fr/docs/home)|
 |Lago|[docs.getlago.com](https://docs.getlago.com)|
 |Laminas|[docs.laminas.dev](https://docs.laminas.dev)|
 |Laravel||
