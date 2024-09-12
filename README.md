@@ -213,7 +213,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Jekyll|[jekyllrb.com/docs](https://jekyllrb.com/docs)|
 |JQuery|[api.jquery.com](https://api.jquery.com)|
 |JQuery UI|[api.jqueryui.com](https://api.jqueryui.com)|
-|Json||[developer.mozilla.org/fr/docs/Learn/JavaScript/Objects/JSON](https://developer.mozilla.org/fr/docs/Learn/JavaScript/Objects/JSON)|
+|Json|[developer.mozilla.org/fr/docs/Learn/JavaScript/Objects/JSON](https://developer.mozilla.org/fr/docs/Learn/JavaScript/Objects/JSON)|
 |Julia|[julialang.org/learning](https://julialang.org/learning)<br>[docs.julialang.org](https://docs.julialang.org)|
 |JUnit|[junit.org/junit5/docs](https://junit.org/junit5/docs/current/user-guide)<br>[junit.org/junit5/.../api](https://junit.org/junit5/docs/current/api)|
 |Jupyter|[docs.jupyter.org](https://docs.jupyter.org)|
