@@ -378,7 +378,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Vue.js||[fr.vuejs.org/tutorial](https://fr.vuejs.org/tutorial)<br>|[fr.vuejs.org/guide](https://fr.vuejs.org/guide/introduction.html)<br>|[fr.vuejs.org/api](https://fr.vuejs.org/api)|
 |Vulkan||[vulkan.org/learn](https://www.vulkan.org/learn)|
 |VVVV||[thegraybook.vvvv.org](https://thegraybook.vvvv.org)|
-|WampServer||[wampserver.com](https://www.wampserver.com/?lang=fr#begin-wrapper)|
+|WampServer|Dominique Ottello<br>Hervé Leclerc<br>Romain Bourdon|[wampserver.com](https://www.wampserver.com/?lang=fr#begin-wrapper)|
 |Waydroid||[docs.waydro.id](https://docs.waydro.id)|
 |WebAssembly|Apple<br>Google<br>Microsoft<br>Mozilla Foundation<br>W3C|[webassembly.org/getting-started/developers-guide](https://webassembly.org/getting-started/developers-guide)|
 |WebExtensions|Mozilla Foundation|[developer.mozilla.org/fr/docs/Mozilla/Add-ons/WebExtensions](https://developer.mozilla.org/fr/docs/Mozilla/Add-ons/WebExtensions/What_are_WebExtensions)|
