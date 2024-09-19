@@ -272,6 +272,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Obsidian|||
 |OCaml|||
 |Octave|||
+|Odoo|Odoo SA|[odoo.com/documentation](https://www.odoo.com/documentation)|
 |OliveTin||[docs.olivetin.app](https://docs.olivetin.app)|
 |One|Zoho Corporation|[zoho.com/fr/one/guides](https://www.zoho.com/fr/one/guides)|
 |OpenCV|||
