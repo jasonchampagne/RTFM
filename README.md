@@ -160,6 +160,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Foundation||[get.foundation/learn/tutorials](https://get.foundation/learn/tutorials.html)<br>|[get.foundation/frameworks-docs](https://get.foundation/frameworks-docs.html)|
 |FrankenPHP||[frankenphp.dev/fr/docs](https://frankenphp.dev/fr/docs)|
 |FreeBSD||[docs.freebsd.org](https://docs.freebsd.org/en)|
+|FreeConvert|TRMedia Inc|[freeconvert.com/api](https://www.freeconvert.com/api/v1/#freeconvert-com-api)|
 |Freemarker||[freemarker.apache.org/docs](https://freemarker.apache.org/docs/index.html)<br>|[freemarker.apache.org/docs/api](https://freemarker.apache.org/docs/api/index.html)|
 |Fresco|Adobe|[helpx.adobe.com/fr/fresco/user-guide](https://helpx.adobe.com/fr/fresco/user-guide.html)|
 |Frida||[frida.re/docs](https://frida.re/docs/home)|
