@@ -276,6 +276,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Odoo|Odoo SA|[odoo.com/fr_FR/slides](https://www.odoo.com/fr_FR/slides/all)<br>[odoo.com/documentation](https://www.odoo.com/documentation)|
 |OliveTin||[docs.olivetin.app](https://docs.olivetin.app)|
 |One|Zoho Corporation|[zoho.com/fr/one/guides](https://www.zoho.com/fr/one/guides)|
+|OpenBoard|DIP de Genève|[openboard.ch/documentation](https://openboard.ch/documentation.html)|
 |OpenCV|||
 |OpenGL|||
 |OpenLDAP|||
