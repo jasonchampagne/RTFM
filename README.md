@@ -3,7 +3,7 @@
 Ci-dessous une liste de ressources disponibles en ligne pour des applications, langages de programmation/développement web, bibliothèques, cadriciels, plateformes en ligne, gestionnaires de contenu, systèmes d'exploitation, utilitaires, etc.
 
 > [!NOTE]
-> **N'hésitez pas à signaler tout lien qui ne serait plus fonctionnel ou plus à jour**.
+> **Un lien cassé ou plus à jour ? N'hésitez pas à le signaler**.
 
 Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/FindMyDoc/tree/master/mementos) de commandes usuelles pour des utilitaires en ligne de commande.
 
