@@ -6,14 +6,14 @@ Ci-dessous une liste de ressources disponibles en ligne pour des applications, l
 + [Auteurs spécifiques](#auteurs-spécifiques)
 + [Auteurs non connus](#auteurs-non-connus)
 
-> [!NOTE]
-> **Un lien cassé ou plus à jour ? N'hésitez pas à le signaler**.
-
 Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/FindMyDoc/tree/master/mementos) de commandes usuelles pour des utilitaires en ligne de commande.
 
 > 📛 **GROSSE REFONTE EN COURS...**
 
 ---
+
+> [!NOTE]
+> **Un lien cassé ou plus à jour ? N'hésitez pas à le signaler**.
 
 ## Auteurs multiples
 
