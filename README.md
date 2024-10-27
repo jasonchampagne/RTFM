@@ -6,10 +6,10 @@ Ci-dessous une liste de ressources disponibles en ligne pour des applications, l
 
 Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/FindMyDoc/tree/master/mementos) d'utilitaires en ligne de commande.
 
----
-
 > [!NOTE]
 > **Un lien cassé ou qui doit être mis à jour ? N'hésitez pas à le signaler**.
+
+---
 
 |AUTEUR|NOM|RESSOURCES|
 |:--|:--|:--|
