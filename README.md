@@ -11,6 +11,8 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 
 ---
 
+> _IPA (français) = API (anglais)_
+
 |AUTEUR|NOM|RESSOURCES|
 |:--|:--|:--|
 |*|Allegro|[manuel](https://www.allegro.cc/manual/5)|
