@@ -19,7 +19,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 
 |NOM|RESSOURCES|
 |:--|:--|
-|||
+|Allegro|[manuel](https://www.allegro.cc/manual/5)|
 
 ## Auteurs spécifiques
 
