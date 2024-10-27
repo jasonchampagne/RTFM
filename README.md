@@ -4,10 +4,6 @@
 
 Ci-dessous une liste de ressources disponibles en ligne pour des applications, langages de programmation/développement web, bibliothèques, cadriciels, plateformes en ligne, gestionnaires de contenu, systèmes d'exploitation, utilitaires, etc.
 
-+ [Auteurs multiples](#auteurs-multiples)
-+ [Auteurs spécifiques](#auteurs-spécifiques)
-+ [Auteurs non connus](#auteurs-non-connus)
-
 Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/FindMyDoc/tree/master/mementos) d'utilitaires en ligne de commande.
 
 ---
@@ -15,16 +11,9 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 > [!NOTE]
 > **Un lien cassé ou qui doit être mis à jour ? N'hésitez pas à le signaler**.
 
-## Auteurs multiples
-
-|NOM|RESSOURCES|
-|:--|:--|
-|Allegro|[manuel](https://www.allegro.cc/manual/5)|
-
-## Auteurs spécifiques
-
 |AUTEUR|NOM|RESSOURCES|
 |:--|:--|:--|
+|*|Allegro|[manuel](https://www.allegro.cc/manual/5)|
 |Adobe|Acrobat<br>After Effects<br>Animate<br>Audition<br>Character Animator<br>Dreamweaver<br>Fresco<br>Illustrator<br>InDesign<br>Lightroom<br>Photoshop<br>Premiere Pro<br>XD|[manuel](https://helpx.adobe.com/fr/acrobat/user-guide.html)<br>[manuel](https://helpx.adobe.com/fr/after-effects/user-guide.html)<br>[manuel](https://helpx.adobe.com/fr/animate/user-guide.html)<br>[manuel](https://helpx.adobe.com/fr/audition/user-guide.html)<br>[manuel](https://helpx.adobe.com/fr/adobe-character-animator/user-guide.html)<br>[manuel](https://helpx.adobe.com/fr/dreamweaver/user-guide.html)<br>[manuel](https://helpx.adobe.com/fr/fresco/user-guide.html)<br>[manuel](https://helpx.adobe.com/fr/illustrator/user-guide.html)<br>[manuel](https://helpx.adobe.com/fr/indesign/user-guide.html)<br>[manuel](https://helpx.adobe.com/fr/lightroom-cc/user-guide.html)<br>[manuel](https://helpx.adobe.com/fr/photoshop/user-guide.html)<br>[manuel](https://helpx.adobe.com/fr/premiere-pro/user-guide.html)<br>[manuel](https://helpx.adobe.com/fr/xd/user-guide.html)|
 |Amazon|Twitch<br>Web Services (AWS)|[doc](https://dev.twitch.tv/docs) / [IPA](https://dev.twitch.tv/docs/api)<br>[doc](https://docs.aws.amazon.com)|
 |Autodesk|3DS Max<br>Advance Steel<br>AutoCAD<br>Civil 3D<br>Maya|[doc](https://help.autodesk.com/FRA/#A-B)<br>[doc](https://help.autodesk.com/FRA/#A-B)<br>[doc](https://help.autodesk.com/FRA/#A-B)<br>[doc](https://help.autodesk.com/FRA/#C-H)<br>[doc](https://www.autodesk.com/support/technical/article/caas/tsarticles/ts/lC3jaffqnWFyQoLPEPm7n.html)|
@@ -47,9 +36,3 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Vercel|Svelte<br>SvelteKit|[doc](https://svelte.dev/docs/svelte)<br>[doc](https://svelte.dev/docs/kit)|
 |Zoho|Backstage<br>Campaigns<br>Commerce<br>CRM<br>Forms<br>LandingPage<br>Mail<br>One<br>PageSense<br>SalesIQ<br>Sites|[manuel](https://help.zoho.com/portal/en/kb/backstage)<br>[manuel](https://help.zoho.com/portal/en/kb/campaigns) / [IPA](https://www.zoho.com/campaigns/help/emailapi/overview.html)<br>[manuel](https://help.zoho.com/portal/en/kb/commerce) / [IPA](https://www.zoho.com/commerce/api/introduction.html)<br>[doc](https://www.zoho.com/fr/crm/help) / [IPA](https://www.zoho.com/crm/developer/docs/api)<br>[manuel](https://help.zoho.com/portal/en/kb/forms)<br>[manuel](https://help.zoho.com/portal/en/kb/zoho-landingpage)<br>[manuel](https://www.zoho.com/fr/mail/help) / [IPA](https://www.zoho.com/mail/help/api/overview.html)<br>[manuel](https://www.zoho.com/fr/one/guides)<br>[manuel](https://help.zoho.com/portal/en/kb/pagesense)<br>[manuel](https://help.zoho.com/portal/en/kb/salesiq-2-0) / [IPA (JavaScript)](https://www.zoho.com/salesiq/help/developer-section/js-api.html) / [IPA (REST)](https://www.zoho.com/salesiq/help/developer-section/rest-api-v2.html)<br>[manuel](https://help.zoho.com/portal/en/kb/zohosites)|
 |X|Twitter (X)<br>xAI|[doc](https://developer.x.com/en/docs)<br>[doc](https://docs.x.ai/docs) / [IPA](https://docs.x.ai/api)|
-
-## Auteurs non connus
-
-|NOM|RESSOURCES|
-|:--|:--|
-|||
