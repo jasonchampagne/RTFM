@@ -15,11 +15,12 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 
 |AUTEUR|NOM|RESSOURCES|
 |:--|:--|:--|
-|*|Allegro|[manuel](https://www.allegro.cc/manual/5)|
+|*|Allegro<br>Ansible<br>C|[manuel](https://www.allegro.cc/manual/5)<br>[doc](https://docs.ansible.com/ansible/latest/index.html)<br>[doc](https://en.cppreference.com/w/c)|
 |Adobe|Acrobat<br>After Effects<br>Animate<br>Audition<br>Character Animator<br>Dreamweaver<br>Fresco<br>Illustrator<br>InDesign<br>Lightroom<br>Photoshop<br>Premiere Pro<br>XD|[manuel](https://helpx.adobe.com/fr/acrobat/user-guide.html)<br>[manuel](https://helpx.adobe.com/fr/after-effects/user-guide.html)<br>[manuel](https://helpx.adobe.com/fr/animate/user-guide.html)<br>[manuel](https://helpx.adobe.com/fr/audition/user-guide.html)<br>[manuel](https://helpx.adobe.com/fr/adobe-character-animator/user-guide.html)<br>[manuel](https://helpx.adobe.com/fr/dreamweaver/user-guide.html)<br>[manuel](https://helpx.adobe.com/fr/fresco/user-guide.html)<br>[manuel](https://helpx.adobe.com/fr/illustrator/user-guide.html)<br>[manuel](https://helpx.adobe.com/fr/indesign/user-guide.html)<br>[manuel](https://helpx.adobe.com/fr/lightroom-cc/user-guide.html)<br>[manuel](https://helpx.adobe.com/fr/photoshop/user-guide.html)<br>[manuel](https://helpx.adobe.com/fr/premiere-pro/user-guide.html)<br>[manuel](https://helpx.adobe.com/fr/xd/user-guide.html)|
 |Amazon|Twitch<br>Web Services (AWS)|[doc](https://dev.twitch.tv/docs) / [IPA](https://dev.twitch.tv/docs/api)<br>[doc](https://docs.aws.amazon.com)|
 |Andrew Lukoshko|AlmaLinux|[wiki](https://wiki.almalinux.org)|
 |Autodesk|3DS Max<br>Advance Steel<br>AutoCAD<br>Civil 3D<br>Maya|[doc](https://help.autodesk.com/FRA/#A-B)<br>[doc](https://help.autodesk.com/FRA/#A-B)<br>[doc](https://help.autodesk.com/FRA/#A-B)<br>[doc](https://help.autodesk.com/FRA/#C-H)<br>[doc](https://www.autodesk.com/support/technical/article/caas/tsarticles/ts/lC3jaffqnWFyQoLPEPm7n.html)|
+|Bjarne Stroustrup|C++|[doc](https://en.cppreference.com/w)|
 |Celsys|Clip Studio Paint|[manuel](https://tips.clip-studio.com/fr-fr/official)|
 |Cii Honeywell Bull|Ada|[doc](https://www.adacore.com/documentation)|
 |Crytek|CryENGINE|[manuel](https://www.cryengine.com/tutorials) / [doc](https://docs.cryengine.com)|
