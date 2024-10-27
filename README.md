@@ -17,7 +17,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 |Autodesk|3DS Max<br>Advance Steel<br>AutoCAD<br>Civil 3D<br>Maya|[doc](https://help.autodesk.com/FRA/#A-B)<br>[doc](https://help.autodesk.com/FRA/#A-B)<br>[doc](https://help.autodesk.com/FRA/#A-B)<br>[doc](https://help.autodesk.com/FRA/#C-H)<br>[doc](https://www.autodesk.com/support/technical/article/caas/tsarticles/ts/lC3jaffqnWFyQoLPEPm7n.html)|
 |Cii Honeywell Bull|Ada|[doc](https://www.adacore.com/documentation)|
 |digitalLumberjack|Recalbox|[wiki](https://wiki.recalbox.com/fr/home)|
-|Google|Ads<br>Android<br>Angular<br>Calendar<br>Firebase<br>YouTube|[manuel](https://support.google.com/google-ads/answer/6146252)<br> / [IPA](https://developers.google.com/google-ads/api/docs/start?hl=fr)<br>[manuel](https://developer.android.com/guide)<br>[doc](https://angular.io/docs)<br>[IPA](https://developers.google.com/calendar/api/guides/overview?hl=fr)<br>[doc](https://firebase.google.com/docs)<br>[doc](https://developers.google.com/youtube/documentation?hl=fr)|
+|Google|Ads<br>Android<br>Angular<br>Calendar<br>Firebase<br>YouTube|[manuel](https://support.google.com/google-ads/answer/6146252) / [IPA](https://developers.google.com/google-ads/api/docs/start?hl=fr)<br>[manuel](https://developer.android.com/guide)<br>[doc](https://angular.io/docs)<br>[IPA](https://developers.google.com/calendar/api/guides/overview?hl=fr)<br>[doc](https://firebase.google.com/docs)<br>[doc](https://developers.google.com/youtube/documentation?hl=fr)|
 |Fondation NixOS|Nix<br>NixOS|[doc](https://nix.dev)<br>[manuel](https://nixos.org/manual/nixos/stable)|
 |Freepik Company S.L.|Freepik|[doc](https://docs.freepik.com)|
 |INRIA|Coq|[coq.inria.fr/documentation](https://coq.inria.fr/documentation)|
