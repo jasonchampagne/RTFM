@@ -8,7 +8,7 @@ Ci-dessous une liste de ressources disponibles en ligne pour des applications, l
 + [Auteurs spécifiques](#auteurs-spécifiques)
 + [Auteurs non connus](#auteurs-non-connus)
 
-Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/FindMyDoc/tree/master/mementos) de commandes usuelles pour des utilitaires en ligne de commande.
+Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/FindMyDoc/tree/master/mementos) d'utilitaires en ligne de commande.
 
 ---
 
