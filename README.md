@@ -13,7 +13,7 @@ Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/
 ---
 
 > [!NOTE]
-> **Un lien cassé ou plus à jour ? N'hésitez pas à le signaler**.
+> **Un lien cassé ou qui doit être mis à jour ? N'hésitez pas à le signaler**.
 
 ## Auteurs multiples
 
