@@ -2,12 +2,18 @@
 
 Ci-dessous une liste de ressources disponibles en ligne pour des applications, langages de programmation/développement web, bibliothèques, cadriciels, plateformes en ligne, gestionnaires de contenu, systèmes d'exploitation, utilitaires, etc.
 
++ [Auteurs multiples](#auteurs-multiples)
++ [Auteurs spécifiques](#auteurs-spécifiques)
++ [Auteurs non connus](#auteurs-non-connus)
+
 > [!NOTE]
 > **Un lien cassé ou plus à jour ? N'hésitez pas à le signaler**.
 
 Par ailleurs, je publie aussi des [mémentos](https://github.com/jasonchampagne/FindMyDoc/tree/master/mementos) de commandes usuelles pour des utilitaires en ligne de commande.
 
 > 📛 **GROSSE REFONTE EN COURS...**
+
+---
 
 ## Auteurs multiples
 
