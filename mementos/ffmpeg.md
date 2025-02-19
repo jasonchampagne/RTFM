@@ -3,7 +3,7 @@
 > [!NOTE]
 > _Les commandes de FFmpeg affichent généralement la version de ce dernier_
 
-![Logo de FFmpeg](./img/logo-ffmpeg.png)
+![Logo de FFmpeg](./img/logo-ffpeg.png)
 
 **SOMMAIRE**
 + [Afficher les informations d'un fichier](#afficher-les-informations-dun-fichier)
